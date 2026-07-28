@@ -1,0 +1,2917 @@
+{
+  "query_window_utc": {
+    "start": "2026-07-27T20:00:00Z",
+    "end": "2026-07-28T20:00:00Z"
+  },
+  "from_date": "2026-07-27",
+  "until_date": "2026-07-28",
+  "unique_count": 66,
+  "filtered_count": 55,
+  "items": [
+    {
+      "DOI": "10.1038/s41433-026-04777-7",
+      "title": [
+        "Iris metastasis from hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Li",
+          "given": "Lin"
+        },
+        {
+          "family": "Cui",
+          "given": "Mingwei"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T09:23:48Z",
+        "timestamp": 1785230628000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Eye"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1038/s41433-026-04777-7",
+      "language": "en"
+    },
+    {
+      "DOI": "10.29328/journal.ascr.1001097",
+      "title": [
+        "HBV and HCV as Risk Factors for Hepatocellular Carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Bilic-Komarica",
+          "given": "Edina"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T05:20:32Z",
+        "timestamp": 1785216032000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            23
+          ]
+        ]
+      },
+      "container-title": [
+        "Archives of Surgery and Clinical Research"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.29328/journal.ascr.1001097",
+      "language": null
+    },
+    {
+      "DOI": "10.1002/cncr.70547",
+      "title": [
+        "Where does histotripsy fit into hepatocellular carcinoma care?"
+      ],
+      "author": [
+        {
+          "family": "Lau‐Min",
+          "given": "Kelsey S."
+        },
+        {
+          "family": "Wang",
+          "given": "Jiping"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T07:26:33Z",
+        "timestamp": 1785137193000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Cancer"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1002/cncr.70547",
+      "language": "en"
+    },
+    {
+      "DOI": "10.7150/jca.135837",
+      "title": [
+        "A Prognostic Risk Model for Hepatocellular Carcinoma Integrating Ferroptosis and Metabolic Reprogramming Signatures"
+      ],
+      "author": [
+        {
+          "family": "Ling",
+          "given": "Hao"
+        },
+        {
+          "family": "Hu",
+          "given": "Yanzhu"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T10:35:12Z",
+        "timestamp": 1785234912000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            10
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Cancer"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.7150/jca.135837",
+      "language": "en"
+    },
+    {
+      "DOI": "10.48130/gcomm-0026-0016",
+      "title": [
+        "AI-powered spatial multi-omics discerns spatial patterns within immune microenvironment of hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Gu",
+          "given": "Yufei"
+        },
+        {
+          "family": "Jia",
+          "given": "Gengjie"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T01:04:58Z",
+        "timestamp": 1785114298000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "container-title": [
+        "Genomics Communications"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.48130/gcomm-0026-0016",
+      "language": null
+    },
+    {
+      "DOI": "10.2147/jhc.s625471",
+      "title": [
+        "Giant Atypical Hepatocellular Adenoma of Unknown Etiology in a Young Male: A Case Report"
+      ],
+      "author": [
+        {
+          "family": "Chen",
+          "given": "Jiaqi"
+        },
+        {
+          "family": "Zhang",
+          "given": "Lingkun"
+        },
+        {
+          "family": "Huang",
+          "given": "Kunyu"
+        },
+        {
+          "family": "Zhang",
+          "given": "Liyong"
+        },
+        {
+          "family": "Cui",
+          "given": "Jinhua"
+        },
+        {
+          "family": "Zhao",
+          "given": "Zejin"
+        },
+        {
+          "family": "Bai",
+          "given": "Ziyu"
+        },
+        {
+          "family": "Zhao",
+          "given": "Yang"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T01:30:14Z",
+        "timestamp": 1785115814000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Hepatocellular Carcinoma"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.2147/jhc.s625471",
+      "language": "en"
+    },
+    {
+      "DOI": "10.5256/f1000research.201417.r498447",
+      "title": [
+        "Peer Review Report For: Therapeutic Drug Monitoring of Sorafenib and Lenvatinib in Hepatocellular Carcinoma Patients – A Key to Personalised Pharmacotherapy [version 2; peer review: 2 approved with reservations]"
+      ],
+      "author": [],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T12:16:06Z",
+        "timestamp": 1785240966000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": null,
+      "type": "peer-review",
+      "URL": "https://doi.org/10.5256/f1000research.201417.r498447",
+      "language": null
+    },
+    {
+      "DOI": "10.1016/j.cpt.2026.07.004",
+      "title": [
+        "Locoregional-Systemic Combination Therapy Reshapes the Treatment Landscape of Intermediate and Advanced Hepatocellular Carcinoma (HCC)"
+      ],
+      "author": [
+        {
+          "family": "Zhu",
+          "given": "Ying"
+        },
+        {
+          "family": "Qin",
+          "given": "Lunxiu"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T15:58:16Z",
+        "timestamp": 1785254296000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "Cancer Pathogenesis and Therapy"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1016/j.cpt.2026.07.004",
+      "language": "en"
+    },
+    {
+      "DOI": "10.5812/hepatmon-170339",
+      "title": [
+        "Evolution of Research on Cell-Specific Magnetic Resonance Imaging Contrast Agents in Hepatocellular Carcinoma: A Bibliometric Study"
+      ],
+      "author": [
+        {
+          "family": "Zhang",
+          "given": "ChenWei"
+        },
+        {
+          "family": "Zhang",
+          "given": "TianAi"
+        },
+        {
+          "family": "Ni",
+          "given": "ShaoZhong"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T13:18:04Z",
+        "timestamp": 1785158284000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            23
+          ]
+        ]
+      },
+      "container-title": [
+        "Hepatitis Monthly"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.5812/hepatmon-170339",
+      "language": null
+    },
+    {
+      "DOI": "10.3389/fimmu.2026.1914627",
+      "title": [
+        "Commentary: Case Report: Multimodal management of duodenal metastasis from hepatocellular carcinoma complicated by intractable hemorrhage"
+      ],
+      "author": [
+        {
+          "family": "Huang",
+          "given": "Xiaoli"
+        },
+        {
+          "family": "Xu",
+          "given": "Tao"
+        },
+        {
+          "family": "Du",
+          "given": "Min"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T05:39:53Z",
+        "timestamp": 1785130793000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Immunology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.3389/fimmu.2026.1914627",
+      "language": null
+    },
+    {
+      "DOI": "10.21203/rs.3.rs-10483008/v1",
+      "title": [
+        "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response"
+      ],
+      "author": [
+        {
+          "family": "Ogunleye",
+          "given": "Adewale"
+        },
+        {
+          "family": "El-Tony",
+          "given": "Yossra"
+        },
+        {
+          "family": "Adegite",
+          "given": "Adejuwon Ayoleyi"
+        },
+        {
+          "family": "Igwezeke",
+          "given": "Favour Okechukwu"
+        },
+        {
+          "family": "Mahdi",
+          "given": "Sara Mohammed"
+        },
+        {
+          "family": "Mohamed",
+          "given": "Mariam A."
+        },
+        {
+          "family": "Orimolade",
+          "given": "Tinuoluwanimi"
+        },
+        {
+          "family": "Osatoyinbo",
+          "given": "Opemidimeji"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T17:35:30Z",
+        "timestamp": 1785260130000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": null,
+      "type": "posted-content",
+      "URL": "https://doi.org/10.21203/rs.3.rs-10483008/v1",
+      "language": null
+    },
+    {
+      "DOI": "10.1093/jimmun/vkag141.1447",
+      "title": [
+        "Gut microbiota modulation potentiates anti-tumor immunity and immunotherapy in hepatocellular carcinoma 2308568"
+      ],
+      "author": [
+        {
+          "family": "Yang",
+          "given": "Ming"
+        },
+        {
+          "family": "Kimchi",
+          "given": "Eric"
+        },
+        {
+          "family": "Staveley-O’Carroll",
+          "given": "Kevin"
+        },
+        {
+          "family": "Li",
+          "given": "Guangfu"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T17:35:05Z",
+        "timestamp": 1785260105000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "The Journal of Immunology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1093/jimmun/vkag141.1447",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1016/j.jss.2026.07.003",
+      "title": [
+        "Procurement Versatility and Waitlist Outcomes in Patients With Hepatocellular Carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Eng",
+          "given": "Nina L."
+        },
+        {
+          "family": "Olenwine",
+          "given": "Katrina"
+        },
+        {
+          "family": "Taute",
+          "given": "Elana"
+        },
+        {
+          "family": "Martin",
+          "given": "Sean P."
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T03:37:21Z",
+        "timestamp": 1785123441000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Surgical Research"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1016/j.jss.2026.07.003",
+      "language": "en"
+    },
+    {
+      "DOI": "10.21037/tgh-2026-0031",
+      "title": [
+        "Liver reprogramming toward hepatocellular carcinoma following hepatitis C sustained virologic response: a narrative review"
+      ],
+      "author": [
+        {
+          "family": "Le",
+          "given": "Duong Hoang Huy"
+        },
+        {
+          "family": "Nilyanimit",
+          "given": "Pornjarim"
+        },
+        {
+          "family": "Honsawek",
+          "given": "Sittisak"
+        },
+        {
+          "family": "Poovorawan",
+          "given": "Yong"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T01:25:01Z",
+        "timestamp": 1785115501000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "Translational Gastroenterology and Hepatology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.21037/tgh-2026-0031",
+      "language": null
+    },
+    {
+      "DOI": "10.1186/s12985-026-03260-9",
+      "title": [
+        "lncRNA ZNF667-AS1 suppresses hepatitis B virus-related hepatocellular carcinoma by regulating miR-210-3p to upregulate CPEB2"
+      ],
+      "author": [
+        {
+          "family": "Cong",
+          "given": "Huimin"
+        },
+        {
+          "family": "Zhu",
+          "given": "Guobing"
+        },
+        {
+          "family": "Xu",
+          "given": "Yingzhou"
+        },
+        {
+          "family": "Wu",
+          "given": "Linlin"
+        },
+        {
+          "family": "Gu",
+          "given": "Hongfang"
+        },
+        {
+          "family": "Dai",
+          "given": "Chunyan"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T02:49:09Z",
+        "timestamp": 1785206949000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Virology Journal"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1186/s12985-026-03260-9",
+      "language": "en"
+    },
+    {
+      "DOI": "10.21203/rs.3.rs-10334645/v1",
+      "title": [
+        "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Yang",
+          "given": "Yu"
+        },
+        {
+          "family": "Ruan",
+          "given": "Lingjie"
+        },
+        {
+          "family": "An",
+          "given": "Yong"
+        },
+        {
+          "family": "Ren",
+          "given": "Jie"
+        },
+        {
+          "family": "Li",
+          "given": "Jinhai"
+        },
+        {
+          "family": "Wang",
+          "given": "Fang"
+        },
+        {
+          "family": "Tao",
+          "given": "Shuang"
+        },
+        {
+          "family": "Zhou",
+          "given": "Mingge"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T07:27:10Z",
+        "timestamp": 1785137230000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": null,
+      "type": "posted-content",
+      "URL": "https://doi.org/10.21203/rs.3.rs-10334645/v1",
+      "language": null
+    },
+    {
+      "DOI": "10.4254/wjh.124474",
+      "title": [
+        "Age-male-albumin-bilirubin-platelet score stratifies hepatocellular carcinoma risk after sustained virological response in hepatitis C-related compensated advanced chronic liver disease"
+      ],
+      "author": [
+        {
+          "family": "Khongviwatsathien",
+          "given": "Sirajuk"
+        },
+        {
+          "family": "Tanwandee",
+          "given": "Tawesak"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T13:49:22Z",
+        "timestamp": 1785246562000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "World Journal of Hepatology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.4254/wjh.124474",
+      "language": null
+    },
+    {
+      "DOI": "10.1158/1541-7786.mcr-26-0121",
+      "title": [
+        "The PON1-NDUFA4 axis maintains mitochondrial respiratory fitness and drives lenvatinib tolerance in hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Lin",
+          "given": "Shi-Lin"
+        },
+        {
+          "family": "Wang",
+          "given": "Yue"
+        },
+        {
+          "family": "Zheng",
+          "given": "Yi-min"
+        },
+        {
+          "family": "Ke",
+          "given": "Ai-Wu"
+        },
+        {
+          "family": "Ma",
+          "given": "A-ying"
+        },
+        {
+          "family": "Gao",
+          "given": "Chao"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T15:25:36Z",
+        "timestamp": 1785252336000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Molecular Cancer Research"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1158/1541-7786.mcr-26-0121",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1186/s12967-026-08713-x",
+      "title": [
+        "In vitro bioactivity profile-driven discovery of drug synergies in hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Xu",
+          "given": "Tuan"
+        },
+        {
+          "family": "Xu",
+          "given": "Miao"
+        },
+        {
+          "family": "Ngan",
+          "given": "Deborah K."
+        },
+        {
+          "family": "Zhao",
+          "given": "Tongan"
+        },
+        {
+          "family": "Chen",
+          "given": "Catherine Z."
+        },
+        {
+          "family": "Zheng",
+          "given": "Wei"
+        },
+        {
+          "family": "Huang",
+          "given": "Ruili"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T17:35:39Z",
+        "timestamp": 1785260139000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Translational Medicine"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1186/s12967-026-08713-x",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1016/j.bspc.2026.111068",
+      "title": [
+        "Optimized skip connection residual global attention based modified Convo Vision Transformer for liver hepatocellular carcinoma tumor segmentation"
+      ],
+      "author": [
+        {
+          "family": "Das",
+          "given": "Gobinda Chandra"
+        },
+        {
+          "family": "Ganiya",
+          "given": "Rajendra Kumar"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T09:51:39Z",
+        "timestamp": 1785145899000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      },
+      "container-title": [
+        "Biomedical Signal Processing and Control"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1016/j.bspc.2026.111068",
+      "language": "en"
+    },
+    {
+      "DOI": "10.7150/thno.133561",
+      "title": [
+        "A reproducible ultrasound localization microscopy framework for the quantitative imaging of hepatocellular carcinoma on a clinical ultrasound system"
+      ],
+      "author": [
+        {
+          "family": "Tang",
+          "given": "Jiajia"
+        },
+        {
+          "family": "Liu",
+          "given": "Huazhen"
+        },
+        {
+          "family": "Zhang",
+          "given": "Baoluhe"
+        },
+        {
+          "family": "Du",
+          "given": "Shunda"
+        },
+        {
+          "family": "Zou",
+          "given": "Long"
+        },
+        {
+          "family": "Liang",
+          "given": "Jinghui"
+        },
+        {
+          "family": "Yang",
+          "given": "Meng"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T10:35:12Z",
+        "timestamp": 1785234912000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            20
+          ]
+        ]
+      },
+      "container-title": [
+        "Theranostics"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.7150/thno.133561",
+      "language": "en"
+    },
+    {
+      "DOI": "10.62347/wjun3883",
+      "title": [
+        "Clinical significance of SNRPD1 expression in predicting post-transplant recurrence of hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Wei",
+          "given": "Zhihong"
+        },
+        {
+          "family": "Lin",
+          "given": "Xuanhua"
+        },
+        {
+          "family": "Chen",
+          "given": "Jianwei"
+        },
+        {
+          "family": "Zhu",
+          "given": "Weidong"
+        },
+        {
+          "family": "Liu",
+          "given": "Jianyong"
+        },
+        {
+          "family": "Lv",
+          "given": "Lizhi"
+        },
+        {
+          "family": "Yang",
+          "given": "Fang"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T02:43:56Z",
+        "timestamp": 1785206636000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "container-title": [
+        "American Journal of Translational Research"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.62347/wjun3883",
+      "language": null
+    },
+    {
+      "DOI": "10.1007/s11739-026-04456-1",
+      "title": [
+        "GLP-1 receptor agonists at the crossroads of diabetes, hepatic steatosis, and hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Vozza",
+          "given": "Alfredo"
+        },
+        {
+          "family": "Biagi",
+          "given": "Filippo"
+        },
+        {
+          "family": "Raggi",
+          "given": "Chiara"
+        },
+        {
+          "family": "Vizzutti",
+          "given": "Francesco"
+        },
+        {
+          "family": "Marra",
+          "given": "Fabio"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T17:02:38Z",
+        "timestamp": 1785258158000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Internal and Emergency Medicine"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1007/s11739-026-04456-1",
+      "language": "en"
+    },
+    {
+      "DOI": "10.21037/tgh-2026-0053",
+      "title": [
+        "A six-gene prognostic signature for aflatoxin B1-associated hepatocellular carcinoma identified through integrated bioinformatics and network toxicology"
+      ],
+      "author": [
+        {
+          "family": "Wang",
+          "given": "Chunmei"
+        },
+        {
+          "family": "Li",
+          "given": "Jing"
+        },
+        {
+          "family": "Yuan",
+          "given": "Yuman"
+        },
+        {
+          "family": "Liu",
+          "given": "Lili"
+        },
+        {
+          "family": "He",
+          "given": "Yan"
+        },
+        {
+          "family": "Lei",
+          "given": "Bingxi"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T01:25:01Z",
+        "timestamp": 1785115501000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "Translational Gastroenterology and Hepatology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.21037/tgh-2026-0053",
+      "language": null
+    },
+    {
+      "DOI": "10.21203/rs.3.rs-10501583/v1",
+      "title": [
+        "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma Surveillance\nA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration"
+      ],
+      "author": [
+        {
+          "family": "Marolla",
+          "given": "Cesar"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T06:15:23Z",
+        "timestamp": 1785219323000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": null,
+      "type": "posted-content",
+      "URL": "https://doi.org/10.21203/rs.3.rs-10501583/v1",
+      "language": null
+    },
+    {
+      "DOI": "10.2174/0118715206464057260629115247",
+      "title": [
+        "Efficacy and Safety of HAIC Plus Regorafenib and Icaritin in Advanced Hepatocellular\nCarcinoma After First-Line Lenvatinib Failure: A Retrospective Analysis"
+      ],
+      "author": [
+        {
+          "family": "Lu",
+          "given": "Haohao"
+        },
+        {
+          "family": "Gao",
+          "given": "Ya"
+        },
+        {
+          "family": "Liang",
+          "given": "Bin"
+        },
+        {
+          "family": "Xiang",
+          "given": "Dongqiao"
+        },
+        {
+          "family": "Xia",
+          "given": "Xiangwen"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T06:43:50Z",
+        "timestamp": 1785134630000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            13
+          ]
+        ]
+      },
+      "container-title": [
+        "Anti-Cancer Agents in Medicinal Chemistry"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.2174/0118715206464057260629115247",
+      "language": "en"
+    },
+    {
+      "DOI": "10.21037/hbsn-2026-0508",
+      "title": [
+        "From local control to immune synergy: the evolving role of stereotactic body radiotherapy in the immunotherapy era of hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Yan",
+          "given": "Zihan"
+        },
+        {
+          "family": "Hou",
+          "given": "Xiaorong"
+        },
+        {
+          "family": "Zhang",
+          "given": "Fuquan"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T03:16:36Z",
+        "timestamp": 1785208596000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "container-title": [
+        "Hepatobiliary Surgery and Nutrition"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.21037/hbsn-2026-0508",
+      "language": null
+    },
+    {
+      "DOI": "10.3390/cells15151357",
+      "title": [
+        "Metabolic Reprogramming at the Tumor–Immune Interface in Hepatocellular Carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Zhao",
+          "given": "Weiming"
+        },
+        {
+          "family": "Li",
+          "given": "Ping"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T11:45:26Z",
+        "timestamp": 1785239126000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Cells"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.3390/cells15151357",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1016/j.bj.2026.101019",
+      "title": [
+        "Imipramine Reverses Sorafenib Resistance in Hepatocellular Carcinoma by Targeting the BLOC1S5/FOXO1 Signaling Axis"
+      ],
+      "author": [
+        {
+          "family": "Lin",
+          "given": "Yang-Hsiang"
+        },
+        {
+          "family": "Liu",
+          "given": "Yu-Chin"
+        },
+        {
+          "family": "Liao",
+          "given": "Chia-Jung"
+        },
+        {
+          "family": "Huang",
+          "given": "Ya-Hui"
+        },
+        {
+          "family": "Yeh",
+          "given": "Chau-Ting"
+        },
+        {
+          "family": "Lin",
+          "given": "Kwang-Huei"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T15:10:28Z",
+        "timestamp": 1785251428000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "Biomedical Journal"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1016/j.bj.2026.101019",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1007/s00595-026-03437-3",
+      "title": [
+        "A novel diagnostic role of 99mTc-GSA scintigraphy in distinguishing hepatocellular carcinoma from hepatic angiomyolipoma"
+      ],
+      "author": [
+        {
+          "family": "Taniai",
+          "given": "Tomohiko"
+        },
+        {
+          "family": "Furukawa",
+          "given": "Kenei"
+        },
+        {
+          "family": "Gomisawa",
+          "given": "Kazutaka"
+        },
+        {
+          "family": "Watanabe",
+          "given": "Ken"
+        },
+        {
+          "family": "Ohki",
+          "given": "Kazuyoshi"
+        },
+        {
+          "family": "Haruki",
+          "given": "Koichiro"
+        },
+        {
+          "family": "Yanagaki",
+          "given": "Mitsuru"
+        },
+        {
+          "family": "Yamahata",
+          "given": "Yuto"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T07:45:03Z",
+        "timestamp": 1785138303000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Surgery Today"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1007/s00595-026-03437-3",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1371/journal.pone.0354176",
+      "title": [
+        "Prognostic factors in first-line atezolizumab-bevacizumab treatment of intermediate or advanced hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Gu",
+          "given": "Kyowon"
+        },
+        {
+          "family": "Kang",
+          "given": "Tae Wook"
+        },
+        {
+          "family": "Shin",
+          "given": "Jaeseung"
+        },
+        {
+          "family": "Sinn",
+          "given": "Dong Hyun"
+        },
+        {
+          "family": "Goh",
+          "given": "Myung Ji"
+        },
+        {
+          "family": "Hong",
+          "given": "Jung Yong"
+        },
+        {
+          "family": "Chi",
+          "given": "Sangah"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T17:29:36Z",
+        "timestamp": 1785259776000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "PLOS One"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1371/journal.pone.0354176",
+      "language": "en"
+    },
+    {
+      "DOI": "10.4240/wjgs.122279",
+      "title": [
+        "Construction and validation of a prognostic prediction model based on albumin-bilirubin grade after resection of hepatocellular carcinoma"
+      ],
+      "author": [
+        {
+          "family": "Cong",
+          "given": "Lu-Yi"
+        },
+        {
+          "family": "Ma",
+          "given": "Ling-Yu"
+        },
+        {
+          "family": "Hong",
+          "given": "Xin"
+        },
+        {
+          "family": "Geng",
+          "given": "Gui-Ling"
+        },
+        {
+          "family": "Fan",
+          "given": "Ben-Fang"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T13:49:14Z",
+        "timestamp": 1785246554000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "World Journal of Gastrointestinal Surgery"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.4240/wjgs.122279",
+      "language": null
+    },
+    {
+      "DOI": "10.1245/s10434-026-20326-8",
+      "title": [
+        "ASO Visual Abstract: Mex3a Stabilizes INHBB mRNA to Activate SMAD-Signaling and Promote Hepatocellular Carcinoma Metastasis"
+      ],
+      "author": [
+        {
+          "family": "Yang",
+          "given": "Jie-Ru"
+        },
+        {
+          "family": "Qu",
+          "given": "Zheng-Jie"
+        },
+        {
+          "family": "Zhou",
+          "given": "Fang-Ming"
+        },
+        {
+          "family": "Li",
+          "given": "Jin-E"
+        },
+        {
+          "family": "Wang",
+          "given": "Kai"
+        },
+        {
+          "family": "Fan",
+          "given": "Yu-Chen"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T13:52:23Z",
+        "timestamp": 1785246743000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Annals of Surgical Oncology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1245/s10434-026-20326-8",
+      "language": "en"
+    },
+    {
+      "DOI": "10.7150/ijms.132175",
+      "title": [
+        "Licoricidin triggers reactive oxygen species-mediated PANoptosis in human hepatocellular carcinoma cells"
+      ],
+      "author": [
+        {
+          "family": "Hung",
+          "given": "Ming-Chun"
+        },
+        {
+          "family": "Chiou",
+          "given": "Hui-Ling"
+        },
+        {
+          "family": "Hsieh",
+          "given": "Yi-Hsien"
+        },
+        {
+          "family": "Chen",
+          "given": "Pei-Ni"
+        },
+        {
+          "family": "Yu",
+          "given": "Yung-Luen"
+        },
+        {
+          "family": "Lee",
+          "given": "Hsiang-Lin"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T10:35:12Z",
+        "timestamp": 1785234912000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            13
+          ]
+        ]
+      },
+      "container-title": [
+        "International Journal of Medical Sciences"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.7150/ijms.132175",
+      "language": "en"
+    },
+    {
+      "DOI": "10.3390/ijms27156643",
+      "title": [
+        "Deciphering the Leading-Edge Spatiotemporal Microenvironment of Hepatocellular Carcinoma for Targeted Drug Discovery Using SpaPred"
+      ],
+      "author": [
+        {
+          "family": "Zhang",
+          "given": "Shibo"
+        },
+        {
+          "family": "Li",
+          "given": "Ziqiao"
+        },
+        {
+          "family": "Yu",
+          "given": "Kexin"
+        },
+        {
+          "family": "Shi",
+          "given": "Guang"
+        },
+        {
+          "family": "Su",
+          "given": "Yangguang"
+        },
+        {
+          "family": "Hu",
+          "given": "Xin"
+        },
+        {
+          "family": "Chen",
+          "given": "Xiujie"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T09:47:41Z",
+        "timestamp": 1785145661000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            25
+          ]
+        ]
+      },
+      "container-title": [
+        "International Journal of Molecular Sciences"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.3390/ijms27156643",
+      "language": "en"
+    },
+    {
+      "DOI": "10.11152/mu-4632",
+      "title": [
+        "Predicting early recurrence after microwave ablation in hepatocellular carcinoma: a clinicopathological-radiomics model based on ultrasound and identification of minimum ablation margin for high-risk tumors"
+      ],
+      "author": [
+        {
+          "family": "Liu",
+          "given": "Ting"
+        },
+        {
+          "family": "Wu",
+          "given": "Chuang"
+        },
+        {
+          "family": "Dong",
+          "given": "Tiantian"
+        },
+        {
+          "family": "Jia",
+          "given": "Yingying"
+        },
+        {
+          "family": "Duan",
+          "given": "Ying"
+        },
+        {
+          "family": "Li",
+          "given": "Yongxin"
+        },
+        {
+          "family": "Nie",
+          "given": "Fang"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T10:14:11Z",
+        "timestamp": 1785147251000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            17
+          ]
+        ]
+      },
+      "container-title": [
+        "Medical Ultrasonography"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.11152/mu-4632",
+      "language": null
+    },
+    {
+      "DOI": "10.1080/21645515.2026.2707849",
+      "title": [
+        "Cost-effectiveness of finotonlimab plus bevacizumab versus sorafenib as first-line therapy in unresectable hepatocellular carcinoma in China"
+      ],
+      "author": [
+        {
+          "family": "Xu",
+          "given": "Huihui"
+        },
+        {
+          "family": "Yu",
+          "given": "Shengjian"
+        },
+        {
+          "family": "Yang",
+          "given": "Yan"
+        },
+        {
+          "family": "Bian",
+          "given": "Haoze"
+        },
+        {
+          "family": "Wu",
+          "given": "Zimiao"
+        },
+        {
+          "family": "Xuan",
+          "given": "Feng"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T12:36:22Z",
+        "timestamp": 1785155782000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Human Vaccines &amp; Immunotherapeutics"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1080/21645515.2026.2707849",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1038/s41388-026-03920-8",
+      "title": [
+        "The epigenetic KMT5C-HDAC1 axis promotes hepatocellular carcinoma stemness and progression through SERPINA4 repression and chromatin compaction"
+      ],
+      "author": [
+        {
+          "family": "Huang",
+          "given": "Hongbin"
+        },
+        {
+          "family": "Huang",
+          "given": "Caini"
+        },
+        {
+          "family": "Yang",
+          "given": "Pangfei"
+        },
+        {
+          "family": "Xian",
+          "given": "Shiping"
+        },
+        {
+          "family": "Liu",
+          "given": "Yang"
+        },
+        {
+          "family": "Liu",
+          "given": "Ruiyang"
+        },
+        {
+          "family": "Zhao",
+          "given": "Zhiju"
+        },
+        {
+          "family": "Xiao",
+          "given": "Fei"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T13:41:47Z",
+        "timestamp": 1785159707000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Oncogene"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1038/s41388-026-03920-8",
+      "language": "en"
+    },
+    {
+      "DOI": "10.3390/curroncol33080453",
+      "title": [
+        "Pathological and Perioperative Outcomes of Conversion Hepatectomy After Contemporary Combination Downstaging for Initially Unresectable Hepatocellular Carcinoma: A Systematic Review"
+      ],
+      "author": [
+        {
+          "family": "Craciun",
+          "given": "Codruta"
+        },
+        {
+          "family": "Stanga",
+          "given": "Livia"
+        },
+        {
+          "family": "Dejeu",
+          "given": "Danut"
+        },
+        {
+          "family": "Davidoiu",
+          "given": "Ana-Maria"
+        },
+        {
+          "family": "Ilie",
+          "given": "Adrian Cosmin"
+        },
+        {
+          "family": "Mazilu",
+          "given": "Patricia Octavia"
+        },
+        {
+          "family": "Craciun",
+          "given": "Lavinia"
+        },
+        {
+          "family": "Pantea",
+          "given": "Stelian"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T14:37:00Z",
+        "timestamp": 1785249420000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Current Oncology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.3390/curroncol33080453",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1002/jbt.71027",
+      "title": [
+        "ATP7A Orchestrates Tumor Progression and Cuproptosis in Hepatocellular Carcinoma via the LINC02038‐miR‐506‐3p Regulatory Circuit"
+      ],
+      "author": [
+        {
+          "family": "Liu",
+          "given": "Zhe"
+        },
+        {
+          "family": "Shan",
+          "given": "Weixi"
+        },
+        {
+          "family": "Zhou",
+          "given": "Wenyu"
+        },
+        {
+          "family": "Long",
+          "given": "Meiying"
+        },
+        {
+          "family": "Yang",
+          "given": "Long"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T13:48:37Z",
+        "timestamp": 1785160117000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Journal of Biochemical and Molecular Toxicology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1002/jbt.71027",
+      "language": "en"
+    },
+    {
+      "DOI": "10.64898/2026.07.23.740299",
+      "title": [
+        "Functional Characterization of Transcriptome-Wide Isoform Switching in Hürthle Cell Carcinoma (HCC)"
+      ],
+      "author": [
+        {
+          "family": "Butt",
+          "given": "Razmia Sabahat"
+        },
+        {
+          "family": "Amir",
+          "given": "Afreenish"
+        },
+        {
+          "family": "Paracha",
+          "given": "Rehan Zafar"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T22:00:17Z",
+        "timestamp": 1785189617000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": null,
+      "type": "posted-content",
+      "URL": "https://doi.org/10.64898/2026.07.23.740299",
+      "language": null
+    },
+    {
+      "DOI": "10.3389/fimmu.2026.1885307",
+      "title": [
+        "Efficacy and safety of TACE combined with MWA followed by immune checkpoint inhibitors and anti-VEGF/tyrosine kinase inhibitors in hepatocellular carcinoma beyond the up-to-7"
+      ],
+      "author": [
+        {
+          "family": "Fang",
+          "given": "Yang"
+        },
+        {
+          "family": "Tan",
+          "given": "Jiangyu"
+        },
+        {
+          "family": "Su",
+          "given": "Xiaoting"
+        },
+        {
+          "family": "Sun",
+          "given": "Minghu"
+        },
+        {
+          "family": "Zhou",
+          "given": "Xianchun"
+        },
+        {
+          "family": "Zhang",
+          "given": "Songnan"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T05:37:14Z",
+        "timestamp": 1785217034000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Frontiers in Immunology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.3389/fimmu.2026.1885307",
+      "language": null
+    },
+    {
+      "DOI": "10.1136/bmjopen-2026-117956",
+      "title": [
+        "Evaluating the effectiveness and safety of adjuvant transcatheter arterial chemoembolisation (TACE) after curative resection for Barcelona Clinic Liver Cancer (BCLC) stage 0-B hepatocellular carcinoma: protocol for a target trial emulation study"
+      ],
+      "author": [
+        {
+          "family": "Li",
+          "given": "Zhi"
+        },
+        {
+          "family": "Mi",
+          "given": "Shizheng"
+        },
+        {
+          "family": "Li",
+          "given": "Xinyan"
+        },
+        {
+          "family": "Ren",
+          "given": "Qiuping"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T12:20:27Z",
+        "timestamp": 1785241227000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "BMJ Open"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1136/bmjopen-2026-117956",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1038/s41598-026-63772-w",
+      "title": [
+        "A CT-based radiomics nomogram for predicting intrahepatic recurrence of HCC after radiofrequency ablation"
+      ],
+      "author": [
+        {
+          "family": "Chen",
+          "given": "Lin"
+        },
+        {
+          "family": "Yuan",
+          "given": "Mengchen"
+        },
+        {
+          "family": "Wang",
+          "given": "Meng"
+        },
+        {
+          "family": "Zhou",
+          "given": "Yuhan"
+        },
+        {
+          "family": "Huang",
+          "given": "Qingbo"
+        },
+        {
+          "family": "Yang",
+          "given": "Qi"
+        },
+        {
+          "family": "Zhou",
+          "given": "Zhigang"
+        },
+        {
+          "family": "Jia",
+          "given": "Xiuqin"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T10:55:54Z",
+        "timestamp": 1785236154000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1038/s41598-026-63772-w",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1177/17588359261470015",
+      "title": [
+        "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade"
+      ],
+      "author": [
+        {
+          "family": "Guo",
+          "given": "Yiwan"
+        },
+        {
+          "family": "Liu",
+          "given": "Xiaocui"
+        },
+        {
+          "family": "Sun",
+          "given": "Bo"
+        },
+        {
+          "family": "Pu",
+          "given": "Fan"
+        },
+        {
+          "family": "Li",
+          "given": "Xin"
+        },
+        {
+          "family": "Zheng",
+          "given": "Chuansheng"
+        },
+        {
+          "family": "Kan",
+          "given": "Xuefeng"
+        },
+        {
+          "family": "Yang",
+          "given": "Fan"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T05:20:46Z",
+        "timestamp": 1785216046000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "container-title": [
+        "Therapeutic Advances in Medical Oncology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1177/17588359261470015",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1038/s41418-026-01824-4",
+      "title": [
+        "TRIM27-Cas9–loaded EVs suppress HCC proliferation and enhance responsiveness to anti–PD-1 therapy by promoting ACSL4-mediated ferroptosis"
+      ],
+      "author": [
+        {
+          "family": "Wen",
+          "given": "Jie"
+        },
+        {
+          "family": "Wang",
+          "given": "Zhihui"
+        },
+        {
+          "family": "Zeng",
+          "given": "Zhirui"
+        },
+        {
+          "family": "Tian",
+          "given": "Yu"
+        },
+        {
+          "family": "Liu",
+          "given": "Haikuan"
+        },
+        {
+          "family": "Zhang",
+          "given": "Xiaokai"
+        },
+        {
+          "family": "Niu",
+          "given": "Shaoqing"
+        },
+        {
+          "family": "Ashrafizadeh",
+          "given": "Milad"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T10:13:58Z",
+        "timestamp": 1785147238000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Cell Death &amp; Differentiation"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1038/s41418-026-01824-4",
+      "language": "en"
+    },
+    {
+      "DOI": "10.7150/ijbs.126948",
+      "title": [
+        "Targeting Mitochondrial PD-L1 O-GlcNAcylation to Sensitize HBV-Related HCC to Immunotherapy: Modulating Golgi-mitochondrial Crosstalk and mTOR/PGC-1α-Driven Mitochondrial Biogenesis to Overcome Resistance"
+      ],
+      "author": [
+        {
+          "family": "Du",
+          "given": "Ze-Bang"
+        },
+        {
+          "family": "Ma",
+          "given": "Xin-Yu"
+        },
+        {
+          "family": "Zhang",
+          "given": "Han-Yu"
+        },
+        {
+          "family": "Lei",
+          "given": "Jia-Ming"
+        },
+        {
+          "family": "He",
+          "given": "Xin-Xin"
+        },
+        {
+          "family": "Xu",
+          "given": "Wen-Qi"
+        },
+        {
+          "family": "Zhou",
+          "given": "Wen-Dan"
+        },
+        {
+          "family": "Xia",
+          "given": "Xiao-Gang"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T10:35:12Z",
+        "timestamp": 1785234912000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            22
+          ]
+        ]
+      },
+      "container-title": [
+        "International Journal of Biological Sciences"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.7150/ijbs.126948",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1201/9781003597162-29",
+      "title": [
+        "Surgery for Hilar Cholangiocarcinoma: French Experience in a Collective Survey of 552 Extrahepatic Bile Duct Cancers"
+      ],
+      "author": [
+        {
+          "family": "Launois",
+          "given": "B"
+        },
+        {
+          "family": "Reding",
+          "given": "R"
+        },
+        {
+          "family": "Lebeau",
+          "given": "G"
+        },
+        {
+          "family": "Buard",
+          "given": "JL"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T14:36:48Z",
+        "timestamp": 1785249408000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "50 Landmark Papers every Upper GI and HPB Surgeon Should Know"
+      ],
+      "type": "book-chapter",
+      "URL": "https://doi.org/10.1201/9781003597162-29",
+      "language": "en"
+    },
+    {
+      "DOI": "10.3390/genes17080868",
+      "title": [
+        "Mendelian Randomization and Single-Cell Transcriptomic Analyses Implicate PPP1R1B as a Risk Factor of Intrahepatic Cholangiocarcinoma"
+      ],
+      "author": [
+        {
+          "family": "Chen",
+          "given": "Zhuomiaoyu"
+        },
+        {
+          "family": "Cao",
+          "given": "Fumei"
+        },
+        {
+          "family": "Li",
+          "given": "Zhao"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T16:11:56Z",
+        "timestamp": 1785168716000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            25
+          ]
+        ]
+      },
+      "container-title": [
+        "Genes"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.3390/genes17080868",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1093/jimmun/vkag141.644",
+      "title": [
+        "Targeting the KRAS G12D mutant suppresses tumor growth in a syngeneic mouse cholangiocarcinoma model through activation of immune cells 2258895"
+      ],
+      "author": [
+        {
+          "family": "Hung",
+          "given": "Jung-Tung"
+        },
+        {
+          "family": "Hung",
+          "given": "Tsai-Hsien"
+        },
+        {
+          "family": "Yeh",
+          "given": "Chun-Nan"
+        },
+        {
+          "family": "Yu",
+          "given": "Alice"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T17:14:20Z",
+        "timestamp": 1785258860000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "The Journal of Immunology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1093/jimmun/vkag141.644",
+      "language": "en"
+    },
+    {
+      "DOI": "10.12677/hjbm.2026.164079",
+      "title": [
+        "A Case Report of IgG4-Related Sclerosing Cholangitis Misdiagnosed as Cholangiocarcinoma"
+      ],
+      "author": [
+        {
+          "family": "吴",
+          "given": "浪"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T10:50:23Z",
+        "timestamp": 1785235823000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "container-title": [
+        "Hans Journal of Biomedicine"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.12677/hjbm.2026.164079",
+      "language": null
+    },
+    {
+      "DOI": "10.1186/s12957-026-04489-y",
+      "title": [
+        "Stress-driven reprogramming of plasmacytoid dendritic cells in intrahepatic cholangiocarcinoma defines a reversible targetable immunosuppressive state"
+      ],
+      "author": [
+        {
+          "family": "Chen",
+          "given": "Mei-Ru"
+        },
+        {
+          "family": "Xie",
+          "given": "Xiao-Li"
+        },
+        {
+          "family": "Zhou",
+          "given": "Yan-Li"
+        },
+        {
+          "family": "Tian",
+          "given": "Jin-Mei"
+        },
+        {
+          "family": "Zhao",
+          "given": "Ying"
+        },
+        {
+          "family": "Hou",
+          "given": "Suping"
+        },
+        {
+          "family": "Wang",
+          "given": "Yuan-Yuan"
+        },
+        {
+          "family": "Lu",
+          "given": "Ji-Chao"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T07:03:42Z",
+        "timestamp": 1785222222000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "container-title": [
+        "World Journal of Surgical Oncology"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1186/s12957-026-04489-y",
+      "language": "en"
+    },
+    {
+      "DOI": "10.1186/s12885-026-16305-7",
+      "title": [
+        "Impact of sarcopenia on short- and long-term outcomes after resection of perihilar cholangiocarcinoma: a two-center study"
+      ],
+      "author": [
+        {
+          "family": "Wei",
+          "given": "Xingbo"
+        },
+        {
+          "family": "Hu",
+          "given": "Haiyang"
+        },
+        {
+          "family": "Li",
+          "given": "Shipeng"
+        },
+        {
+          "family": "Li",
+          "given": "Qiuzhong"
+        },
+        {
+          "family": "Zhi",
+          "given": "Yifan"
+        },
+        {
+          "family": "Li",
+          "given": "Jizhen"
+        },
+        {
+          "family": "Zhu",
+          "given": "Hengli"
+        },
+        {
+          "family": "Tang",
+          "given": "Changqian"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T04:45:28Z",
+        "timestamp": 1785127528000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "BMC Cancer"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1186/s12885-026-16305-7",
+      "language": "en"
+    },
+    {
+      "DOI": "10.67328/bt2473",
+      "title": [
+        "基于行为转变理论模式的延伸护理对乙肝后肝硬化腹水患者的影响1例"
+      ],
+      "author": [
+        {
+          "family": "程文君",
+          "given": null
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ],
+        "date-time": "2026-07-27T02:22:06Z",
+        "timestamp": 1785118926000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "数据期刊"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.67328/bt2473",
+      "language": null
+    },
+    {
+      "DOI": "10.12677/acm.2026.1672760",
+      "title": [
+        "Study on the Diagnostic Value of Platelets, Albumin/Globulin Ratio, and Portal Vein Diameter in Esophageal and Gastric Varices in Liver Cirrhosis"
+      ],
+      "author": [
+        {
+          "family": "皇",
+          "given": "茜"
+        }
+      ],
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ],
+        "date-time": "2026-07-28T06:29:12Z",
+        "timestamp": 1785220152000
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "container-title": [
+        "Advances in Clinical Medicine"
+      ],
+      "type": "journal-article",
+      "URL": "https://doi.org/10.12677/acm.2026.1672760",
+      "language": null
+    }
+  ]
+}
