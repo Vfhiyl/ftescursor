@@ -1,0 +1,43 @@
+{
+  "path": "202607/28/20",
+  "topic": "hepatobiliary surgery / hepatocellular carcinoma (HCC)",
+  "trigger_utc": "2026-07-28T20:02:09.601Z",
+  "collected_at_utc": "2026-07-28T20:25:00+00:00",
+  "time_window_utc": {
+    "from": "2026-07-27T20:02:09+00:00",
+    "to": "2026-07-28T20:02:09+00:00"
+  },
+  "languages_searched": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": [
+    "PubMed E-utilities (EDAT)",
+    "Crossref Works API",
+    "Europe PMC (FIRST_PDATE; 0 hits in narrow window)",
+    "ClinicalTrials.gov API v2",
+    "Web search multi-language (guidelines/news)"
+  ],
+  "counts": {
+    "pubmed_edat_24h": 130,
+    "pubmed_clinical_leaning": 51,
+    "crossref_unique_created": 66,
+    "crossref_title_filtered": 55,
+    "ctgov_updated_24h": 25,
+    "ctgov_hcc_related": 20,
+    "europe_pmc_first_pdate_24h": 0
+  },
+  "highlights": [
+    "PMID 42512110: first-line Atezo+Bev vs Durva+Treme PSM (TriNetX), OS comparable",
+    "EMERALD-3 PFS+/OS immature vs EMERALD-1 OS-negative tension continues",
+    "IMbrave251: atezo add-on post Atezo+Bev does not improve OS",
+    "HAS FR 2026-07-10 Tecentriq+Bev reimbursement favorable (SMR Important)"
+  ],
+  "folder_convention": "YYYYMM/DD/HH in UTC of automation trigger",
+  "caveat": "Guidelines rarely publish within literal 24h; authority panel labeled separately from 24h incremental items. Continuity from 202607/28/19 digest. Crossref partial 429 rate-limits — filtered count conservative."
+}

@@ -1,0 +1,1341 @@
+{
+  "query_window_utc": {
+    "start": "2026-07-27T20:00:00Z",
+    "end": "2026-07-28T20:00:00Z"
+  },
+  "from_date": "2026-07-27",
+  "until_date": "2026-07-28",
+  "totalCount": null,
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07059494",
+          "briefTitle": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+          "officialTitle": "A Feasibility Clinical Trial of Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization for Patients With Hepatocellular Carcinoma (HCC) for Liver Transplantation"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-03-26"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-08-01"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Icahn School of Medicine at Mount Sinai"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "enrollmentInfo": {
+            "count": 40
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Atezolizumab"
+            },
+            {
+              "name": "Bevacizumab"
+            },
+            {
+              "name": "Y^90 Radioembolization"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07715903",
+          "briefTitle": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+          "officialTitle": "Phase I Study Evaluating Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-02"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-12-31"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "National Cancer Institute (NCI)"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Colorectal Neoplasms",
+            "Neoplasms",
+            "Intrahepatic Cholangiocarcinoma",
+            "Adrenocortical Carcinoma",
+            "Metastasis, Neoplasm"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 20
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Carfilzomib"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06414122",
+          "briefTitle": "Modulated Mid-frequency Whole-body Electromyostimulation and Nutritional Therapy in Gastrointestinal Cancer Patients",
+          "officialTitle": "The Efficacy of Modulated Mid-frequency (Whole-body Electromyostimulation) and Nutritional Therapy in Patients With Solid Tumors of the Gastrointestinal Tract (Excluding Liver and Pancreatic Carcinomas)"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-08"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of Cologne"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Oesophageal Cancer",
+            "Gastric Cancer",
+            "Duodenal Cancer",
+            "Colorectal Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "enrollmentInfo": {
+            "count": 88
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "mid-frequency whole-body electromyostimulation (WB-EMS)"
+            },
+            {
+              "name": "conventional exercise training"
+            },
+            {
+              "name": "nutritional therapy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT02772003",
+          "briefTitle": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+          "officialTitle": "Phase I Trial of a Therapeutic DNA Vaccine for Chronic Hepatitis C Virus (HCV) Infection"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2016-06-06"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2020-03-04"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "National Cancer Institute (NCI)"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Chronic Hepatitis",
+            "Hepatitis C Infection",
+            "Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 33
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Electroporation-Mediated Plasmid DNA Vaccine Therapy"
+            },
+            {
+              "name": "HCV DNA Vaccine INO-8000"
+            },
+            {
+              "name": "Laboratory Biomarker Analysis"
+            },
+            {
+              "name": "Quality-of-Life Assessment"
+            },
+            {
+              "name": "Rocakinogene Sifuplasmid"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06199232",
+          "briefTitle": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+          "officialTitle": "Targeted Treatment Based on ctDNA Genotyping Combined With Tislelizumab and HAIC as Salvage Treatment for Advanced Colorectal Cancer Liver Metastasis Failed From Standard Systemic Treatment (SALVLIV Trial)"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-01-23"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-07-10"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Peking University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Liver Metastasis Colon Cancer",
+            "ctDNA Genotype",
+            "MSS",
+            "Failed From Standard Treatment"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "enrollmentInfo": {
+            "count": 47
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "HAIC+targeted therapy+PD-1 inhibitor"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07729917",
+          "briefTitle": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+          "officialTitle": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-10"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-08-31"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Zhejiang University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Bile Duct Carcinoma",
+            "Cholangiocarcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 240
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "FGFR Inhibitor"
+            },
+            {
+              "name": "IDH1 mutation inhibitor"
+            },
+            {
+              "name": "KRAS mutation inhibitor"
+            },
+            {
+              "name": "NTRK mutation inhibitor"
+            },
+            {
+              "name": "BRAF V600E mutation inhibitor"
+            },
+            {
+              "name": "BRCA 1/2 mutation inhibitor"
+            },
+            {
+              "name": "HER2 target therapy"
+            },
+            {
+              "name": "Immune Checkpoint Inhibitors"
+            },
+            {
+              "name": "Chemotherapy: GP/GEMOX"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05044819",
+          "briefTitle": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+          "officialTitle": "A Long-term Safety Study to Assess the Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2021-07-07"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-08-01"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Jazz Pharmaceuticals"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Lennox Gastaut Syndrome",
+            "Dravet Syndrome",
+            "Tuberous Sclerosis Complex"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE4"
+          ],
+          "enrollmentInfo": {
+            "count": 154
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Cannabidiol"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03203525",
+          "briefTitle": "Combination Chemotherapy and Bevacizumab With the NovoTTF-100L(P) System in Treating Participants With Advanced, Recurrent, or Refractory Hepatic Metastatic Cancer",
+          "officialTitle": "A Phase I Study of the NovoTTF-100L(P) System to Enhance Antitumor Activity in Patients With Predominant Hepatic Metastatic Cancer"
+        },
+        "statusModule": {
+          "overallStatus": "TERMINATED",
+          "startDateStruct": {
+            "date": "2020-06-23"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-07-22"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "M.D. Anderson Cancer Center"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Advanced Malignant Neoplasm",
+            "Colorectal Carcinoma Metastatic in the Liver",
+            "Metastatic Malignant Neoplasm in the Liver",
+            "Refractory Malignant Neoplasm"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 38
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Bevacizumab"
+            },
+            {
+              "name": "Fluorouracil"
+            },
+            {
+              "name": "Leucovorin"
+            },
+            {
+              "name": "Oxaliplatin"
+            },
+            {
+              "name": "Pegylated Liposomal Doxorubicin Hydrochloride"
+            },
+            {
+              "name": "Temsirolimus"
+            },
+            {
+              "name": "Tumor Treating Fields Therapy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06710223",
+          "briefTitle": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+          "officialTitle": "A Phase Ib Study of Cryoablation and Pressure-enabled Hepatic Arterial Infusion of Class C Toll-like Receptor 9 Agonist SD-101 in Combination With Durvalumab and Tremelimumab in Patients With Advanced Hepatocellular Carcinoma"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2025-01-03"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "University of California, San Diego"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 16
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "SD-101"
+            },
+            {
+              "name": "Cryotherapy"
+            },
+            {
+              "name": "Tremelimumab"
+            },
+            {
+              "name": "Durvalumab"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07731373",
+          "briefTitle": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+          "officialTitle": "COMPASS-PedPCOS: BMI-Independent Mechanistic Dissection of PCOS-Associated MASLD in Adolescent Girls With Obesity Using an Expanded Biomarker Panel - A Single-Center Pre-Pilot Clinical Study"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-09-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-04-30"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Kayseri City Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Polycystic Ovary Syndrome (PCOS)",
+            "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+            "Pediatric Obesity",
+            "Hyperandrogenism",
+            "Insulin Resistance Syndrome"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 150
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Extended Biomarker Panel, Liver Elastography and Targeted Genotyping"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07729618",
+          "briefTitle": "AI-Guided First-Line Immunotherapy Selection in Unresectable Hepatocellular Carcinoma",
+          "officialTitle": "A Multicenter, Parallel-Group, Cluster-Randomized Controlled Trial Evaluating an Artificial Intelligence Clinical Decision Support System for Selection of First-Line Immune Checkpoint Inhibitor-Based Therapy in Unresectable Hepatocellular Carcinoma"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-10-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-12-01"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Tongji Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Unresectable Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "enrollmentInfo": {
+            "count": 1800
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "AI-Assisted Clinical Decision Support Strategy"
+            },
+            {
+              "name": "Usual-Care Multidisciplinary Treatment-Selection Strategy"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05727176",
+          "briefTitle": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+          "officialTitle": "Phase 2 Study of Futibatinib 20 mg and 16 mg in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusions or Rearrangements"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-07-05"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2026-12"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Taiho Oncology, Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Advanced Cholangiocarcinoma",
+            "FGFR2 Fusions",
+            "Gene Rearrangement"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 120
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "TAS-120"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07727759",
+          "briefTitle": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+          "officialTitle": "Beyond Size - Integrating CT Volumetry With Hepatic Vascular Deformation Mapping to Anticipate Post-Resection Congestion and Liver Failure"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-08-15"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-04-30"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Minia University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Post-Hepatectomy Liver Failure",
+            "Liver Failure",
+            "Liver Neoplasms",
+            "Carcinoma, Hepatocellular",
+            "Liver Metastases",
+            "Postoperative Complications",
+            "Hepatic Congestion"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1070
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Preoperative CT volumetry with hepatic vascular deformation mapping (VDM)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07729592",
+          "briefTitle": "Dapagliflozin Add-on in Unresectable HCC With Metabolic Syndrome",
+          "officialTitle": "A Single-Center, Phase II, Randomized Controlled Clinical Study to Evaluate Dapagliflozin as an Addition to First-Line Treatment for Unresectable Hepatocellular Carcinoma With Metabolic Syndrome"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-07"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-07"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Sun Yat-sen University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma (HCC)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 44
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Dapagliflozin"
+            },
+            {
+              "name": "Donafenib"
+            },
+            {
+              "name": "Tislelizumab"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT03298451",
+          "briefTitle": "Study of Durvalumab and Tremelimumab as First-line Treatment in Patients With Advanced Hepatocellular Carcinoma",
+          "officialTitle": "A Randomized, Open-label, Multi-center Phase III Study of Durvalumab and Tremelimumab as First-line Treatment in Patients With Advanced Hepatocellular Carcinoma"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2017-10-11"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2021-08-27"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "AstraZeneca"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 1324
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Durvalumab"
+            },
+            {
+              "name": "Tremelimumab (Regimen 1)"
+            },
+            {
+              "name": "Tremelimumab (Regimen 2)"
+            },
+            {
+              "name": "Sorafenib"
+            },
+            {
+              "name": "Durvalumab (Regimen 1)"
+            },
+            {
+              "name": "Durvalumab (Regimen 2)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT05503797",
+          "briefTitle": "A Study to Assess the Efficacy and Safety of FORE8394 in Participants With Cancer Harboring BRAF Alterations",
+          "officialTitle": "A Phase 2 Master Protocol to Assess the Efficacy and Safety of FORE8394, an Inhibitor of BRAF Class 1 and Class 2 Alterations, in Participants With Cancer Harboring BRAF Alterations"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2023-02-21"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-12-31"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Fore Biotherapeutics"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Cancer Harboring BRAF Alterations",
+            "HGG",
+            "LGG",
+            "Solid Tumors"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 254
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Plixorafenib"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07479485",
+          "briefTitle": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+          "officialTitle": "An Open-Label, Multicenter, Phase I/II Study Evaluating MRG006A in Combination With Immune Checkpoint Inhibitors and Targeted Therapy in Patients With Advanced Hepatocellular Carcinoma"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-04-08"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-04"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Lepu Biopharma Co., Ltd."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 160
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "MRG006A"
+            },
+            {
+              "name": "Pucotenlimab"
+            },
+            {
+              "name": "Bevacizumab"
+            },
+            {
+              "name": "PD1/VEGF antibody"
+            },
+            {
+              "name": "TKI"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06066138",
+          "briefTitle": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+          "officialTitle": "A Feasibility Phase I Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2025-11-04"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-01-31"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "National Cancer Institute (NCI)"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Locally Advanced Alveolar Soft Part Sarcoma",
+            "Metastatic Alveolar Soft Part Sarcoma",
+            "Locally Advanced Non Small Cell Lung Cancer",
+            "Metastatic Non Small Cell Lung Cancer",
+            "Locally Advanced Small Cell Lung Cancer",
+            "Metastatic Small Cell Lung Cancer",
+            "Locally Advanced Hepatocellular Carcinoma",
+            "Metastatic Hepatocellular Carcinoma",
+            "Locally Advanced Melanoma",
+            "Metastatic Melanoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE1"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Atezolizumab"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07359820",
+          "briefTitle": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+          "officialTitle": "A Phase 2, Open-Label, Single-Arm Study of Lirafugratinib in Patients With Previously Treated, Unresectable, Locally Advanced or Metastatic Solid Tumors (Excluding Cholangiocarcinoma) With FGFR2 Fusion or Rearrangement"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-06-04"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-09"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Elevar Therapeutics"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "FGFR2 Gene Fusion/Rearrangement",
+            "Other Solid Tumors, Adult"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 30
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Lirafugratinib"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07607769",
+          "briefTitle": "MONTEROSA - Italian Multicenter Observational Study to Evaluate Time to Clinical Hepatic Decompensation, Quality of Life, Effectiveness, and Safety of Tremelimumab Plus Durvalumab in Patients With Advanced or Unresectable Hepatocellular Carcinoma Who Have Received no Prior Systemic Treatment.",
+          "officialTitle": "MONTEROSA Italian Multicenter Observational Study to Evaluate Time to Clinical Hepatic Decompensation, Quality of Life, Effectiveness, and Safety of Tremelimumab Plus Durvalumab in Patients With Advanced or Unresectable Hepatocellular Carcinoma Who Have Received no Prior Systemic Treatment. (Real World Observational Study of STRIDE Regimen for Advanced HCC)"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2026-04-16"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-10-31"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "AstraZeneca"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 200
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "STRIDE"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT00034216",
+          "briefTitle": "Collection of Blood From Patients With Cancer",
+          "officialTitle": "Biospecimen Acquisition From Human Subjects"
+        },
+        "statusModule": {
+          "overallStatus": "RECRUITING",
+          "startDateStruct": {
+            "date": "2002-07-16"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "National Cancer Institute (NCI)"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Prostate Cancer",
+            "Breast Cancer",
+            "Colon Cancer",
+            "Lung Cancer",
+            "Liver Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 1750
+          }
+        },
+        "armsInterventionsModule": {}
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07719933",
+          "briefTitle": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+          "officialTitle": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study"
+        },
+        "statusModule": {
+          "overallStatus": "COMPLETED",
+          "startDateStruct": {
+            "date": "2024-04-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2024-12-31"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "First Affiliated Hospital, Sun Yat-Sen University"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Liver Neoplasms",
+            "Postoperative Complications"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 161
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "terlipressin"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07728019",
+          "briefTitle": "Efficacy and Safety of Retlirafusp Alfa Plus Bevacizumab and Chemotherapy With or Without Short-Course Radiotherapy in Patients With CRCLM",
+          "officialTitle": "Efficacy and Safety of Retlirafusp Alfa Plus Bevacizumab and Chemotherapy With or Without Short-Course Radiotherapy in Patients With Colorectal Cancer Liver Metastases: a Randomized Phase II Study"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-07-22"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2029-06-30"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "CRC (Colorectal Cancer)"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2"
+          ],
+          "enrollmentInfo": {
+            "count": 60
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "SCRT"
+            },
+            {
+              "name": "Retlirafusp alfa Injection"
+            },
+            {
+              "name": "Bevacizumab"
+            },
+            {
+              "name": "CAPOX"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT06506955",
+          "briefTitle": "Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib as Monotherapy or Combination Therapy.",
+          "officialTitle": "An Open-label, Rollover Study of Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib Study"
+        },
+        "statusModule": {
+          "overallStatus": "ACTIVE_NOT_RECRUITING",
+          "startDateStruct": {
+            "date": "2024-10-01"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2027-04"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-28"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Taiho Oncology, Inc."
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Advanced/Metastatic Cancer"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "PHASE2",
+            "PHASE3"
+          ],
+          "enrollmentInfo": {
+            "count": 15
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "futibatinib"
+            },
+            {
+              "name": "futibatinib, fulvestrant"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT07724951",
+          "briefTitle": "The Efficacy and Safety of Donafenib Plus PD-1/L1 Monoclonal Antibodies Plus TACE or HAIC as First-line Treatment for Unresectable Hepatocellular Carcinoma A Multi-center, Retrospective Clinical Study",
+          "officialTitle": "The Efficacy and Safety of Donafenib Plus PD-1/L1 Monoclonal Antibodies Plus Transarterial Chemoembolization (TACE) or Hepatic Arterial Infusion Chemotherapy (HAIC) as First-line Treatment for Unresectable Hepatocellular carcinomaA Multicenter, Retrospective Clinical Study"
+        },
+        "statusModule": {
+          "overallStatus": "NOT_YET_RECRUITING",
+          "startDateStruct": {
+            "date": "2026-07-31"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2028-07-31"
+          },
+          "lastUpdatePostDateStruct": {
+            "date": "2026-07-27"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "leadSponsor": {
+            "name": "Shanghai Zhongshan Hospital"
+          }
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Hepatocellular Carcinoma (HCC)"
+          ]
+        },
+        "designModule": {
+          "studyType": "OBSERVATIONAL",
+          "enrollmentInfo": {
+            "count": 400
+          }
+        },
+        "armsInterventionsModule": {
+          "interventions": [
+            {
+              "name": "Donafeinib"
+            },
+            {
+              "name": "Transcatheter arterial chemoembolization"
+            },
+            {
+              "name": "PD-1 / PD-L1 monoclonal antibody"
+            },
+            {
+              "name": "Hepatic Artery Infusion Chemotherapy"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
