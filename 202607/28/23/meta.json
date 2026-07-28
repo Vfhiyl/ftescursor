@@ -1,0 +1,34 @@
+{
+  "topic": "hepatobiliary surgery / hepatocellular carcinoma (HCC)",
+  "folder": "202607/28/23",
+  "timezone_convention": "UTC hour of automation trigger",
+  "trigger_utc": "2026-07-28T23:01:54.270Z",
+  "collected_at_utc": "2026-07-28T23:03:11.363602+00:00",
+  "window_hours": 24,
+  "window_start_utc": "2026-07-27T23:03:11.363602+00:00",
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ko",
+    "fr",
+    "de",
+    "ru"
+  ],
+  "sources": {
+    "pubmed_edat_count": 119,
+    "pubmed_retrieved": 119,
+    "pubmed_pdat_count": 31,
+    "pubmed_clinical_leaning": 77,
+    "crossref_unique_title_filtered": 84,
+    "clinicaltrials_hcc_related_updated": 26
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "notes": [
+    "Guidelines rarely publish within a literal 24h window; current authority panel is labeled separately from 24h intake.",
+    "Prefer PMID links; Crossref created-date is registration/index time, not always first clinical publication.",
+    "Vendor/media OS claims may be immature; distinguish PFS vs OS maturity.",
+    "Key cross-check this hour: EMERALD-1 final OS negative (ESMO GI 2026) vs EMERALD-3 PFS+/OS immature (EN/JP/ESMO Daily Reporter).",
+    "Exclude PMID 42503979 (colorectal neoadjuvant irAE) from HCC evidence claims."
+  ]
+}
