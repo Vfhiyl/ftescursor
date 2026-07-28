@@ -1,0 +1,832 @@
+[
+  {
+    "pmid": "42518245",
+    "title": "The PON1-NDUFA4 axis maintains mitochondrial respiratory fitness and drives lenvatinib tolerance in hepatocellular carcinoma.",
+    "abstract": "Metabolic plasticity driven by mitochondrial oxidative phosphorylation (OXPHOS) is increasingly recognized as a key determinant of therapeutic tolerance in hepatocellular carcinoma (HCC), but the upstream regulators that preserve electron transport chain stability during treatment remain poorly defined. In this study, we identified paraoxonase-1 (PON1) as a clinically relevant regulator of mitochondrial metabolism and lenvatinib response in HCC. PON1 was markedly upregulated in HCC and independently associated with poor overall and recurrence-free survival. Functionally, PON1 promoted tumor growth and conferred robust tolerance to lenvatinib. Mechanistically, PON1 directly interacted with and stabilized NDUFA4, a key component required for complex IV assembly, thereby maintaining mitochondrial membrane potential, complex IV integrity, and OXPHOS-dependent adenosine triphosphate production while limiting reactive oxygen species accumulation. Genetic silencing of PON1 or NDUFA4 impaired mitochondrial respiration, increased oxidative stress, and restored lenvatinib sensitivity in HCC cells and xenograft models. Structure-guided virtual screening identified the Food and Drug Administration-approved CFTR corrector lumacaftor as a potent modulator of PON1 that disrupted the PON1-NDUFA4 interaction and enhanced the antitumor efficacy of lenvatinib in vivo. These findings identify the PON1-NDUFA4 axis as a previously unrecognized metabolic vulnerability that sustains mitochondrial respiratory fitness and lenvatinib resistance in HCC. Targeting mitochondrial protein-stabilizing mechanisms such as PON1-NDUFA4 may offer a broadly applicable strategy for overcoming therapy resistance in liver cancer and other aggressive malignancies. Implications: These findings establish mitochondrial protein stabilization as an actionable therapeutic vulnerability and provide a rationale for combination strategies to overcome targeted therapy resistance in HCC.",
+    "journal": "Molecular cancer research : MCR",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Lin Shi-Lin",
+      "Wang Yue",
+      "Zheng Yi-Min",
+      "Ke Ai-Wu",
+      "Ma A-Ying",
+      "Gao Chao"
+    ],
+    "doi": "10.1158/1541-7786.MCR-26-0121",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Zhongshan Hospital Shanghai China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42518245/"
+  },
+  {
+    "pmid": "42518143",
+    "title": "ASO Visual Abstract: Mex3a Stabilizes INHBB mRNA to Activate SMAD-Signaling and Promote Hepatocellular Carcinoma Metastasis.",
+    "abstract": "",
+    "journal": "Annals of surgical oncology",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Yang Jie-Ru",
+      "Qu Zheng-Jie",
+      "Zhou Fang-Ming",
+      "Li Jin-E",
+      "Wang Kai",
+      "Fan Yu-Chen"
+    ],
+    "doi": "10.1245/s10434-026-20326-8",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Hepatology, Qilu Hospital of Shandong University, Jinan, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42518143/"
+  },
+  {
+    "pmid": "42518075",
+    "title": "The relationship between mutations in reverse transcriptase region of hepatitis B virus and progression of liver disease.",
+    "abstract": "The specific objective of this study was to investigate mutations of Hepatitis B virus (HBV) reverse transcriptase (RT) region in Chinese HBV-infected patients at different stages and their association with the progression of liver disease. HBV RT regions in serum samples were amplified and sequenced from 384 patients with chronic HBV infection, including 100 asymptomatic carriers (ASC), 101 chronic hepatitis B, 96 liver cirrhosis, and 87 hepatocellular carcinoma (HCC). Further analysis of genotyping and AA substitution within RT was performed by the online HBV genotyping tool and MEGA7.0 software. A logistic regression model was used to explore the relationship between RT mutations and advanced liver disease (ALD). The mutation rate gradually increased from ASC to HCC (P for trend < 0.05). Logistic regression analysis showed that one RT site mutation, rtS106A/C, was significantly associated with the ALD. Multivariate regression analysis confirmed that two RT mutations, rtH55R/Q/K and rtS137T/Q/E, were independent risk factors for HBV-related HCC. The current study reveals that mutations within the RT region might be associated with the progression of HBV-related liver diseases and might serve as predictive biomarkers for patients with HBV infection at high risk of developing HCC.",
+    "journal": "Virus genes",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Jin Fang",
+      "Li Dongli",
+      "Zou Weihua",
+      "Zhong Jianfeng",
+      "Tong Zhaowei",
+      "Qian Fuchu"
+    ],
+    "doi": "10.3390/ijms21176366",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Huzhou Central Hospital, Fifth School of Clinical Medicine of Zhejiang Chinese Medical University, Huzhou, Zhejiang, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42518075/"
+  },
+  {
+    "pmid": "42517902",
+    "title": "Prognostic factors and treatment response in previously treated hepatocellular carcinoma patients receiving Y-90 radioembolization combined with targeted-immunotherapy: an exploratory analysis.",
+    "abstract": "To evaluate treatment response and identify factors associated with outcomes in previously treated hepatocellular carcinoma (HCC) patients receiving Y-90 radioembolization combined with targeted therapy and immunotherapy (Y-90 + TT + IT). This retrospective study included 30 previously treated HCC patients (11 with prior surgery, 19 without) who received Y-90 + TT + IT. At a median follow-up of 9.7 months (95% CI, 8.5-13.9), 23 PFS events and 9 overall survival (OS) events occurred. Patient‑level response was assessed in 24 patients (all with PFS events or > 6‑month follow‑up without progression). Univariable Cox regression was used for PFS and OS; owing to few OS events (n = 9), OS analyses were exploratory. For PFS, an exploratory multivariable model (backward stepwise) was also constructed. Objective response rate was 37.5% (9/24) and disease control rate 75.0% (18/24); infiltrative imaging appearance was the only feature associated with non‑response (p = 0.042). Prior surgery was associated with worse PFS in both patient-level (HR 3.78, p = 0.004) and lesion-level (HR 3.32, p = 0.024) analyses; however, the lesion-level association was not confirmed in a sensitivity analysis restricted to one index lesion per patient (p = 0.128) and should be interpreted cautiously as it may reflect within‑patient clustering. Prior surgery remained significant in multivariable analysis (p = 0.004). In univariable analysis for OS, total bilirubin (p = 0.019), lesion number (p = 0.022), gamma-glutamyl transferase (GGT; p = 0.041), and tumor-to-normal liver uptake ratio (TNR; p = 0.008) were associated with OS. In this exploratory cohort of previously treated HCC patients receiving Y-90 + TT + IT, prior surgery was associated with worse patient‑level PFS. Infiltrative imaging appearance was associated with non‑response. In univariable analysis, GGT, TNR, total bilirubin, and lesion number showed exploratory associations with OS. These findings generate hypotheses and require valida",
+    "journal": "Abdominal radiology (New York)",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Chen Jianwei",
+      "Wang Xiaolong",
+      "Li Xiaoqi",
+      "Chen Qihong",
+      "Zhu Yuemin",
+      "Zheng Dechun",
+      "Wen Liting",
+      "Wu Juyi"
+    ],
+    "doi": "10.1200/JCO.2014.57.9151",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Radiology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital (Fujian Branch of Fudan University Shanghai Cancer Center), Fuzhou, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517902/"
+  },
+  {
+    "pmid": "42517598",
+    "title": "Hypothalamic Control of Liver Health and Disease: From Circuits to Pathophysiology and Therapies.",
+    "abstract": "The liver is the body's principal metabolic hub, reprogramming its functions according to physiological demands. Beyond local nutrient and hormonal cues, the hypothalamus acts as a central command node, integrating systemic signals to coordinate hepatic glucose and lipid homeostasis, bile acid flux, and regeneration. Dysregulation of this hypothalamus-liver axis is a core driver of liver disease, from steatotic liver disease to hepatocellular carcinoma. In this Review, we discuss established knowledge and recent advances in the neural and neuroendocrine pathways that connect the hypothalamus to the liver. We examine how specific signals guide physiological adaptation and how their maladaptive plasticity fuels disease progression. We also evaluate emerging therapeutic strategies that target this neuro-hepatic interface, including circuit-specific pharmacology and bioelectronic modulation, and outline key translational challenges. Decoding the hypothalamus-liver axis not only reveals a fundamental principle of inter-organ communication but also points to new approaches for restoring liver homeostasis.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Tang Qin",
+      "Li Jiahui",
+      "Song Haiying",
+      "Zhang Ailin",
+      "Zeng Haifeng",
+      "Xu Yining",
+      "Mo Li",
+      "He Jinhan"
+    ],
+    "doi": "10.1002/advs.76747",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "affiliation_sample": "Department of Pharmacy, Institute of Clinical Pharmacy, West China Hospital of Sichuan University, Chengdu, Sichuan, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517598/"
+  },
+  {
+    "pmid": "42517518",
+    "title": "A Personalized Haplotype-Resolved Near-Gapless Genome Framework for Somatic Variant Discovery in Hepatocellular Carcinoma.",
+    "abstract": "Cancer genome analysis still relies largely on universal reference genomes, which can obscure patient-specific variation in repetitive, polymorphic, and structurally complex regions. Here, we generated personalized, haplotype-resolved near-gapless assemblies from paired hepatocellular carcinoma (HCC) tumor and matched normal tissues using PacBio HiFi, ultra-long Oxford Nanopore, and Hi-C sequencing. The matched normal assembly served as a personalized reference for tumor analysis, improving read alignment relative to GRCh38, reducing multi-mapping, and achieving alignment performance comparable to T2T-CHM13. This patient-specific coordinate framework identified additional somatic small variants and structural variants, including variants missed or ambiguously represented by standard references. These assemblies also improved access to centromeric regions that are poorly captured by standard references, identifying patient-specific tumor-associated changes in assembled centromeric sequence content and repeat composition. Haplotype-resolved transcriptomic analysis identified 205 allelic pairs with allele-specific expression, including six dual protein-coding tumor-restricted candidates. Multi-omic integration further prioritized candidate regulatory alterations in MET and HSD17B2, supported by allele-dependent luciferase reporter activity. These findings support a patient-centric assembly framework that complements standard references for resolving coding and non-coding somatic alterations in HCC and provides a foundation for future cohort-scale validation.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Lin Jiazheng",
+      "Xiao Yao",
+      "Luo Shuangzi",
+      "Li Yifan",
+      "Zhang Wenfei",
+      "Zhang Xiaoyu",
+      "Wang Xinyi",
+      "Wu Di"
+    ],
+    "doi": "10.1002/advs.76856",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Hunan Research Center of the Basic Discipline for Cell Signaling, Hunan Provincial Key Laboratory of Medical Virology, College of Biology, Hunan University, Changsha, Hunan, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517518/"
+  },
+  {
+    "pmid": "42517511",
+    "title": "RGS16 Aggravates Hepatic Ischemia-Reperfusion Injury via Hepatocyte-Intrinsic Apoptosis/Inflammation & Neutrophil Recruitment/NETosis.",
+    "abstract": "Hepatic ischemia-reperfusion injury (HIRI) is a frequent and severe complication after liver transplantation and hepatectomy, driven by sterile inflammation and lacking effective therapies. Regulator of G-protein signaling 16 (RGS16) is an inflammatory modulator, but its role in HIRI remains unclear. We found that RGS16 expression was markedly increased in the livers of post-hepatectomy patients and positively correlated with neutrophil extracellular trap formation (NETosis). Using hepatocyte-specific Rgs16 knockout and transgenic mouse models, we demonstrated that Rgs16 deficiency attenuated hepatic inflammation and apoptosis after HIRI, whereas Rgs16 overexpression significantly exacerbated liver injury. Integrated multi-omics analyses, including RNA-seq, MeRIP-seq, and mass spectrometry, identified C-X-C motif chemokine ligand 1 (CXCL1) as a key downstream effector of RGS16. Mechanistically, RGS16 competitively binds YTH domain family protein 3 (YTHDF3), displacing poly(A)-nuclease deadenylation complex subunit 3 (PAN3) and stabilizing m6A-modified Cxcl1 mRNA, thereby enhancing CXCL1 expression. Elevated CXCL1 promotes hepatocyte apoptosis and inflammation through C-X-C chemokine receptor 2 (CXCR2) and drives neutrophil recruitment and NETosis. Pharmacological inhibition of CXCL1 or degradation of NETs with DNase I significantly alleviated RGS16-induced liver injury. Collectively, RGS16 aggravates HIRI by amplifying hepatocyte-intrinsic CXCL1-CXCR2 signaling and CXCL1-mediated neutrophil recruitment and NETosis, suggesting RGS16 and its downstream pathways as potential therapeutic targets for HIRI.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Li Xinglong",
+      "Meng Zhanzhi",
+      "Yu Hongjun",
+      "Hua Yongliang",
+      "Li Zihao",
+      "Yin Bing",
+      "Qian Baolin",
+      "Li Zhongyu"
+    ],
+    "doi": "10.1002/advs.76817",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Minimally Invasive Hepatic Surgery, The First Affiliated Hospital of Harbin Medical University, Harbin, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517511/"
+  },
+  {
+    "pmid": "42517322",
+    "title": "Albumin for people with liver cirrhosis and bacterial infections.",
+    "abstract": "People with liver cirrhosis are at an increased risk of bacterial infections, with a high rate of complications and mortality. Adding albumin to antibiotics may reduce their occurrence. To assess the benefits and harms of intravenous administration of human albumin in people with liver cirrhosis and bacterial infections versus no intervention, placebo, or other intravenous fluids. We identified randomised clinical trials (RCTs) through electronic searches in the Cochrane Hepato-Biliary Group Controlled Trials Register, CENTRAL, MEDLINE, Embase, LILACS, Science Citation Index Expanded, and Conference Proceedings Citation Index-Science. We searched online clinical trial registries for unpublished or ongoing trials and checked reference lists for additional trials (latest search date: 20 August 2025). RCTs comparing albumin versus no intervention, placebo, or other intravenous fluids, in people with infection in cirrhosis. Critical outcomes: all-cause mortality, serious adverse events, and health-related quality of life. Among the important outcomes were kidney impairment, acute liver decompensation, acute-on-chronic liver failure, and septic shock. We used the Cochrane risk of bias (RoB) 2 tool. We used standard Cochrane methods. We meta-analysed outcome data at the longest follow-up. We presented dichotomous outcomes as risk ratios (RR) or odds ratios (OR), with 95% confidence intervals (CI), and a random-effects model. We assessed the certainty of evidence with GRADE. We used 0.25 minimal important difference and optimal information size to assess imprecision. We included 11 parallel-group RCTs (published between 1999 and 2022), with 1273 adults with cirrhosis and bacterial infections. One trial was a multicentre trial conducted in eight European countries, and ten were conducted in India, Spain, China, France, Egypt, and Taiwan. The trials' settings were clinics or university hospitals. Trial participants had spontaneous bacterial peritonitis (n = 388; five trials)",
+    "journal": "The Cochrane database of systematic reviews",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Simonetti Rosa G",
+      "Perricone Giovanni",
+      "Nikolova Dimitrinka",
+      "Menon Sonia",
+      "Gluud Christian"
+    ],
+    "doi": "10.1002/14651858.CD014636.pub2",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "affiliation_sample": "Cochrane Hepato-Biliary Group, Copenhagen Trial Unit, Centre for Clinical Intervention Research, The Capital Region, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517322/"
+  },
+  {
+    "pmid": "42517162",
+    "title": "Single-Cell Dissection of the Immune Microenvironment in Intrahepatic Metastasis of Multifocal Hepatocellular Carcinoma.",
+    "abstract": "Intrahepatic metastasis in multifocal hepatocellular carcinoma is associated with poor prognosis and therapeutic resistance, yet the immune mechanisms driving disease progression remain unclear. Here, we analyzed genetic and immune differences between primary tumors and intrahepatic metastatic lesions using sequencing approaches and spatial validation methods. We found that metastatic lesions shared key genomic features with primary tumors but exhibited a distinct immunosuppressive environment enriched in myeloid and T cell populations. In particular, a subset of macrophages expressing glycoprotein nonmetastatic melanoma protein B (GPNMB) was consistently enriched in metastatic niches across multiple independent cohorts. These macrophages were spatially colocalized with CD8+ T cells exhibiting features of terminal exhaustion. Mechanistically, integrated multiomics and functional analyses revealed that GPNMB overexpression triggers lipid metabolic rewiring via the phosphatidylinositol 3-kinase/AKT-cyclooxygenase-2 cascade, leading to elevated prostaglandin E2 secretion, which directly suppresses CD8+ T cell cytotoxicity. Specific silencing of this subset using a dual-targeted, lipid-polymer nanoparticle (APLsiGpnmb) effectively reversed T cell exhaustion, inhibited metastasis, and synergized with anti-programmed death 1 immunotherapy in mouse models without inducing systemic toxicity. These findings identify GPNMB-positive macrophages as key metabolic and immune regulatory hubs, suggesting that targeting the GPNMB-prostaglandin E2 axis provides a promising precision therapeutic strategy for intrahepatic metastasis in multifocal hepatocellular carcinoma.",
+    "journal": "Research (Washington, D.C.)",
+    "pub_date": "2026-07-27",
+    "authors": [
+      "Xu Yuyan",
+      "Zhang Cheng",
+      "Ji Zhuocheng",
+      "Liu Chang",
+      "Cai Lei",
+      "Wang Chunming",
+      "Liao Hangyu",
+      "Wen Yaohong"
+    ],
+    "doi": "10.34133/research.1372",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Second Department of Hepatobiliary Surgery, General Surgery Center, Guangdong Provincial Research Center for Artificial Organ and Tissue Engineering, Guangzhou Clinical Research and Transformation Center for Artificial Liver, Institute of Regenerative Medicine, Zhujiang Hospital, Southern Medical Un",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517162/"
+  },
+  {
+    "pmid": "42509505",
+    "title": "Multimodal analysis of the learning curve for pure laparoscopic donor right hepatectomy in a low-volume transplant center: a comparative cohort study.",
+    "abstract": "The adoption of pure laparoscopic donor right hepatectomy (PLDRH) has been limited by a perceived steep learning curve, traditionally estimated at 60-70 cases. This study evaluates whether \"second-generation\" laparoscopic surgeons can achieve proficiency more rapidly in a low-volume transplant center using structured training and standardized techniques. We analyzed 29 consecutive, non-selective PLDRH cases performed by a single surgeon. A multimodal CUSUM analysis, incorporating operative time, estimated blood loss, and the Comprehensive Complication Index, was used to define the learning curve, alongside a donor complexity score. Outcomes were compared with a cohort of 21 conventional open donor right hepatectomies. A three-phase learning progression was identified. Competency and proficiency were reached at cases 10 and 20, respectively. Phase 2 (cases 11-20) was characterized by a \"second learning curve\" as the team encountered more complex anatomical variations within the consecutive cohort. By Phase 3 (cases 21-29), surgical metrics stabilized with zero complications, even as case complexity increased. Compared to CODRH, the PLDRH group achieved similar safety profiles but significantly shorter hospital stays (p < 0.05). PLDRH can be safely implemented in low-volume centers with an accelerated learning curve. For surgeons with prior advanced laparoscopic expertise, institutional proficiency may be achieved within 20 cases. These findings suggest that standardized \"second-generation\" approaches may broaden the accessibility of laparoscopic donor surgery without compromising safety.",
+    "journal": "Surgical endoscopy",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Jearanaikulvanich Thanathorn",
+      "Thepbunchonchai Asara",
+      "Junrungsee Sunhawit",
+      "Chotirosniramit Anon",
+      "Udomsin Kanya",
+      "Lapisatepun Warangkana",
+      "Chanthima Phuriphong",
+      "Lapisatepun Worakitti"
+    ],
+    "doi": "10.1097/SLA.0000000000003914",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Surgery, Faculty of Medicine, Chiang Mai University, 110 Intavaroros Road, Sriphum, Muang, 50200, Chiang Mai, Thailand.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509505/"
+  },
+  {
+    "pmid": "42509500",
+    "title": "Application of the Arantius-first approach in a patient with right-sided ligamentum teres.",
+    "abstract": "Laparoscopic anatomical liver resection is usually guided by the Glissonian pedicle and hepatic veins as landmarks [1]. However, these landmarks and approaches may not be directly applicable in the presence of anatomical variations. Right-sided ligamentum teres (RSLT) is a rare anatomical variation, occurring in approximately 0.43% of patients [2]. The Arantius-first approach is a useful method for laparoscopic left hemi-hepatectomy in normal anatomy, taking advantage of the laparoscopic caudal view [3, 4]. Although established in normal anatomy, its applicability in anatomical variations remains uncertain. In RSLT, altered hilar plate orientation and portal branching pattern may complicate conventional left-sided Glissonian encirclement and increase the risk of misidentification, potentially resulting in injury to the right paramedian branch (RPM). The Arantius-first approach provides early exposure of the Arantius plate, an anatomical landmark independent of portal branching patterns, facilitating accurate recognition of the Glissonian pedicles. In addition, initial parenchymal dissection along the Arantius plate creates a wide dorsal space, allowing stepwise and safe Glissonian control. We successfully performed laparoscopic extended left hemi-hepatectomy using this approach in a patient with RSLT. An 80-year-old man was diagnosed with hepatocellular carcinoma with RSLT. The tumor measured 47 mm and was located in segments 4 and 8, just above the middle hepatic vein. Intraoperatively, the left hepatic vein was identified dorsally using the Arantius-first approach. Subsequently, G2 and the left paramedian branch (LPM; including G3 and G4) were encircled and divided. Along the hilar plate, G5 and a medial branch of G8vent were sequentially dissected. Keeping a margin around the tumor, the common trunk of the middle and left hepatic veins was divided, and extended left hemi-hepatectomy was completed. This video demonstrates how the Arantius-first approach can be rat",
+    "journal": "Surgical endoscopy",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Kubo Hidemasa",
+      "Ashida Ryo",
+      "Yamada Mihoko",
+      "Ohgi Katsuhisa",
+      "Kato Yoshiyasu",
+      "Otsuka Shimpei",
+      "Dei Hideyuki",
+      "Uesaka Katsuhiko"
+    ],
+    "doi": "10.1007/s11605-020-04683-7",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Division of Hepato-Biliary-Pancreatic Surgery, Shizuoka Cancer Center, 1007 Shimonagakubo, Sunto-Nagaizumi, Shizuoka, 4118777, Japan.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509500/"
+  },
+  {
+    "pmid": "42509424",
+    "title": "Novel copper-phenothiazine-amino acid complexes exhibit selective anticancer activity via induction of apoptosis and cell cycle arrest in HepG2 cells.",
+    "abstract": "Phenothiazine derivatives have gained increasing attention as potential anticancer agents, while copper-based complexes represent promising cancer therapeutic candidates due to their redox activity, coordination versatility, and biological compatibility. In this study, five novel ternary copper(II) complexes were synthesized by combining phenothiazine derivatives with amino acids as secondary ligands to enhance structural diversity, solubility, and cellular uptake. The aim was to investigate their cytotoxic potency, selectivity, and underlying molecular mechanisms against human cancer cell lines, with a particular focus on hepatocellular carcinoma. The five copper(II) complexes were synthesized by combining phenothiazine derivatives-promazine (Prom) and triflupromazine (TFP)-with biologically relevant amino acids (methionine, tryptophan, tyrosine, and serine) as secondary ligands. Using MTT assays, the synthesized complexes [Cu(Prom)(Meth)Cl], [Cu(Prom)(Tryp)Cl]H2O, [Cu(Prom)(Tyr)Cl], [Cu(Prom)(Ser)Cl], and [Cu(TFP)(Ser)Cl] were assessed for their in vitro anticancer efficacy against five human cancer cell lines. Among them, [Cu(TFP)(Ser)Cl] exhibited the highest cytotoxic potency and selectivity toward HepG2 liver cancer cells, with an IC50 value of 15.15 µg/mL. Mechanistic studies revealed that this complex induces apoptosis, cell cycle arrest at G2/M phase, and autophagy, as confirmed by flow cytometric analysis. Gene expression analysis showed significant downregulation of the antiapoptotic BCL2 gene, marked upregulation of the autophagy marker LC3, and moderate upregulation of CDK4. These results were confirmed by molecular docking experiments, which revealed advantageous interactions with proteins involved in cell cycle regulation and apoptosis. These results highlight phenothiazine-copper-amino acid complexes as promising anticancer agents and identify [Cu(TFP)(Ser)Cl] as a potential candidate for hepatocellular carcinoma therapy.",
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "pub_date": "2026-Jul-28",
+    "authors": [
+      "Tamim Sally M",
+      "Zayat Emad El",
+      "Ibrahim Sherif Abdelaziz",
+      "Shoukry Azza A"
+    ],
+    "doi": "10.1093/mtomcs/mfab064",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Biotechnology Program, Faculty of Science, Cairo University, Giza, 12613, Egypt.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509424/"
+  },
+  {
+    "pmid": "42509415",
+    "title": "The epigenetic KMT5C-HDAC1 axis promotes hepatocellular carcinoma stemness and progression through SERPINA4 repression and chromatin compaction.",
+    "abstract": "Epigenetic dysregulation is a hallmark of hepatocellular carcinoma (HCC), yet the mechanisms linking chromatin modifiers to tumor stemness remain incompletely understood. Here, we identify the histone methyltransferase KMT5C as master regulator of HCC stemness and progression through integrative analyses of patient-derived organoids, murine models, and clinical cohorts. Mechanistically, KMT5C interacts with HDAC1 to promote H4K20me3-dependent chromatin compaction and histone deacetylation, cooperatively silencing tumor suppressor genes. Dual pharmacological inhibition of KMT5C and HDAC1 potently suppresses tumor growth, eliminates cancer stem cells, and sensitizes HCC to lenvatinib. Among their co-targets, we uncover SERPINA4 as a tumor suppressor that disrupts an oncogenic c-JUN/PRKCA/MAPK/c-FOS positive feedback loop. Notably, PRKCA is identified as a key and specific downstream effector of SERPINA4 in HCC. Clinically, KMT5C overexpression correlates with elevated PRKCA expression, reduced SERPINA4 levels, and poor patient survival. Our work establishes the KMT5C-HDAC1 axis as a central epigenetic switch that governs HCC stemness and progression, revealing a co-targeting strategy for the treatment of aggressive HCC.",
+    "journal": "Oncogene",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Huang Hongbin",
+      "Huang Caini",
+      "Yang Pangfei",
+      "Xian Shiping",
+      "Liu Yang",
+      "Liu Ruiyang",
+      "Zhao Zhiju",
+      "Xiao Fei"
+    ],
+    "doi": "10.2174/1568009622666220428111327",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Infectious Diseases, The Fifth Affiliated Hospital, Sun Yat-sen University, Zhuhai, Guangdong Province, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509415/"
+  },
+  {
+    "pmid": "42509343",
+    "title": "TRIM27-Cas9-loaded EVs suppress HCC proliferation and enhance responsiveness to anti-PD-1 therapy by promoting ACSL4-mediated ferroptosis.",
+    "abstract": "Inducing ferroptosis in hepatocellular carcinoma (HCC) cells represents an important therapeutic strategy, but intrinsic resistance mechanisms often limit efficacy. Therefore, elucidating the mechanisms underlying ferroptosis resistance in HCC cells can facilitate the development of effective therapeutic strategies. Here, we performed genome-wide CRISPR/Cas9 library screens to identify TRIM27 as a key determinant of ferroptosis resistance. TRIM27 knockdown markedly potentiated erastin-induced ferroptosis in HCC cells, whereas TRIM27 overexpression suppressed the expression of fatty-acid metabolic enzymes including ACSL4 and reduced oxidized lipid accumulation. Mechanistically, TRIM27 directly binds with ACSL4 and promotes its K48-linked ubiquitination and degradation, thereby attenuating ferroptosis in HCC cells. Furthermore, we developed TRIM27-Cas9-loaded EVs with robust editing efficiency. These engineered EVs were readily internalized by HCC cells and preferentially accumulated in the liver. Functionally, TRIM27-Cas9-loaded EVs inhibited HCC cell proliferation by enhancing ACSL4-mediated ferroptosis and significantly improved the anti-tumor efficacy of anti-PD-1 therapy in HCC. Collectively, our findings suggest that TRIM27 confers ferroptosis resistance via facilitating K48-linked ubiquitination and subsequent proteasomal degradation of ACSL4. TRIM27-Cas9-loaded EVs restore cellular sensitivity to ferroptosis, inhibit HCC proliferation, and sensitize HCC lesions to anti-PD-1 immunotherapy.",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Wen Jie",
+      "Wang Zhihui",
+      "Zeng Zhirui",
+      "Tian Yu",
+      "Liu Haikuan",
+      "Zhang Xiaokai",
+      "Niu Shaoqing",
+      "Ashrafizadeh Milad"
+    ],
+    "doi": "10.1128/Spectrum.00484-21",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Interventional Oncology, the First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509343/"
+  },
+  {
+    "pmid": "42509096",
+    "title": "Machine learning prediction of complications after surgery in cirrhotic patients: Integrating nutritional risk with liver function.",
+    "abstract": "Liver disease is among the most common medical conditions in the world, leading to high rates of morbidity and death. Early identification of liver diseases enables prompt care, which may prevent many conditions from progressing to more serious stages, like cirrhosis or liver cancer. Traditionally, models often overlook the predictive importance of nutritional status and focus primarily on liver-specific measures. This research aims to propose a machine learning (ML) approach to predict surgical complications in patients with liver cirrhosis by integrating existing liver function metrics with a comprehensive nutritional risk assessment. In this study, we used the MIMIC-IV dataset, which consists of patient medical records. We utilized a 504-patient cohort with features such as age, gender, bilirubin, albumin, INR (International Normalized Ratio), Child-Pugh score, MELD score (Model for End-Stage Liver Disease), NRS (Nutritional Risk Screening), complication, and composite risk. Mortality was used as the primary outcome variable for prediction. ML models were utilized for training, along with correlation analysis and Explainable Artificial Intelligence (XAI) approaches like SHAP and LIME to interpret the model. The stackable ensemble model was employed to enhance the model's performance and robustness. The proposed model achieved an accuracy of 94% and an AUC of 0.97. This methodology emphasizes the critical importance of nutritional assessment in surgical risk classification. It offers a clinically relevant framework to guide preparatory strategies, promote collaborative decision-making, and improve perioperative care pathways for this vulnerable population.",
+    "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Yao Yao",
+      "Chen Xinxin",
+      "Wei Zijie"
+    ],
+    "doi": "10.1016/j.ajg.2026.06.009",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Nutrition Department, Xingtai People's Hospital, No. 818 Xiangdu North Road, Xingtai city, Hebei Province, 054000, China. Electronic address: yaoy_sd@163.com.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509096/"
+  },
+  {
+    "pmid": "42508829",
+    "title": "Targeting TOMM40 unleashes immunogenic mitophagy to facilitate antigen presentation and immunotherapy sensitization.",
+    "abstract": "Mitophagy is a mitochondrial quality control process that maintains cellular homeostasis in cancer, yet whether its dysregulation can be exploited to induce tumor immunogenicity remains unclear. We integrated pancancer single-cell transcriptomic analyses with genetic perturbation strategies in hepatocellular carcinoma models, including CRISPR/Cas9-mediated gene depletion, in vivo syngeneic tumor systems, and RNA-based lipid nanoparticle delivery. Mechanistic investigations combined mitochondrial functional assays, imaging-based mitophagy analysis, flow cytometry, and transcriptional profiling, together with evaluation of immune checkpoint blockade responses in preclinical and clinical cohorts. We identify translocase of the outer mitochondrial membrane 40 (TOMM40) as a mitochondrial import gatekeeper that restrains PINK1-Parkin-dependent mitophagy. Loss of TOMM40 induces catastrophic mitochondrial dysfunction and triggers a lethal form of hyperactivated mitophagy. This process is immunogenic and converts immune-cold tumors into immune-inflamed states characterized by enhanced CD8+ T-cell infiltration and activation. Mechanistically, TOMM40 deficiency leads to intracellular reactive oxygen species accumulation, which activates NF-κB signaling and drives upregulation of major histocompatibility complex class I antigen presentation machinery, thereby increasing tumor visibility to cytotoxic T cells. In parallel, TOMM40 loss induces programmed death-ligand 1 upregulation, establishing an adaptive immune resistance program. Functionally, TOMM40-deficient tumors exhibit markedly increased responsiveness to immune checkpoint blockade and generate systemic antitumor immune protection. Clinically, a TOMM40-loss transcriptional signature is associated with improved immunotherapy outcomes across multiple independent patient cohorts. TOMM40 functions as a mitochondrial immune checkpoint that controls the threshold of immunogenic mitophagy. Its loss reprograms mitochondrial stre",
+    "journal": "Journal for immunotherapy of cancer",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Zhang Zhiwei",
+      "Xie Yu-An",
+      "Mu Chenglin",
+      "Sheng Shiying",
+      "Zhang Jinyuan",
+      "Han Jie",
+      "Li Jiwen",
+      "He Zhengfu"
+    ],
+    "doi": "10.1136/jitc-2026-015462",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Cardiac Surgery, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508829/"
+  },
+  {
+    "pmid": "42508616",
+    "title": "Cholecystectomy before diagnosis of primary sclerosing cholangitis is associated with markedly worsened transplant free survival.",
+    "abstract": "Gallbladder abnormalities are common in primary sclerosing cholangitis (PSC) and commonly lead to cholecystectomy. As the gallbladder plays a role in regulating bile composition and biliary pressure, it has been proposed to exert a protective effect in PSC. We aimed to evaluate the impact of cholecystectomy and its timing on biochemistry, bile composition, and outcomes in PSC. A total of 977 patients with PSC enrolled in the prospective Helsinki PSC registry who underwent ERCP. Of these, 163 patients (16.7%) underwent cholecystectomy, either before (n=100) or after (n=63) the diagnosis of PSC. Clinical outcomes were assessed using the composite endpoints of liver-related death, hepatobiliary malignancy, or liver transplantation. Patients who had undergone cholecystectomy before PSC diagnosis had more advanced disease at baseline, as reflected by higher ERCP scores, (p=0.012), Mayo risk scores, FIB-4 indices (p<0.001), and more advanced fibrosis on liver histology (p=0.020). The composite endpoint was reached by 37 patients (37.0%) with prior cholecystectomy, compared with 53 patients (6.5%) with an intact gallbladder and 10 patients (5.9%) who underwent cholecystectomy after PSC diagnosis. In multivariable regression analysis adjusting for timing of cholecystectomy, sex, age, and disease severity, cholecystectomy prior to PSC diagnosis was associated with a more than fivefold increased risk of reaching the composite endpoint (HR 5.16, 95% CI 3.00-8.88, p<0.001); using PSC patients with an intact gallbladder as the reference. The restricted mean survival time was 5.0 years shorter in patients with prior cholecystectomy, p<0.001. Cholecystectomy performed before the diagnosis of PSC is associated with more advanced disease and markedly impaired prognosis, including significantly reduced liver transplantation-free survival and substantially increased risk of liver transplantation. This large prospective registry study demonstrates that cholecystectomy performed before ",
+    "journal": "JHEP reports : innovation in hepatology",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Färkkilä M A",
+      "Arola J T",
+      "Tenca A",
+      "Jokelainen K",
+      "Boyd S",
+      "Kautiainen H"
+    ],
+    "doi": "10.1016/j.jhepr.2026.101967",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Helsinki University, Helsinki, Finland; Helsinki University Hospital, Dept. of Gastroenterology, Helsinki, Finland. Electronic address: martti.farkkila@hus.fi.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508616/"
+  },
+  {
+    "pmid": "42508157",
+    "title": "Procurement Versatility and Waitlist Outcomes in Patients With Hepatocellular Carcinoma.",
+    "abstract": "Liver transplantation is curative for hepatocellular carcinoma (HCC) but organ scarcity and allocation methods pose challenges. Transplant center procurement versatility through use of static cold storage (SCS), living donor liver transplantation (LDLT), and machine perfusion (MP) may decrease waitlist death and delisting (DDL). We performed a retrospective review of HCC patients added to the liver transplantation waitlist between February 2020 and December 2023 identified using the Organ Procurement and Transplantation Network database. Centers were stratified as performing SCS, SCS and MP (MP), SCS and LDLT (LDLT), and all modalities (SCS, MP, and LDLT). Patient and center factors associated with DDL were analyzed. 8358 patients with HCC were listed for liver transplantation. The waitlist DDL rate was 22.4%. Good functional status (hazard ratio [HR] 0.40, P < 0.01) and female sex (HR 0.74, P < 0.01) were protective of waitlist DDL. Patients at SCS centers had the highest rate of waitlist DDL (26.2%), while those at MP centers had the lowest (19.7%). Listing at MP (HR 0.83, P < 0.01) and SCS, MP, and LDLT centers (HR 0.80, P < 0.01) was protective of waitlist DDL. Female patients and those with good functional status experienced less waitlist DDL. Center procurement versatility through use of MP and LDLT in addition to SCS is also associated with decreased DDL.",
+    "journal": "The Journal of surgical research",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Eng Nina L",
+      "Olenwine Katrina",
+      "Taute Elana",
+      "Martin Sean P"
+    ],
+    "doi": "10.1016/j.jss.2026.07.003",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Department of Surgery, Penn State College of Medicine, Hershey, Pennsylvania.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508157/"
+  },
+  {
+    "pmid": "42507757",
+    "title": "Stress-specific 14-3-3-client modules in digestive cancers: an evidence-graded review of adaptive survival and therapy resistance.",
+    "abstract": "14-3-3 proteins are phosphoserine- and phosphothreonine-binding adaptors that regulate client localization, stability and activity under cellular stress. This narrative review synthesizes stress-specific 14-3-3-client modules in gastric, colorectal, pancreatic, hepatocellular and biliary cancers. Modules were classified as high, moderate, early/context-dependent or background according to mechanistic evidence, functional perturbation, client mapping, treatment-state validation and clinical association. In gastric cancer, G3BP stress granule assembly factor 1 (G3BP1) cooperates with YWHAZ-encoded 14-3-3ζ to retain pro-apoptotic Bax in the cytoplasm. In colorectal cancer, SFN-encoded 14-3-3σ restricts Yin Yang 1 (YY1), sustaining the unfolded protein response and chemotherapy tolerance. In pancreatic cancer, SFN-encoded 14-3-3σ interacts with Yes-associated protein 1 (YAP1) to promote ribonucleotide reductase expression and gemcitabine resistance. In hepatobiliary cancers, SFN-related modules support anoikis resistance but remain context dependent. Clinically relevant units are stress-specific 14-3-3-client complexes rather than total 14-3-3 expression.",
+    "journal": "Cancer biology & therapy",
+    "pub_date": "2026-Dec-31",
+    "authors": [
+      "Li Rudong",
+      "Zhao Zhipeng",
+      "Wang Xudong"
+    ],
+    "doi": "10.1080/15384047.2026.2710413",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "affiliation_sample": "Department of Gastrointestinal Nutrition and Hernia Surgery, The Second Hospital of Jilin University, Changchun, Jilin, People's Republic of China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507757/"
+  },
+  {
+    "pmid": "42507021",
+    "title": "A novel diagnostic role of 99mTc-GSA scintigraphy in distinguishing hepatocellular carcinoma from hepatic angiomyolipoma.",
+    "abstract": "Hepatic angiomyolipoma (HAML) is a rare benign liver tumor that is difficult to differentiate from hepatocellular carcinoma (HCC) preoperatively. This study aimed to evaluate the diagnostic value of Technetium-99 m-diethylenetriaminepentaacetic acid-galactosyl human serum albumin (99mTc-GSA) scintigraphy for HAML. Six patients with HAML were enrolled, and 139 patients with hepatocellular carcinoma were analyzed as a control group. Imaging findings from computed tomography, magnetic resonance imaging, and 99mTc-GSA scintigraphy were investigated, and the radioactivity of 99mTc-GSA scintigraphy was measured in patients with HAML and HCC. In 5 cases, early enhancement was observed in five cases, and three cases showed washout in the delayed phase. Hepatocyte phase defects were detected in all cases, and early venous return was observed in two cases. All cases showed a defect in radioactivity on 99mTc-GSA scintigraphy, and the immunohistochemistry of asialoglycoprotein receptor (ASGPR) was negative in HAML compared to normal liver tissue in all cases. The tumor-to-liver signal ratio was significantly higher in hepatocellular carcinoma than in hepatic angiomyolipoma (p < 0.01). 99mTc-GSA scintigraphy may help distinguish hepatic angiomyolipoma from hepatocellular carcinoma.",
+    "journal": "Surgery today",
+    "pub_date": "2026-Jul-27",
+    "authors": [
+      "Taniai Tomohiko",
+      "Furukawa Kenei",
+      "Gomisawa Kazutaka",
+      "Watanabe Ken",
+      "Ohki Kazuyoshi",
+      "Haruki Koichiro",
+      "Yanagaki Mitsuru",
+      "Yamahata Yuto"
+    ],
+    "doi": "10.1016/j.humpath.2009.05.011",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "affiliation_sample": "Division of Hepatobiliary and Pancreatic Surgery, Department of Surgery, The Jikei University School of Medicine, 3-25-8, Nishi-Shinbashi, Minato-ku, Tokyo, 105-8461, Japan.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507021/"
+  },
+  {
+    "pmid": "42505057",
+    "title": "Cost-effectiveness of finotonlimab plus bevacizumab versus sorafenib as first-line therapy in unresectable hepatocellular carcinoma in China.",
+    "abstract": "Hepatocellular carcinoma (HCC) imposes a substantial health burden in China. Finotonlimab plus bevacizumab recently prolonged progression-free survival (PFS) and overall survival (OS) vs. sorafenib, but its economic value remains unknown. Here we evaluated the cost-effectiveness of finotonlimab plus bevacizumab vs. sorafenib from the Chinese healthcare system perspective. Parametric survival models were fitted to extrapolate PFS and OS. Total costs, life-years (LYs), quality-adjusted life-years (QALYs), incremental cost-effectiveness ratios (ICERs), incremental net monetary benefit (INMB), and incremental net health benefit (INHB) were estimated at a willingness-to-pay (WTP) threshold of $27,906 per QALY. Uncertainty was evaluated by one-way and two-way sensitivity analyses, probabilistic sensitivity analysis (PSA), subgroup analyses, scenario analyses, and price simulations. In the base-case analysis, sorafenib yielded 1.74 LYs and 1.25 QALYs at a total cost of $10,303.10, whereas finotonlimab plus bevacizumab yielded 3.01 LYs and 2.18 QALYs at a total cost of $58,595.49. Compared with sorafenib, the combination increased costs by $48,292.39 and generated gains of 1.27 LYs and 0.93 QALYs, resulting in ICERs of $38,203.46 per LY and $51,899.31 per QALY. INMB (-$22,325.82) and INHB (-0.80 QALYs) were negative. Sensitivity analyses identified PFS utility and bevacizumab cost as key drivers, but all ICERs remained above the WTP threshold. In PSA, the mean ICER was $50561.81 per QALY, and the probability of cost-effectiveness was 0% at the prespecified threshold. Based on the assumptions and inputs used in the present model, finotonlimab plus bevacizumab was unlikely to be cost-effective compared with sorafenib at the prespecified WTP in China.",
+    "journal": "Human vaccines & immunotherapeutics",
+    "pub_date": "2026-Dec-31",
+    "authors": [
+      "Xu Huihui",
+      "Yu Shengjian",
+      "Yang Yan",
+      "Bian Haoze",
+      "Wu Zimiao",
+      "Xuan Feng"
+    ],
+    "doi": "10.1080/21645515.2026.2707849",
+    "language": "eng",
+    "publication_types": [
+      "Journal Article",
+      "Comparative Study"
+    ],
+    "affiliation_sample": "Department of Infectious Diseases, Cixi People's Hospital, Wenzhou Medical University, Ningbo, China.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42505057/"
+  },
+  {
+    "pmid": "42517043",
+    "title": "Case Report: Surgical management of giant hepatic cavernous haemangioma with Kasabach-Merritt syndrome in an adult.",
+    "abstract": "A 25-year-old woman presented with a progressively enlarging abdominal mass and severe coagulopathy (fibrinogen 0.6 g/L). Imaging revealed a giant, predominantly calcified hepatic lesion lacking typical nodular enhancement, raising suspicion for hamartoma or cystadenoma. Despite aggressive fibrinogen replacement, coagulopathy persisted. Multidisciplinary team discussion confirmed Kasabach-Merritt syndrome secondary to giant hepatic haemangioma. Anatomical left lateral sectionectomy was performed successfully. Histopathology confirmed cavernous haemangioma with thrombosis, infarction, and calcification. Coagulation parameters normalized immediately postoperatively. This case highlights the diagnostic pitfall of non-enhancing giant hepatic haemangioma and underscores the curative role of early surgical resection in adult Kasabach-Merritt syndrome.",
+    "journal": "Frontiers in medicine",
+    "pub_date": "2026-07-13",
+    "authors": [
+      "Xu Liuyang",
+      "Bai Jianwei",
+      "Tu Zhenqian",
+      "Zhu Yuan",
+      "Ye Zeng",
+      "Liao Xiaofeng"
+    ],
+    "doi": "10.5582/bst.2023.01152",
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517043/"
+  },
+  {
+    "pmid": "42516535",
+    "title": "Prediction of Long-Term Prognosis in Patients With Hepatocellular Carcinoma Using the National Clinical Database Risk Calculator.",
+    "abstract": "To determine the value of the National Clinical Database (NCD) risk calculator for predicting surgical outcomes and long-term prognosis in patients undergoing resection for hepatocellular carcinoma (HCC). We retrospectively analyzed data from 210 patients with HCC who underwent initial hepatic resection between January 2016 and December 2022. We calculated predicted incidence of surgery-related mortality (predicted mortality rate) using the NCD risk calculator. We assessed the relationship between predicted mortality rate and clinicopathological factors, including their relationship with long-term prognosis. A predicted mortality rate of ≥ 3% significantly correlated with worse recurrence-free survival and overall survival (OS), with a high-risk group showing increased blood loss, longer hospital stays, and higher severe complication rates. Multivariate analysis identified predicted mortality rate of ≥ 3% as an independent prognostic indicator for poor OS, alongside male sex and microvascular invasion. The NCD risk calculator showed potential to predict not only short-term outcomes but also long-term prognosis in patients with HCC undergoing resection. The NCD risk calculator may be a valuable complementary tool for decision-making about liver resection in patients with HCC.",
+    "journal": "Annals of gastroenterological surgery",
+    "pub_date": "2026-Jul-26",
+    "authors": [
+      "Tsukagoshi Mariko",
+      "Araki Kenichiro",
+      "Kubo Norio",
+      "Igarashi Takamichi",
+      "Kawai Shunsuke",
+      "Hagiwara Kei"
+    ],
+    "doi": "10.1002/ags3.70256",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42516535/"
+  },
+  {
+    "pmid": "42516067",
+    "title": "Emerging diagnostic strategies in neonatal cholestasis: toward earlier and more accurate identification of biliary atresia.",
+    "abstract": "Timely diagnosis of biliary atresia remains critical in infants with neonatal cholestasis, as delays in recognition are associated with reduced native liver survival and poorer outcomes following hepatoportoenterostomy. However, distinguishing biliary atresia from other causes of neonatal cholestasis remains challenging because of overlapping clinical, laboratory, and imaging features. This review highlights emerging diagnostic strategies aimed at improving earlier and more accurate identification of biliary atresia. Recent advances include development of serum biomarkers such as matrix metalloproteinase-7 (MMP-7), expanded use of next-generation sequencing for genetic cholestatic disorders, and refinements in ultrasonographic evaluation including hepatic subcapsular flow and artificial intelligence-assisted image interpretation. Additional investigational approaches include elastography, advanced magnetic resonance imaging techniques, and minimally invasive cholangiographic methods. Emerging diagnostic tools are reshaping the evaluation of neonatal cholestasis and may improve differentiation of biliary atresia from other hepatobiliary disorders while reducing diagnostic delays and reliance on invasive procedures. Integration of biomarkers, molecular diagnostics, and advanced imaging into standardized clinical pathways may facilitate earlier intervention and improve outcomes, although multicenter validation and equitable implementation remain important priorities.",
+    "journal": "Current opinion in pediatrics",
+    "pub_date": "2026-Jul-23",
+    "authors": [
+      "Nonga Dieudonne",
+      "Hartjes Kayla",
+      "Lakhani Alyshah",
+      "Wawrzyniak Alexa",
+      "Molina Andrea Newman",
+      "Pandurangi Sindhu"
+    ],
+    "doi": "10.1097/JS9.0000000000004293",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42516067/"
+  },
+  {
+    "pmid": "42515813",
+    "title": "Correction: Wali et al. Epigenetic Alterations in Hepatocellular Carcinoma: Mechanisms, Biomarkers, and Therapeutic Implications. Pharmaceuticals 2025, 18, 1281.",
+    "abstract": "In the published manuscript [...].",
+    "journal": "Pharmaceuticals (Basel, Switzerland)",
+    "pub_date": "2026-Jun-25",
+    "authors": [
+      "Wali Adil Farooq",
+      "Ansari Abid Reza",
+      "Mir Prince Ahad",
+      "El-Tanani Mohamed",
+      "Babiker Rasha",
+      "Hussain Md Sadique"
+    ],
+    "doi": "10.3390/ph19070983",
+    "publication_types": [
+      "Published Erratum"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42515813/"
+  },
+  {
+    "pmid": "42515803",
+    "title": "Hepatic Safety Profile of Atomoxetine and Methylphenidate in Patients with ADHD: Disproportionality Analysis Using EudraVigilance Database Data.",
+    "abstract": "Background: Hepatotoxicity induced by atomoxetine (ATX) and methylphenidate (MPH) when used to treat ADHD is a rare but potentially serious complication. This study aims to describe the hepatic adverse drug reactions (ADRs) reported for ATX and MPH by analysing data from the EudraVigilance database. Methods: Individual case safety reports (ICSRs) listing ATX and/or MPH as suspected drugs and reporting at least one adverse event (AE) within the 'hepatobiliary disorders' system organ class (SOC) were extracted for the period from 1 January 2012 to 20 May 2025. Descriptive and disproportionality analyses were then performed. Results: During the study period, 421 ICSRs reporting AEs classified under the \"hepatobiliary disorders\" SOC and involving ATX and/or MPH as suspected drugs were retrieved (ATX, N = 232; MPH, N = 181). Most cases involved adult (N = 261) and female (N = 222) patients. The majority of reports were classified as serious (N = 349). Overall, 375 AEs were identified. Drug-induced liver injury (DILI) was the most frequently reported AE (N = 103 ATX; N = 47 MPH), followed by hepatitis (N = 20 ATX; N = 9 MPH) and jaundice (N = 15 ATX; N = 20 MPH). The disproportionality analysis, based on a head-to-head comparison, showed a higher reporting frequency of hepatobiliary disorders for ATX compared to MPH (ROR 2.41 [95%CI 2.11-3.11]). Specifically, ATX was associated with significantly higher reporting frequencies than MPH for the AEs of DILI, hepatitis, and jaundice (6.",
+    "journal": "Pharmaceuticals (Basel, Switzerland)",
+    "pub_date": "2026-Jul-21",
+    "authors": [
+      "Di Napoli Raffaella",
+      "Laino Ludovica Vittoria",
+      "Rafaniello Concetta",
+      "Di Costanzo Luigi",
+      "Sullo Maria Giuseppa",
+      "Scavone Cristina"
+    ],
+    "doi": "10.3390/ph19071122",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42515803/"
+  },
+  {
+    "pmid": "42515662",
+    "title": "Fucoidan-Mediated Biogenic Gold Nanoparticles from Padina tetrastromatica: In Vitro and In Silico Evaluation of Multifunctional Biological Activities.",
+    "abstract": "Purpose: This study sought to extract and characterize fucoidan from brown seaweed Padina tetrastromatica for the synthesis of fucoidan-gold nanoparticles (F-AuNPs) and to assess their physicochemical properties, as well as their antioxidant, anti-inflammatory, and anticancer activities, alongside potential molecular interactions with specific cancer-related targets. Methods: The extracted fucoidan-rich fraction was characterized for its sulfate content. Citrate-stabilized plain gold nanoparticles (plain AuNPs) were prepared and characterized as non-fucoidan nanoparticle controls. Comprehensive physicochemical characterization, including UV-Vis spectroscopy, Fourier-transform infrared spectroscopy (FTIR), transmission electron microscopy (TEM), X-ray diffraction (XRD), dynamic light scattering (DLS), zeta-potential analysis, and thermogravimetric analysis (TGA), was performed on the resultant fucoidan-functionalized AuNPs (F-AuNPs). Biological activities were assessed using different techniques: antioxidant potential (Ferric Reducing Antioxidant Power (FRAP) and 2,2-diphenyl-1-picrylhydrazyl (DPPH) assays), anti-inflammatory effects (NO inhibition in macrophages), and anticancer efficacy against HepG2 cells (MTT and flow cytometry). Potential molecular targets relevant to these activities were further explored in silico using molecular docking against key cancer-related proteins, providing hypotheses for future experimental validation. Results: The fucoidan-rich fraction show",
+    "journal": "Pharmaceuticals (Basel, Switzerland)",
+    "pub_date": "2026-Jun-23",
+    "authors": [
+      "El Newehy Ahmed S",
+      "Elshobary Mostafa E",
+      "Ismail Mona M",
+      "Alrebaish Abdulelah S",
+      "Sulaiman Adam A",
+      "Aldisi Dara"
+    ],
+    "doi": "10.3390/ph19070976",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42515662/"
+  },
+  {
+    "pmid": "42515615",
+    "title": "Are Direct-Acting Antivirals Effective and Safe for Hepatitis C Patients with Arterial Hypertension? Evidence from a Large Retrospective Real-World Study.",
+    "abstract": "Background/Objectives: Arterial hypertension (AH) and hepatitis C virus (HCV) infection are interlinked, with AH increasing the risk of severe liver disease and HCV contributing to cardiovascular issues. Treating HCV in hypertensive patients is critical, though data on direct-acting antivirals (DAAs) in this group remain limited. Methods: This retrospective study evaluated the effects of DAAs in AH patients with HCV using data from the 2015-2023 EpiTer-2 project, a multicenter study in Poland. Results: Among the 18,968 HCV-infected DAA-treated patients, 5976 had AH. These patients were older, predominantly women, and had higher rates of obesity, comorbidities, cirrhosis, hepatocellular carcinoma, and genotype 1b infection. Sustained virologic response rates were high and comparable between the AH and non-AH groups in the intent-to-treat (94.8% vs. 94.2%) and per-protocol analyses (97.6% vs. 97.6%). AH was not independently associated with treatment failure (OR 0.87, 95% CI: 0.69-1.10). Predictors of failure included genotype 3, decompensated liver function, cirrhosis, thrombocytopenia, and treatment with asunaprevir + daclatasvir. While therapy discontinuation was more common in the AH patients, most completed treatment, with fatigue being the most frequent adverse event. Although not directly evaluated, the overall safety outcomes suggest that potential drug-drug interactions with antihypertensive therapies are unlikely to have a major clinical impact in routine practice. Co",
+    "journal": "Viruses",
+    "pub_date": "2026-Jul-12",
+    "authors": [
+      "Brzdęk Michał",
+      "Rzymski Piotr",
+      "Zarębska-Michaluk Dorota",
+      "Poniedziałek Barbara",
+      "Lorenc Beata",
+      "Berak Hanna"
+    ],
+    "doi": "10.3390/v18070763",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42515615/"
+  },
+  {
+    "pmid": "42515582",
+    "title": "Molecular Characterization of Hepatitis Delta Virus in the Western Amazon, Acre, Brazil.",
+    "abstract": "Hepatitis delta (HDV) is the most severe form of chronic viral hepatitis, with rapid progression to cirrhosis and hepatocellular carcinoma, and remains neglected in the Amazon Basin. The state of Acre, in the Western Brazilian Amazon, is endemic for HDV, with a high prevalence of genotype 3 (HDV-3). This study aimed to analyze epidemiological data, quantify HDV RNA, identify genotypes, and describe the phylogeny and phylogeography of HDV in Acre. This cross-sectional study included patients positive for HBsAg and anti-HDV under follow-up at the Specialized Assistance Service (SAE) in Rio Branco, Acre, between March and November 2023. Blood samples were collected for HDV RNA quantification using one-step RT-qPCR. Samples with detectable viremia (Ct ≤ 30) underwent Nested-PCR, Sanger sequencing, phylogenetic analysis (Maximum Likelihood), temporal signal evaluation, and Bayesian phylogeographic reconstruction. Among 108 patients (median age 43; 55.6% female), HDV RNA was detected in 48.1%, with viral loads ranging from 140 to 24,000,000 copies/mL. Of these, 55.8% had >100,000 copies/mL. Genotyping (n = 41) identified exclusively HDV-3. Phylogenetic analysis revealed genetic heterogeneity among HDV-3 isolates, with the formation of two major phylogenetic clades. Bayesian analysis estimated tMRCA around 1818 and suggested dispersion from Amazonas to Acre and neighboring regions. HDV-3 predominates in Acre with high genetic diversity, indicating sustained viral circulation in the ",
+    "journal": "Viruses",
+    "pub_date": "2026-Jun-30",
+    "authors": [
+      "Souza Rutilene Barbosa",
+      "Dantas Thor Oliveira",
+      "de Souza Luiz Fellype Alves",
+      "Roca Tárcio P",
+      "Araújo Adrhyan",
+      "Queiroz Jackson A S"
+    ],
+    "doi": "10.3390/v18070730",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42515582/"
+  },
+  {
+    "pmid": "42515083",
+    "title": "Long-Term Outcomes After Hepatectomy for Alveolar Echinococcosis in Immunosuppressed Patients.",
+    "abstract": "Long-term outcomes after hepatectomy for alveolar echinococcosis (AE) in immunosuppressed patients remain poorly investigated. This study evaluated recurrence rates and recurrence-free/overall survivals (RFS/OS) after AE resection in immunocompromised and immunocompetent patients. Consecutive patients operated for liver AE in two university hospitals were retrospectively collected (2000-2021). Immunosuppressed patients were defined as patients who had a reduced ability to fight infection due to certain diseases or treatments. 195 patients had hepatectomy for liver AE. Preoperative albendazole was given in 111 cases (57%). Fifty-two patients (27%) were considered immunosuppressed. Patients in the immunosuppressed and immunocompetent cohorts had similar preoperative characteristics. Recurrences occurred in 10 patients (immunosuppressed group: 4, non-immunosuppressed group: 6) within a median follow-up of 58 months (95%CI 48-68). No significant differences in RFS and OS were found between the immunosuppressed and immunocompetent groups (212 vs. 206 months, p = 0.625 and 236 vs. 210 months, p = 0.282). Two-year recurrence rates were 0% in the immunosuppressed cohort and 1% (1/142) in the immunocompetent patients (p = 0.466). Absence of preoperative albendazole and lesion size were predictive of recurrence after hepatectomy. Immunosuppression was not found to be a risk factor for recurrence (HR 1.4, p = 0.626). In this bicentric study, immunocompromised patients did not have signi",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "pub_date": "2026-Jul-19",
+    "authors": [
+      "Rrupa Djana",
+      "Kaiser Christelle",
+      "Melloul Emmanuel",
+      "Uldry Emilie",
+      "Halkic Nermin",
+      "Beldi Guido"
+    ],
+    "doi": "10.3390/pathogens15070756",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42515083/"
+  },
+  {
+    "pmid": "42514644",
+    "title": "Primary Hepatic Masses in Ten Dogs: A Retrospective Surgical Case Series.",
+    "abstract": "Primary hepatic masses in dogs represent a heterogeneous group of lesions with variable biological behavior and challenging preoperative characterization. The objective of this retrospective study was to describe the clinical presentation, diagnostic findings, surgical management, and outcome of dogs with primary hepatic lesions treated surgically. Ten dogs with resectable hepatic lesions and no evidence of extrahepatic metastasis were included. Clinical records, imaging findings, histopathological diagnoses, treatment, and follow-up data were reviewed. Histopathological diagnoses included hepatocellular carcinoma (n = 3), nodular hyperplasia (n = 2), lobular hyperplasia (n = 1), hepatocellular adenoma (n = 1), undifferentiated sarcoma (n = 1), osteosarcoma (n = 1), and one case without a definitive histological diagnosis. Tumor size ranged from 3.3 to 18 cm. Both benign and malignant lesions were represented across this size range. Cytological findings were discordant with the final histopathological diagnosis in three dogs, whereas one sample was non-diagnostic due to blood contamination. Abdominal ultrasound identified solitary lesions in all evaluated dogs, although surgery revealed previously undetected multifocal disease in two cases. Six of the ten lesions involved the right medial hepatic lobe, although the small sample size precludes conclusions regarding lesion distribution. All dogs underwent surgical resection. Two perioperative deaths occurred secondary to postop",
+    "journal": "Veterinary sciences",
+    "pub_date": "2026-Jun-30",
+    "authors": [
+      "Pérez-Santana Carmen G",
+      "Cazorla-Rivero Sara",
+      "Rodríguez Grau-Bassas Enrique",
+      "Clavo Bernardino",
+      "Rodríguez-Esparragón Francisco"
+    ],
+    "doi": "10.3390/vetsci13070634",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42514644/"
+  },
+  {
+    "pmid": "42514608",
+    "title": "Traditional Medicinal Uses and Ethnopharmacological Significance of Alchemilla L. Species in Azerbaijan.",
+    "abstract": "The present ethnopharmacological study investigated the traditional medicinal uses of Alchemilla species distributed across different geobotanical regions of Azerbaijan. Field surveys were conducted in five mountainous regions of the country during 2024-2025, and ethnopharmacological data were collected from 125 informants through semi-structured interviews and questionnaire surveys. A total of 21 Alchemilla species belonging to the Rosaceae family were documented. Quantitative ethnobotanical indices, including Use Value (UV), Relative Frequency of Citation (RFC), Fidelity Level (FL), and Informant Consensus Factor (ICF), were applied to evaluate the ethnobotanical significance of the recorded species. The results revealed that Alchemilla species are mainly used for the treatment of digestive, hepatobiliary, respiratory, and skin disorders, as well as for the management of diabetes. The highest ICF value was recorded for antipyretic use (ICF = 1.00), whereas the greatest number of use reports was documented for digestive system disorders (Nur = 278). Alchemilla sericea, A. sericata, A. caucasica and A. grossheimii exhibited the highest UV and RFC values. The high quantitative ethnobotanical indices reflect the relative local importance of these species and the strong consensus among informants regarding their traditional medicinal uses. The findings demonstrate the important role of Alchemilla species in the traditional medicine of Azerbaijan and indicate that species with hi",
+    "journal": "Plants (Basel, Switzerland)",
+    "pub_date": "2026-Jul-22",
+    "authors": [
+      "Isayev Javanshir",
+      "Nagiyev Elvin",
+      "Jafarova Gunay",
+      "Safarova Nilufar",
+      "Mammadova Vagida"
+    ],
+    "doi": "10.3390/plants15142241",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42514608/"
+  },
+  {
+    "pmid": "42514293",
+    "title": "Ginsenoside Rh2 Enhances CD8+ T Cell-Mediated Anticancer Immunity in Hepatocellular Carcinoma.",
+    "abstract": "Background: Ginsenoside Rh2 (Rh2), a bioactive metabolite of Panax ginseng, has documented anticancer effects, but its role in cancer-immune crosstalk remains incompletely defined. Thus, we aimed to investigate the role of Rh2 in hepatocellular carcinoma (HCC) cells and immune regulation. Methods: We used a co-culture system of murine Hepa1-6 hepatocellular carcinoma cells or nonmalignant AML12 hepatocytes with primary splenocytes to model cancer-immune interactions during Rh2 exposure. Readouts included cell viability, nuclear morphology, and multiparameter flow cytometry. Results: In a co-culture system of Hepa1-6 cells and splenocytes, Rh2 decreased bulk cell viability and increased apoptosis in Hepa1-6 cells. CD8+ T cells exhibited enhanced effector features, with increased CD107a and IFN-γ expression following Rh2 treatment. Rh2 reduced PD-L1 expression on Hepa1-6 cells and splenocytes, and PD-1 expression on CD8+ T cells. Rh2 also reduced TGF-β1 and IL-6 levels in both Hepa1-6 cells and splenocytes, and decreased IL-10 levels in splenocytes. This was accompanied by a reduction in CD4+CD25+FOXP3+ regulatory T cells (Tregs). Conclusions: In a physiologically relevant cancer-immune context, Rh2 reprograms suppressive interactions by enhancing CD8+ T cell effector function, dampening PD-L1/PD-1 signaling, and reducing key immunosuppressive cytokines and Tregs. These coordinated effects position Rh2 as a candidate multi-target immunomodulatory agent for enhancing anticancer ",
+    "journal": "Nutrients",
+    "pub_date": "2026-Jul-08",
+    "authors": [
+      "Park Jinbum",
+      "Jeong Inae",
+      "Han Anna",
+      "Kim Ok-Kyung"
+    ],
+    "doi": "10.3390/nu18142224",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42514293/"
+  },
+  {
+    "pmid": "42514283",
+    "title": "Evaluation of the Therapeutic Potential of Spirulina Polysaccharides on Carbon Tetrachloride-Induced Liver Fibrosis in Mice: A Study Based on the Interaction Between Gut Microbiota and Metabolites.",
+    "abstract": "Introduction: Hepatic fibrosis represents a critical intermediate stage in the progression from chronic liver disease to cirrhosis and ultimately hepatocellular carcinoma. Spirulina platensis, a microorganism rich in bioactive compounds, contains several functional components, among which are Spirulina polysaccharides and phycocyanin. Both have been demonstrated to exhibit multiple biological activities, including antioxidant, anti-inflammatory, and immunomodulatory effects. However, the intervention effects and mechanisms of Spirulina polysaccharides and phycocyanin on CCl4-induced hepatic fibrosis remain unclear. 16S rRNA sequencing and non-targeted metabolomics technologies are employed to analyze bacterial taxa and metabolic pathways. Methods: Hepatic fibrosis (HF) was induced in male C57BL/6J mice via intraperitoneal injection of CCl4. After 1 week of modeling, mice were intragastrically administered SPP or PC for 4 consecutive weeks. Gut microbiota composition and fecal metabolites were analyzed using 16S rRNA gene sequencing and metabolomics. Results: SPP showed more pronounced protective effects than PC under the experimental conditions used in this study. SPP treatment significantly alleviated hepatic fibrosis in mice. Compared with the model group, SPP administration markedly increased the abundance of bacterial taxa and modulated fecal metabolic profiles, including short-chain fatty acid metabolism. Conclusions: SPP treatment mitigates CCl4-induced hepatic fibrosis",
+    "journal": "Nutrients",
+    "pub_date": "2026-Jul-08",
+    "authors": [
+      "Li Min",
+      "Xu Songyao",
+      "Zhang Meiting",
+      "Wang Xin",
+      "Wang Siyan",
+      "Wang Xinle"
+    ],
+    "doi": "10.3390/nu18142215",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42514283/"
+  },
+  {
+    "pmid": "42514149",
+    "title": "Exploring the Predictive Value of Circulating Cell-Free DNA Within a Multiparameter Panel for Hepatocellular Carcinoma Detection.",
+    "abstract": "Hepatocellular carcinoma (HCC) is one of the most common and deadliest cancers worldwide. Alpha-fetoprotein (AFP), a widely used and accessible tumoral marker, has limited performance in the early detection of HCC among high-risk populations. This study aims to evaluate the potential added value of ccfDNA (circulating cell-free DNA) fragment size, alone or in a multiparameter panel, using accessible, feasible ccfDNA analysis. A prospective cohort of 125 patients with chronic liver disease was analyzed. Patients with incomplete clinical or laboratory data and patients without cirrhosis were excluded from the final analysis. Nonparametric tests, logistic regression and ROC curve analysis were performed. ccfDNA fragment size was measured using on-chip electrophoresis. ccfDNA fragment size was significantly lower in the cirrhosis-HCC subgroup compared to the cirrhosis-only subgroup (p < 0.001). While AFP remains an independent predictor of HCC among cirrhosis patients, ccfDNA fragment size did not prove to be an independent predictor in this cohort. AUROC (area under the receiver operating characteristic curve) analysis revealed that a combined model of AFP, age, liver reserve, and ccfDNA fragment size did not perform better than the corresponding panel without ccfDNA. Moreover, after DeLong comparison, the difference between the two AUROCs proved statistically insignificant. Age and platelet count remain the strongest independent predictors in our exploratory cohort. Although cc",
+    "journal": "Life (Basel, Switzerland)",
+    "pub_date": "2026-Jun-27",
+    "authors": [
+      "Manea Ioana",
+      "Iacob Speranta Maria",
+      "Iacob Razvan",
+      "Ghionescu Alina-Veronica",
+      "Sorop Andrei",
+      "Saizu Roxana Elena"
+    ],
+    "doi": "10.3390/life16071079",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42514149/"
+  },
+  {
+    "pmid": "42513363",
+    "title": "Real-World Outcomes of Combined Carbon-Ion Radiotherapy and Systemic Immunotherapy for Hepatocellular Carcinoma (Atezolizumab Plus Bevacizumab or Durvalumab Plus Tremelimumab): A Single-Center Retrospective Study.",
+    "abstract": "Background: Carbon-ion radiotherapy (CIRT) is an effective local treatment for hepatocellular carcinoma (HCC); however, evidence on systemic immunotherapy after CIRT and the role of CIRT following immunotherapy remains limited. This study aimed to assess clinical outcomes and sequencing of CIRT and systemic immunotherapy in real-world practice. Methods: We retrospectively analyzed 41 patients with HCC who received CIRT and systemic immunotherapy (atezolizumab plus bevacizumab or durvalumab plus tremelimumab). Patients were categorized into three groups: (i) systemic immunotherapy for recurrent HCC after CIRT (n = 20), (ii) curative-intent CIRT after systemic immunotherapy (n = 10), and (iii) CIRT for residual or insufficiently responding lesions (≤3 lesions) after systemic immunotherapy (n = 11). Results: In group (i), 14 of 20 patients achieved complete or partial responses. These responders had low tumor burden (within the up-to-7 criteria) and preserved liver function (modified albumin-bilirubin grade 1/2a) at treatment initiation and demonstrated significantly longer progression-free and overall survival than those with stable or progressive disease. In group (ii), 4 of 10 patients achieved a clinical complete response and became drug-free; notably, all had solitary intrahepatic tumors at immunotherapy initiation. In group (iii), the rate of transition to clinical complete response was low, and disease control remained limited. Conclusions: Systemic immunotherapy demonstr",
+    "journal": "Journal of clinical medicine",
+    "pub_date": "2026-Jul-12",
+    "authors": [
+      "Maki Keita",
+      "Haga Hiroaki",
+      "Kaneko Takashi",
+      "Hoshikawa Kyoko",
+      "Katsumi Tomohiro",
+      "Suzuki Fumiya"
+    ],
+    "doi": "10.3390/jcm15145449",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42513363/"
+  },
+  {
+    "pmid": "42512809",
+    "title": "Effects of Sevoflurane on the Proliferation, Migration, and Xenograft Growth of HepG2 Hepatocellular Carcinoma Cells: An Exploratory In Vitro and In Vivo Study.",
+    "abstract": "Background and Objectives: Sevoflurane, a widely used inhalational anesthetic, is frequently administered during hepatocellular carcinoma (HCC) surgery, including hepatic resection and orthotopic liver transplantation. Because such procedures often require prolonged anesthetic exposure, the potential influence of sevoflurane on HCC cell behavior is of clinical interest. We aimed to evaluate the effects of sevoflurane on the proliferation and migration of HepG2 cells in vitro and on tumor growth in a xenograft mouse model in vivo, and to explore whether hypoxia-inducible factor-1α (HIF-1α) might be involved in this process. Materials and Methods: For the in vitro experiments, HepG2 cells were exposed to room air (0%), 2%, or 4% sevoflurane. A scratch wound healing assay was used to assess cell migration, and the number of viable cells was quantified by hemocytometer counting on day 4 to estimate proliferation. For the in vivo experiments, BALB/c nude mice bearing HepG2 xenografts were exposed to room air, 2% sevoflurane, or 4% sevoflurane for 3 h, three times weekly for 5 weeks. Tumor size and tumor weight were measured at the end of the exposure period. HIF-1α protein levels in tumor tissue were measured by enzyme-linked immunosorbent assay (ELISA) in tumor lysates and normalized to total tumor protein as an exploratory mechanistic analysis. Given the small sample available for this endpoint, the analysis had limited sensitivity to detect modest differences. Results: When wou",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "pub_date": "2026-Jun-30",
+    "authors": [
+      "Kim Kyong Sik",
+      "Kim Yeojung",
+      "Shin Keuna",
+      "Paing Aung Soe",
+      "Baek Sujin",
+      "Hong Boohwi"
+    ],
+    "doi": "10.3390/medicina62071267",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512809/"
+  },
+  {
+    "pmid": "42512787",
+    "title": "Integrated Bioinformatics and Multi-Omics Analysis of ZBTB40 Expression, Prognostic Relevance, and Regulatory Networks in Hepatocellular Carcinoma.",
+    "abstract": "Background and Objectives: Identifying regulatory genes that integrate epigenetic, transcriptional, immune, and non-coding RNA networks may improve prognostic stratification in hepatocellular carcinoma (HCC). ZBTB40 is a poorly characterized transcription factor whose clinical relevance and multi-layered regulatory role in HCC remain unclear. This study systematically investigated the prognostic significance, molecular regulatory networks, and toxicogenomic interactions of ZBTB40 in HCC. Materials and Methods: Comprehensive multi-omics analyses were conducted utilizing TCGA-HCC datasets and various public bioinformatics platforms. We systematically evaluated ZBTB40 expression patterns, survival outcomes, clinicopathological associations, DNA methylation status, immune cell infiltration, and competing endogenous RNA (ceRNA) networks. Additionally, chemical-gene interactions were analyzed using the Comparative Toxicogenomics Database (CTD). Results: ZBTB40 was significantly overexpressed in HCC, closely correlating with advanced clinicopathological features and poor survival outcomes. This upregulation was significantly associated with promoter hypomethylation. Furthermore, ZBTB40 expression was associated with specific immune infiltration patterns. A ZBTB40-centered ceRNA network identified key regulatory miRNAs, including miR-24-3p, miR-34a-5p, miR-132-3p, and miR-222-3p, along with prognostically relevant lncRNAs and circRNAs. CTD analysis identified 39 key chemical modulato",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "pub_date": "2026-Jun-27",
+    "authors": [
+      "Kim Tae-Young",
+      "Park Jae-Hee",
+      "Jung Yong Wook",
+      "Lee Jae-Ho",
+      "Kim Jongwan"
+    ],
+    "doi": "10.3390/medicina62071244",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512787/"
+  },
+  {
+    "pmid": "42512632",
+    "title": "Adult Hepatic Infarction for Internists: A Practical Diagnostic and Management Pathway to Avoid Misdiagnosis, Unnecessary Drainage, and Delayed Vascular Recognition.",
+    "abstract": "Introduction: Hepatic infarction is an uncommon but clinically important cause of focal ischemic liver injury. In internal medicine, it usually emerges in acutely ill or complex hospitalized adults with sepsis, shock, malignancy, thrombosis, vasculitis, transplantation, or recent hepatobiliary or interventional procedures who develop a new focal hepatic lesion and abnormal liver tests. Aims: This review aims to provide internists with a practical diagnostic and management pathway for recognizing hepatic infarction, distinguishing it from abscess and malignancy, selecting appropriate imaging, identifying vascular complications, and avoiding unnecessary biopsy or drainage when conservative management is safer. Methods: We performed a structured narrative review of adult hepatic infarction and related ischemic liver entities using targeted searches in PubMed/MEDLINE and Scopus. The search strategy, screening process, and evidence limitations are reported explicitly. Because the available evidence is dominated by case reports, small series, radiology reviews, and guidance on related vascular liver diseases, the synthesis is qualitative and the proposed pathway is conceptual rather than prospectively validated. Results: Hepatic infarction is most often recognized when systemic hypoperfusion, splanchnic vasoconstriction, microvascular dysfunction, or local macrovascular compromise coexist. Multiphasic computed tomography (CT) is usually the first-line acute-care modality, while MRI",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "pub_date": "2026-Jul-15",
+    "authors": [
+      "Tirotta Daniela",
+      "Muratori Paolo"
+    ],
+    "doi": "10.3390/healthcare14142116",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42512632/"
+  }
+]

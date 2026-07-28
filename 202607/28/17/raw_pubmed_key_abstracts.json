@@ -1,0 +1,210 @@
+[
+  {
+    "pmid": "42516535",
+    "title": "Prediction of Long-Term Prognosis in Patients With Hepatocellular Carcinoma Using the National Clinical Database Risk Calculator.",
+    "abstract": "To determine the value of the National Clinical Database (NCD) risk calculator for predicting surgical outcomes and long-term prognosis in patients undergoing resection for hepatocellular carcinoma (HCC). We retrospectively analyzed data from 210 patients with HCC who underwent initial hepatic resection between January 2016 and December 2022. We calculated predicted incidence of surgery-related mortality (predicted mortality rate) using the NCD risk calculator. We assessed the relationship between predicted mortality rate and clinicopathological factors, including their relationship with long-term prognosis. A predicted mortality rate of ≥ 3% significantly correlated with worse recurrence-free survival and overall survival (OS), with a high-risk group showing increased blood loss, longer hospital stays, and higher severe complication rates. Multivariate analysis identified predicted mortality rate of ≥ 3% as an independent prognostic indicator for poor OS, alongside male sex and microvascular invasion. The NCD risk calculator showed potential to predict not only short-term outcomes but also long-term prognosis in patients with HCC undergoing resection. The NCD risk calculator may be a valuable complementary tool for decision-making about liver resection in patients with HCC.",
+    "journal": "Annals of gastroenterological surgery",
+    "pub_date": "2026-Jul-26",
+    "doi": "10.1002/ags3.70256",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Tsukagoshi Mariko",
+      "Araki Kenichiro",
+      "Kubo Norio",
+      "Igarashi Takamichi",
+      "Kawai Shunsuke",
+      "Hagiwara Kei",
+      "Hoshino Kouki",
+      "Muranushi Ryo"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42516535/"
+  },
+  {
+    "pmid": "42509505",
+    "title": "Multimodal analysis of the learning curve for pure laparoscopic donor right hepatectomy in a low-volume transplant center: a comparative cohort study.",
+    "abstract": "The adoption of pure laparoscopic donor right hepatectomy (PLDRH) has been limited by a perceived steep learning curve, traditionally estimated at 60-70 cases. This study evaluates whether \"second-generation\" laparoscopic surgeons can achieve proficiency more rapidly in a low-volume transplant center using structured training and standardized techniques. We analyzed 29 consecutive, non-selective PLDRH cases performed by a single surgeon. A multimodal CUSUM analysis, incorporating operative time, estimated blood loss, and the Comprehensive Complication Index, was used to define the learning curve, alongside a donor complexity score. Outcomes were compared with a cohort of 21 conventional open donor right hepatectomies. A three-phase learning progression was identified. Competency and proficiency were reached at cases 10 and 20, respectively. Phase 2 (cases 11-20) was characterized by a \"second learning curve\" as the team encountered more complex anatomical variations within the consecutive cohort. By Phase 3 (cases 21-29), surgical metrics stabilized with zero complications, even as case complexity increased. Compared to CODRH, the PLDRH group achieved similar safety profiles but significantly shorter hospital stays (p < 0.05). PLDRH can be safely implemented in low-volume centers with an accelerated learning curve. For surgeons with prior advanced laparoscopic expertise, institutional proficiency may be achieved within 20 cases. These findings suggest that standardized \"second-generation\" approaches may broaden the accessibility of laparoscopic donor surgery without compromising safety.",
+    "journal": "Surgical endoscopy",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.1097/SLA.0000000000003914",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Jearanaikulvanich Thanathorn",
+      "Thepbunchonchai Asara",
+      "Junrungsee Sunhawit",
+      "Chotirosniramit Anon",
+      "Udomsin Kanya",
+      "Lapisatepun Warangkana",
+      "Chanthima Phuriphong",
+      "Lapisatepun Worakitti"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509505/"
+  },
+  {
+    "pmid": "42509415",
+    "title": "The epigenetic KMT5C-HDAC1 axis promotes hepatocellular carcinoma stemness and progression through SERPINA4 repression and chromatin compaction.",
+    "abstract": "Epigenetic dysregulation is a hallmark of hepatocellular carcinoma (HCC), yet the mechanisms linking chromatin modifiers to tumor stemness remain incompletely understood. Here, we identify the histone methyltransferase KMT5C as master regulator of HCC stemness and progression through integrative analyses of patient-derived organoids, murine models, and clinical cohorts. Mechanistically, KMT5C interacts with HDAC1 to promote H4K20me3-dependent chromatin compaction and histone deacetylation, cooperatively silencing tumor suppressor genes. Dual pharmacological inhibition of KMT5C and HDAC1 potently suppresses tumor growth, eliminates cancer stem cells, and sensitizes HCC to lenvatinib. Among their co-targets, we uncover SERPINA4 as a tumor suppressor that disrupts an oncogenic c-JUN/PRKCA/MAPK/c-FOS positive feedback loop. Notably, PRKCA is identified as a key and specific downstream effector of SERPINA4 in HCC. Clinically, KMT5C overexpression correlates with elevated PRKCA expression, reduced SERPINA4 levels, and poor patient survival. Our work establishes the KMT5C-HDAC1 axis as a central epigenetic switch that governs HCC stemness and progression, revealing a co-targeting strategy for the treatment of aggressive HCC.",
+    "journal": "Oncogene",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.2174/1568009622666220428111327",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Huang Hongbin",
+      "Huang Caini",
+      "Yang Pangfei",
+      "Xian Shiping",
+      "Liu Yang",
+      "Liu Ruiyang",
+      "Zhao Zhiju",
+      "Xiao Fei"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509415/"
+  },
+  {
+    "pmid": "42509343",
+    "title": "TRIM27-Cas9-loaded EVs suppress HCC proliferation and enhance responsiveness to anti-PD-1 therapy by promoting ACSL4-mediated ferroptosis.",
+    "abstract": "Inducing ferroptosis in hepatocellular carcinoma (HCC) cells represents an important therapeutic strategy, but intrinsic resistance mechanisms often limit efficacy. Therefore, elucidating the mechanisms underlying ferroptosis resistance in HCC cells can facilitate the development of effective therapeutic strategies. Here, we performed genome-wide CRISPR/Cas9 library screens to identify TRIM27 as a key determinant of ferroptosis resistance. TRIM27 knockdown markedly potentiated erastin-induced ferroptosis in HCC cells, whereas TRIM27 overexpression suppressed the expression of fatty-acid metabolic enzymes including ACSL4 and reduced oxidized lipid accumulation. Mechanistically, TRIM27 directly binds with ACSL4 and promotes its K48-linked ubiquitination and degradation, thereby attenuating ferroptosis in HCC cells. Furthermore, we developed TRIM27-Cas9-loaded EVs with robust editing efficiency. These engineered EVs were readily internalized by HCC cells and preferentially accumulated in the liver. Functionally, TRIM27-Cas9-loaded EVs inhibited HCC cell proliferation by enhancing ACSL4-mediated ferroptosis and significantly improved the anti-tumor efficacy of anti-PD-1 therapy in HCC. Collectively, our findings suggest that TRIM27 confers ferroptosis resistance via facilitating K48-linked ubiquitination and subsequent proteasomal degradation of ACSL4. TRIM27-Cas9-loaded EVs restore cellular sensitivity to ferroptosis, inhibit HCC proliferation, and sensitize HCC lesions to anti-PD-1 immunotherapy.",
+    "journal": "Cell death and differentiation",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.1128/Spectrum.00484-21",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Wen Jie",
+      "Wang Zhihui",
+      "Zeng Zhirui",
+      "Tian Yu",
+      "Liu Haikuan",
+      "Zhang Xiaokai",
+      "Niu Shaoqing",
+      "Ashrafizadeh Milad"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509343/"
+  },
+  {
+    "pmid": "42508829",
+    "title": "Targeting TOMM40 unleashes immunogenic mitophagy to facilitate antigen presentation and immunotherapy sensitization.",
+    "abstract": "Mitophagy is a mitochondrial quality control process that maintains cellular homeostasis in cancer, yet whether its dysregulation can be exploited to induce tumor immunogenicity remains unclear. We integrated pancancer single-cell transcriptomic analyses with genetic perturbation strategies in hepatocellular carcinoma models, including CRISPR/Cas9-mediated gene depletion, in vivo syngeneic tumor systems, and RNA-based lipid nanoparticle delivery. Mechanistic investigations combined mitochondrial functional assays, imaging-based mitophagy analysis, flow cytometry, and transcriptional profiling, together with evaluation of immune checkpoint blockade responses in preclinical and clinical cohorts. We identify translocase of the outer mitochondrial membrane 40 (TOMM40) as a mitochondrial import gatekeeper that restrains PINK1-Parkin-dependent mitophagy. Loss of TOMM40 induces catastrophic mitochondrial dysfunction and triggers a lethal form of hyperactivated mitophagy. This process is immunogenic and converts immune-cold tumors into immune-inflamed states characterized by enhanced CD8+ T-cell infiltration and activation. Mechanistically, TOMM40 deficiency leads to intracellular reactive oxygen species accumulation, which activates NF-κB signaling and drives upregulation of major histocompatibility complex class I antigen presentation machinery, thereby increasing tumor visibility to cytotoxic T cells. In parallel, TOMM40 loss induces programmed death-ligand 1 upregulation, establishing an adaptive immune resistance program. Functionally, TOMM40-deficient tumors exhibit markedly increased responsiveness to immune checkpoint blockade and generate systemic antitumor immune protection. Clinically, a TOMM40-loss transcriptional signature is associated with improved immunotherapy outcomes across multiple independent patient cohorts. TOMM40 functions as a mitochondrial immune checkpoint that controls the threshold of immunogenic mitophagy. Its loss reprograms mitochondrial stress into antigen presentation and immune activation, providing a strategy to convert immune-cold tumors into immune-responsive states.",
+    "journal": "Journal for immunotherapy of cancer",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.1136/jitc-2026-015462",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Zhang Zhiwei",
+      "Xie Yu-An",
+      "Mu Chenglin",
+      "Sheng Shiying",
+      "Zhang Jinyuan",
+      "Han Jie",
+      "Li Jiwen",
+      "He Zhengfu"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508829/"
+  },
+  {
+    "pmid": "42508616",
+    "title": "Cholecystectomy before diagnosis of primary sclerosing cholangitis is associated with markedly worsened transplant free survival.",
+    "abstract": "Gallbladder abnormalities are common in primary sclerosing cholangitis (PSC) and commonly lead to cholecystectomy. As the gallbladder plays a role in regulating bile composition and biliary pressure, it has been proposed to exert a protective effect in PSC. We aimed to evaluate the impact of cholecystectomy and its timing on biochemistry, bile composition, and outcomes in PSC. A total of 977 patients with PSC enrolled in the prospective Helsinki PSC registry who underwent ERCP. Of these, 163 patients (16.7%) underwent cholecystectomy, either before (n=100) or after (n=63) the diagnosis of PSC. Clinical outcomes were assessed using the composite endpoints of liver-related death, hepatobiliary malignancy, or liver transplantation. Patients who had undergone cholecystectomy before PSC diagnosis had more advanced disease at baseline, as reflected by higher ERCP scores, (p=0.012), Mayo risk scores, FIB-4 indices (p<0.001), and more advanced fibrosis on liver histology (p=0.020). The composite endpoint was reached by 37 patients (37.0%) with prior cholecystectomy, compared with 53 patients (6.5%) with an intact gallbladder and 10 patients (5.9%) who underwent cholecystectomy after PSC diagnosis. In multivariable regression analysis adjusting for timing of cholecystectomy, sex, age, and disease severity, cholecystectomy prior to PSC diagnosis was associated with a more than fivefold increased risk of reaching the composite endpoint (HR 5.16, 95% CI 3.00-8.88, p<0.001); using PSC patients with an intact gallbladder as the reference. The restricted mean survival time was 5.0 years shorter in patients with prior cholecystectomy, p<0.001. Cholecystectomy performed before the diagnosis of PSC is associated with more advanced disease and markedly impaired prognosis, including significantly reduced liver transplantation-free survival and substantially increased risk of liver transplantation. This large prospective registry study demonstrates that cholecystectomy performed before the diagnosis of PSC is strongly associated with more advanced biliary disease and profoundly worse prognosis. The markedly increased risk of liver transplantation and reduced transplantation-free sur",
+    "journal": "JHEP reports : innovation in hepatology",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.1016/j.jhepr.2026.101967",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Färkkilä M A",
+      "Arola J T",
+      "Tenca A",
+      "Jokelainen K",
+      "Boyd S",
+      "Kautiainen H"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508616/"
+  },
+  {
+    "pmid": "42508157",
+    "title": "Procurement Versatility and Waitlist Outcomes in Patients With Hepatocellular Carcinoma.",
+    "abstract": "Liver transplantation is curative for hepatocellular carcinoma (HCC) but organ scarcity and allocation methods pose challenges. Transplant center procurement versatility through use of static cold storage (SCS), living donor liver transplantation (LDLT), and machine perfusion (MP) may decrease waitlist death and delisting (DDL). We performed a retrospective review of HCC patients added to the liver transplantation waitlist between February 2020 and December 2023 identified using the Organ Procurement and Transplantation Network database. Centers were stratified as performing SCS, SCS and MP (MP), SCS and LDLT (LDLT), and all modalities (SCS, MP, and LDLT). Patient and center factors associated with DDL were analyzed. 8358 patients with HCC were listed for liver transplantation. The waitlist DDL rate was 22.4%. Good functional status (hazard ratio [HR] 0.40, P < 0.01) and female sex (HR 0.74, P < 0.01) were protective of waitlist DDL. Patients at SCS centers had the highest rate of waitlist DDL (26.2%), while those at MP centers had the lowest (19.7%). Listing at MP (HR 0.83, P < 0.01) and SCS, MP, and LDLT centers (HR 0.80, P < 0.01) was protective of waitlist DDL. Female patients and those with good functional status experienced less waitlist DDL. Center procurement versatility through use of MP and LDLT in addition to SCS is also associated with decreased DDL.",
+    "journal": "The Journal of surgical research",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.1016/j.jss.2026.07.003",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Eng Nina L",
+      "Olenwine Katrina",
+      "Taute Elana",
+      "Martin Sean P"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508157/"
+  },
+  {
+    "pmid": "42507021",
+    "title": "A novel diagnostic role of 99mTc-GSA scintigraphy in distinguishing hepatocellular carcinoma from hepatic angiomyolipoma.",
+    "abstract": "Hepatic angiomyolipoma (HAML) is a rare benign liver tumor that is difficult to differentiate from hepatocellular carcinoma (HCC) preoperatively. This study aimed to evaluate the diagnostic value of Technetium-99 m-diethylenetriaminepentaacetic acid-galactosyl human serum albumin (99mTc-GSA) scintigraphy for HAML. Six patients with HAML were enrolled, and 139 patients with hepatocellular carcinoma were analyzed as a control group. Imaging findings from computed tomography, magnetic resonance imaging, and 99mTc-GSA scintigraphy were investigated, and the radioactivity of 99mTc-GSA scintigraphy was measured in patients with HAML and HCC. In 5 cases, early enhancement was observed in five cases, and three cases showed washout in the delayed phase. Hepatocyte phase defects were detected in all cases, and early venous return was observed in two cases. All cases showed a defect in radioactivity on 99mTc-GSA scintigraphy, and the immunohistochemistry of asialoglycoprotein receptor (ASGPR) was negative in HAML compared to normal liver tissue in all cases. The tumor-to-liver signal ratio was significantly higher in hepatocellular carcinoma than in hepatic angiomyolipoma (p < 0.01). 99mTc-GSA scintigraphy may help distinguish hepatic angiomyolipoma from hepatocellular carcinoma.",
+    "journal": "Surgery today",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.1016/j.humpath.2009.05.011",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Taniai Tomohiko",
+      "Furukawa Kenei",
+      "Gomisawa Kazutaka",
+      "Watanabe Ken",
+      "Ohki Kazuyoshi",
+      "Haruki Koichiro",
+      "Yanagaki Mitsuru",
+      "Yamahata Yuto"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507021/"
+  },
+  {
+    "pmid": "42505057",
+    "title": "Cost-effectiveness of finotonlimab plus bevacizumab versus sorafenib as first-line therapy in unresectable hepatocellular carcinoma in China.",
+    "abstract": "Hepatocellular carcinoma (HCC) imposes a substantial health burden in China. Finotonlimab plus bevacizumab recently prolonged progression-free survival (PFS) and overall survival (OS) vs. sorafenib, but its economic value remains unknown. Here we evaluated the cost-effectiveness of finotonlimab plus bevacizumab vs. sorafenib from the Chinese healthcare system perspective. Parametric survival models were fitted to extrapolate PFS and OS. Total costs, life-years (LYs), quality-adjusted life-years (QALYs), incremental cost-effectiveness ratios (ICERs), incremental net monetary benefit (INMB), and incremental net health benefit (INHB) were estimated at a willingness-to-pay (WTP) threshold of $27,906 per QALY. Uncertainty was evaluated by one-way and two-way sensitivity analyses, probabilistic sensitivity analysis (PSA), subgroup analyses, scenario analyses, and price simulations. In the base-case analysis, sorafenib yielded 1.74 LYs and 1.25 QALYs at a total cost of $10,303.10, whereas finotonlimab plus bevacizumab yielded 3.01 LYs and 2.18 QALYs at a total cost of $58,595.49. Compared with sorafenib, the combination increased costs by $48,292.39 and generated gains of 1.27 LYs and 0.93 QALYs, resulting in ICERs of $38,203.46 per LY and $51,899.31 per QALY. INMB (-$22,325.82) and INHB (-0.80 QALYs) were negative. Sensitivity analyses identified PFS utility and bevacizumab cost as key drivers, but all ICERs remained above the WTP threshold. In PSA, the mean ICER was $50561.81 per QALY, and the probability of cost-effectiveness was 0% at the prespecified threshold. Based on the assumptions and inputs used in the present model, finotonlimab plus bevacizumab was unlikely to be cost-effective compared with sorafenib at the prespecified WTP in China.",
+    "journal": "Human vaccines & immunotherapeutics",
+    "pub_date": "2026-Dec-31",
+    "doi": "10.1080/21645515.2026.2707849",
+    "types": [
+      "Journal Article",
+      "Comparative Study"
+    ],
+    "authors": [
+      "Xu Huihui",
+      "Yu Shengjian",
+      "Yang Yan",
+      "Bian Haoze",
+      "Wu Zimiao",
+      "Xuan Feng"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42505057/"
+  },
+  {
+    "pmid": "42509096",
+    "title": "Machine learning prediction of complications after surgery in cirrhotic patients: Integrating nutritional risk with liver function.",
+    "abstract": "Liver disease is among the most common medical conditions in the world, leading to high rates of morbidity and death. Early identification of liver diseases enables prompt care, which may prevent many conditions from progressing to more serious stages, like cirrhosis or liver cancer. Traditionally, models often overlook the predictive importance of nutritional status and focus primarily on liver-specific measures. This research aims to propose a machine learning (ML) approach to predict surgical complications in patients with liver cirrhosis by integrating existing liver function metrics with a comprehensive nutritional risk assessment. In this study, we used the MIMIC-IV dataset, which consists of patient medical records. We utilized a 504-patient cohort with features such as age, gender, bilirubin, albumin, INR (International Normalized Ratio), Child-Pugh score, MELD score (Model for End-Stage Liver Disease), NRS (Nutritional Risk Screening), complication, and composite risk. Mortality was used as the primary outcome variable for prediction. ML models were utilized for training, along with correlation analysis and Explainable Artificial Intelligence (XAI) approaches like SHAP and LIME to interpret the model. The stackable ensemble model was employed to enhance the model's performance and robustness. The proposed model achieved an accuracy of 94% and an AUC of 0.97. This methodology emphasizes the critical importance of nutritional assessment in surgical risk classification. It offers a clinically relevant framework to guide preparatory strategies, promote collaborative decision-making, and improve perioperative care pathways for this vulnerable population.",
+    "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+    "pub_date": "2026-Jul-27",
+    "doi": "10.1016/j.ajg.2026.06.009",
+    "types": [
+      "Journal Article"
+    ],
+    "authors": [
+      "Yao Yao",
+      "Chen Xinxin",
+      "Wei Zijie"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509096/"
+  }
+]
