@@ -1,0 +1,37 @@
+{
+  "path": "202607/28/19",
+  "topic": "hepatobiliary surgery / hepatocellular carcinoma (HCC)",
+  "trigger_utc": "2026-07-28T19:01:24.787Z",
+  "collected_at_utc": "2026-07-28T19:15:00+00:00",
+  "time_window_utc": {
+    "from": "2026-07-27T19:01:24+00:00",
+    "to": "2026-07-28T19:01:24+00:00"
+  },
+  "languages_searched": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": [
+    "PubMed E-utilities (EDAT)",
+    "Crossref Works API",
+    "Europe PMC (FIRST_PDATE; 0 hits in narrow window)",
+    "ClinicalTrials.gov API v2",
+    "Web search multi-language (guidelines/news)"
+  ],
+  "counts": {
+    "pubmed_edat_24h": 90,
+    "pubmed_clinical_leaning": 49,
+    "crossref_unique_created": 165,
+    "crossref_title_filtered": 80,
+    "ctgov_updated_24h": 26,
+    "ctgov_hcc_related": 20,
+    "europe_pmc_first_pdate_24h": 0
+  },
+  "folder_convention": "YYYYMM/DD/HH in UTC of automation trigger",
+  "caveat": "Guidelines rarely publish within literal 24h; authority panel labeled separately from 24h incremental items. Continuity from 202607/28/18 digest."
+}
