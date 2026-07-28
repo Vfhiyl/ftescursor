@@ -1,0 +1,527 @@
+{
+  "collected_at_utc": "2026-07-28T18:00:40+00:00",
+  "filter": "from-created-date:2026-07-27,until-created-date:2026-07-28",
+  "count": 52,
+  "items": [
+    {
+      "doi": "10.1038/s41433-026-04777-7",
+      "title": "Iris metastasis from hepatocellular carcinoma",
+      "journal": "Eye",
+      "created": "2026-07-28T09:23:48Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1038/s41433-026-04777-7",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1002/cncr.70547",
+      "title": "Where does histotripsy fit into hepatocellular carcinoma care?",
+      "journal": "Cancer",
+      "created": "2026-07-27T07:26:33Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1002/cncr.70547",
+      "publisher": "Wiley",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.29328/journal.ascr.1001097",
+      "title": "HBV and HCV as Risk Factors for Hepatocellular Carcinoma",
+      "journal": "Archives of Surgery and Clinical Research",
+      "created": "2026-07-28T05:20:32Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.29328/journal.ascr.1001097",
+      "publisher": "Heighten Science Publications Corporation",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1016/j.jss.2026.07.003",
+      "title": "Procurement Versatility and Waitlist Outcomes in Patients With Hepatocellular Carcinoma",
+      "journal": "Journal of Surgical Research",
+      "created": "2026-07-27T03:37:21Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1016/j.jss.2026.07.003",
+      "publisher": "Elsevier BV",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.3390/cells15151357",
+      "title": "Metabolic Reprogramming at the Tumor–Immune Interface in Hepatocellular Carcinoma",
+      "journal": "Cells",
+      "created": "2026-07-28T11:45:26Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3390/cells15151357",
+      "publisher": "MDPI AG",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.7150/ijms.132175",
+      "title": "Licoricidin triggers reactive oxygen species-mediated PANoptosis in human hepatocellular carcinoma cells",
+      "journal": "International Journal of Medical Sciences",
+      "created": "2026-07-28T10:35:12Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.7150/ijms.132175",
+      "publisher": "Ivyspring International Publisher",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.62347/wjun3883",
+      "title": "Clinical significance of SNRPD1 expression in predicting post-transplant recurrence of hepatocellular carcinoma",
+      "journal": "American Journal of Translational Research",
+      "created": "2026-07-28T02:43:56Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.62347/wjun3883",
+      "publisher": "e-Century Publishing Corporation",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.7150/jca.135837",
+      "title": "A Prognostic Risk Model for Hepatocellular Carcinoma Integrating Ferroptosis and Metabolic Reprogramming Signatures",
+      "journal": "Journal of Cancer",
+      "created": "2026-07-28T10:35:12Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.7150/jca.135837",
+      "publisher": "Ivyspring International Publisher",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.3390/cells15151350",
+      "title": "The LINC02041/SRSF1 Axis Facilitates Aerobic Glycolysis and Stemness Maintenance in Hepatocellular Carcinoma",
+      "journal": "Cells",
+      "created": "2026-07-27T16:11:56Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3390/cells15151350",
+      "publisher": "MDPI AG",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1007/s11739-026-04456-1",
+      "title": "GLP-1 receptor agonists at the crossroads of diabetes, hepatic steatosis, and hepatocellular carcinoma",
+      "journal": "Internal and Emergency Medicine",
+      "created": "2026-07-28T17:02:38Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1007/s11739-026-04456-1",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.21037/tgh-2026-0031",
+      "title": "Liver reprogramming toward hepatocellular carcinoma following hepatitis C sustained virologic response: a narrative review",
+      "journal": "Translational Gastroenterology and Hepatology",
+      "created": "2026-07-27T01:25:01Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/tgh-2026-0031",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1016/j.ajpath.2026.06.008",
+      "title": "Fusion Gene Detection Enhances Clinical Outcome Prediction of Hepatocellular Carcinoma Through Machine Learning Analyses",
+      "journal": "The American Journal of Pathology",
+      "created": "2026-07-28T15:34:39Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1016/j.ajpath.2026.06.008",
+      "publisher": "Elsevier BV",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.3390/cancers18152428",
+      "title": "Rare Germline Variants in Key Pathways Contribute to Hepatocellular Carcinoma Risk in Hispanic Individuals",
+      "journal": "Cancers",
+      "created": "2026-07-28T11:45:26Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3390/cancers18152428",
+      "publisher": "MDPI AG",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1016/j.bj.2026.101019",
+      "title": "Imipramine Reverses Sorafenib Resistance in Hepatocellular Carcinoma by Targeting the BLOC1S5/FOXO1 Signaling Axis",
+      "journal": "Biomedical Journal",
+      "created": "2026-07-28T15:10:28Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1016/j.bj.2026.101019",
+      "publisher": "Elsevier BV",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1186/s12645-026-00408-8",
+      "title": "Metal–organic framework-based therapeutic strategies for hepatocellular carcinoma: current advances and future perspectives",
+      "journal": "Cancer Nanotechnology",
+      "created": "2026-07-28T10:02:49Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1186/s12645-026-00408-8",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1371/journal.pone.0354176",
+      "title": "Prognostic factors in first-line atezolizumab-bevacizumab treatment of intermediate or advanced hepatocellular carcinoma",
+      "journal": "PLOS One",
+      "created": "2026-07-28T17:29:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1371/journal.pone.0354176",
+      "publisher": "Public Library of Science (PLoS)",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.48130/gcomm-0026-0016",
+      "title": "AI-powered spatial multi-omics discerns spatial patterns within immune microenvironment of hepatocellular carcinoma",
+      "journal": "Genomics Communications",
+      "created": "2026-07-27T01:04:58Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.48130/gcomm-0026-0016",
+      "publisher": "Maximum Academic Press",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1016/j.celrep.2026.117761",
+      "title": "H3K18 lactylation drives CD8+ T cell exclusion and anti-PD-1 resistance in hepatocellular carcinoma",
+      "journal": "Cell Reports",
+      "created": "2026-07-28T09:15:04Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117761",
+      "publisher": "Elsevier BV",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.3390/cells15151341",
+      "title": "Conserved Hypoxia-Responsive miRNA Programs Define Adaptive and Stress-Limiting Regulatory Axes in Hepatocellular Carcinoma",
+      "journal": "Cells",
+      "created": "2026-07-27T01:26:23Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3390/cells15151341",
+      "publisher": "MDPI AG",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.3389/fimmu.2026.1914627",
+      "title": "Commentary: Case Report: Multimodal management of duodenal metastasis from hepatocellular carcinoma complicated by intractable hemorrhage",
+      "journal": "Frontiers in Immunology",
+      "created": "2026-07-27T05:39:53Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3389/fimmu.2026.1914627",
+      "publisher": "Frontiers Media SA",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "journal": "",
+      "created": "2026-07-27T07:27:10Z",
+      "type": "posted-content",
+      "url": "https://doi.org/10.21203/rs.3.rs-10334645/v1",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1007/s00595-026-03437-3",
+      "title": "A novel diagnostic role of 99mTc-GSA scintigraphy in distinguishing hepatocellular carcinoma from hepatic angiomyolipoma",
+      "journal": "Surgery Today",
+      "created": "2026-07-27T07:45:03Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1007/s00595-026-03437-3",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1002/advs.76856",
+      "title": "A Personalized Haplotype‐Resolved Near‐Gapless Genome Framework for Somatic Variant Discovery in Hepatocellular Carcinoma",
+      "journal": "Advanced Science",
+      "created": "2026-07-28T12:14:55Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1002/advs.76856",
+      "publisher": "Wiley",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.3390/ijms27156643",
+      "title": "Deciphering the Leading-Edge Spatiotemporal Microenvironment of Hepatocellular Carcinoma for Targeted Drug Discovery Using SpaPred",
+      "journal": "International Journal of Molecular Sciences",
+      "created": "2026-07-27T09:47:41Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3390/ijms27156643",
+      "publisher": "MDPI AG",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1158/1541-7786.mcr-26-0121",
+      "title": "The PON1-NDUFA4 axis maintains mitochondrial respiratory fitness and drives lenvatinib tolerance in hepatocellular carcinoma",
+      "journal": "Molecular Cancer Research",
+      "created": "2026-07-28T15:25:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1158/1541-7786.mcr-26-0121",
+      "publisher": "American Association for Cancer Research (AACR)",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1016/j.cpt.2026.07.004",
+      "title": "Locoregional-Systemic Combination Therapy Reshapes the Treatment Landscape of Intermediate and Advanced Hepatocellular Carcinoma (HCC)",
+      "journal": "Cancer Pathogenesis and Therapy",
+      "created": "2026-07-28T15:58:16Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1016/j.cpt.2026.07.004",
+      "publisher": "Elsevier BV",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1245/s10434-026-20326-8",
+      "title": "ASO Visual Abstract: Mex3a Stabilizes INHBB mRNA to Activate SMAD-Signaling and Promote Hepatocellular Carcinoma Metastasis",
+      "journal": "Annals of Surgical Oncology",
+      "created": "2026-07-28T13:52:23Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1245/s10434-026-20326-8",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1201/9781003597162-8",
+      "title": "Liver Transplantation for Advanced Hepatocellular Carcinoma Using Poor Tumour Differentiation on Biopsy as an Exclusion Criterion",
+      "journal": "50 Landmark Papers every Upper GI and HPB Surgeon Should Know",
+      "created": "2026-07-28T14:36:48Z",
+      "type": "book-chapter",
+      "url": "https://doi.org/10.1201/9781003597162-8",
+      "publisher": "CRC Press",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.5812/hepatmon-170339",
+      "title": "Evolution of Research on Cell-Specific Magnetic Resonance Imaging Contrast Agents in Hepatocellular Carcinoma: A Bibliometric Study",
+      "journal": "Hepatitis Monthly",
+      "created": "2026-07-27T13:18:04Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.5812/hepatmon-170339",
+      "publisher": "Brieflands",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1002/jbt.71027",
+      "title": "ATP7A Orchestrates Tumor Progression and Cuproptosis in Hepatocellular Carcinoma via the LINC02038‐miR‐506‐3p Regulatory Circuit",
+      "journal": "Journal of Biochemical and Molecular Toxicology",
+      "created": "2026-07-27T13:48:37Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1002/jbt.71027",
+      "publisher": "Wiley",
+      "source_query": "crossref_hcc"
+    },
+    {
+      "doi": "10.1201/9781003597162-9",
+      "title": "Portal Vein Embolization Before Right Hepatectomy: A Prospective Clinical Trial",
+      "journal": "50 Landmark Papers every Upper GI and HPB Surgeon Should Know",
+      "created": "2026-07-28T14:36:48Z",
+      "type": "book-chapter",
+      "url": "https://doi.org/10.1201/9781003597162-9",
+      "publisher": "CRC Press",
+      "source_query": "crossref_hep"
+    },
+    {
+      "doi": "10.21037/tgh-2026-0056",
+      "title": "Intermittent inflow occlusion during robotic donor hepatectomy: technical refinement in a high-stakes operation through a randomized controlled trial",
+      "journal": "Translational Gastroenterology and Hepatology",
+      "created": "2026-07-27T01:25:01Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/tgh-2026-0056",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_hep"
+    },
+    {
+      "doi": "10.3390/curroncol33080453",
+      "title": "Pathological and Perioperative Outcomes of Conversion Hepatectomy After Contemporary Combination Downstaging for Initially Unresectable Hepatocellular Carcinoma: A Systematic Review",
+      "journal": "Current Oncology",
+      "created": "2026-07-28T14:37:00Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3390/curroncol33080453",
+      "publisher": "MDPI AG",
+      "source_query": "crossref_hep"
+    },
+    {
+      "doi": "10.21037/tgh-2026-0090",
+      "title": "Robotic right living donor hepatectomy with intermittent inflow occlusion: true clinical benefit or just another chapter in the ischemic preconditioning story?",
+      "journal": "Translational Gastroenterology and Hepatology",
+      "created": "2026-07-27T01:25:01Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/tgh-2026-0090",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_hep"
+    },
+    {
+      "doi": "10.1007/s00464-026-13160-2",
+      "title": "Multimodal analysis of the learning curve for pure laparoscopic donor right hepatectomy in a low-volume transplant center: a comparative cohort study",
+      "journal": "Surgical Endoscopy",
+      "created": "2026-07-27T20:26:02Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1007/s00464-026-13160-2",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_hep"
+    },
+    {
+      "doi": "10.1016/j.asjsur.2026.06.105",
+      "title": "Robotic left hepatectomy with en bloc choledochocele resection and Roux-en-Y portojejunostomy: Template for surgical management of complex type IVa choledochal cysts",
+      "journal": "Asian Journal of Surgery",
+      "created": "2026-07-27T03:06:38Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1016/j.asjsur.2026.06.105",
+      "publisher": "Elsevier BV",
+      "source_query": "crossref_hep"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0262",
+      "title": "Diaphragmatic hernia following right hemihepatectomy",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-0262",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2025-557",
+      "title": "Massive hepatic hemangioma complicated by Kasabach-Merritt syndrome",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2025-557",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0610",
+      "title": "3D bioprinting in liver transplantation: from organ replacement to transplantable functional support",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-0610",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-1-0120",
+      "title": "From associations to action: deepening the clinical and mechanistic implications of obesity indices in T2DM risk stratification",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-1-0120",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0609",
+      "title": "Protein S-sulfhydration: an emerging regulatory layer with therapeutic potential in metabolic dysfunction-associated steatotic liver disease",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-0609",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0206",
+      "title": "Surgical data extractivism: the false promise of institutional custodianship",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-0206",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0598",
+      "title": "Spatial architecture and dynamic surveillance: 3D bioprinting and microfluidics converge to overcome digestive malignancies",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-0598",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0508",
+      "title": "From local control to immune synergy: the evolving role of stereotactic body radiotherapy in the immunotherapy era of hepatocellular carcinoma",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-0508",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0182",
+      "title": "Obesity indices and type 2 diabetes risk: implications for dynamic assessment and metabolic mechanisms",
+      "journal": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.21037/hbsn-2026-0182",
+      "publisher": "AME Publishing Company",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.1201/9781003597162-29",
+      "title": "Surgery for Hilar Cholangiocarcinoma: French Experience in a Collective Survey of 552 Extrahepatic Bile Duct Cancers",
+      "journal": "50 Landmark Papers every Upper GI and HPB Surgeon Should Know",
+      "created": "2026-07-28T14:36:48Z",
+      "type": "book-chapter",
+      "url": "https://doi.org/10.1201/9781003597162-29",
+      "publisher": "CRC Press",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.3389/fsurg.2026.1887173",
+      "title": "Patient satisfaction with postoperative analgesia after hepatobiliary and pancreatic surgery: a retrospective analysis",
+      "journal": "Frontiers in Surgery",
+      "created": "2026-07-28T05:37:30Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3389/fsurg.2026.1887173",
+      "publisher": "Frontiers Media SA",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.3390/genes17080868",
+      "title": "Mendelian Randomization and Single-Cell Transcriptomic Analyses Implicate PPP1R1B as a Risk Factor of Intrahepatic Cholangiocarcinoma",
+      "journal": "Genes",
+      "created": "2026-07-27T16:11:56Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.3390/genes17080868",
+      "publisher": "MDPI AG",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.1093/jimmun/vkag141.644",
+      "title": "Targeting the KRAS G12D mutant suppresses tumor growth in a syngeneic mouse cholangiocarcinoma model through activation of immune cells 2258895",
+      "journal": "The Journal of Immunology",
+      "created": "2026-07-28T17:14:20Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1093/jimmun/vkag141.644",
+      "publisher": "Oxford University Press (OUP)",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.12677/hjbm.2026.164079",
+      "title": "A Case Report of IgG4-Related Sclerosing Cholangitis Misdiagnosed as Cholangiocarcinoma",
+      "journal": "Hans Journal of Biomedicine",
+      "created": "2026-07-28T10:50:23Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.12677/hjbm.2026.164079",
+      "publisher": "Hans Publishers",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.1186/s12957-026-04489-y",
+      "title": "Stress-driven reprogramming of plasmacytoid dendritic cells in intrahepatic cholangiocarcinoma defines a reversible targetable immunosuppressive state",
+      "journal": "World Journal of Surgical Oncology",
+      "created": "2026-07-28T07:03:42Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1186/s12957-026-04489-y",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_cca"
+    },
+    {
+      "doi": "10.1186/s12885-026-16305-7",
+      "title": "Impact of sarcopenia on short- and long-term outcomes after resection of perihilar cholangiocarcinoma: a two-center study",
+      "journal": "BMC Cancer",
+      "created": "2026-07-27T04:45:28Z",
+      "type": "journal-article",
+      "url": "https://doi.org/10.1186/s12885-026-16305-7",
+      "publisher": "Springer Science and Business Media LLC",
+      "source_query": "crossref_cca"
+    }
+  ]
+}

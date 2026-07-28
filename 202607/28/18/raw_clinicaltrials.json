@@ -1,0 +1,178 @@
+{
+  "collected_at_utc": "2026-07-28T18:00:40+00:00",
+  "filter": "LastUpdatePostDate RANGE[2026-07-27,2026-07-28]",
+  "count": 12,
+  "studies": [
+    {
+      "nctId": "NCT07059494",
+      "briefTitle": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "status": "RECRUITING",
+      "lastUpdate": "2026-07-28",
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai"
+    },
+    {
+      "nctId": "NCT02772003",
+      "briefTitle": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdate": "2026-07-28",
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "sponsor": "National Cancer Institute (NCI)"
+    },
+    {
+      "nctId": "NCT06710223",
+      "briefTitle": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdate": "2026-07-28",
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "sponsor": "University of California, San Diego"
+    },
+    {
+      "nctId": "NCT07729618",
+      "briefTitle": "AI-Guided First-Line Immunotherapy Selection in Unresectable Hepatocellular Carcinoma",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdate": "2026-07-27",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Unresectable Hepatocellular Carcinoma"
+      ],
+      "sponsor": "Tongji Hospital"
+    },
+    {
+      "nctId": "NCT07727759",
+      "briefTitle": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdate": "2026-07-28",
+      "phases": [],
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "sponsor": "Minia University"
+    },
+    {
+      "nctId": "NCT07729592",
+      "briefTitle": "Dapagliflozin Add-on in Unresectable HCC With Metabolic Syndrome",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdate": "2026-07-27",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "sponsor": "Sun Yat-sen University"
+    },
+    {
+      "nctId": "NCT03298451",
+      "briefTitle": "Study of Durvalumab and Tremelimumab as First-line Treatment in Patients With Advanced Hepatocellular Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdate": "2026-07-27",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "sponsor": "AstraZeneca"
+    },
+    {
+      "nctId": "NCT05503797",
+      "briefTitle": "A Study to Assess the Efficacy and Safety of FORE8394 in Participants With Cancer Harboring BRAF Alterations",
+      "status": "RECRUITING",
+      "lastUpdate": "2026-07-27",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Cancer Harboring BRAF Alterations",
+        "HGG",
+        "LGG",
+        "Solid Tumors"
+      ],
+      "sponsor": "Fore Biotherapeutics"
+    },
+    {
+      "nctId": "NCT07479485",
+      "briefTitle": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "status": "RECRUITING",
+      "lastUpdate": "2026-07-28",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "sponsor": "Lepu Biopharma Co., Ltd."
+    },
+    {
+      "nctId": "NCT06066138",
+      "briefTitle": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "status": "RECRUITING",
+      "lastUpdate": "2026-07-28",
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "sponsor": "National Cancer Institute (NCI)"
+    },
+    {
+      "nctId": "NCT07607769",
+      "briefTitle": "MONTEROSA - Italian Multicenter Observational Study to Evaluate Time to Clinical Hepatic Decompensation, Quality of Life, Effectiveness, and Safety of Tremelimumab Plus Durvalumab in Patients With Advanced or Unresectable Hepatocellular Carcinoma Who Have Received no Prior Systemic Treatment.",
+      "status": "RECRUITING",
+      "lastUpdate": "2026-07-27",
+      "phases": [],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "sponsor": "AstraZeneca"
+    },
+    {
+      "nctId": "NCT07724951",
+      "briefTitle": "The Efficacy and Safety of Donafenib Plus PD-1/L1 Monoclonal Antibodies Plus TACE or HAIC as First-line Treatment for Unresectable Hepatocellular Carcinoma A Multi-center, Retrospective Clinical Study",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdate": "2026-07-27",
+      "phases": [],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "sponsor": "Shanghai Zhongshan Hospital"
+    }
+  ]
+}
