@@ -1,0 +1,28 @@
+{
+  "collection_id": "hcc-hepatobiliary-20260728-17",
+  "topic": "肝胆外科 / 肝癌（HCC）及相关肝胆疾病",
+  "folder_path": "202607/28/17",
+  "window": {
+    "label": "最近24小时新增",
+    "start_utc": "2026-07-27T17:00:00Z",
+    "end_utc": "2026-07-28T17:00:00Z",
+    "timezone_note": "目录按触发时刻 UTC 小时归档：2026-07-28 17时"
+  },
+  "languages_searched": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": [
+    "PubMed/NCBI E-utilities (PDAT + EDAT)",
+    "Crossref Works API (from-created-date)",
+    "Europe PMC",
+    "Web search (multi-language clinical/news)",
+    "National/society guidelines portals (NHC CN, JSH JP, AWMF/DGVS DE, AFEF/TNCD FR, Minzdrav RU, BCLC)"
+  ],
+  "counts": {
+    "pubmed_edat_hits_reported": 90,
+    "pubmed_records_saved": 39,
+    "crossref_hcc_filtered_created_24h": 20,
+    "news_items_24h": 3,
+    "guideline_reference_panel": 8
+  },
+  "generated_at_utc": "2026-07-28T17:10:00Z",
+  "disclaimer": "本目录为自动化文献/指南/新闻简报，非临床诊疗建议。PubMed 日期字段可能反映入库日而非纸质出版日；DOI 偶发错配时以 PMID/URL 为准。指南对照面板含现行权威文件，未必均在本24小时窗口新发布。"
+}
