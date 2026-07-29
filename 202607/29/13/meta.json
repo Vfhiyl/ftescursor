@@ -1,0 +1,59 @@
+{
+  "folder": "202607/29/13",
+  "previous_folder": "202607/29/12",
+  "trigger_utc": "2026-07-29T13:00:41.168Z",
+  "collected_at_utc": "2026-07-29T13:04:26.524668+00:00",
+  "window_start_utc": "2026-07-28T13:03:50.155347+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 127,
+    "pubmed_pdat_count": 40,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 76,
+    "crossref_unique_title_filtered": 104,
+    "crossref_new_dois": [
+      "10.1007/978-3-032-31119-1_14",
+      "10.1155/ijh/3205201",
+      "10.34133/cancomm.0043",
+      "10.47278/book.tl/2026.131",
+      "10.5256/f1000research.201417.r498447"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [
+      "10.1007/s00265-026-03784-8",
+      "10.1201/9781003597162-6",
+      "10.1201/9781003597162-7"
+    ],
+    "clinicaltrials_related": 23,
+    "clinicaltrials_focus": 22,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT00034216",
+      "NCT07281924"
+    ],
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / NHC / AWMF v5.2 / AFEF·TNCD / Минздрав КР 2025 reachable; continuation-only EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; no new LBA this UTC hour; no guideline version change."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 127 ID set identical to 12h (NEW PMID=0).",
+    "Crossref title-filtered 102→104: +5 NEW DOIs (peer-review TDM; NSUN2-m5C mech; sarcopenia LT mortality; LT donor ML book chapter; laser/microwave/AuNP book chapter); −3 dropped (wood-dove FP; 2 book chapters); material=false.",
+    "CT related 25→23: NEW NCT=0; dropped NCT07281924 (melanoma liver mets), NCT00034216; 0 results-module material updates.",
+    "Guidelines panel unchanged (CN 2026 / JSH 2025 / KLCA-NCC 2026 / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 12h; short pack only."
+  ]
+}
