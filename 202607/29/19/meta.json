@@ -1,0 +1,57 @@
+{
+  "folder": "202607/29/19",
+  "previous_folder": "202607/29/18",
+  "trigger_utc": "2026-07-29T19:01:30.752Z",
+  "collected_at_utc": "2026-07-29T19:03:29.513166+00:00",
+  "window_start_utc": "2026-07-28T19:03:29.513166+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 170,
+    "pubmed_pdat_count": 49,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 45,
+    "crossref_unique_title_filtered": 119,
+    "crossref_new_dois": [],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [
+      "10.1186/s12910-026-01545-w",
+      "10.2139/ssrn.6620170",
+      "10.52604/alt.26.0006"
+    ],
+    "clinicaltrials_related": 25,
+    "clinicaltrials_focus": 24,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT06199232",
+      "NCT07281924"
+    ],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / NHC CN2026 / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025 / KLCA-NCC reachable; continuation-only EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; JLCA conversion consensus already indexed at 18h; no new LBA or guideline version this UTC hour."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 170 ID set identical to 18h (NEW PMID=0, DROPPED=0).",
+    "Crossref title-filtered 122→119: NEW DOI=0; DROPPED 3 (LT allocation ethics / SSRN prioritization / transplant oncology review); material=false.",
+    "CT related 27→25: NEW NCT=0; dropped NCT06199232 (CRCLM HAIC FP) + NCT07281924 (melanoma liver mets FP); 0 results-module material updates; focus flicker NCT00034216 in / NCT07719933 out.",
+    "Preprints: medRxiv/bioRxiv details + EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged vs 18h (CN 2026 / JSH / JLCA conversion consensus already logged / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 18h; short pack only."
+  ]
+}
