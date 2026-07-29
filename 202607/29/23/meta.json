@@ -1,0 +1,65 @@
+{
+  "folder": "202607/29/23",
+  "previous_folder": "202607/29/22",
+  "trigger_utc": "2026-07-29T23:00:20.684Z",
+  "collected_at_utc": "2026-07-29T23:03:28.083090+00:00",
+  "window_start_utc": "2026-07-28T23:03:28.083090+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 176,
+    "pubmed_pdat_count": 51,
+    "pubmed_edat_new_ids": [
+      "42525523",
+      "42525890",
+      "42525921",
+      "42525956",
+      "42525995",
+      "42526003"
+    ],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 43,
+    "crossref_unique_title_filtered": 128,
+    "crossref_new_dois": [],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 28,
+    "clinicaltrials_focus": 21,
+    "clinicaltrials_new_ncts": [
+      "NCT00034216",
+      "NCT06199232",
+      "NCT06506955",
+      "NCT07281924",
+      "NCT07731373"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT07719933"
+    ],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / AWMF / HAS / KLCA / Минздрав reachable; OncLive 403; NHC 412; no new LBA or guideline version this UTC hour; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 170→176: +6 NEW PMID (DROPPED=0). None upgraded to must-read.",
+    "NEW PMID triage: 42525890 radioproteomic + 42525956 mechanosensor = PubMed indexing of 21h Crossref DOIs (still down-ranked); 42525921 COMMIT = dMMR mCRC FP via atezolizumab; 42525523 = FFF linac physics; 42525995/42526003 = South Dakota Med abstracts without DOI/dual source.",
+    "Crossref title-filtered 128→128: NEW DOI=0; material=false; cursor-paginated across query set.",
+    "CT related 24→28: 5 reentries (biobank / CRCLM HAIC / futibatinib continuation / melanoma liver mets / PCOS steatosis) + dropped terlipressin NCT07719933; focus 21 identical; 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv details + EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged vs 18h (CN 2026 / JSH / JLCA conversion consensus already logged / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Indexing delta present but no material clinical must-read vs 22h; short delta pack (not full rewrite)."
+  ]
+}
