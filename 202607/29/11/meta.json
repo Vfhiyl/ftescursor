@@ -1,0 +1,72 @@
+{
+  "folder": "202607/29/11",
+  "previous_folder": "202607/29/10",
+  "trigger_utc": "2026-07-29T11:02:53.789Z",
+  "collected_at_utc": "2026-07-29T11:07:41.850822+00:00",
+  "window_start_utc": "2026-07-28T11:05:48.819921+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 127,
+    "pubmed_pdat_count": 40,
+    "pubmed_edat_new_ids": [
+      "42522067",
+      "42522084",
+      "42522157",
+      "42522214",
+      "42522300",
+      "42522303",
+      "42522589",
+      "42522599",
+      "42522680"
+    ],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 66,
+    "crossref_unique_title_filtered": 72,
+    "crossref_new_dois": [
+      "10.1111/jvh.70218",
+      "10.3748/wjg.122785",
+      "10.3748/wjg.122971",
+      "10.4240/wjgs.120658",
+      "10.5005/jp-journals-10018-1512",
+      "10.70755/vnjo.2026.82.12",
+      "10.70755/vnjo.2026.82.13"
+    ],
+    "crossref_new_dois_material": true,
+    "crossref_material_dois": [
+      "10.3748/wjg.122785"
+    ],
+    "crossref_dropped_dois": [
+      "10.1093/jimmun/vkag141.1735"
+    ],
+    "clinicaltrials_related": 13,
+    "clinicaltrials_focus": 10,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT05044819",
+      "NCT06506955",
+      "NCT07731373"
+    ],
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / NHC / AWMF v5.2 / AFEF·TNCD / Минздрав КР 2025 reachable; continuation-only EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; no new LBA this UTC hour; no guideline version change."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 118→127: +9 NEW PMID (Ann Surg 6-seg QI; VEGFA/EGF SNP CCA; HBsAgGi biomarker; mental health; letter pCCA LT; MASLD autophagy review; + mech/nano/IVDD FP).",
+    "Crossref title-filtered 66→72: +7 NEW DOIs (incl. JVH=PMID overlap; WJG surufatinib+PD-L1+HAIC iCCA efficacy title; nomogram/surveillance/VNJO review-case/TIPS flora) — material clinical DOI flag for WJG HAIC title only; not dual-source must-read.",
+    "CT related 15→13: 0 NEW NCT; dropped peripheral NCT05044819, NCT06506955, NCT07731373.",
+    "Guidelines panel unchanged (CN 2026 / JSH 2025 / KLCA-NCC 2026 / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "Must-read kept lean: Ann Surg extended hepatectomy QI + EMERALD pair reminder; SNP/biomarker/psychosocial/letter/mech down-ranked."
+  ]
+}
