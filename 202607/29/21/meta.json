@@ -1,0 +1,55 @@
+{
+  "folder": "202607/29/21",
+  "previous_folder": "202607/29/20",
+  "trigger_utc": "2026-07-29T21:02:03.618Z",
+  "collected_at_utc": "2026-07-29T21:04:26.845307+00:00",
+  "window_start_utc": "2026-07-28T21:04:26.845307+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 170,
+    "pubmed_pdat_count": 49,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 45,
+    "crossref_unique_title_filtered": 128,
+    "crossref_new_dois": [
+      "10.1007/s00270-026-04553-w",
+      "10.1016/j.bbrc.2026.154340",
+      "10.1158/0008-5472.can-25-4356",
+      "10.1200/po-25-00745"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 26,
+    "clinicaltrials_focus": 21,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / AWMF / HAS reachable; OncLive 403; がんナビ 404; NHC 412; ESMO continuation on TACE±IO uncertainty (EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature); no new LBA or guideline version this UTC hour."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 170 ID set identical to 20h (NEW PMID=0, DROPPED=0).",
+    "Crossref title-filtered 124→128: NEW DOI=4 (Y-90 resin radiation segmentectomy CVIR single-source; JCO PO radioproteomic predictor; Cancer Research mechanosensor mechanism; BBRC plant-exosome corrigendum); material=false.",
+    "CT related 26→26: NEW NCT=0; focus 23→21 flicker (biobank NCT00034216 + non-CCA FGFR2 NCT07359820 in; futibatinib/atezo-TDM/liver-met HAI/terlipressin out); 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv details + EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged vs 18h (CN 2026 / JSH / JLCA conversion consensus already logged / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 20h; short pack only."
+  ]
+}
