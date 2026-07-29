@@ -1,0 +1,91 @@
+{
+  "collected_at_utc": "2026-07-29T12:03:08.417561+00:00",
+  "count": 7,
+  "items": [
+    {
+      "pmid": "42522680",
+      "title": "Differential Hepatitis B Surface Antigen Glycan Isomer Kinetics Between Tenofovir Alafenamide and Entecavir: Hepatocellular Carcinoma Risk Stratification in Hepatitis B e Antigen-Positive Patients.",
+      "journal": "Journal of viral hepatitis",
+      "doi": "10.1111/jvh.70218",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522680/",
+      "leaning": "clinical",
+      "abstract": "Nucleos(t)ide analog (NA) therapy suppresses hepatitis B virus (HBV) DNA, but residual hepatocellular carcinoma (HCC) risk persists. O-glycosylated hepatitis B surface antigen glycan isomer (HBsAgGi) uniquely reflects virion burden. We evaluated the impact of tenofovir alafenamide (TAF) versus entecavir (ETV) on 48-week HBsAgGi kinetics and its utility in stratifying HCC risk in 90 NA-naïve patients (ETV: 73; TAF: 17). A favourable response was defined as a reduction or maintenance of low HBsAgGi levels. TAF independently predicted a favourable response compared with ETV (penalised odds ratio 3.60, p = 0.030). A significant interaction occurred between HBeAg status and HBsAgGi response in relation to HCC development (p = 0.038). In HBeAg-positive patients, a poor response was associated with increased HCC risk (hazard ratio 7.34, 95% confidence interval [CI] 1.96-20.35, p = 0.001); however, the exact magnitude warrants cautious interpretation due to wide CIs. This association was absent in HBeAg-negative cases. Adding HBsAgGi response to the aMAP score improved long-term HCC prediction exclusively in the HBeAg-positive cohort. As the assay targets genotype C-specific O-glycosylation, the findings cannot be generalised to genotypes A, B, or D. In conclusion, on-treatment HBsAgGi response is a specific surrogate marker for stratifying residual HCC risk in HBeAg-positive patients, and TAF is more effective than ETV in inducing these favourable kinetics."
+    },
+    {
+      "pmid": "42522084",
+      "title": "Right (H145678) and Left (H123458) 6-Segmentectomies for Malignant Liver Tumors: A Retrospective Analysis of 237 Cases Using Contemporary Surgery Quality Indicators.",
+      "journal": "Annals of surgery",
+      "doi": "10.1097/sla.0000000000007166",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522084/",
+      "leaning": "clinical",
+      "abstract": "Analysis of 6-segmentectomies coded H145678 or H123458 in the New World classification of liver resections using contemporary indicators to improve the shared surgical decision-making. Specific reports on H145678 and H123458 have lacked granularity or have focused on perihilar cancer. We performed a retrospective single-center analysis of consecutive patients who underwent H145678 or H123458 from 1993 to 2024. Surgical futility (90 d mortality), failure-to-rescue, oncological futility (early tumor recurrence), and outcome futility (surgical or oncologic futility) were evaluated. Textbook outcome achievement and the potential role of liver transplantation (LT) were also assessed. The study population included 237 patients with perihilar cholangiocarcinoma (n=117, 49.4%), intrahepatic cholangiocarcinoma (n=39, 16.4%), hepatocellular carcinoma (n=17, 7.2%), colorectal cancer liver metastases (n=38, 16.0%), or miscellaneous tumors (n=26, 11%). H145678 and H123458 were performed in 166 (70.0%) and 71 (30.0%) patients, respectively. Combined vascular and bile duct reconstructions were performed in 46.4% (n=110) and 62.4% (n=148) of patients, respectively. Rates of surgical, failure-to-rescue, oncological, and outcome futility were 15.6% (n=37), 30.3% (n=37), 14.5% (n=29), and 27.8% (n=66), respectively. Textbook outcome was achieved in 30.8% (n=73). With a median follow-up of 26 months, 5-year overall-survival rates and disease-free survival rates were 30.8% and 18.9%. LT criteria were not met in 94.9% (n=225). H123458 and H145678 offer selected patients a chance for long-term survival. LT is not a therapeutic option for most patients, and targeted rescue strategies may improve failure-to-rescue rates."
+    },
+    {
+      "pmid": "42522067",
+      "title": "Differential Effects of VEGFA and EGF Polymorphisms on Susceptibility and Postoperative Outcome in Cholangiocarcinoma.",
+      "journal": "Annals of surgery",
+      "doi": "10.1097/sla.0000000000007176",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522067/",
+      "leaning": "low",
+      "abstract": "To investigate the impact of VEGFA and EGF genetic polymorphisms on postoperative survival, susceptibility, transcriptomics, and systemic proteomic regulation in cholangiocarcinoma (CCA). Angiogenesis and growth factor signaling via vascular endothelial growth factor A (VEGFA) and epidermal growth factor (EGF) are key drivers of CCA biology, yet the clinical relevance of their genetic variants remains poorly defined. A cohort of 221 patients undergoing curative-intent CCA resection at Charité-Berlin was analyzed. Patients were genotyped for 6 angiogenesis-related SNPs, including VEGFA rs3025039 and EGF rs4444903, and survival associations were assessed using Cox regression. The prognostic relevance of intratumoral VEGFA and EGF mRNA expression and pathway co-expression was evaluated in an independent transcriptomic cohort. Population-level associations with CCA susceptibility and serum proteomics were analyzed in the UK Biobank (n>500,000). The VEGFA rs3025039 T allele was associated with improved cancer-specific survival, particularly in intrahepatic CCA, while the EGF rs4444903 G allele was linked to improved survival in perihilar CCA. High intratumoral VEGFA or EGF expression correlated with poorer survival in external validation, but this association was lost for EGF after multivariable adjustment. VEGFA-high tumors showed increased proliferative and suppressed immune transcriptional signatures, whereas EGF-high tumors displayed limited changes. UK Biobank analysis revealed increased intrahepatic CCA susceptibility among VEGFA T allele carriers, while the EGF G allele was associated with elevated circulating EGF levels. VEGFA and EGF polymorphisms exert distinct effects on CCA, influencing disease susceptibility, postoperative outcomes, and systemic signaling, supporting their potential as biomarkers for clinical stratification."
+    },
+    {
+      "pmid": "42521676",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience.",
+      "journal": "Journal of laparoendoscopic & advanced surgical techniques. Part A",
+      "doi": "10.1177/10926429261472632",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521676/",
+      "leaning": "clinical",
+      "abstract": "Laparoscopic liver resection (LLR) is increasingly being utilized worldwide for the management of malignant liver tumors, including hepatocellular carcinoma (HCC). However, the role of LLR for huge (≥10 cm) HCCs remains controversial with limited data to date regarding its safety and feasibility. We aimed to compare perioperative and long-term outcomes of LLR and open liver resection (OLR) for huge HCCs. We conducted a retrospective review of 170 consecutive patients who underwent liver resection for huge HCC from 2010 to 2024. Propensity score matching (PSM) (both 1:1 and 1:2) was performed to account for differences in baseline characteristics between LLR and OLR groups when comparing perioperative and long-term outcomes. A total of 38 patients underwent LLR, of which major hepatectomies were performed in 29 (76.3%) patients, and 132 underwent OLR, of which major hepatectomies were performed in 93 (70.4%) patients. There were 4 (10.5%) open conversions in the LLR cohort. After PSM, both LLR and OLR groups were well-matched for baseline characteristics other than a higher proportion of Institut Mutualiste Montsouris grade 3 procedures in the LLR group. Comparison between perioperative outcomes demonstrated no significant differences in close resection margins (<1 mm), blood transfusion rate, postoperative morbidity, major morbidity, 30-day readmission, postoperative length of stay and 30-day/in-hospital mortality. LLR was associated with lower intraoperative blood loss at the expense of a longer operation time. The 3-year actuarial overall survival rate was 55% in the entire cohort, and there was no significant difference between LLR and OLR. LLR may be safely performed for huge HCCs with comparable perioperative and long-term oncological outcomes."
+    },
+    {
+      "pmid": "42520930",
+      "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
+      "journal": "JHEP reports : innovation in hepatology",
+      "doi": "10.1016/j.jhepr.2026.101968",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520930/",
+      "leaning": "clinical",
+      "abstract": "Biliary tract cancers (BTCs) are rare, heterogeneous tumors associated with a poor prognosis, even after curative-intent surgery. Adjuvant capecitabine is currently the standard of care; however, real-world data on its efficacy and tolerance are lacking. This French, retrospective, multicentre study, nested within the ACABi-PRONOBIL observational cohort, assessed adjuvant capecitabine efficacy in patients, with resected intrahepatic, perihilar, distal cholangiocarcinoma, or gallbladder carcinoma. who had not received prior systemic therapy. Patients treated with adjuvant capecitabine after 2017 were compared with patients diagnosed before 2017 and managed with surveillance only. The primary endpoint was overall survival (OS), secondary endpoints were recurrence-free survival (RFS) and toxicity. Inverse probability of treatment weighting (IPTW) in Cox regressions was used to adjust for measured confounding, imbalanced factors between groups. A total of 320 patients were included (197 in the capecitabine group and 123 in the surveillance group). In IPTW analysis, adjuvant capecitabine was not significantly associated with improved RFS (IPTW HR, 0.81, CI 95%, 0.54-1.21; p = 0.304), or OS (IPTW HR, 0.94, CI 95%, 0.58-1.52; p = 0.798). The point estimate for RFS was consistent with the ITT analysis of the BILCAP trial. In the capecitabine group, 49% of patients required at least one dose reduction, and 35.7% discontinued treatment due to mainly grade 3/4 gastrointestinal (13.4%) and cutaneous (25.8%) toxicities. In this real-world cohort, adjuvant capecitabine was not significantly associated with improved RFS or OS in patients undergoing curative-intent resection for BTC, although a numerical trend in favor of capecitabine for RFS. These findings support the need for refined patient selection strategies and for prospective evaluation of novel adjuvant approaches. NCT04935853 IMPACT AND IMPLICATIONS: This multicentre real-world study - BILCAP real study provides important complementary evidence to randomized trials by evaluating the effectiveness and tolerability of adjuvant capecitabine for resected biliary tract cancers in routine clinical practice.Although no statistically significant survival benefit was observed, the consistency of the recurrence-free survival estimate with the intention-to-treat results of the BILCAP trial and the observed toxicity profile provide clinically relevant information for physicians, patients, and multidisciplinary teams involved in postoperative treatment decisions.These findings support shared decision-making by helping clinicians balance the potential benefit of delaying recurrence against the risk of treatment-related toxicity, while emphasizing the need for careful patient selection and toxicity management in daily practice.Given the retrospective design and the possibility of residual confounding despite propensity-score adjustment, these results should be interpreted cautiously and primarily serve to inform the design of future biomarker-driven and prospective adjuvant studies rather than to change current clinical practice."
+    },
+    {
+      "pmid": "42520555",
+      "title": "Oncological and perioperative outcomes in minimally invasive hepatobiliary surgery: A review for the ESSO core curriculum.",
+      "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
+      "doi": "10.1016/j.ejso.2026.112022",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520555/",
+      "leaning": "clinical",
+      "abstract": "Minimally invasive surgery (MIS) is associated with reduced surgical trauma and improved postoperative recovery. Its adoption in hepatobiliary (HB) surgical oncology has been more gradual and less extensive compared to other surgical subspecialities. This reflects the technical complexity of HB procedures, challenging anatomy, and frequent patient-related risk factors such as cirrhosis, portal hypertension, frailty, and malnutrition. In 2021, the European Society of Surgical Oncology (ESSO) updated its core curriculum to support standardized education of cancer surgeons. This review aligns with the ESSO curriculum and focuses on minimally invasive access in HB oncological surgery. A literature review was performed on MIS in HB oncology to address oncological outcomes including resection margin status, lymph node yield, as well as long-term oncological outcomes. Additionally, perioperative outcomes, including complications, blood loss, postoperative pain, length of hospital stay, and quality-of-life measures were assessed. Current evidence indicates that, in appropriately selected patients, MIS in HB oncology is associated with reduced surgical trauma and favourable short-term outcomes, including lower postoperative morbidity and faster recovery. In patients with chronic liver disease, MIS may confer additional benefits through reduced postoperative liver dysfunction. Oncological surrogate outcomes appear comparable to open surgery in experienced centres, and emerging data suggest no compromise in long-term oncological outcomes. MIS is a safe and effective approach for selected HB oncological procedures when performed in specialized centres. Standardization of MIS in HB surgery remains limited for some indications; however, data support its integration into clinical practice and training pathways in line with the ESSO curriculum."
+    },
+    {
+      "pmid": "42520380",
+      "title": "Preoperative MR elastography for characterizing aggressive vascular phenotypes in hepatocellular carcinoma.",
+      "journal": "European journal of radiology",
+      "doi": "10.1016/j.ejrad.2026.113071",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520380/",
+      "leaning": "clinical",
+      "abstract": "To differentiate vessel-encapsulating tumor clusters (VETC), microvascular invasion (MVI), macrotrabecular-massive (MTM), and early recurrence using preoperative MR elastography (MRE) in hepatocellular carcinoma (HCC). 220 HCC patients scheduled for hepatectomy were prospectively recruited, with preoperative MRE quantifying tissue stiffness and viscosity. Multivariate logistic regression identified independent predictors, evaluated by an area under the curve (AUC). 78 of 220 patients encountered postoperative 2-year relapse. VETC (odds ratio [OR] 2.320, p = 0.046), MTM (OR 2.573, p = 0.024), MVI (OR 2.613, p = 0.035), elevated liver stiffness (OR 3.257, p = 0.015), carbohydrate antigen 125 > 24 U/mL (OR 4.742, p = 0.010), and peritumoral enhancement (OR 2.351, p = 0.040) were independent indicators of early recurrence, which was higher than that without MRE (AUC = 0.834 vs. 0.798, DeLong test, p < 0.001). Increased tumor viscosity (OR 1.449, p = 0.017), men (OR 8.475, p = 0.001), elevated alpha-fetoprotein levels (OR 1.980, p = 0.002), and non-smooth margin (OR 2.693, p = 0.002) were independent predictors of MTM, significantly higher than the non-MRE model (AUC = 0.748 vs. 0.706, p = 0.009). MTM exhibited significantly higher tumor viscosity (1.171 vs. 0.900 rad, p = 0.002) but looser cell junction proteins than non-MTM: E-cadherin (10.440% vs. 19.685%, p = 0.001), Occludins (14.521% vs. 27.029%, p = 0.001), and ZO-1 (5.875% vs. 8.083%, p = 0.046). Additionally, stiffer tumor (OR 1.567, p = 0.042), male (OR 4.102, p = 0.002), alanine aminotransferase > 64 U/L (OR 2.801, p = 0.049), elevated alpha-fetoprotein levels (OR 2.359, p < 0.001), and tumor capsule (OR 3.101, p = 0.012) were markedly indicative of VETC (AUC = 0.747 vs. non-MRE 0.710, p = 0.078). Conversely, softer tumor (OR 1.887, p = 0.045), multifocality (OR 3.881, p = 0.002), incomplete or absent capsule (OR 3.746, p < 0.001), and non-smooth margin (OR 6.771, p < 0.001) were independently associated with MVI-positivity (AUC = 0.864 vs. non-MRE 0.841, p = 0.068). MRE-derived mechanical biomarkers are instrumental in risk stratification of aggressive HCC phenotypes and relapse."
+    }
+  ]
+}
