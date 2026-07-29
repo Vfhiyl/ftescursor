@@ -1,0 +1,60 @@
+{
+  "folder": "202607/29/14",
+  "previous_folder": "202607/29/13",
+  "trigger_utc": "2026-07-29T14:00:03.290Z",
+  "collected_at_utc": "2026-07-29T14:02:09.050247+00:00",
+  "window_start_utc": "2026-07-28T14:02:09.050247+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 127,
+    "pubmed_pdat_count": 40,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 74,
+    "crossref_unique_title_filtered": 106,
+    "crossref_new_dois": [
+      "10.1155/crit/8246863",
+      "10.24953/turkjpediatr.1990.3784"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 22,
+    "clinicaltrials_focus": 20,
+    "clinicaltrials_new_ncts": [
+      "NCT00034216",
+      "NCT07719933"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT06066138",
+      "NCT06427941",
+      "NCT07732686"
+    ],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / NHC / AWMF v5.2 / AFEF·TNCD / Минздрав КР 2025 reachable; continuation-only EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; no new LBA this UTC hour; no guideline version change."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 127 ID set identical to 13h (NEW PMID=0).",
+    "Crossref title-filtered 104→106: +2 NEW DOIs (LT passenger lymphocyte case; pediatric LT CMV reindex); material=false.",
+    "CT related 23→22: NEW/reentry NCT07719933 (terlipressin lap hepatectomy, no results module) + NCT00034216 (blood collection FP); dropped NCT06066138/NCT06427941/NCT07732686; 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv/EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged (CN 2026 / JSH 2025 / KLCA-NCC 2026 / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 13h; short pack only."
+  ]
+}
