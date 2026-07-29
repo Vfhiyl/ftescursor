@@ -1,0 +1,761 @@
+{
+  "count": 40,
+  "records": [
+    {
+      "pmid": "42524843",
+      "title": "Exploring the Role of Surgery After Systemic Therapy in Locally Advanced Biliary Tract Cancer: Outcomes From a Large Retrospective Multinational Real-World Cohort Treated With Cisplatin, Gemcitabine, and Durvalumab.",
+      "source": "Int J Cancer",
+      "pubdate": "2026 Jul 29",
+      "epubdate": "2026 Jul 29",
+      "authors": [
+        "Rimini M",
+        "Lamarca A",
+        "Ikeda M",
+        "Abidoye O",
+        "Lucchetti J",
+        "Antonuzzo L",
+        "Kim JW",
+        "Vogel A",
+        "Nichetti F",
+        "Saborowski A",
+        "Pressiani T",
+        "Vivaldi C"
+      ],
+      "doi": "10.1002/ijc.70641",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524843/"
+    },
+    {
+      "pmid": "42524660",
+      "title": "Definition of Conversion Therapy and Neoadjuvant Therapy for Hepatocellular Carcinoma: A Consensus Guideline from the Japan Liver Cancer Association.",
+      "source": "Liver Cancer",
+      "pubdate": "2026 Jun 9",
+      "epubdate": "2026 Jun 9",
+      "authors": [
+        "Ichida A",
+        "Tateishi R",
+        "Hatano E",
+        "Taketomi A",
+        "Tanabe M",
+        "Nouso K",
+        "Minami Y",
+        "Murakami T",
+        "Shimada M",
+        "Hasegawa K"
+      ],
+      "doi": "10.1159/000552928",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524660/"
+    },
+    {
+      "pmid": "42524618",
+      "title": "Lenvatinib-Associated Posterior Reversible Encephalopathy Syndrome in a Patient With Metastatic Clear Cell Renal Cell Carcinoma: A Case Report.",
+      "source": "Cureus",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Jun 28",
+      "authors": [
+        "Luginaah NA",
+        "Climans S",
+        "Akingbade A"
+      ],
+      "doi": "10.7759/cureus.111672",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524618/"
+    },
+    {
+      "pmid": "42524515",
+      "title": "Lenvatinib Added to Nivolumab and Ipilimumab Improves Tumor Control and Progression-Free Survival in Unresectable Hepatocellular Carcinoma.",
+      "source": "Liver Cancer",
+      "pubdate": "2026 Jun 9",
+      "epubdate": "2026 Jun 9",
+      "authors": [
+        "Lai KC",
+        "Liu CA",
+        "Lei HJ",
+        "Chen SC"
+      ],
+      "doi": "10.1159/000552861",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524515/"
+    },
+    {
+      "pmid": "42524514",
+      "title": "Preoperative Albumin-Bilirubin Score as a Predictor of Postoperative Complications After Liver Resection.",
+      "source": "Cureus",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Jun 28",
+      "authors": [
+        "Debnath A",
+        "Das BC",
+        "Arefin M",
+        "Kawsar Bhuiyan M",
+        "Mahmud Rayhan G",
+        "Alam Mohim N",
+        "Chowdhury A",
+        "Bin Anis A",
+        "Debnath Oishi O",
+        "Chowdhury M"
+      ],
+      "doi": "10.7759/cureus.111661",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524514/"
+    },
+    {
+      "pmid": "42524025",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade.",
+      "source": "Ther Adv Med Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Guo Y",
+        "Liu X",
+        "Sun B",
+        "Pu F",
+        "Li X",
+        "Zheng C",
+        "Kan X",
+        "Yang F"
+      ],
+      "doi": "10.1177/17588359261470015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524025/"
+    },
+    {
+      "pmid": "42523965",
+      "title": "Clinical Outcomes of Lenvatinib-Pembrolizumab in a High-Risk, Dual ICI-Refractory Melanoma Cohort.",
+      "source": "Clin Med Insights Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Geçgel A",
+        "Gökdere ZS",
+        "Özüdoğru T",
+        "Mıdık MM",
+        "Karaca B"
+      ],
+      "doi": "10.1177/11795549261472694",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523965/"
+    },
+    {
+      "pmid": "42523603",
+      "title": "Metabolic comorbidities affect the survival of hepatitis B virus-related hepatocellular carcinoma in Chinese patients: a retrospective cohort study with propensity score matching.",
+      "source": "Front Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 14",
+      "authors": [
+        "Zhou Z",
+        "Zheng X",
+        "Lin Z",
+        "Chen X",
+        "Xie M"
+      ],
+      "doi": "10.3389/fonc.2026.1863272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523603/"
+    },
+    {
+      "pmid": "42522589",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "source": "Liver Int",
+      "pubdate": "2026 Sep",
+      "epubdate": "",
+      "authors": [
+        "Prieto Calvo M",
+        "Perfecto A",
+        "Ruiz P",
+        "Gastaca M"
+      ],
+      "doi": "10.1111/liv.70825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522589/"
+    },
+    {
+      "pmid": "42522214",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy.",
+      "source": "ANZ J Surg",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Xie Z",
+        "Liu C",
+        "Zang S",
+        "Wu P",
+        "Yang R",
+        "Yu J"
+      ],
+      "doi": "10.1111/ans.70762",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522214/"
+    },
+    {
+      "pmid": "42521912",
+      "title": "Successful Redo Right Hepatic Vein Reconstruction for Recurrent Colorectal Liver Metastases After Triple Hepatic Vein Resection: Implications of Late-Onset Venous Stenosis.",
+      "source": "Ann Surg Oncol",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Sawa Y",
+        "Ono Y",
+        "Shimane G",
+        "Hashimoto T",
+        "Tsuchiya S",
+        "Sato Y",
+        "Takamatsu M",
+        "Kiritani S",
+        "Kobayashi K",
+        "Ito H",
+        "Inoue Y",
+        "Matsueda K"
+      ],
+      "doi": "10.1245/s10434-026-20320-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521912/"
+    },
+    {
+      "pmid": "42521676",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience.",
+      "source": "J Laparoendosc Adv Surg Tech A",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Lim XY",
+        "Chong Y",
+        "Tan HL",
+        "Chua DW",
+        "Yao C",
+        "Koh YX",
+        "Teo JY",
+        "Cheow PC",
+        "Chung AYF",
+        "Goh BKP"
+      ],
+      "doi": "10.1177/10926429261472632",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521676/"
+    },
+    {
+      "pmid": "42521316",
+      "title": "Evaluating the effectiveness and safety of adjuvant transcatheter arterial chemoembolisation (TACE) after curative resection for Barcelona Clinic Liver Cancer (BCLC) stage 0-B hepatocellular carcinoma: protocol for a target trial emulation study.",
+      "source": "BMJ Open",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Li Z",
+        "Mi S",
+        "Li X",
+        "Ren Q"
+      ],
+      "doi": "10.1136/bmjopen-2026-117956",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521316/"
+    },
+    {
+      "pmid": "42520930",
+      "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
+      "source": "JHEP Rep",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Noé C",
+        "Henriques J",
+        "Chanez B",
+        "Vernerey D",
+        "Lecomte T",
+        "Durand A",
+        "Assenat E",
+        "Edeline J",
+        "Heurgué A",
+        "Tougeron D",
+        "Manfredi S",
+        "Hautefeuille V"
+      ],
+      "doi": "10.1016/j.jhepr.2026.101968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520930/"
+    },
+    {
+      "pmid": "42520023",
+      "title": "Prognostic factors in first-line atezolizumab-bevacizumab treatment of intermediate or advanced hepatocellular carcinoma.",
+      "source": "PLoS One",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Gu K",
+        "Kang TW",
+        "Shin J",
+        "Sinn DH",
+        "Goh MJ",
+        "Hong JY",
+        "Chi S"
+      ],
+      "doi": "10.1371/journal.pone.0354176",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520023/"
+    },
+    {
+      "pmid": "42519345",
+      "title": "Neoadjuvant therapy for hepatocellular carcinoma: emerging combinations and biomarker challenges.",
+      "source": "Front Immunol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 6",
+      "authors": [
+        "Palihati S",
+        "Mo H",
+        "Ye X",
+        "Yi C",
+        "Liang X"
+      ],
+      "doi": "10.3389/fimmu.2026.1809834",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519345/"
+    },
+    {
+      "pmid": "42519234",
+      "title": "Adjuvant Sintilimab Plus Bevacizumab After Curative Resection of Spontaneously Ruptured Hepatocellular Carcinoma: Protocol for a Prospective, Exploratory, Single-Arm Study (CLEAR-2).",
+      "source": "J Hepatocell Carcinoma",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Cheng Y",
+        "Ye F",
+        "Sun HC",
+        "Chen Y"
+      ],
+      "doi": "10.2147/JHC.S614872",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519234/"
+    },
+    {
+      "pmid": "42518820",
+      "title": "Consolidative use of radiotherapy to block oligoprogression in patients with metastatic melanoma on Systemic Therapy (CURB-Melanoma) - a single arm, phase 2 clinical trial.",
+      "source": "Front Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 6",
+      "authors": [
+        "Icht O",
+        "Sun A",
+        "Wong P",
+        "McPartlin A",
+        "Muniz TP",
+        "Spreafico A",
+        "Saibil SD",
+        "Lukens JN",
+        "Karam SD",
+        "De Almeida J",
+        "Butler MO",
+        "Tsai CJ"
+      ],
+      "doi": "10.3389/fonc.2026.1841070",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518820/"
+    },
+    {
+      "pmid": "42518569",
+      "title": "Economic value of finotonlimab plus bevacizumab versus sorafenib for first-line treatment of unresectable hepatocellular carcinoma in China and the United States.",
+      "source": "Front Public Health",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 6",
+      "authors": [
+        "He Y",
+        "Jiang Q",
+        "Pan X",
+        "Deng L",
+        "Hu X",
+        "Yang Z",
+        "Lang W"
+      ],
+      "doi": "10.3389/fpubh.2026.1781790",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518569/"
+    },
+    {
+      "pmid": "42518346",
+      "title": "Yangyin Fuzheng Jiedu prescription as an adjunct to minimally invasive treatment in early-stage hepatocellular carcinoma: a randomized controlled trial.",
+      "source": "Front Pharmacol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 6",
+      "authors": [
+        "Yan H",
+        "Wang X",
+        "Liu X",
+        "Yu L",
+        "Xie Y",
+        "Wu T",
+        "Jiang Y",
+        "Yang Z"
+      ],
+      "doi": "10.3389/fphar.2026.1780139",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518346/"
+    },
+    {
+      "pmid": "42518245",
+      "title": "The PON1-NDUFA4 axis maintains mitochondrial respiratory fitness and drives lenvatinib tolerance in hepatocellular carcinoma.",
+      "source": "Mol Cancer Res",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Lin SL",
+        "Wang Y",
+        "Zheng YM",
+        "Ke AW",
+        "Ma AY",
+        "Gao C"
+      ],
+      "doi": "10.1158/1541-7786.MCR-26-0121",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518245/"
+    },
+    {
+      "pmid": "42518016",
+      "title": "Ceralasertib Plus Durvalumab in Chinese Patients with Advanced Solid Tumors: A Nonrandomized Clinical Trial.",
+      "source": "Oncol Ther",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Sun Y",
+        "Zhong J",
+        "Sun H",
+        "Parr G",
+        "Lukacs E",
+        "Slade D",
+        "Zhou Y",
+        "Ren X",
+        "Kirk D",
+        "Kmieciak A",
+        "Yao T",
+        "Wang J"
+      ],
+      "doi": "10.1007/s40487-026-00458-3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518016/"
+    },
+    {
+      "pmid": "42517902",
+      "title": "Prognostic factors and treatment response in previously treated hepatocellular carcinoma patients receiving Y-90 radioembolization combined with targeted-immunotherapy: an exploratory analysis.",
+      "source": "Abdom Radiol (NY)",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Chen J",
+        "Wang X",
+        "Li X",
+        "Chen Q",
+        "Zhu Y",
+        "Zheng D",
+        "Wen L",
+        "Wu J",
+        "Hu Y",
+        "Chen S",
+        "Hao M",
+        "Yu W"
+      ],
+      "doi": "10.1007/s00261-026-05681-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517902/"
+    },
+    {
+      "pmid": "42516780",
+      "title": "Bioimpedance Analysis to Predict Clinical Outcomes of Liver Cirrhosis in a Prospective Cohort Study.",
+      "source": "JGH Open",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Kanan M",
+        "Luster M",
+        "Khaderi S",
+        "Kanwal F",
+        "Thrift AP",
+        "Alsarraj A",
+        "Sorial E",
+        "Salem E",
+        "Duong H",
+        "El-Serag HB"
+      ],
+      "doi": "10.1002/jgh3.70441",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42516780/"
+    },
+    {
+      "pmid": "42515615",
+      "title": "Are Direct-Acting Antivirals Effective and Safe for Hepatitis C Patients with Arterial Hypertension? Evidence from a Large Retrospective Real-World Study.",
+      "source": "Viruses",
+      "pubdate": "2026 Jul 12",
+      "epubdate": "2026 Jul 12",
+      "authors": [
+        "Brzdęk M",
+        "Rzymski P",
+        "Zarębska-Michaluk D",
+        "Poniedziałek B",
+        "Lorenc B",
+        "Berak H",
+        "Mazur W",
+        "Janocha-Litwin J",
+        "Tudrujek-Zdunek M",
+        "Sitko M",
+        "Klapaczyński J",
+        "Flisiak R"
+      ],
+      "doi": "10.3390/v18070763",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42515615/"
+    },
+    {
+      "pmid": "42515083",
+      "title": "Long-Term Outcomes After Hepatectomy for Alveolar Echinococcosis in Immunosuppressed Patients.",
+      "source": "Pathogens",
+      "pubdate": "2026 Jul 19",
+      "epubdate": "2026 Jul 19",
+      "authors": [
+        "Rrupa D",
+        "Kaiser C",
+        "Melloul E",
+        "Uldry E",
+        "Halkic N",
+        "Beldi G",
+        "Gloor S",
+        "Lachenmayer A",
+        "Joliat GR"
+      ],
+      "doi": "10.3390/pathogens15070756",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42515083/"
+    },
+    {
+      "pmid": "42514243",
+      "title": "Clinical Prognostic Factors and Survival Risk Stratification for Advanced Biliary Tract Cancer Treated with Gemcitabine-Based Palliative Chemotherapy: A Real-World Retrospective Study.",
+      "source": "Life (Basel)",
+      "pubdate": "2026 Jul 16",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Wonglhow J",
+        "Dechaphunkul A",
+        "Sunpaweravong P",
+        "Sathitruangsak C",
+        "Wetwittayakhlang P"
+      ],
+      "doi": "10.3390/life16071176",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42514243/"
+    },
+    {
+      "pmid": "42514220",
+      "title": "Choosing the Platinum Partner in Advanced Biliary Tract Cancer: A Propensity Score-Matched Real-World Comparison of Gemcitabine Plus Carboplatin Versus Gemcitabine Plus Cisplatin.",
+      "source": "Life (Basel)",
+      "pubdate": "2026 Jul 11",
+      "epubdate": "2026 Jul 11",
+      "authors": [
+        "Wonglhow J",
+        "Sunpaweravong P",
+        "Sathitruangsak C",
+        "Dechaphunkul A",
+        "Wetwittayakhlang P"
+      ],
+      "doi": "10.3390/life16071150",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42514220/"
+    },
+    {
+      "pmid": "42514188",
+      "title": "Effects of ATP and Taxifolin on Atezolizumab-Induced Renal Injury: A Biochemical, Histopathological, and Immunofluorescence Evaluation.",
+      "source": "Life (Basel)",
+      "pubdate": "2026 Jul 5",
+      "epubdate": "2026 Jul 5",
+      "authors": [
+        "Kilic AF",
+        "Sezgin ET",
+        "Huseynova G",
+        "Sarigul C",
+        "Ozkaraca M",
+        "Gungor A",
+        "Mammadov R",
+        "Suleyman H",
+        "Cimen O"
+      ],
+      "doi": "10.3390/life16071118",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42514188/"
+    },
+    {
+      "pmid": "42513363",
+      "title": "Real-World Outcomes of Combined Carbon-Ion Radiotherapy and Systemic Immunotherapy for Hepatocellular Carcinoma (Atezolizumab Plus Bevacizumab or Durvalumab Plus Tremelimumab): A Single-Center Retrospective Study.",
+      "source": "J Clin Med",
+      "pubdate": "2026 Jul 12",
+      "epubdate": "2026 Jul 12",
+      "authors": [
+        "Maki K",
+        "Haga H",
+        "Kaneko T",
+        "Hoshikawa K",
+        "Katsumi T",
+        "Suzuki F",
+        "Uchiyama F",
+        "Hanatani T",
+        "Hagiwara Y",
+        "Koto M",
+        "Ueno Y"
+      ],
+      "doi": "10.3390/jcm15145449",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42513363/"
+    },
+    {
+      "pmid": "42513343",
+      "title": "Treatment Outcomes for Elderly Patients over the Age of 70 with Early-Stage Peripheral Non-Small Cell Lung Cancer Who Were Treated with Stereotactic Body Radiation Therapy (SBRT) at a Total Dose of 55 Gy in Four Fractions: A Single-Institution Retrospective Study.",
+      "source": "J Clin Med",
+      "pubdate": "2026 Jul 10",
+      "epubdate": "2026 Jul 10",
+      "authors": [
+        "Mitsuhashi N",
+        "Tominaga D",
+        "Motegi A",
+        "Ikeda H",
+        "Shiina F",
+        "Kishimoto K",
+        "Fukaya K",
+        "Nemoto Y"
+      ],
+      "doi": "10.3390/jcm15145430",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42513343/"
+    },
+    {
+      "pmid": "42512379",
+      "title": "Durvalumab Consolidation After Definitive Chemoradiotherapy in Patients with Unresectable Stage III Non-Small Cell Lung Cancer: A Real-World Cohort Analysis from the German Prospective, Observational CRISP Registry (AIO-TRK-0315).",
+      "source": "Cancers (Basel)",
+      "pubdate": "2026 Jul 18",
+      "epubdate": "2026 Jul 18",
+      "authors": [
+        "Stuschke M",
+        "Thomas M",
+        "Gröschel A",
+        "Sebastian M",
+        "Reck M",
+        "Hoffknecht P",
+        "Grah C",
+        "Spring L",
+        "Jänicke M",
+        "Lennartz C",
+        "Ludwig P",
+        "Groth A"
+      ],
+      "doi": "10.3390/cancers18142316",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42512379/"
+    },
+    {
+      "pmid": "42512363",
+      "title": "Exploratory Evaluation of Hepatic Venous Pressure Gradient, Indocyanine Green Retention, and Liver Stiffness in Predicting Short-Term Outcomes After Liver Resection in Patients with Cirrhosis: A Multicenter Prospective Study.",
+      "source": "Cancers (Basel)",
+      "pubdate": "2026 Jul 17",
+      "epubdate": "2026 Jul 17",
+      "authors": [
+        "Cassese G",
+        "Giglio MC",
+        "Russolillo N",
+        "Razionale F",
+        "Laurenzi A",
+        "Lee B",
+        "Rompianesi G",
+        "Morisco F",
+        "Han HS",
+        "Cescon M",
+        "Giuliante F",
+        "Ferrero A"
+      ],
+      "doi": "10.3390/cancers18142300",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42512363/"
+    },
+    {
+      "pmid": "42512302",
+      "title": "Immunotherapy-Based Conversion to Curative-Intent Treatment in Hepatocellular Carcinoma: A Multidisciplinary Framework.",
+      "source": "Cancers (Basel)",
+      "pubdate": "2026 Jul 12",
+      "epubdate": "2026 Jul 12",
+      "authors": [
+        "Yuza K",
+        "Pawlik TM"
+      ],
+      "doi": "10.3390/cancers18142234",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42512302/"
+    },
+    {
+      "pmid": "42512256",
+      "title": "Clinical Utility and Genomic Landscape of Comprehensive Genomic Profiling in Biliary Tract Tumors: A Single-Center Real-World Study.",
+      "source": "Cancers (Basel)",
+      "pubdate": "2026 Jul 8",
+      "epubdate": "2026 Jul 8",
+      "authors": [
+        "Nakaoka K",
+        "Kato H",
+        "Yamada S",
+        "Kato F",
+        "Urakawa Y",
+        "Koumura G",
+        "Tanaka H",
+        "Nakano T",
+        "Ueno S",
+        "Kuzuya T",
+        "Matsuoka H",
+        "Sudo T"
+      ],
+      "doi": "10.3390/cancers18142189",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42512256/"
+    },
+    {
+      "pmid": "42512255",
+      "title": "Oncology Recapitulates Surgical Anatomy: Re-Defining Negative Oncologic Margins with R1 Vascular Hepatectomy in Colorectal Liver Metastases.",
+      "source": "Cancers (Basel)",
+      "pubdate": "2026 Jul 8",
+      "epubdate": "2026 Jul 8",
+      "authors": [
+        "Hounschell CA",
+        "Forrester JA",
+        "Wolf RF",
+        "Bilchik A",
+        "Shin P"
+      ],
+      "doi": "10.3390/cancers18142188",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42512255/"
+    },
+    {
+      "pmid": "42512110",
+      "title": "Atezolizumab Plus Bevacizumab Versus Durvalumab Plus Tremelimumab for Advanced Hepatocellular Carcinoma: A Propensity-Score-Matched Analysis.",
+      "source": "Biomedicines",
+      "pubdate": "2026 Jul 21",
+      "epubdate": "2026 Jul 21",
+      "authors": [
+        "Ailawadi S",
+        "Mehravar S",
+        "Murphy JE",
+        "Storandt MH",
+        "Mahipal A"
+      ],
+      "doi": "10.3390/biomedicines14071638",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42512110/"
+    },
+    {
+      "pmid": "42509981",
+      "title": "Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy (ALPPS) in Children with Advanced Hepatoblastoma-Lessons from a Case Series and Literature Review.",
+      "source": "Children (Basel)",
+      "pubdate": "2026 Jul 20",
+      "epubdate": "2026 Jul 20",
+      "authors": [
+        "Garnier H",
+        "Murawski M",
+        "Wojciechowska E",
+        "Kalinchuk O",
+        "Sinacka K",
+        "Izycka-Swieszewska E",
+        "Czauderna P"
+      ],
+      "doi": "10.3390/children13070957",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42509981/"
+    },
+    {
+      "pmid": "42509505",
+      "title": "Multimodal analysis of the learning curve for pure laparoscopic donor right hepatectomy in a low-volume transplant center: a comparative cohort study.",
+      "source": "Surg Endosc",
+      "pubdate": "2026 Jul 27",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Jearanaikulvanich T",
+        "Thepbunchonchai A",
+        "Junrungsee S",
+        "Chotirosniramit A",
+        "Udomsin K",
+        "Lapisatepun W",
+        "Chanthima P",
+        "Lapisatepun W"
+      ],
+      "doi": "10.1007/s00464-026-13160-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42509505/"
+    },
+    {
+      "pmid": "42508616",
+      "title": "Cholecystectomy before diagnosis of primary sclerosing cholangitis is associated with markedly worsened transplant free survival.",
+      "source": "JHEP Rep",
+      "pubdate": "2026 Jul 27",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Färkkilä MA",
+        "Arola JT",
+        "Tenca A",
+        "Jokelainen K",
+        "Boyd S",
+        "Kautiainen H"
+      ],
+      "doi": "10.1016/j.jhepr.2026.101967",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508616/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "folder": "202607/29/22",
+  "previous_folder": "202607/29/21",
+  "trigger_utc": "2026-07-29T22:02:27.315Z",
+  "collected_at_utc": "2026-07-29T22:04:05.742537+00:00",
+  "window_start_utc": "2026-07-28T22:04:05.742537+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 170,
+    "pubmed_pdat_count": 49,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 40,
+    "crossref_unique_title_filtered": 128,
+    "crossref_new_dois": [],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 24,
+    "clinicaltrials_focus": 21,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT00034216",
+      "NCT06199232"
+    ],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / AWMF / HAS / KLCA reachable; OncLive 403; がんナビ 404; NHC 412; ESMO continuation on TACE±IO uncertainty (EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature); no new LBA or guideline version this UTC hour."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 170 ID set identical to 21h (NEW PMID=0, DROPPED=0).",
+    "Crossref title-filtered 128→128: NEW DOI=0; material=false.",
+    "CT related 26→24: NEW NCT=0; dropped biobank NCT00034216 + CRCLM HAIC NCT06199232 (admin/FP); focus 21 stable count with NCT05727176 in / NCT00034216 out; 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv details + EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged vs 18h (CN 2026 / JSH / JLCA conversion consensus already logged / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 21h; short pack only."
+  ]
+}
