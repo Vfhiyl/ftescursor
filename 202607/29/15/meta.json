@@ -1,0 +1,77 @@
+{
+  "folder": "202607/29/15",
+  "previous_folder": "202607/29/14",
+  "trigger_utc": "2026-07-29T15:02:16.469Z",
+  "collected_at_utc": "2026-07-29T15:05:47.410090+00:00",
+  "window_start_utc": "2026-07-28T15:05:47.410090+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 127,
+    "pubmed_pdat_count": 40,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 86,
+    "crossref_unique_title_filtered": 125,
+    "crossref_new_dois": [
+      "10.1007/s00432-026-06568-9",
+      "10.1016/j.radcr.2026.07.024",
+      "10.1097/hc9.0000000000001004",
+      "10.1186/s12943-026-02751-1",
+      "10.1201/9781003597162-6",
+      "10.1201/9781003597162-7",
+      "10.12669/pjms.42.8.15347",
+      "10.2139/ssrn.6586869",
+      "10.2139/ssrn.6603950",
+      "10.2139/ssrn.6617398",
+      "10.2139/ssrn.6620170",
+      "10.2139/ssrn.6722098",
+      "10.2139/ssrn.6831520",
+      "10.2139/ssrn.6874878",
+      "10.2139/ssrn.6976606",
+      "10.2139/ssrn.7169782",
+      "10.3390/cimb48080770",
+      "10.5005/jp-journals-10018-1512",
+      "10.5812/hepatmon-171327"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 25,
+    "clinicaltrials_focus": 21,
+    "clinicaltrials_new_ncts": [
+      "NCT06066138",
+      "NCT06199232",
+      "NCT06427941",
+      "NCT07732686"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT07359820"
+    ],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / NHC / AWMF v5.2 / AFEF·TNCD / Минздрав КР 2025 reachable; continuation-only EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; no new LBA this UTC hour; no guideline version change."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 127 ID set identical to 14h (NEW PMID=0).",
+    "Crossref title-filtered 106→125: +19 NEW DOIs (mostly SSRN posted-content, book chapters, mechanism/PHLF score/LT periphery); material=false.",
+    "CT related 22→25: NEW NCT06066138/NCT06199232(CRCLM FP)/NCT06427941/NCT07732686 (admin reentry, no results); dropped NCT07359820; 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv/EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged (CN 2026 / JSH 2025 / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 14h; short pack only."
+  ]
+}
