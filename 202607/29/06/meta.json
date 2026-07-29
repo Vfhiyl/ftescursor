@@ -1,0 +1,46 @@
+{
+  "folder": "202607/29/06",
+  "previous_folder": "202607/29/05",
+  "trigger_utc": "2026-07-29T06:00:14.821Z",
+  "collected_at_utc": "2026-07-29T06:03:12.075318+00:00",
+  "window_start_utc": "2026-07-28T06:00:14+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 118,
+    "pubmed_pdat_count": 35,
+    "pubmed_edat_new_ids": [],
+    "pubmed_clinical_leaning": 65,
+    "crossref_unique_title_filtered": 56,
+    "crossref_new_dois": [],
+    "crossref_dropped_dois": [
+      "10.1016/j.radcr.2026.07.024",
+      "10.1186/s12943-026-02751-1"
+    ],
+    "clinicaltrials_related": 12,
+    "clinicaltrials_focus": 11,
+    "clinicaltrials_new_ncts": [
+      "NCT07715903",
+      "NCT07719933"
+    ],
+    "clinicaltrials_new_ncts_material": false
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/29/05 (118 IDs); 0 NEW PMID.",
+    "Crossref title-filtered 58→56: 0 NEW DOI; 2 dropped (window/index roll): 10.1016/j.radcr.2026.07.024, 10.1186/s12943-026-02751-1.",
+    "CT related 10→12: NCT07715903 (CRLM/ICC HAI; mostly false-friend) and NCT07719933 (terlipressin + lap hepatectomy cohort) re-entered LastUpdate window — administrative, not new results.",
+    "No guideline version change; news sentinels = continuation only (EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature).",
+    "No material delta vs previous hour — short pack only."
+  ]
+}
