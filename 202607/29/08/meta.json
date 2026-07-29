@@ -1,0 +1,52 @@
+{
+  "folder": "202607/29/08",
+  "previous_folder": "202607/29/07",
+  "trigger_utc": "2026-07-29T08:02:49.877Z",
+  "collected_at_utc": "2026-07-29T08:06:25.774130+00:00",
+  "window_start_utc": "2026-07-28T08:02:49+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 118,
+    "pubmed_pdat_count": 35,
+    "pubmed_edat_new_ids": [],
+    "pubmed_clinical_leaning": 70,
+    "crossref_unique_title_filtered": 64,
+    "crossref_new_dois": [
+      "10.1201/9781003597162-6",
+      "10.1201/9781003597162-7"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_dropped_dois": [
+      "10.1016/j.radcr.2026.07.024",
+      "10.1186/s12943-026-02751-1"
+    ],
+    "clinicaltrials_related": 13,
+    "clinicaltrials_focus": 9,
+    "clinicaltrials_new_ncts": [
+      "NCT06199232",
+      "NCT07719933"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": []
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/29/07 (118 IDs); 0 NEW PMID.",
+    "Crossref title-filtered still 64: +2 NEW DOIs (CRC Press book chapters: CVP & liver resection SR-MA; Glissonean pedicle anatomy) — not promoted to must-read; 2 prior window re-entries dropped again (crossref_new_dois_material=false).",
+    "CT related 11→13: NCT07719933 administrative re-entry into LastUpdate window; NCT06199232 is CRCLM+HAIC false-friend (not HCC efficacy). 0 results-module updates.",
+    "No guideline version change; news sentinels = continuation only (EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature).",
+    "No material clinical delta vs previous hour — short pack only.",
+    "Crossref collected with cursor pagination across query set."
+  ]
+}
