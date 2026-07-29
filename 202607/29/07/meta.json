@@ -1,0 +1,57 @@
+{
+  "folder": "202607/29/07",
+  "previous_folder": "202607/29/06",
+  "trigger_utc": "2026-07-29T07:01:19.996Z",
+  "collected_at_utc": "2026-07-29T07:05:14.623446+00:00",
+  "window_start_utc": "2026-07-28T07:01:19+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 118,
+    "pubmed_pdat_count": 35,
+    "pubmed_edat_new_ids": [],
+    "pubmed_clinical_leaning": 68,
+    "crossref_unique_title_filtered": 64,
+    "crossref_new_dois": [
+      "10.1007/s10142-026-01997-8",
+      "10.1016/j.radcr.2026.07.024",
+      "10.1111/ans.70762",
+      "10.1186/s12943-026-02751-1",
+      "10.2147/jhc.s607916",
+      "10.2174/0115680096480354260717101124",
+      "10.3389/fimmu.2026.1858117",
+      "10.3389/fonc.2026.1887443"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_reentry_dois": [
+      "10.1016/j.radcr.2026.07.024",
+      "10.1186/s12943-026-02751-1"
+    ],
+    "clinicaltrials_related": 11,
+    "clinicaltrials_focus": 10,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_dropped_ncts": [
+      "NCT07719933"
+    ],
+    "clinicaltrials_new_ncts_material": false
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/29/06 (118 IDs); 0 NEW PMID.",
+    "Crossref title-filtered 56→64: +8 NEW DOIs — 2 are 05h→06h drop re-entries; remaining are mechanism/case/QoL/PNI-SR; none promoted to must-read (crossref_new_dois_material=false).",
+    "CT related 12→11: NCT07719933 rolled out of LastUpdate window (administrative); 0 NEW NCT; 0 results-module updates.",
+    "No guideline version change; news sentinels = continuation only (EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature).",
+    "No material clinical delta vs previous hour — short pack only.",
+    "Crossref collected with cursor pagination across query set."
+  ]
+}
