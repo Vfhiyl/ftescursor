@@ -1,0 +1,52 @@
+{
+  "folder": "202607/29/10",
+  "previous_folder": "202607/29/09",
+  "trigger_utc": "2026-07-29T10:01:06.800Z",
+  "collected_at_utc": "2026-07-29T10:02:37.971923+00:00",
+  "window_start_utc": "2026-07-28T10:02:37.971923+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 118,
+    "pubmed_pdat_count": 35,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 36,
+    "crossref_unique_title_filtered": 66,
+    "crossref_new_dois": [
+      "10.1038/s41419-026-09118-w",
+      "10.1111/liv.70825"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 10,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT06506955"
+    ],
+    "news_sentinel_note": "ASCO Post / ESMO / 日経メディカル / NHC / AWMF / AFEF·TNCD reachable via search; continuation-only (EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature); no new LBA this UTC hour."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/29/09 (118 IDs); 0 NEW PMID.",
+    "Crossref title-filtered 64→66: +2 NEW DOIs (Cell Death & Disease Annexin A1–lenvatinib resistance mechanism; Liver International pCCA LT biological-selection commentary) — down-ranked, not must-read (crossref_new_dois_material=false).",
+    "CT related 16→15: 0 NEW NCT; NCT06506955 futibatinib roll-over dropped from LastUpdate window — peripheral admin noise.",
+    "Clinical-leaning title filter 59→36 (filter variance with frozen EDAT; no NEW IDs).",
+    "No guideline version change; news sentinels = continuation only (EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature).",
+    "No material clinical delta vs previous hour — short pack only.",
+    "Crossref collected with cursor pagination across query set."
+  ]
+}

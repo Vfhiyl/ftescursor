@@ -1,0 +1,945 @@
+{
+  "collected_at_utc": "2026-07-29T10:02:37.971923+00:00",
+  "window": {
+    "from": "2026-07-28",
+    "until": "2026-07-29"
+  },
+  "total_api": 16,
+  "studies_parsed": [
+    {
+      "nct": "NCT07059494",
+      "brief_title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Atezolizumab",
+        "Bevacizumab",
+        "Y^90 Radioembolization"
+      ]
+    },
+    {
+      "nct": "NCT07715903",
+      "brief_title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Carfilzomib"
+      ]
+    },
+    {
+      "nct": "NCT02772003",
+      "brief_title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Electroporation-Mediated Plasmid DNA Vaccine Therapy",
+        "HCV DNA Vaccine INO-8000",
+        "Laboratory Biomarker Analysis",
+        "Quality-of-Life Assessment",
+        "Rocakinogene Sifuplasmid"
+      ]
+    },
+    {
+      "nct": "NCT06199232",
+      "brief_title": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+      "status": "COMPLETED",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Liver Metastasis Colon Cancer",
+        "ctDNA Genotype",
+        "MSS",
+        "Failed From Standard Treatment"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": [
+        "HAIC+targeted therapy+PD-1 inhibitor"
+      ]
+    },
+    {
+      "nct": "NCT07729917",
+      "brief_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "FGFR Inhibitor",
+        "IDH1 mutation inhibitor",
+        "KRAS mutation inhibitor",
+        "NTRK mutation inhibitor",
+        "BRAF V600E mutation inhibitor",
+        "BRCA 1/2 mutation inhibitor",
+        "HER2 target therapy",
+        "Immune Checkpoint Inhibitors",
+        "Chemotherapy: GP/GEMOX"
+      ]
+    },
+    {
+      "nct": "NCT05044819",
+      "brief_title": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Lennox Gastaut Syndrome",
+        "Dravet Syndrome",
+        "Tuberous Sclerosis Complex"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": [
+        "Cannabidiol"
+      ]
+    },
+    {
+      "nct": "NCT06710223",
+      "brief_title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "SD-101",
+        "Cryotherapy",
+        "Tremelimumab",
+        "Durvalumab"
+      ]
+    },
+    {
+      "nct": "NCT07731373",
+      "brief_title": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Polycystic Ovary Syndrome (PCOS)",
+        "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+        "Pediatric Obesity",
+        "Hyperandrogenism",
+        "Insulin Resistance Syndrome"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": [
+        "Extended Biomarker Panel, Liver Elastography and Targeted Genotyping"
+      ]
+    },
+    {
+      "nct": "NCT05727176",
+      "brief_title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "TAS-120"
+      ]
+    },
+    {
+      "nct": "NCT07727759",
+      "brief_title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Preoperative CT volumetry with hepatic vascular deformation mapping (VDM)"
+      ]
+    },
+    {
+      "nct": "NCT07479485",
+      "brief_title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "MRG006A",
+        "Pucotenlimab",
+        "Bevacizumab",
+        "PD1/VEGF antibody",
+        "TKI"
+      ]
+    },
+    {
+      "nct": "NCT06066138",
+      "brief_title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Atezolizumab"
+      ]
+    },
+    {
+      "nct": "NCT07359820",
+      "brief_title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "FGFR2 Gene Fusion/Rearrangement",
+        "Other Solid Tumors, Adult"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Lirafugratinib"
+      ]
+    },
+    {
+      "nct": "NCT00034216",
+      "brief_title": "Collection of Blood From Patients With Cancer",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Prostate Cancer",
+        "Breast Cancer",
+        "Colon Cancer",
+        "Lung Cancer",
+        "Liver Cancer"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": []
+    },
+    {
+      "nct": "NCT07719933",
+      "brief_title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "status": "COMPLETED",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Liver Neoplasms",
+        "Postoperative Complications"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": false,
+      "interventions": [
+        "terlipressin"
+      ]
+    },
+    {
+      "nct": "NCT06506955",
+      "brief_title": "Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib as Monotherapy or Combination Therapy.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Advanced/Metastatic Cancer"
+      ],
+      "related": false,
+      "focus": false,
+      "peripheral": false,
+      "interventions": [
+        "futibatinib",
+        "futibatinib, fulvestrant"
+      ]
+    }
+  ],
+  "related_count": 15,
+  "focus_count": 10,
+  "related": [
+    {
+      "nct": "NCT07059494",
+      "brief_title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Atezolizumab",
+        "Bevacizumab",
+        "Y^90 Radioembolization"
+      ]
+    },
+    {
+      "nct": "NCT07715903",
+      "brief_title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Carfilzomib"
+      ]
+    },
+    {
+      "nct": "NCT02772003",
+      "brief_title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Electroporation-Mediated Plasmid DNA Vaccine Therapy",
+        "HCV DNA Vaccine INO-8000",
+        "Laboratory Biomarker Analysis",
+        "Quality-of-Life Assessment",
+        "Rocakinogene Sifuplasmid"
+      ]
+    },
+    {
+      "nct": "NCT06199232",
+      "brief_title": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+      "status": "COMPLETED",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Liver Metastasis Colon Cancer",
+        "ctDNA Genotype",
+        "MSS",
+        "Failed From Standard Treatment"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": [
+        "HAIC+targeted therapy+PD-1 inhibitor"
+      ]
+    },
+    {
+      "nct": "NCT07729917",
+      "brief_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "FGFR Inhibitor",
+        "IDH1 mutation inhibitor",
+        "KRAS mutation inhibitor",
+        "NTRK mutation inhibitor",
+        "BRAF V600E mutation inhibitor",
+        "BRCA 1/2 mutation inhibitor",
+        "HER2 target therapy",
+        "Immune Checkpoint Inhibitors",
+        "Chemotherapy: GP/GEMOX"
+      ]
+    },
+    {
+      "nct": "NCT05044819",
+      "brief_title": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Lennox Gastaut Syndrome",
+        "Dravet Syndrome",
+        "Tuberous Sclerosis Complex"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": [
+        "Cannabidiol"
+      ]
+    },
+    {
+      "nct": "NCT06710223",
+      "brief_title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "SD-101",
+        "Cryotherapy",
+        "Tremelimumab",
+        "Durvalumab"
+      ]
+    },
+    {
+      "nct": "NCT07731373",
+      "brief_title": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Polycystic Ovary Syndrome (PCOS)",
+        "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+        "Pediatric Obesity",
+        "Hyperandrogenism",
+        "Insulin Resistance Syndrome"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": [
+        "Extended Biomarker Panel, Liver Elastography and Targeted Genotyping"
+      ]
+    },
+    {
+      "nct": "NCT05727176",
+      "brief_title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "TAS-120"
+      ]
+    },
+    {
+      "nct": "NCT07727759",
+      "brief_title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Preoperative CT volumetry with hepatic vascular deformation mapping (VDM)"
+      ]
+    },
+    {
+      "nct": "NCT07479485",
+      "brief_title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "MRG006A",
+        "Pucotenlimab",
+        "Bevacizumab",
+        "PD1/VEGF antibody",
+        "TKI"
+      ]
+    },
+    {
+      "nct": "NCT06066138",
+      "brief_title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Atezolizumab"
+      ]
+    },
+    {
+      "nct": "NCT07359820",
+      "brief_title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "FGFR2 Gene Fusion/Rearrangement",
+        "Other Solid Tumors, Adult"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Lirafugratinib"
+      ]
+    },
+    {
+      "nct": "NCT00034216",
+      "brief_title": "Collection of Blood From Patients With Cancer",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Prostate Cancer",
+        "Breast Cancer",
+        "Colon Cancer",
+        "Lung Cancer",
+        "Liver Cancer"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": true,
+      "interventions": []
+    },
+    {
+      "nct": "NCT07719933",
+      "brief_title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "status": "COMPLETED",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Liver Neoplasms",
+        "Postoperative Complications"
+      ],
+      "related": true,
+      "focus": false,
+      "peripheral": false,
+      "interventions": [
+        "terlipressin"
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "nct": "NCT07059494",
+      "brief_title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Atezolizumab",
+        "Bevacizumab",
+        "Y^90 Radioembolization"
+      ]
+    },
+    {
+      "nct": "NCT07715903",
+      "brief_title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Carfilzomib"
+      ]
+    },
+    {
+      "nct": "NCT02772003",
+      "brief_title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Electroporation-Mediated Plasmid DNA Vaccine Therapy",
+        "HCV DNA Vaccine INO-8000",
+        "Laboratory Biomarker Analysis",
+        "Quality-of-Life Assessment",
+        "Rocakinogene Sifuplasmid"
+      ]
+    },
+    {
+      "nct": "NCT07729917",
+      "brief_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "FGFR Inhibitor",
+        "IDH1 mutation inhibitor",
+        "KRAS mutation inhibitor",
+        "NTRK mutation inhibitor",
+        "BRAF V600E mutation inhibitor",
+        "BRCA 1/2 mutation inhibitor",
+        "HER2 target therapy",
+        "Immune Checkpoint Inhibitors",
+        "Chemotherapy: GP/GEMOX"
+      ]
+    },
+    {
+      "nct": "NCT06710223",
+      "brief_title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "SD-101",
+        "Cryotherapy",
+        "Tremelimumab",
+        "Durvalumab"
+      ]
+    },
+    {
+      "nct": "NCT05727176",
+      "brief_title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "TAS-120"
+      ]
+    },
+    {
+      "nct": "NCT07727759",
+      "brief_title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": null,
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Preoperative CT volumetry with hepatic vascular deformation mapping (VDM)"
+      ]
+    },
+    {
+      "nct": "NCT07479485",
+      "brief_title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "MRG006A",
+        "Pucotenlimab",
+        "Bevacizumab",
+        "PD1/VEGF antibody",
+        "TKI"
+      ]
+    },
+    {
+      "nct": "NCT06066138",
+      "brief_title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Atezolizumab"
+      ]
+    },
+    {
+      "nct": "NCT07359820",
+      "brief_title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "last_update": "2026-07-28",
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "FGFR2 Gene Fusion/Rearrangement",
+        "Other Solid Tumors, Adult"
+      ],
+      "related": true,
+      "focus": true,
+      "peripheral": false,
+      "interventions": [
+        "Lirafugratinib"
+      ]
+    }
+  ],
+  "raw_study_count": 16
+}
