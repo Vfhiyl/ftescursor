@@ -1,0 +1,1329 @@
+{
+  "collected_at_utc": "2026-07-29T04:02:36.521572+00:00",
+  "window": {
+    "from": "2026-07-28",
+    "to": "2026-07-29"
+  },
+  "queries": [
+    "hepatocellular carcinoma",
+    "hepatectomy HCC",
+    "TACE immunotherapy",
+    "cholangiocarcinoma",
+    "liver transplantation HCC",
+    "EMERALD hepatocellular"
+  ],
+  "count_title_filtered": 52,
+  "records": [
+    {
+      "doi": "10.1038/s41433-026-04777-7",
+      "title": "Iris metastasis from hepatocellular carcinoma",
+      "container": "Eye",
+      "created": "2026-07-28T09:23:48Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Li Lin",
+        "Cui Mingwei"
+      ],
+      "URL": "https://doi.org/10.1038/s41433-026-04777-7",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.29328/journal.ascr.1001097",
+      "title": "HBV and HCV as Risk Factors for Hepatocellular Carcinoma",
+      "container": "Archives of Surgery and Clinical Research",
+      "created": "2026-07-28T05:20:32Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            23
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Bilic-Komarica Edina"
+      ],
+      "URL": "https://doi.org/10.29328/journal.ascr.1001097",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.7150/jca.135837",
+      "title": "A Prognostic Risk Model for Hepatocellular Carcinoma Integrating Ferroptosis and Metabolic Reprogramming Signatures",
+      "container": "Journal of Cancer",
+      "created": "2026-07-28T10:35:12Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            10
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Ling Hao",
+        "Hu Yanzhu"
+      ],
+      "URL": "https://doi.org/10.7150/jca.135837",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.5256/f1000research.201417.r498447",
+      "title": "Peer Review Report For: Therapeutic Drug Monitoring of Sorafenib and Lenvatinib in Hepatocellular Carcinoma Patients – A Key to Personalised Pharmacotherapy [version 2; peer review: 2 approved with reservations]",
+      "container": "",
+      "created": "2026-07-28T12:16:06Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "peer-review",
+      "author": [],
+      "URL": "https://doi.org/10.5256/f1000research.201417.r498447",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1016/j.cpt.2026.07.004",
+      "title": "Locoregional-Systemic Combination Therapy Reshapes the Treatment Landscape of Intermediate and Advanced Hepatocellular Carcinoma (HCC)",
+      "container": "Cancer Pathogenesis and Therapy",
+      "created": "2026-07-28T15:58:16Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Zhu Ying",
+        "Qin Lunxiu"
+      ],
+      "URL": "https://doi.org/10.1016/j.cpt.2026.07.004",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.26442/18151434.2026.2.203697",
+      "title": "Hepatocellular carcinoma: prospects for CAR-T therapy in the Russian Federation. Results of the Expert Council meeting",
+      "container": "Journal of Modern Oncology",
+      "created": "2026-07-29T00:18:05Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            29
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [],
+      "URL": "https://doi.org/10.26442/18151434.2026.2.203697",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "container": "",
+      "created": "2026-07-28T17:35:30Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "posted-content",
+      "author": [
+        "Ogunleye Adewale",
+        "El-Tony Yossra",
+        "Adegite Adejuwon Ayoleyi",
+        "Igwezeke Favour Okechukwu",
+        "Mahdi Sara Mohammed",
+        "Mohamed Mariam A.",
+        "Orimolade Tinuoluwanimi",
+        "Osatoyinbo Opemidimeji"
+      ],
+      "URL": "https://doi.org/10.21203/rs.3.rs-10483008/v1",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1093/jimmun/vkag141.1447",
+      "title": "Gut microbiota modulation potentiates anti-tumor immunity and immunotherapy in hepatocellular carcinoma 2308568",
+      "container": "The Journal of Immunology",
+      "created": "2026-07-28T17:35:05Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Yang Ming",
+        "Kimchi Eric",
+        "Staveley-O’Carroll Kevin",
+        "Li Guangfu"
+      ],
+      "URL": "https://doi.org/10.1093/jimmun/vkag141.1447",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1186/s12985-026-03260-9",
+      "title": "lncRNA ZNF667-AS1 suppresses hepatitis B virus-related hepatocellular carcinoma by regulating miR-210-3p to upregulate CPEB2",
+      "container": "Virology Journal",
+      "created": "2026-07-28T02:49:09Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Cong Huimin",
+        "Zhu Guobing",
+        "Xu Yingzhou",
+        "Wu Linlin",
+        "Gu Hongfang",
+        "Dai Chunyan"
+      ],
+      "URL": "https://doi.org/10.1186/s12985-026-03260-9",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.4254/wjh.124474",
+      "title": "Age-male-albumin-bilirubin-platelet score stratifies hepatocellular carcinoma risk after sustained virological response in hepatitis C-related compensated advanced chronic liver disease",
+      "container": "World Journal of Hepatology",
+      "created": "2026-07-28T13:49:22Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            27
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Khongviwatsathien Sirajuk",
+        "Tanwandee Tawesak"
+      ],
+      "URL": "https://doi.org/10.4254/wjh.124474",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1158/1541-7786.mcr-26-0121",
+      "title": "The PON1-NDUFA4 axis maintains mitochondrial respiratory fitness and drives lenvatinib tolerance in hepatocellular carcinoma",
+      "container": "Molecular Cancer Research",
+      "created": "2026-07-28T15:25:36Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Lin Shi-Lin",
+        "Wang Yue",
+        "Zheng Yi-min",
+        "Ke Ai-Wu",
+        "Ma A-ying",
+        "Gao Chao"
+      ],
+      "URL": "https://doi.org/10.1158/1541-7786.mcr-26-0121",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1186/s12967-026-08713-x",
+      "title": "In vitro bioactivity profile-driven discovery of drug synergies in hepatocellular carcinoma",
+      "container": "Journal of Translational Medicine",
+      "created": "2026-07-28T17:35:39Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Xu Tuan",
+        "Xu Miao",
+        "Ngan Deborah K.",
+        "Zhao Tongan",
+        "Chen Catherine Z.",
+        "Zheng Wei",
+        "Huang Ruili"
+      ],
+      "URL": "https://doi.org/10.1186/s12967-026-08713-x",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.7150/thno.133561",
+      "title": "A reproducible ultrasound localization microscopy framework for the quantitative imaging of hepatocellular carcinoma on a clinical ultrasound system",
+      "container": "Theranostics",
+      "created": "2026-07-28T10:35:12Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            20
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Tang Jiajia",
+        "Liu Huazhen",
+        "Zhang Baoluhe",
+        "Du Shunda",
+        "Zou Long",
+        "Liang Jinghui",
+        "Yang Meng"
+      ],
+      "URL": "https://doi.org/10.7150/thno.133561",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.62347/wjun3883",
+      "title": "Clinical significance of SNRPD1 expression in predicting post-transplant recurrence of hepatocellular carcinoma",
+      "container": "American Journal of Translational Research",
+      "created": "2026-07-28T02:43:56Z",
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Wei Zhihong",
+        "Lin Xuanhua",
+        "Chen Jianwei",
+        "Zhu Weidong",
+        "Liu Jianyong",
+        "Lv Lizhi",
+        "Yang Fang"
+      ],
+      "URL": "https://doi.org/10.62347/wjun3883",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1007/s11739-026-04456-1",
+      "title": "GLP-1 receptor agonists at the crossroads of diabetes, hepatic steatosis, and hepatocellular carcinoma",
+      "container": "Internal and Emergency Medicine",
+      "created": "2026-07-28T17:02:38Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Vozza Alfredo",
+        "Biagi Filippo",
+        "Raggi Chiara",
+        "Vizzutti Francesco",
+        "Marra Fabio"
+      ],
+      "URL": "https://doi.org/10.1007/s11739-026-04456-1",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma Surveillance\nA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "container": "",
+      "created": "2026-07-28T06:15:23Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "posted-content",
+      "author": [
+        "Marolla Cesar"
+      ],
+      "URL": "https://doi.org/10.21203/rs.3.rs-10501583/v1",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.21037/hbsn-2026-0508",
+      "title": "From local control to immune synergy: the evolving role of stereotactic body radiotherapy in the immunotherapy era of hepatocellular carcinoma",
+      "container": "Hepatobiliary Surgery and Nutrition",
+      "created": "2026-07-28T03:16:36Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Yan Zihan",
+        "Hou Xiaorong",
+        "Zhang Fuquan"
+      ],
+      "URL": "https://doi.org/10.21037/hbsn-2026-0508",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.3390/cells15151357",
+      "title": "Metabolic Reprogramming at the Tumor–Immune Interface in Hepatocellular Carcinoma",
+      "container": "Cells",
+      "created": "2026-07-28T11:45:26Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Zhao Weiming",
+        "Li Ping"
+      ],
+      "URL": "https://doi.org/10.3390/cells15151357",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1016/j.bj.2026.101019",
+      "title": "Imipramine Reverses Sorafenib Resistance in Hepatocellular Carcinoma by Targeting the BLOC1S5/FOXO1 Signaling Axis",
+      "container": "Biomedical Journal",
+      "created": "2026-07-28T15:10:28Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Lin Yang-Hsiang",
+        "Liu Yu-Chin",
+        "Liao Chia-Jung",
+        "Huang Ya-Hui",
+        "Yeh Chau-Ting",
+        "Lin Kwang-Huei"
+      ],
+      "URL": "https://doi.org/10.1016/j.bj.2026.101019",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1016/j.clon.2026.104136",
+      "title": "143 - Stereotactic Ablative Body Radiotherapy (SABR) for Hepatocellular Carcinoma (HCC) and Metastatic Liver Disease (MLD) in Weston Park Cancer Centre (WPCC): A retrospective review of real-world experience.",
+      "container": "Clinical Oncology",
+      "created": "2026-07-28T22:52:28Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Gbenebichie Osanmofe",
+        "Sabbagh Ahmad",
+        "Dewdney Alice"
+      ],
+      "URL": "https://doi.org/10.1016/j.clon.2026.104136",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1371/journal.pone.0354176",
+      "title": "Prognostic factors in first-line atezolizumab-bevacizumab treatment of intermediate or advanced hepatocellular carcinoma",
+      "container": "PLOS One",
+      "created": "2026-07-28T17:29:36Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Gu Kyowon",
+        "Kang Tae Wook",
+        "Shin Jaeseung",
+        "Sinn Dong Hyun",
+        "Goh Myung Ji",
+        "Hong Jung Yong",
+        "Chi Sangah"
+      ],
+      "URL": "https://doi.org/10.1371/journal.pone.0354176",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.4240/wjgs.122279",
+      "title": "Construction and validation of a prognostic prediction model based on albumin-bilirubin grade after resection of hepatocellular carcinoma",
+      "container": "World Journal of Gastrointestinal Surgery",
+      "created": "2026-07-28T13:49:14Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Cong Lu-Yi",
+        "Ma Ling-Yu",
+        "Hong Xin",
+        "Geng Gui-Ling",
+        "Fan Ben-Fang"
+      ],
+      "URL": "https://doi.org/10.4240/wjgs.122279",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1245/s10434-026-20326-8",
+      "title": "ASO Visual Abstract: Mex3a Stabilizes INHBB mRNA to Activate SMAD-Signaling and Promote Hepatocellular Carcinoma Metastasis",
+      "container": "Annals of Surgical Oncology",
+      "created": "2026-07-28T13:52:23Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Yang Jie-Ru",
+        "Qu Zheng-Jie",
+        "Zhou Fang-Ming",
+        "Li Jin-E",
+        "Wang Kai",
+        "Fan Yu-Chen"
+      ],
+      "URL": "https://doi.org/10.1245/s10434-026-20326-8",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.7150/ijms.132175",
+      "title": "Licoricidin triggers reactive oxygen species-mediated PANoptosis in human hepatocellular carcinoma cells",
+      "container": "International Journal of Medical Sciences",
+      "created": "2026-07-28T10:35:12Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            13
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Hung Ming-Chun",
+        "Chiou Hui-Ling",
+        "Hsieh Yi-Hsien",
+        "Chen Pei-Ni",
+        "Yu Yung-Luen",
+        "Lee Hsiang-Lin"
+      ],
+      "URL": "https://doi.org/10.7150/ijms.132175",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1016/j.tranon.2026.102942",
+      "title": "Integrating single-cell and bulk transcriptomics to identify a SUMOylation-related prognostic signature and the oncogenic role of VPS72 in hepatocellular carcinoma",
+      "container": "Translational Oncology",
+      "created": "2026-07-28T21:19:52Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Li Shenzhi",
+        "Wang Jie",
+        "Wang Liqin",
+        "Bian Tingmei",
+        "Qian Shaogui",
+        "Zhu Xin",
+        "Zhou Xiaofeng",
+        "Wang Zheng"
+      ],
+      "URL": "https://doi.org/10.1016/j.tranon.2026.102942",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.3390/curroncol33080453",
+      "title": "Pathological and Perioperative Outcomes of Conversion Hepatectomy After Contemporary Combination Downstaging for Initially Unresectable Hepatocellular Carcinoma: A Systematic Review",
+      "container": "Current Oncology",
+      "created": "2026-07-28T14:37:00Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Craciun Codruta",
+        "Stanga Livia",
+        "Dejeu Danut",
+        "Davidoiu Ana-Maria",
+        "Ilie Adrian Cosmin",
+        "Mazilu Patricia Octavia",
+        "Craciun Lavinia",
+        "Pantea Stelian"
+      ],
+      "URL": "https://doi.org/10.3390/curroncol33080453",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.3389/fimmu.2026.1885307",
+      "title": "Efficacy and safety of TACE combined with MWA followed by immune checkpoint inhibitors and anti-VEGF/tyrosine kinase inhibitors in hepatocellular carcinoma beyond the up-to-7",
+      "container": "Frontiers in Immunology",
+      "created": "2026-07-28T05:37:14Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Fang Yang",
+        "Tan Jiangyu",
+        "Su Xiaoting",
+        "Sun Minghu",
+        "Zhou Xianchun",
+        "Zhang Songnan"
+      ],
+      "URL": "https://doi.org/10.3389/fimmu.2026.1885307",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1016/j.tranon.2026.102962",
+      "title": "3′UTR shortening of ZCRB1 promotes malignant progression of hepatocellular carcinoma through GOLM1",
+      "container": "Translational Oncology",
+      "created": "2026-07-29T00:05:13Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Chen Changyu",
+        "Wang Zhi",
+        "Li Siyu",
+        "Wang Xu",
+        "Yin Xiaoting",
+        "Zhu Yong",
+        "Cao Zhiguo",
+        "Tan Sheng"
+      ],
+      "URL": "https://doi.org/10.1016/j.tranon.2026.102962",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1201/9781003597162-8",
+      "title": "Liver Transplantation for Advanced Hepatocellular Carcinoma Using Poor Tumour Differentiation on Biopsy as an Exclusion Criterion",
+      "container": "50 Landmark Papers every Upper GI and HPB Surgeon Should Know",
+      "created": "2026-07-28T14:36:48Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "book-chapter",
+      "author": [
+        "DuBay D",
+        "Sandroussi C",
+        "Sandhu L",
+        "Cleary S",
+        "Guba M",
+        "Cattral MS",
+        "McGilvray I",
+        "Ghanekar A"
+      ],
+      "URL": "https://doi.org/10.1201/9781003597162-8",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1016/j.ajpath.2026.06.008",
+      "title": "Fusion Gene Detection Enhances Clinical Outcome Prediction of Hepatocellular Carcinoma Through Machine Learning Analyses",
+      "container": "The American Journal of Pathology",
+      "created": "2026-07-28T15:34:39Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Yu Yan-Ping",
+        "Liu Silvia",
+        "Singhi Aatur",
+        "Luo Jian-Hua"
+      ],
+      "URL": "https://doi.org/10.1016/j.ajpath.2026.06.008",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1186/s12645-026-00408-8",
+      "title": "Metal–organic framework-based therapeutic strategies for hepatocellular carcinoma: current advances and future perspectives",
+      "container": "Cancer Nanotechnology",
+      "created": "2026-07-28T10:02:49Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "El-Morsy Manar T.",
+        "Elshekh Ahmed",
+        "Ghazy Mohamed El-Sayed",
+        "Askar Nadine M.",
+        "Ali Mariam Mohamed",
+        "Shams Ganna",
+        "Essam Adham",
+        "Khafaga Doaa S. R."
+      ],
+      "URL": "https://doi.org/10.1186/s12645-026-00408-8",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.25259/sajc_14_2026",
+      "title": "Detection of serum levels of human telomerase reverse transcriptase mRNA in non-alcoholic steatohepatitis related hepatocellular carcinoma in Sri Lanka",
+      "container": "South Asian Journal of Cancer",
+      "created": "2026-07-28T13:06:16Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Liman Usman Umar",
+        "Hewage Asanka Sudeshini",
+        "Silva Sumadee de",
+        "Samarasinghe Saumya Madushani",
+        "Tennekoon Kamani Hemamala",
+        "Siriwardana Rohan Chaminda",
+        "Niriella Madunil Anuk"
+      ],
+      "URL": "https://doi.org/10.25259/sajc_14_2026",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1177/17588359261470015",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade",
+      "container": "Therapeutic Advances in Medical Oncology",
+      "created": "2026-07-28T05:20:46Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Guo Yiwan",
+        "Liu Xiaocui",
+        "Sun Bo",
+        "Pu Fan",
+        "Li Xin",
+        "Zheng Chuansheng",
+        "Kan Xuefeng",
+        "Yang Fan"
+      ],
+      "URL": "https://doi.org/10.1177/17588359261470015",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.3389/fimmu.2026.1775165",
+      "title": "Survival outcomes of intensity-modulated radiotherapy combined with immunotherapy and targeted therapy for hepatocellular carcinoma with classification I–IV portal vein tumor thrombus: a propensity score matching study",
+      "container": "Frontiers in Immunology",
+      "created": "2026-07-28T05:37:58Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Chen Lijun",
+        "Wei Chunmi",
+        "Xiao Zhehao",
+        "Wu Qiaoyuan",
+        "Li Liqing",
+        "Xiang Bangde",
+        "Guan Shichun",
+        "Zhao Peng"
+      ],
+      "URL": "https://doi.org/10.3389/fimmu.2026.1775165",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1136/bmjopen-2026-117956",
+      "title": "Evaluating the effectiveness and safety of adjuvant transcatheter arterial chemoembolisation (TACE) after curative resection for Barcelona Clinic Liver Cancer (BCLC) stage 0-B hepatocellular carcinoma: protocol for a target trial emulation study",
+      "container": "BMJ Open",
+      "created": "2026-07-28T12:20:27Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Li Zhi",
+        "Mi Shizheng",
+        "Li Xinyan",
+        "Ren Qiuping"
+      ],
+      "URL": "https://doi.org/10.1136/bmjopen-2026-117956",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1177/10926429261472632",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience",
+      "container": "Journal of Laparoendoscopic &amp; Advanced Surgical Techniques",
+      "created": "2026-07-29T03:06:32Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Lim Xin-Yan",
+        "Chong Yvette",
+        "Tan Hwee-Leong",
+        "Chua Darren W.",
+        "Yao Cheng",
+        "Koh Ye-Xin",
+        "Teo Jin-Yao",
+        "Cheow Peng-Chung"
+      ],
+      "URL": "https://doi.org/10.1177/10926429261472632",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1016/j.celrep.2026.117761",
+      "title": "H3K18 lactylation drives CD8+ T cell exclusion and anti-PD-1 resistance in hepatocellular carcinoma",
+      "container": "Cell Reports",
+      "created": "2026-07-28T09:15:04Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Zhu Jiang",
+        "Dai Xinye",
+        "Luo Ting",
+        "Zhou Qingbo",
+        "Feng Xuping",
+        "Liu Chang",
+        "Zhang Buzhe",
+        "Yin Bangjie"
+      ],
+      "URL": "https://doi.org/10.1016/j.celrep.2026.117761",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1136/gutjnl-2026-338068",
+      "title": "Galectin-14, a primate-specific oncofetal protein, impairs anti-tumour immunity in hepatocellular carcinoma by driving elevated heparan sulphate modification",
+      "container": "Gut",
+      "created": "2026-07-28T17:20:20Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Yang Gang",
+        "Gou Liming",
+        "Liu Xuebin",
+        "Xu Chi",
+        "Yang Qian",
+        "Zhu Yue",
+        "Zheng Dandan",
+        "Lu Ming"
+      ],
+      "URL": "https://doi.org/10.1136/gutjnl-2026-338068",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1007/s00261-026-05681-0",
+      "title": "Prognostic factors and treatment response in previously treated hepatocellular carcinoma patients receiving Y-90 radioembolization combined with targeted-immunotherapy: an exploratory analysis",
+      "container": "Abdominal Radiology",
+      "created": "2026-07-28T07:11:35Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Chen Jianwei",
+        "Wang Xiaolong",
+        "Li Xiaoqi",
+        "Chen Qihong",
+        "Zhu Yuemin",
+        "Zheng Dechun",
+        "Wen Liting",
+        "Wu Juyi"
+      ],
+      "URL": "https://doi.org/10.1007/s00261-026-05681-0",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.1002/advs.76856",
+      "title": "A Personalized Haplotype‐Resolved Near‐Gapless Genome Framework for Somatic Variant Discovery in Hepatocellular Carcinoma",
+      "container": "Advanced Science",
+      "created": "2026-07-28T12:14:55Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Lin Jiazheng",
+        "Xiao Yao",
+        "Luo Shuangzi",
+        "Li Yifan",
+        "Zhang Wenfei",
+        "Zhang Xiaoyu",
+        "Wang Xinyi",
+        "Wu Di"
+      ],
+      "URL": "https://doi.org/10.1002/advs.76856",
+      "query_hit": "hepatocellular carcinoma"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10108692/v1",
+      "title": "Patterns of Topical Hemostatic Material Use and Major Bleeding in Hepatectomy",
+      "container": "",
+      "created": "2026-07-28T17:39:35Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "posted-content",
+      "author": [
+        "Nishimura Shiori",
+        "Miyoshi Kazunobu",
+        "Maki Akihiro",
+        "Horikoshi Yukie",
+        "Itakura Jumpei",
+        "Yamamoto Hiroyuki",
+        "Wakabayashi Go",
+        "Kumamaru Hiraku"
+      ],
+      "URL": "https://doi.org/10.21203/rs.3.rs-10108692/v1",
+      "query_hit": "hepatectomy HCC"
+    },
+    {
+      "doi": "10.1111/jgh.70610",
+      "title": "Methodological Considerations Regarding a TriNetX Comparison of First‐Line Therapies for HCC",
+      "container": "Journal of Gastroenterology and Hepatology",
+      "created": "2026-07-28T23:59:15Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Teng Wei",
+        "Lin Po‐Ting",
+        "Lin Chun‐Yen"
+      ],
+      "URL": "https://doi.org/10.1111/jgh.70610",
+      "query_hit": "hepatectomy HCC"
+    },
+    {
+      "doi": "10.1038/s41598-026-63772-w",
+      "title": "A CT-based radiomics nomogram for predicting intrahepatic recurrence of HCC after radiofrequency ablation",
+      "container": "Scientific Reports",
+      "created": "2026-07-28T10:55:54Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Chen Lin",
+        "Yuan Mengchen",
+        "Wang Meng",
+        "Zhou Yuhan",
+        "Huang Qingbo",
+        "Yang Qi",
+        "Zhou Zhigang",
+        "Jia Xiuqin"
+      ],
+      "URL": "https://doi.org/10.1038/s41598-026-63772-w",
+      "query_hit": "hepatectomy HCC"
+    },
+    {
+      "doi": "10.1201/9781003597162-9",
+      "title": "Portal Vein Embolization Before Right Hepatectomy: A Prospective Clinical Trial",
+      "container": "50 Landmark Papers every Upper GI and HPB Surgeon Should Know",
+      "created": "2026-07-28T14:36:48Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "book-chapter",
+      "author": [
+        "Farges O",
+        "Belghiti J",
+        "Kianmanesh R",
+        "Marc Regimbeau J",
+        "Santoro R",
+        "Vilgrain V",
+        "Denys A",
+        "Sauvanet A."
+      ],
+      "URL": "https://doi.org/10.1201/9781003597162-9",
+      "query_hit": "hepatectomy HCC"
+    },
+    {
+      "doi": "10.62347/wbvu7173",
+      "title": "Impact of traditional Chinese medicine on liver regeneration following partial hepatectomy in cirrhotic rats",
+      "container": "International Journal of Clinical and Experimental Medicine",
+      "created": "2026-07-29T01:55:45Z",
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Ji Haibin",
+        "Liu Zhiwei",
+        "Zhu Wentao",
+        "Zhao Liang",
+        "Wei Qiang",
+        "Sun Baofang",
+        "Zhang Fan",
+        "Chen Qiangpu"
+      ],
+      "URL": "https://doi.org/10.62347/wbvu7173",
+      "query_hit": "hepatectomy HCC"
+    },
+    {
+      "doi": "10.7150/ijbs.126948",
+      "title": "Targeting Mitochondrial PD-L1 O-GlcNAcylation to Sensitize HBV-Related HCC to Immunotherapy: Modulating Golgi-mitochondrial Crosstalk and mTOR/PGC-1α-Driven Mitochondrial Biogenesis to Overcome Resistance",
+      "container": "International Journal of Biological Sciences",
+      "created": "2026-07-28T10:35:12Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            22
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Du Ze-Bang",
+        "Ma Xin-Yu",
+        "Zhang Han-Yu",
+        "Lei Jia-Ming",
+        "He Xin-Xin",
+        "Xu Wen-Qi",
+        "Zhou Wen-Dan",
+        "Xia Xiao-Gang"
+      ],
+      "URL": "https://doi.org/10.7150/ijbs.126948",
+      "query_hit": "hepatectomy HCC"
+    },
+    {
+      "doi": "10.1201/9781003597162-29",
+      "title": "Surgery for Hilar Cholangiocarcinoma: French Experience in a Collective Survey of 552 Extrahepatic Bile Duct Cancers",
+      "container": "50 Landmark Papers every Upper GI and HPB Surgeon Should Know",
+      "created": "2026-07-28T14:36:48Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "book-chapter",
+      "author": [
+        "Launois B",
+        "Reding R",
+        "Lebeau G",
+        "Buard JL"
+      ],
+      "URL": "https://doi.org/10.1201/9781003597162-29",
+      "query_hit": "cholangiocarcinoma"
+    },
+    {
+      "doi": "10.1093/jimmun/vkag141.644",
+      "title": "Targeting the KRAS G12D mutant suppresses tumor growth in a syngeneic mouse cholangiocarcinoma model through activation of immune cells 2258895",
+      "container": "The Journal of Immunology",
+      "created": "2026-07-28T17:14:20Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Hung Jung-Tung",
+        "Hung Tsai-Hsien",
+        "Yeh Chun-Nan",
+        "Yu Alice"
+      ],
+      "URL": "https://doi.org/10.1093/jimmun/vkag141.644",
+      "query_hit": "cholangiocarcinoma"
+    },
+    {
+      "doi": "10.12677/hjbm.2026.164079",
+      "title": "A Case Report of IgG4-Related Sclerosing Cholangitis Misdiagnosed as Cholangiocarcinoma",
+      "container": "Hans Journal of Biomedicine",
+      "created": "2026-07-28T10:50:23Z",
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "吴 浪"
+      ],
+      "URL": "https://doi.org/10.12677/hjbm.2026.164079",
+      "query_hit": "cholangiocarcinoma"
+    },
+    {
+      "doi": "10.1016/j.adro.2026.102126",
+      "title": "Grid Radiation Therapy Based on Multileaf Collimator for Neoadjuvant Treatment of Large-Volume Intrahepatic Cholangiocarcinoma: A Case Report",
+      "container": "Advances in Radiation Oncology",
+      "created": "2026-07-29T00:05:47Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            11
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Zhu Xueyu",
+        "Liu Wentong",
+        "Yao Weikai",
+        "Tan Ludong",
+        "Duan Xingzhu",
+        "Sun Yanan",
+        "Hou Wei"
+      ],
+      "URL": "https://doi.org/10.1016/j.adro.2026.102126",
+      "query_hit": "cholangiocarcinoma"
+    },
+    {
+      "doi": "10.1186/s12957-026-04489-y",
+      "title": "Stress-driven reprogramming of plasmacytoid dendritic cells in intrahepatic cholangiocarcinoma defines a reversible targetable immunosuppressive state",
+      "container": "World Journal of Surgical Oncology",
+      "created": "2026-07-28T07:03:42Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Chen Mei-Ru",
+        "Xie Xiao-Li",
+        "Zhou Yan-Li",
+        "Tian Jin-Mei",
+        "Zhao Ying",
+        "Hou Suping",
+        "Wang Yuan-Yuan",
+        "Lu Ji-Chao"
+      ],
+      "URL": "https://doi.org/10.1186/s12957-026-04489-y",
+      "query_hit": "cholangiocarcinoma"
+    },
+    {
+      "doi": "10.3390/cancers18152428",
+      "title": "Rare Germline Variants in Key Pathways Contribute to Hepatocellular Carcinoma Risk in Hispanic Individuals",
+      "container": "Cancers",
+      "created": "2026-07-28T11:45:26Z",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            28
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "author": [
+        "Li Xiangnan",
+        "Liu Yanhong",
+        "Tsavachidis Spiridon",
+        "Shetty Priya B.",
+        "Singal Amit G.",
+        "Hernaez Ruben",
+        "Asrani Sumeet K.",
+        "Khaderi Saira"
+      ],
+      "URL": "https://doi.org/10.3390/cancers18152428",
+      "query_hit": "EMERALD hepatocellular"
+    }
+  ]
+}

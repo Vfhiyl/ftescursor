@@ -1,0 +1,39 @@
+{
+  "topic": "hepatobiliary surgery / hepatocellular carcinoma (HCC)",
+  "folder": "202607/29/04",
+  "timezone_convention": "UTC hour of automation trigger",
+  "trigger_utc": "2026-07-29T04:00:54.738Z",
+  "collected_at_utc": "2026-07-29T04:08:00+00:00",
+  "window_hours": 24,
+  "window_start_utc": "2026-07-28T04:00:54+00:00",
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ko",
+    "fr",
+    "de",
+    "ru"
+  ],
+  "sources": {
+    "pubmed_edat_count": 90,
+    "pubmed_retrieved": 90,
+    "pubmed_pdat_count": 18,
+    "pubmed_clinical_leaning": 36,
+    "crossref_unique_title_filtered": 52,
+    "clinicaltrials_hcc_related_updated": 16,
+    "clinicaltrials_focus_subset": 12
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "notes": [
+    "Guidelines rarely publish within a literal 24h window; current authority panel is labeled separately from 24h intake.",
+    "Prefer PMID links; Crossref created-date is registration/index time, not always first clinical publication.",
+    "Vendor/media OS claims may be immature; distinguish PFS vs OS maturity.",
+    "Quiet early-morning UTC vs prior 03h: PubMed EDAT ID set unchanged (same calendar-day EDAT window); Crossref 52 vs 57; CT.gov related 16/focus 12 unchanged.",
+    "Key cross-check remains: EMERALD-1 final OS negative vs EMERALD-3 PFS+/OS immature (EN/JP/ESMO Daily Reporter).",
+    "RU Crossref CAR-T expert council DOI 10.26442/18151434.2026.2.203697 remains indexed — signal only, not Minzdrav KR revision.",
+    "Nature GPC3 CAR-T FIH (DOI 10.1038/s41586-026-10786-z, VoR 2026-07-15) is high-impact background, not in this EDAT window.",
+    "ACLF SR-MA PMID 42510070 remains outside this EDAT window; cite 202607/29/01 if needed.",
+    "New clinical emphasis vs prior hours: LI-RADS Nonradiation TRA v2024 pathology validation (PMID 42508275) and immunotherapy conversion MDT framework (PMID 42512302)."
+  ]
+}
