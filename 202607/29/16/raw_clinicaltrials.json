@@ -1,0 +1,1918 @@
+{
+  "collected_at_utc": "2026-07-29T16:03:01.697398+00:00",
+  "window_start_utc": "2026-07-28T16:03:01.697398+00:00",
+  "filter": "AREA[LastUpdatePostDate]RANGE[2026-07-28,2026-07-29]",
+  "raw_study_count": 31,
+  "related_count": 27,
+  "focus_count": 24,
+  "related": [
+    {
+      "nct": "NCT04712643",
+      "nctId": "NCT04712643",
+      "brief_title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study will evaluate the efficacy and safety of atezolizumab plus bevacizumab combined with on-demand TACE compared to on-demand TACE alone in participants with hepatocellular carcinoma who are at high risk of poorer outcome following TACE treatment."
+    },
+    {
+      "nct": "NCT05727176",
+      "nctId": "NCT05727176",
+      "brief_title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is an open-label, multinational, randomized Phase 2 study confirming the clinical benefit of 20 mg futibatinib and evaluating the safety and efficacy of 16 mg futibatinib in previously treated CCA harboring FGFR2 gene fusions and other rearrangements."
+    },
+    {
+      "nct": "NCT06427941",
+      "nctId": "NCT06427941",
+      "brief_title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Local Advanced Hepatocellular Carcinoma",
+        "Alpha-fetoprotein (AFP)-Producing Gastric Cancer",
+        "Extragonadal Yolk Sac Tumors",
+        "Glypican-3 (GPC3)-Positive Squamous Non-small Cell Lung Cancer"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is a first-in-human (FIH) clinical study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and anti-tumor activity of BGB-B2033 administered as monotherapy and in combination with tislelizumab, with or without bevacizumab. The study will enroll participants with locally advanced or metastatic hepatocellular carcinoma (HCC), alpha-fetoprotein (AFP)-producing gastric cancer (GC), extragonadal yolk sac tumors/non-dysgerminomas, or glypican-3 (GPC3)-positive squamous non-small cell lung cancer (NSCLC)."
+    },
+    {
+      "nct": "NCT07059494",
+      "nctId": "NCT07059494",
+      "brief_title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "A single institution, single arm, two-cohort feasibility trial to evaluate the combination of locoregional Y\\^90 therapy with systemic atezolizumab and bevacizumab, in participants presenting with hepatocellular carcinoma (HCC) 1) within Milan Criteria (MC) with AFP ≥ 400 ng/ml as a means of bridge therapy prior to transplant, 2) beyond the Milan Criteria (MC) (within USCF DS criteria and all comers), as a means of downstaging prior to liver transplantation."
+    },
+    {
+      "nct": "NCT06710223",
+      "nctId": "NCT06710223",
+      "brief_title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The goal of this Phase 1b clinical trial is to evaluate the safety and efficacy of cryoablation and hepatic arterial administration of SD-101 in participants with advanced hepatocellular carcinoma. After this procedure, participants will be treated with tremelimumab and durvalumab every 4 weeks (STRIDE regimen)."
+    },
+    {
+      "nct": "NCT05621499",
+      "nctId": "NCT05621499",
+      "brief_title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "To evaluate the safety and efficacy of HAIC or Lenvatinib combined with Sintilimab as a neoadjuvant therapy for high recurrence risk resectable stage IB solitary hepatocellular carcinoma"
+    },
+    {
+      "nct": "NCT07479485",
+      "nctId": "NCT07479485",
+      "brief_title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is an open-label, multicenter, Phase I/II clinical study designed to evaluate the safety, tolerability, pharmacokinetics, and preliminary efficacy of MRG006A in combination with immune checkpoint inhibitors and targeted therapy in patients with advanced hepatocellular carcinoma (HCC)."
+    },
+    {
+      "nct": "NCT06160752",
+      "nctId": "NCT06160752",
+      "brief_title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Cholangiocarcinoma",
+        "Intrahepatic Cholangiocarcinoma",
+        "Solid Tumor",
+        "Metastatic Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary antitumor activity of TYRA-200 in cancers with FGFR2 activating gene alterations, including unresectable locally advanced/metastatic intrahepatic cholangiocarcinoma and other advanced solid tumors."
+    },
+    {
+      "nct": "NCT05563870",
+      "nctId": "NCT05563870",
+      "brief_title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Perihilar Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This prospective clinical trial aims to assess the feasibility, efficacy, and safety of a personalized radiofrequency ablation protocol coupled with complete biliary drainage for patients presenting with inoperable perihilar cholangiocarcinoma."
+    },
+    {
+      "nct": "NCT07732686",
+      "nctId": "NCT07732686",
+      "brief_title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Pancreas Cancer",
+        "Hepatocellular Carcinoma",
+        "Lung Cancer",
+        "Ovarian Cancer",
+        "Breast Cancer",
+        "Head and Neck Cancer",
+        "Colon Cancer",
+        "Bladder Cancer",
+        "Other Cancer"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The purpose of this clinical trial is to evaluate whether volatile organic compound (VOC) signatures detected in the breath of patients with cancer can serve as a potential screening tool for the early detection of cancer."
+    },
+    {
+      "nct": "NCT00034216",
+      "nctId": "NCT00034216",
+      "brief_title": "Collection of Blood From Patients With Cancer",
+      "title": "Collection of Blood From Patients With Cancer",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Prostate Cancer",
+        "Breast Cancer",
+        "Colon Cancer",
+        "Lung Cancer",
+        "Liver Cancer"
+      ],
+      "related": true,
+      "focus": false,
+      "fp": "crclm",
+      "brief_summary": "This study will collect blood from patients with cancer to study the level of cells which decrease the immune response (suppressor cells) before and after chemotherapy. Patients 18 years of age and older with cancer may participate. This study does not involve treatment.\n\nParticipants will have about 50 ml (3 tablespoonfuls) of blood drawn. Depending on their condition, patients may be invited to enroll in a clinical research study involving chemotherapy, radiotherapy, or surgery. Additional 40-ml blood samples may be drawn during the course of treatment."
+    },
+    {
+      "nct": "NCT07734857",
+      "nctId": "NCT07734857",
+      "brief_title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This single-center prospective observational cohort study aims to evaluate the predictive value of peripheral blood-based biomarkers for treatment response in patients with hepatocellular carcinoma (HCC) receiving first-line atezolizumab plus bevacizumab (T+A) therapy. Residual peripheral blood samples obtained during routine clinical testing will be analyzed without additional blood draws. The study hypothesizes that baseline and longitudinal peripheral blood biomarkers are associated with treatment response and can be used to identify patients more likely to benefit from T+A therapy. Treatment response will be evaluated based on the best overall response (BOR) during treatment. The primary efficacy assessment will be performed according to RECIST 1.1, while modified RECIST (mRECIST) will"
+    },
+    {
+      "nct": "NCT07732504",
+      "nctId": "NCT07732504",
+      "brief_title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Hepatocellular carcinoma, the most common type of primary liver cancer, can recur after liver resection or thermal ablation performed with curative intent. Follow-up imaging is commonly scheduled at fixed intervals, although the risk of recurrence differs among patients and may change over time. This study will test whether a locked artificial intelligence system can use routinely collected clinical, laboratory, and imaging information to recommend when the next surveillance scan should occur.\n\nAdults with no radiological evidence of viable hepatocellular carcinoma after microscopically margin-negative liver resection or complete radiofrequency or microwave ablation will be randomly assigned in a 1:1 ratio to artificial intelligence-guided risk-adapted surveillance or fixed-interval survei"
+    },
+    {
+      "nct": "NCT02772003",
+      "nctId": "NCT02772003",
+      "brief_title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase I trial studies the side effects and best dose of deoxyribonucleic acid (DNA) vaccine therapy in treating patients with hepatitis C virus (HCV) infection that persists or progresses over a long period of time. Vaccines made from DNA may help the body build an effective immune response to kill cancer cells that express HCV infection."
+    },
+    {
+      "nct": "NCT07734766",
+      "nctId": "NCT07734766",
+      "brief_title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepato Cellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study evaluates ebastine, an FAK (focal adhesion kinase) inhibitor, as adjuvant therapy to reduce the risk of recurrence in patients with hepatocellular carcinoma (HCC) who have undergone curative hepatectomy and whose tumors show a histopathological feature known as tumor budding, which is associated with a higher risk of postoperative recurrence.\n\nEbastine is a second-generation antihistamine approved for allergic conditions. Preclinical studies have shown that ebastine also inhibits FAK signaling, a pathway implicated in tumor invasion, epithelial-mesenchymal transition, and recurrence. This study investigates whether administering ebastine after surgery can lower the recurrence risk associated with tumor budding-positive HCC.\n\nAll enrolled participants will receive ebastine as adj"
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "brief_title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administered through the HAI pump directly to the liver for people with colon, adrenal glands, or bile duct cancer that has spread to the liver.\n\nObjective:\n\nTo test the safety of carfilzomib (CFZ) delivered via a hepatic artery infusion (HAI) pump directly to the liver in people with cancer in their liver.\n\nE"
+    },
+    {
+      "nct": "NCT06199232",
+      "nctId": "NCT06199232",
+      "brief_title": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+      "title": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Liver Metastasis Colon Cancer",
+        "ctDNA Genotype",
+        "MSS",
+        "Failed From Standard Treatment"
+      ],
+      "related": true,
+      "focus": false,
+      "fp": "crclm",
+      "brief_summary": "Hepatic arterial infuison chemothearpy (HAIC), targeted therapy, and programmed death-1 (PD-1) inhibitors have been demonstrated to be effective for colorectal cancer liver metastasis (CRCLM). Thus, the investigators will conduct a prospective trial to explore the efficacy and safety of targeted treatment based on genotyping or ctDNA genotyping combined with tislelizumab and HAIC as salvage treatment for advanced CRCLM failed from standard systemic treatment, aiming to provide individualized optimized regimen for microsatellite stable (MSS) CRCLM in salvage treatment."
+    },
+    {
+      "nct": "NCT06050252",
+      "nctId": "NCT06050252",
+      "brief_title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Resectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase II trial tests how well giving durvalumab with standard chemotherapy, gemcitabine and cisplatin, before surgery works in treating patients with high risk liver cancer (cholangiocarcinoma) that can be removed by surgery (resectable). Durvalumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as gemcitabine and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving durvalumab with gemcitabine and cisplatin before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed in patients with high risk resectable cholangiocarcinoma."
+    },
+    {
+      "nct": "NCT07719933",
+      "nctId": "NCT07719933",
+      "brief_title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Liver Neoplasms",
+        "Postoperative Complications"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Liver resection is an important surgical treatment for patients with liver diseases. Despite advances in surgical and anesthetic management, postoperative complications remain a major concern and may affect patient recovery. Maintaining stable blood circulation during surgery is an important part of perioperative care.\n\nTerlipressin is a vasoactive medication that may help maintain blood pressure and improve hemodynamic stability during surgery. However, the relationship between intraoperative continuous terlipressin infusion and postoperative outcomes after laparoscopic hepatectomy remains unclear.\n\nThis prospective observational cohort study aims to evaluate the association between continuous intraoperative terlipressin infusion and postoperative severe complications in patients undergoi"
+    },
+    {
+      "nct": "NCT07359820",
+      "nctId": "NCT07359820",
+      "brief_title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "FGFR2 Gene Fusion/Rearrangement",
+        "Other Solid Tumors, Adult"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The goal of this clinical trial is to evaluate if lirafugratinib is efficacious and safe to treat adult patients with previously treated, unresectable, locally advanced or metastatic solid tumors (excluding cholangiocarcinoma) harboring FGFR2 fusion or rearrangement.\n\nParticipants will:\n\n* Take lirafugratinib regularly as instructed by their study doctor.\n* Visit the clinic as instructed for checkups and tests.\n* Keep a diary recording each time a dose of lirafugratinib is taken."
+    },
+    {
+      "nct": "NCT03695250",
+      "nctId": "NCT03695250",
+      "brief_title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "overall_status": "TERMINATED",
+      "status": "TERMINATED",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": "2023-08-22",
+      "has_results": true,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8",
+        "Stage IVA Hepatocellular Carcinoma AJCC v8",
+        "Stage IVB Hepatocellular Carcinoma AJCC v8",
+        "Unresectable Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of IDO1 inhibitor BMS-986205 (BMS-986205) when given together with nivolumab and how well it works as first or second line therapy in treating patients with liver cancer. BMS-986205 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as nivolumab, may interfere with the ability of tumor cells to grow and spread. Giving BMS-986205 and nivolumab may work better in treating patients with liver cancer."
+    },
+    {
+      "nct": "NCT07729917",
+      "nctId": "NCT07729917",
+      "brief_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study is a prospective, multicenter, open-label, umbrella phase II clinical trial. Based on different multigene expression profiling subtypes and potential molecular characteristics of various pathways, 8 treatment arms and 13 treatment groups are preliminarily designed. After successful screening, investigators will assign eligible subjects to a treatment group based on the patient's genetic test report (if available) and performance status. For subjects without a genetic test report, they will be allocated to Arm H to receive immunotherapy combined with chemotherapy or other regimens."
+    },
+    {
+      "nct": "NCT07727759",
+      "nctId": "NCT07727759",
+      "brief_title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Removing a large part of the liver (major hepatectomy) can cure primary and secondary liver cancers, but it carries the risk of post-hepatectomy liver failure (PHLF), a serious complication in which the liver left behind - the future liver remnant (FLR) - cannot meet the body's metabolic needs. PHLF occurs after roughly 5% to 15% of major hepatectomies and is the leading cause of postoperative death.\n\nBefore surgery, surgeons routinely use CT scans to measure how much liver will remain (CT volumetry). Volume alone does not tell the whole story. After a large resection the remaining liver can rotate and shift into the empty space left behind, kinking or compressing the veins that drain it. The resulting congestion can make an apparently adequate remnant fail.\n\nThis prospective, multicenter,"
+    },
+    {
+      "nct": "NCT07268131",
+      "nctId": "NCT07268131",
+      "brief_title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is a single-arm, single-center, prospective trial designed to evaluate the efficacy and safety of transarterial chemoembolization (TACE) combined with ipalimab/tuvonralimab (QL1706) in the peri-operative setting for resectable hepatocellular carcinoma exceeding the Milan criteria, and to explore biomarkers predictive of therapeutic response."
+    },
+    {
+      "nct": "NCT06915753",
+      "nctId": "NCT06915753",
+      "brief_title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Solid Tumors",
+        "Solid Tumor, Adult",
+        "FGFR Gene Amplification",
+        "FGFR Gene Alterations",
+        "FGFR3 Gene Alteration",
+        "FGFR3 Gene Mutation",
+        "Advanced Solid Tumors",
+        "FGFR4 Gene Mutation",
+        "FGFR4 Gene Fusions",
+        "FGF19 Gene Amplification",
+        "FGF19 Gene Overexpression",
+        "FGFR3 Gene Fusions",
+        "Locally Advanced Unresectable Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "A Phase 1 study to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamic (PD), and preliminary antitumor activity of TYRA-430 in cancers with FGF/FGFR pathway aberrations, including locally advanced/metastatic hepatocellular carcinoma and other advanced solid tumors."
+    },
+    {
+      "nct": "NCT06066138",
+      "nctId": "NCT06066138",
+      "brief_title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Background:\n\nA type of drug called monoclonal antibody immune checkpoint inhibitors are often used in cancer treatment. These drugs help the body s immune system fight cancer by blocking proteins that cause cancer cells to grow. One of these drugs (atezolizumab) is approved to treat certain cancers. Researchers want to find out if lower doses of this drug might provide the same benefit with fewer adverse effects.\n\nObjective:\n\nTo test different doses and timing of atezolizumab for people with cancer.\n\nEligibility:\n\nPeople aged 18 years and older with cancer that has spread locally or to other organs. They must be eligible for treatment with the study drug.\n\nDesign:\n\nParticipants will be screened. They will have blood tests and imaging scans. They will provide a sample of tissue from their t"
+    },
+    {
+      "nct": "NCT07409805",
+      "nctId": "NCT07409805",
+      "brief_title": "YMN-136 Vaccine for Patients With Liver Metastasis of Colorectal Cancer Progressing After Third-Line Treatment",
+      "title": "YMN-136 Vaccine for Patients With Liver Metastasis of Colorectal Cancer Progressing After Third-Line Treatment",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "related": true,
+      "focus": false,
+      "fp": "crclm",
+      "brief_summary": "This study aims to determine the safety and maximum tolerated dose (MTD) of YMN-136 vaccine through a dose escalation trial, and to investigate whether YMN-136 vaccine can assist in the treatment of patients with metastatic colorectal cancer."
+    }
+  ],
+  "focus": [
+    {
+      "nct": "NCT04712643",
+      "nctId": "NCT04712643",
+      "brief_title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study will evaluate the efficacy and safety of atezolizumab plus bevacizumab combined with on-demand TACE compared to on-demand TACE alone in participants with hepatocellular carcinoma who are at high risk of poorer outcome following TACE treatment."
+    },
+    {
+      "nct": "NCT05727176",
+      "nctId": "NCT05727176",
+      "brief_title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is an open-label, multinational, randomized Phase 2 study confirming the clinical benefit of 20 mg futibatinib and evaluating the safety and efficacy of 16 mg futibatinib in previously treated CCA harboring FGFR2 gene fusions and other rearrangements."
+    },
+    {
+      "nct": "NCT06427941",
+      "nctId": "NCT06427941",
+      "brief_title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Local Advanced Hepatocellular Carcinoma",
+        "Alpha-fetoprotein (AFP)-Producing Gastric Cancer",
+        "Extragonadal Yolk Sac Tumors",
+        "Glypican-3 (GPC3)-Positive Squamous Non-small Cell Lung Cancer"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is a first-in-human (FIH) clinical study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and anti-tumor activity of BGB-B2033 administered as monotherapy and in combination with tislelizumab, with or without bevacizumab. The study will enroll participants with locally advanced or metastatic hepatocellular carcinoma (HCC), alpha-fetoprotein (AFP)-producing gastric cancer (GC), extragonadal yolk sac tumors/non-dysgerminomas, or glypican-3 (GPC3)-positive squamous non-small cell lung cancer (NSCLC)."
+    },
+    {
+      "nct": "NCT07059494",
+      "nctId": "NCT07059494",
+      "brief_title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "A single institution, single arm, two-cohort feasibility trial to evaluate the combination of locoregional Y\\^90 therapy with systemic atezolizumab and bevacizumab, in participants presenting with hepatocellular carcinoma (HCC) 1) within Milan Criteria (MC) with AFP ≥ 400 ng/ml as a means of bridge therapy prior to transplant, 2) beyond the Milan Criteria (MC) (within USCF DS criteria and all comers), as a means of downstaging prior to liver transplantation."
+    },
+    {
+      "nct": "NCT06710223",
+      "nctId": "NCT06710223",
+      "brief_title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The goal of this Phase 1b clinical trial is to evaluate the safety and efficacy of cryoablation and hepatic arterial administration of SD-101 in participants with advanced hepatocellular carcinoma. After this procedure, participants will be treated with tremelimumab and durvalumab every 4 weeks (STRIDE regimen)."
+    },
+    {
+      "nct": "NCT05621499",
+      "nctId": "NCT05621499",
+      "brief_title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "To evaluate the safety and efficacy of HAIC or Lenvatinib combined with Sintilimab as a neoadjuvant therapy for high recurrence risk resectable stage IB solitary hepatocellular carcinoma"
+    },
+    {
+      "nct": "NCT07479485",
+      "nctId": "NCT07479485",
+      "brief_title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is an open-label, multicenter, Phase I/II clinical study designed to evaluate the safety, tolerability, pharmacokinetics, and preliminary efficacy of MRG006A in combination with immune checkpoint inhibitors and targeted therapy in patients with advanced hepatocellular carcinoma (HCC)."
+    },
+    {
+      "nct": "NCT06160752",
+      "nctId": "NCT06160752",
+      "brief_title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Cholangiocarcinoma",
+        "Intrahepatic Cholangiocarcinoma",
+        "Solid Tumor",
+        "Metastatic Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary antitumor activity of TYRA-200 in cancers with FGFR2 activating gene alterations, including unresectable locally advanced/metastatic intrahepatic cholangiocarcinoma and other advanced solid tumors."
+    },
+    {
+      "nct": "NCT05563870",
+      "nctId": "NCT05563870",
+      "brief_title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Perihilar Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This prospective clinical trial aims to assess the feasibility, efficacy, and safety of a personalized radiofrequency ablation protocol coupled with complete biliary drainage for patients presenting with inoperable perihilar cholangiocarcinoma."
+    },
+    {
+      "nct": "NCT07732686",
+      "nctId": "NCT07732686",
+      "brief_title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Pancreas Cancer",
+        "Hepatocellular Carcinoma",
+        "Lung Cancer",
+        "Ovarian Cancer",
+        "Breast Cancer",
+        "Head and Neck Cancer",
+        "Colon Cancer",
+        "Bladder Cancer",
+        "Other Cancer"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The purpose of this clinical trial is to evaluate whether volatile organic compound (VOC) signatures detected in the breath of patients with cancer can serve as a potential screening tool for the early detection of cancer."
+    },
+    {
+      "nct": "NCT07734857",
+      "nctId": "NCT07734857",
+      "brief_title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This single-center prospective observational cohort study aims to evaluate the predictive value of peripheral blood-based biomarkers for treatment response in patients with hepatocellular carcinoma (HCC) receiving first-line atezolizumab plus bevacizumab (T+A) therapy. Residual peripheral blood samples obtained during routine clinical testing will be analyzed without additional blood draws. The study hypothesizes that baseline and longitudinal peripheral blood biomarkers are associated with treatment response and can be used to identify patients more likely to benefit from T+A therapy. Treatment response will be evaluated based on the best overall response (BOR) during treatment. The primary efficacy assessment will be performed according to RECIST 1.1, while modified RECIST (mRECIST) will"
+    },
+    {
+      "nct": "NCT07732504",
+      "nctId": "NCT07732504",
+      "brief_title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Hepatocellular carcinoma, the most common type of primary liver cancer, can recur after liver resection or thermal ablation performed with curative intent. Follow-up imaging is commonly scheduled at fixed intervals, although the risk of recurrence differs among patients and may change over time. This study will test whether a locked artificial intelligence system can use routinely collected clinical, laboratory, and imaging information to recommend when the next surveillance scan should occur.\n\nAdults with no radiological evidence of viable hepatocellular carcinoma after microscopically margin-negative liver resection or complete radiofrequency or microwave ablation will be randomly assigned in a 1:1 ratio to artificial intelligence-guided risk-adapted surveillance or fixed-interval survei"
+    },
+    {
+      "nct": "NCT02772003",
+      "nctId": "NCT02772003",
+      "brief_title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase I trial studies the side effects and best dose of deoxyribonucleic acid (DNA) vaccine therapy in treating patients with hepatitis C virus (HCV) infection that persists or progresses over a long period of time. Vaccines made from DNA may help the body build an effective immune response to kill cancer cells that express HCV infection."
+    },
+    {
+      "nct": "NCT07734766",
+      "nctId": "NCT07734766",
+      "brief_title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepato Cellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study evaluates ebastine, an FAK (focal adhesion kinase) inhibitor, as adjuvant therapy to reduce the risk of recurrence in patients with hepatocellular carcinoma (HCC) who have undergone curative hepatectomy and whose tumors show a histopathological feature known as tumor budding, which is associated with a higher risk of postoperative recurrence.\n\nEbastine is a second-generation antihistamine approved for allergic conditions. Preclinical studies have shown that ebastine also inhibits FAK signaling, a pathway implicated in tumor invasion, epithelial-mesenchymal transition, and recurrence. This study investigates whether administering ebastine after surgery can lower the recurrence risk associated with tumor budding-positive HCC.\n\nAll enrolled participants will receive ebastine as adj"
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "brief_title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administered through the HAI pump directly to the liver for people with colon, adrenal glands, or bile duct cancer that has spread to the liver.\n\nObjective:\n\nTo test the safety of carfilzomib (CFZ) delivered via a hepatic artery infusion (HAI) pump directly to the liver in people with cancer in their liver.\n\nE"
+    },
+    {
+      "nct": "NCT06050252",
+      "nctId": "NCT06050252",
+      "brief_title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Resectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase II trial tests how well giving durvalumab with standard chemotherapy, gemcitabine and cisplatin, before surgery works in treating patients with high risk liver cancer (cholangiocarcinoma) that can be removed by surgery (resectable). Durvalumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as gemcitabine and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving durvalumab with gemcitabine and cisplatin before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed in patients with high risk resectable cholangiocarcinoma."
+    },
+    {
+      "nct": "NCT07719933",
+      "nctId": "NCT07719933",
+      "brief_title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Liver Neoplasms",
+        "Postoperative Complications"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Liver resection is an important surgical treatment for patients with liver diseases. Despite advances in surgical and anesthetic management, postoperative complications remain a major concern and may affect patient recovery. Maintaining stable blood circulation during surgery is an important part of perioperative care.\n\nTerlipressin is a vasoactive medication that may help maintain blood pressure and improve hemodynamic stability during surgery. However, the relationship between intraoperative continuous terlipressin infusion and postoperative outcomes after laparoscopic hepatectomy remains unclear.\n\nThis prospective observational cohort study aims to evaluate the association between continuous intraoperative terlipressin infusion and postoperative severe complications in patients undergoi"
+    },
+    {
+      "nct": "NCT07359820",
+      "nctId": "NCT07359820",
+      "brief_title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "FGFR2 Gene Fusion/Rearrangement",
+        "Other Solid Tumors, Adult"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The goal of this clinical trial is to evaluate if lirafugratinib is efficacious and safe to treat adult patients with previously treated, unresectable, locally advanced or metastatic solid tumors (excluding cholangiocarcinoma) harboring FGFR2 fusion or rearrangement.\n\nParticipants will:\n\n* Take lirafugratinib regularly as instructed by their study doctor.\n* Visit the clinic as instructed for checkups and tests.\n* Keep a diary recording each time a dose of lirafugratinib is taken."
+    },
+    {
+      "nct": "NCT03695250",
+      "nctId": "NCT03695250",
+      "brief_title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "overall_status": "TERMINATED",
+      "status": "TERMINATED",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": "2023-08-22",
+      "has_results": true,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8",
+        "Stage IVA Hepatocellular Carcinoma AJCC v8",
+        "Stage IVB Hepatocellular Carcinoma AJCC v8",
+        "Unresectable Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of IDO1 inhibitor BMS-986205 (BMS-986205) when given together with nivolumab and how well it works as first or second line therapy in treating patients with liver cancer. BMS-986205 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as nivolumab, may interfere with the ability of tumor cells to grow and spread. Giving BMS-986205 and nivolumab may work better in treating patients with liver cancer."
+    },
+    {
+      "nct": "NCT07729917",
+      "nctId": "NCT07729917",
+      "brief_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study is a prospective, multicenter, open-label, umbrella phase II clinical trial. Based on different multigene expression profiling subtypes and potential molecular characteristics of various pathways, 8 treatment arms and 13 treatment groups are preliminarily designed. After successful screening, investigators will assign eligible subjects to a treatment group based on the patient's genetic test report (if available) and performance status. For subjects without a genetic test report, they will be allocated to Arm H to receive immunotherapy combined with chemotherapy or other regimens."
+    },
+    {
+      "nct": "NCT07727759",
+      "nctId": "NCT07727759",
+      "brief_title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Removing a large part of the liver (major hepatectomy) can cure primary and secondary liver cancers, but it carries the risk of post-hepatectomy liver failure (PHLF), a serious complication in which the liver left behind - the future liver remnant (FLR) - cannot meet the body's metabolic needs. PHLF occurs after roughly 5% to 15% of major hepatectomies and is the leading cause of postoperative death.\n\nBefore surgery, surgeons routinely use CT scans to measure how much liver will remain (CT volumetry). Volume alone does not tell the whole story. After a large resection the remaining liver can rotate and shift into the empty space left behind, kinking or compressing the veins that drain it. The resulting congestion can make an apparently adequate remnant fail.\n\nThis prospective, multicenter,"
+    },
+    {
+      "nct": "NCT07268131",
+      "nctId": "NCT07268131",
+      "brief_title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is a single-arm, single-center, prospective trial designed to evaluate the efficacy and safety of transarterial chemoembolization (TACE) combined with ipalimab/tuvonralimab (QL1706) in the peri-operative setting for resectable hepatocellular carcinoma exceeding the Milan criteria, and to explore biomarkers predictive of therapeutic response."
+    },
+    {
+      "nct": "NCT06915753",
+      "nctId": "NCT06915753",
+      "brief_title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Solid Tumors",
+        "Solid Tumor, Adult",
+        "FGFR Gene Amplification",
+        "FGFR Gene Alterations",
+        "FGFR3 Gene Alteration",
+        "FGFR3 Gene Mutation",
+        "Advanced Solid Tumors",
+        "FGFR4 Gene Mutation",
+        "FGFR4 Gene Fusions",
+        "FGF19 Gene Amplification",
+        "FGF19 Gene Overexpression",
+        "FGFR3 Gene Fusions",
+        "Locally Advanced Unresectable Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "A Phase 1 study to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamic (PD), and preliminary antitumor activity of TYRA-430 in cancers with FGF/FGFR pathway aberrations, including locally advanced/metastatic hepatocellular carcinoma and other advanced solid tumors."
+    },
+    {
+      "nct": "NCT06066138",
+      "nctId": "NCT06066138",
+      "brief_title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Background:\n\nA type of drug called monoclonal antibody immune checkpoint inhibitors are often used in cancer treatment. These drugs help the body s immune system fight cancer by blocking proteins that cause cancer cells to grow. One of these drugs (atezolizumab) is approved to treat certain cancers. Researchers want to find out if lower doses of this drug might provide the same benefit with fewer adverse effects.\n\nObjective:\n\nTo test different doses and timing of atezolizumab for people with cancer.\n\nEligibility:\n\nPeople aged 18 years and older with cancer that has spread locally or to other organs. They must be eligible for treatment with the study drug.\n\nDesign:\n\nParticipants will be screened. They will have blood tests and imaging scans. They will provide a sample of tissue from their t"
+    }
+  ],
+  "studies_parsed": [
+    {
+      "nct": "NCT06506955",
+      "nctId": "NCT06506955",
+      "brief_title": "Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib as Monotherapy or Combination Therapy.",
+      "title": "Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib as Monotherapy or Combination Therapy.",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Advanced/Metastatic Cancer"
+      ],
+      "related": false,
+      "focus": false,
+      "fp": null,
+      "brief_summary": "This is a nonrandomized, open-label, multicenter rollover study for patients who received futibatinib as monotherapy or as combination therapy in a Taiho-sponsored futibatinib study."
+    },
+    {
+      "nct": "NCT04712643",
+      "nctId": "NCT04712643",
+      "brief_title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study will evaluate the efficacy and safety of atezolizumab plus bevacizumab combined with on-demand TACE compared to on-demand TACE alone in participants with hepatocellular carcinoma who are at high risk of poorer outcome following TACE treatment."
+    },
+    {
+      "nct": "NCT05727176",
+      "nctId": "NCT05727176",
+      "brief_title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is an open-label, multinational, randomized Phase 2 study confirming the clinical benefit of 20 mg futibatinib and evaluating the safety and efficacy of 16 mg futibatinib in previously treated CCA harboring FGFR2 gene fusions and other rearrangements."
+    },
+    {
+      "nct": "NCT06427941",
+      "nctId": "NCT06427941",
+      "brief_title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Local Advanced Hepatocellular Carcinoma",
+        "Alpha-fetoprotein (AFP)-Producing Gastric Cancer",
+        "Extragonadal Yolk Sac Tumors",
+        "Glypican-3 (GPC3)-Positive Squamous Non-small Cell Lung Cancer"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is a first-in-human (FIH) clinical study designed to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD), and anti-tumor activity of BGB-B2033 administered as monotherapy and in combination with tislelizumab, with or without bevacizumab. The study will enroll participants with locally advanced or metastatic hepatocellular carcinoma (HCC), alpha-fetoprotein (AFP)-producing gastric cancer (GC), extragonadal yolk sac tumors/non-dysgerminomas, or glypican-3 (GPC3)-positive squamous non-small cell lung cancer (NSCLC)."
+    },
+    {
+      "nct": "NCT05044819",
+      "nctId": "NCT05044819",
+      "brief_title": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+      "title": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Lennox Gastaut Syndrome",
+        "Dravet Syndrome",
+        "Tuberous Sclerosis Complex"
+      ],
+      "related": false,
+      "focus": false,
+      "fp": null,
+      "brief_summary": "This study will monitor for potential chronic liver injury and liver fibrosis, in participants treated with cannabidiol oral solution."
+    },
+    {
+      "nct": "NCT07059494",
+      "nctId": "NCT07059494",
+      "brief_title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "A single institution, single arm, two-cohort feasibility trial to evaluate the combination of locoregional Y\\^90 therapy with systemic atezolizumab and bevacizumab, in participants presenting with hepatocellular carcinoma (HCC) 1) within Milan Criteria (MC) with AFP ≥ 400 ng/ml as a means of bridge therapy prior to transplant, 2) beyond the Milan Criteria (MC) (within USCF DS criteria and all comers), as a means of downstaging prior to liver transplantation."
+    },
+    {
+      "nct": "NCT06710223",
+      "nctId": "NCT06710223",
+      "brief_title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The goal of this Phase 1b clinical trial is to evaluate the safety and efficacy of cryoablation and hepatic arterial administration of SD-101 in participants with advanced hepatocellular carcinoma. After this procedure, participants will be treated with tremelimumab and durvalumab every 4 weeks (STRIDE regimen)."
+    },
+    {
+      "nct": "NCT05621499",
+      "nctId": "NCT05621499",
+      "brief_title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "To evaluate the safety and efficacy of HAIC or Lenvatinib combined with Sintilimab as a neoadjuvant therapy for high recurrence risk resectable stage IB solitary hepatocellular carcinoma"
+    },
+    {
+      "nct": "NCT07479485",
+      "nctId": "NCT07479485",
+      "brief_title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is an open-label, multicenter, Phase I/II clinical study designed to evaluate the safety, tolerability, pharmacokinetics, and preliminary efficacy of MRG006A in combination with immune checkpoint inhibitors and targeted therapy in patients with advanced hepatocellular carcinoma (HCC)."
+    },
+    {
+      "nct": "NCT06160752",
+      "nctId": "NCT06160752",
+      "brief_title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Cholangiocarcinoma",
+        "Intrahepatic Cholangiocarcinoma",
+        "Solid Tumor",
+        "Metastatic Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary antitumor activity of TYRA-200 in cancers with FGFR2 activating gene alterations, including unresectable locally advanced/metastatic intrahepatic cholangiocarcinoma and other advanced solid tumors."
+    },
+    {
+      "nct": "NCT05563870",
+      "nctId": "NCT05563870",
+      "brief_title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Perihilar Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This prospective clinical trial aims to assess the feasibility, efficacy, and safety of a personalized radiofrequency ablation protocol coupled with complete biliary drainage for patients presenting with inoperable perihilar cholangiocarcinoma."
+    },
+    {
+      "nct": "NCT07732686",
+      "nctId": "NCT07732686",
+      "brief_title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Pancreas Cancer",
+        "Hepatocellular Carcinoma",
+        "Lung Cancer",
+        "Ovarian Cancer",
+        "Breast Cancer",
+        "Head and Neck Cancer",
+        "Colon Cancer",
+        "Bladder Cancer",
+        "Other Cancer"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The purpose of this clinical trial is to evaluate whether volatile organic compound (VOC) signatures detected in the breath of patients with cancer can serve as a potential screening tool for the early detection of cancer."
+    },
+    {
+      "nct": "NCT00034216",
+      "nctId": "NCT00034216",
+      "brief_title": "Collection of Blood From Patients With Cancer",
+      "title": "Collection of Blood From Patients With Cancer",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Prostate Cancer",
+        "Breast Cancer",
+        "Colon Cancer",
+        "Lung Cancer",
+        "Liver Cancer"
+      ],
+      "related": true,
+      "focus": false,
+      "fp": "crclm",
+      "brief_summary": "This study will collect blood from patients with cancer to study the level of cells which decrease the immune response (suppressor cells) before and after chemotherapy. Patients 18 years of age and older with cancer may participate. This study does not involve treatment.\n\nParticipants will have about 50 ml (3 tablespoonfuls) of blood drawn. Depending on their condition, patients may be invited to enroll in a clinical research study involving chemotherapy, radiotherapy, or surgery. Additional 40-ml blood samples may be drawn during the course of treatment."
+    },
+    {
+      "nct": "NCT07734857",
+      "nctId": "NCT07734857",
+      "brief_title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This single-center prospective observational cohort study aims to evaluate the predictive value of peripheral blood-based biomarkers for treatment response in patients with hepatocellular carcinoma (HCC) receiving first-line atezolizumab plus bevacizumab (T+A) therapy. Residual peripheral blood samples obtained during routine clinical testing will be analyzed without additional blood draws. The study hypothesizes that baseline and longitudinal peripheral blood biomarkers are associated with treatment response and can be used to identify patients more likely to benefit from T+A therapy. Treatment response will be evaluated based on the best overall response (BOR) during treatment. The primary efficacy assessment will be performed according to RECIST 1.1, while modified RECIST (mRECIST) will"
+    },
+    {
+      "nct": "NCT07732504",
+      "nctId": "NCT07732504",
+      "brief_title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Hepatocellular carcinoma, the most common type of primary liver cancer, can recur after liver resection or thermal ablation performed with curative intent. Follow-up imaging is commonly scheduled at fixed intervals, although the risk of recurrence differs among patients and may change over time. This study will test whether a locked artificial intelligence system can use routinely collected clinical, laboratory, and imaging information to recommend when the next surveillance scan should occur.\n\nAdults with no radiological evidence of viable hepatocellular carcinoma after microscopically margin-negative liver resection or complete radiofrequency or microwave ablation will be randomly assigned in a 1:1 ratio to artificial intelligence-guided risk-adapted surveillance or fixed-interval survei"
+    },
+    {
+      "nct": "NCT02772003",
+      "nctId": "NCT02772003",
+      "brief_title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "overall_status": "ACTIVE_NOT_RECRUITING",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase I trial studies the side effects and best dose of deoxyribonucleic acid (DNA) vaccine therapy in treating patients with hepatitis C virus (HCV) infection that persists or progresses over a long period of time. Vaccines made from DNA may help the body build an effective immune response to kill cancer cells that express HCV infection."
+    },
+    {
+      "nct": "NCT07734766",
+      "nctId": "NCT07734766",
+      "brief_title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Hepato Cellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study evaluates ebastine, an FAK (focal adhesion kinase) inhibitor, as adjuvant therapy to reduce the risk of recurrence in patients with hepatocellular carcinoma (HCC) who have undergone curative hepatectomy and whose tumors show a histopathological feature known as tumor budding, which is associated with a higher risk of postoperative recurrence.\n\nEbastine is a second-generation antihistamine approved for allergic conditions. Preclinical studies have shown that ebastine also inhibits FAK signaling, a pathway implicated in tumor invasion, epithelial-mesenchymal transition, and recurrence. This study investigates whether administering ebastine after surgery can lower the recurrence risk associated with tumor budding-positive HCC.\n\nAll enrolled participants will receive ebastine as adj"
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "brief_title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administered through the HAI pump directly to the liver for people with colon, adrenal glands, or bile duct cancer that has spread to the liver.\n\nObjective:\n\nTo test the safety of carfilzomib (CFZ) delivered via a hepatic artery infusion (HAI) pump directly to the liver in people with cancer in their liver.\n\nE"
+    },
+    {
+      "nct": "NCT06199232",
+      "nctId": "NCT06199232",
+      "brief_title": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+      "title": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Liver Metastasis Colon Cancer",
+        "ctDNA Genotype",
+        "MSS",
+        "Failed From Standard Treatment"
+      ],
+      "related": true,
+      "focus": false,
+      "fp": "crclm",
+      "brief_summary": "Hepatic arterial infuison chemothearpy (HAIC), targeted therapy, and programmed death-1 (PD-1) inhibitors have been demonstrated to be effective for colorectal cancer liver metastasis (CRCLM). Thus, the investigators will conduct a prospective trial to explore the efficacy and safety of targeted treatment based on genotyping or ctDNA genotyping combined with tislelizumab and HAIC as salvage treatment for advanced CRCLM failed from standard systemic treatment, aiming to provide individualized optimized regimen for microsatellite stable (MSS) CRCLM in salvage treatment."
+    },
+    {
+      "nct": "NCT06050252",
+      "nctId": "NCT06050252",
+      "brief_title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Resectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase II trial tests how well giving durvalumab with standard chemotherapy, gemcitabine and cisplatin, before surgery works in treating patients with high risk liver cancer (cholangiocarcinoma) that can be removed by surgery (resectable). Durvalumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as gemcitabine and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving durvalumab with gemcitabine and cisplatin before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed in patients with high risk resectable cholangiocarcinoma."
+    },
+    {
+      "nct": "NCT07719933",
+      "nctId": "NCT07719933",
+      "brief_title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "overall_status": "COMPLETED",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Liver Neoplasms",
+        "Postoperative Complications"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Liver resection is an important surgical treatment for patients with liver diseases. Despite advances in surgical and anesthetic management, postoperative complications remain a major concern and may affect patient recovery. Maintaining stable blood circulation during surgery is an important part of perioperative care.\n\nTerlipressin is a vasoactive medication that may help maintain blood pressure and improve hemodynamic stability during surgery. However, the relationship between intraoperative continuous terlipressin infusion and postoperative outcomes after laparoscopic hepatectomy remains unclear.\n\nThis prospective observational cohort study aims to evaluate the association between continuous intraoperative terlipressin infusion and postoperative severe complications in patients undergoi"
+    },
+    {
+      "nct": "NCT07359820",
+      "nctId": "NCT07359820",
+      "brief_title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "title": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "FGFR2 Gene Fusion/Rearrangement",
+        "Other Solid Tumors, Adult"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "The goal of this clinical trial is to evaluate if lirafugratinib is efficacious and safe to treat adult patients with previously treated, unresectable, locally advanced or metastatic solid tumors (excluding cholangiocarcinoma) harboring FGFR2 fusion or rearrangement.\n\nParticipants will:\n\n* Take lirafugratinib regularly as instructed by their study doctor.\n* Visit the clinic as instructed for checkups and tests.\n* Keep a diary recording each time a dose of lirafugratinib is taken."
+    },
+    {
+      "nct": "NCT03695250",
+      "nctId": "NCT03695250",
+      "brief_title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "overall_status": "TERMINATED",
+      "status": "TERMINATED",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": "2023-08-22",
+      "has_results": true,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8",
+        "Stage IVA Hepatocellular Carcinoma AJCC v8",
+        "Stage IVB Hepatocellular Carcinoma AJCC v8",
+        "Unresectable Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of IDO1 inhibitor BMS-986205 (BMS-986205) when given together with nivolumab and how well it works as first or second line therapy in treating patients with liver cancer. BMS-986205 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as nivolumab, may interfere with the ability of tumor cells to grow and spread. Giving BMS-986205 and nivolumab may work better in treating patients with liver cancer."
+    },
+    {
+      "nct": "NCT07729917",
+      "nctId": "NCT07729917",
+      "brief_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This study is a prospective, multicenter, open-label, umbrella phase II clinical trial. Based on different multigene expression profiling subtypes and potential molecular characteristics of various pathways, 8 treatment arms and 13 treatment groups are preliminarily designed. After successful screening, investigators will assign eligible subjects to a treatment group based on the patient's genetic test report (if available) and performance status. For subjects without a genetic test report, they will be allocated to Arm H to receive immunotherapy combined with chemotherapy or other regimens."
+    },
+    {
+      "nct": "NCT07727759",
+      "nctId": "NCT07727759",
+      "brief_title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Removing a large part of the liver (major hepatectomy) can cure primary and secondary liver cancers, but it carries the risk of post-hepatectomy liver failure (PHLF), a serious complication in which the liver left behind - the future liver remnant (FLR) - cannot meet the body's metabolic needs. PHLF occurs after roughly 5% to 15% of major hepatectomies and is the leading cause of postoperative death.\n\nBefore surgery, surgeons routinely use CT scans to measure how much liver will remain (CT volumetry). Volume alone does not tell the whole story. After a large resection the remaining liver can rotate and shift into the empty space left behind, kinking or compressing the veins that drain it. The resulting congestion can make an apparently adequate remnant fail.\n\nThis prospective, multicenter,"
+    },
+    {
+      "nct": "NCT07268131",
+      "nctId": "NCT07268131",
+      "brief_title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "This is a single-arm, single-center, prospective trial designed to evaluate the efficacy and safety of transarterial chemoembolization (TACE) combined with ipalimab/tuvonralimab (QL1706) in the peri-operative setting for resectable hepatocellular carcinoma exceeding the Milan criteria, and to explore biomarkers predictive of therapeutic response."
+    },
+    {
+      "nct": "NCT06915753",
+      "nctId": "NCT06915753",
+      "brief_title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Solid Tumors",
+        "Solid Tumor, Adult",
+        "FGFR Gene Amplification",
+        "FGFR Gene Alterations",
+        "FGFR3 Gene Alteration",
+        "FGFR3 Gene Mutation",
+        "Advanced Solid Tumors",
+        "FGFR4 Gene Mutation",
+        "FGFR4 Gene Fusions",
+        "FGF19 Gene Amplification",
+        "FGF19 Gene Overexpression",
+        "FGFR3 Gene Fusions",
+        "Locally Advanced Unresectable Hepatocellular Carcinoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "A Phase 1 study to evaluate the safety, tolerability, pharmacokinetics (PK), pharmacodynamic (PD), and preliminary antitumor activity of TYRA-430 in cancers with FGF/FGFR pathway aberrations, including locally advanced/metastatic hepatocellular carcinoma and other advanced solid tumors."
+    },
+    {
+      "nct": "NCT06066138",
+      "nctId": "NCT06066138",
+      "brief_title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "related": true,
+      "focus": true,
+      "fp": null,
+      "brief_summary": "Background:\n\nA type of drug called monoclonal antibody immune checkpoint inhibitors are often used in cancer treatment. These drugs help the body s immune system fight cancer by blocking proteins that cause cancer cells to grow. One of these drugs (atezolizumab) is approved to treat certain cancers. Researchers want to find out if lower doses of this drug might provide the same benefit with fewer adverse effects.\n\nObjective:\n\nTo test different doses and timing of atezolizumab for people with cancer.\n\nEligibility:\n\nPeople aged 18 years and older with cancer that has spread locally or to other organs. They must be eligible for treatment with the study drug.\n\nDesign:\n\nParticipants will be screened. They will have blood tests and imaging scans. They will provide a sample of tissue from their t"
+    },
+    {
+      "nct": "NCT07731373",
+      "nctId": "NCT07731373",
+      "brief_title": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "title": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "overall_status": "NOT_YET_RECRUITING",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [],
+      "conditions": [
+        "Polycystic Ovary Syndrome (PCOS)",
+        "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+        "Pediatric Obesity",
+        "Hyperandrogenism",
+        "Insulin Resistance Syndrome"
+      ],
+      "related": false,
+      "focus": false,
+      "fp": null,
+      "brief_summary": "This single-center, prospective, observational, cross-sectional mechanistic pilot study will evaluate whether polycystic ovary syndrome (PCOS) contributes to hepatic steatosis in adolescent girls independently of adiposity. A total of 150 girls aged 10-18 years will be enrolled into three groups of 50: girls with PCOS and obesity, age- and body mass index-matched girls with obesity but without PCOS, and healthy normal-weight girls. Each participant will undergo a single evaluation comprising anthropometry, clinical and biochemical phenotyping, transient elastography with controlled attenuation parameter and two-dimensional shear wave elastography, and a single venous blood sample.\n\nAn extended biomarker panel will be measured by enzyme-linked immunosorbent assay (Fetuin-A, fibroblast growt"
+    },
+    {
+      "nct": "NCT07409805",
+      "nctId": "NCT07409805",
+      "brief_title": "YMN-136 Vaccine for Patients With Liver Metastasis of Colorectal Cancer Progressing After Third-Line Treatment",
+      "title": "YMN-136 Vaccine for Patients With Liver Metastasis of Colorectal Cancer Progressing After Third-Line Treatment",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "related": true,
+      "focus": false,
+      "fp": "crclm",
+      "brief_summary": "This study aims to determine the safety and maximum tolerated dose (MTD) of YMN-136 vaccine through a dose escalation trial, and to investigate whether YMN-136 vaccine can assist in the treatment of patients with metastatic colorectal cancer."
+    },
+    {
+      "nct": "NCT07281924",
+      "nctId": "NCT07281924",
+      "brief_title": "Hepzato Kit and Opdualag for Metastatic Melanoma and Liver Metastasis",
+      "title": "Hepzato Kit and Opdualag for Metastatic Melanoma and Liver Metastasis",
+      "overall_status": "RECRUITING",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-29",
+      "results_first_post_date": null,
+      "has_results": false,
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Metastatic Melanoma",
+        "Liver Metastases"
+      ],
+      "related": false,
+      "focus": false,
+      "fp": null,
+      "brief_summary": "This study is being done to see if combining HEPZATO KIT™ with nivolumab and relatlimab (Opdualag™) in patients with metastatic melanoma with liver metastasis is safe, tolerable, and will have a synergistic effect leading to improved clinical outcomes compared to the historic cohort of patients with liver metastasis treated with combination immune checkpoint inhibitor therapy."
+    }
+  ]
+}
