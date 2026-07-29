@@ -1,0 +1,37 @@
+{
+  "topic": "hepatobiliary surgery / hepatocellular carcinoma (HCC)",
+  "folder": "202607/29/02",
+  "timezone_convention": "UTC hour of automation trigger",
+  "trigger_utc": "2026-07-29T02:00:50.093Z",
+  "collected_at_utc": "2026-07-29T02:03:30+00:00",
+  "window_hours": 24,
+  "window_start_utc": "2026-07-28T02:00:50+00:00",
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ko",
+    "fr",
+    "de",
+    "ru"
+  ],
+  "sources": {
+    "pubmed_edat_count": 91,
+    "pubmed_retrieved": 91,
+    "pubmed_pdat_count": 16,
+    "pubmed_clinical_leaning": 47,
+    "crossref_unique_title_filtered": 63,
+    "clinicaltrials_hcc_related_updated": 11,
+    "clinicaltrials_focus_subset": 9
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "notes": [
+    "Guidelines rarely publish within a literal 24h window; current authority panel is labeled separately from 24h intake.",
+    "Prefer PMID links; Crossref created-date is registration/index time, not always first clinical publication.",
+    "Vendor/media OS claims may be immature; distinguish PFS vs OS maturity.",
+    "Quiet overnight pattern vs prior UTC 01h: EDAT 91 vs 114; Crossref 63 vs 80; CT.gov HCC-related 11 vs 12.",
+    "Key cross-check remains: EMERALD-1 final OS negative vs EMERALD-3 PFS+/OS immature (EN/JP/ESMO Daily Reporter).",
+    "RU Crossref CAR-T expert council DOI 10.26442/18151434.2026.2.203697 remains indexed — signal only, not Minzdrav KR revision.",
+    "ACLF SR-MA PMID 42510070 rolled out of this EDAT window; transplant counseling still cite prior hour if needed."
+  ]
+}
