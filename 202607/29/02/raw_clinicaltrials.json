@@ -1,0 +1,344 @@
+{
+  "query": {
+    "query.cond": "hepatocellular carcinoma OR liver cancer OR cholangiocarcinoma",
+    "filter.advanced": "AREA[LastUpdatePostDate]RANGE[2026-07-28,2026-07-29]",
+    "pageSize": 100,
+    "format": "json",
+    "fields": "NCTId,BriefTitle,OfficialTitle,OverallStatus,Phase,StudyType,Condition,LastUpdatePostDate,StartDate,PrimaryCompletionDate,LeadSponsorName,InterventionName,EnrollmentCount,LocationCountry"
+  },
+  "raw_count": 16,
+  "hcc_related": 11,
+  "items": [
+    {
+      "nct_id": "NCT07059494",
+      "brief_title": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "official_title": "A Feasibility Clinical Trial of Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization for Patients With Hepatocellular Carcinoma (HCC) for Liver Transplantation",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2026-03-26",
+      "primary_completion": "2027-08-01",
+      "phases": [
+        "PHASE4"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "Atezolizumab",
+        "Bevacizumab",
+        "Y^90 Radioembolization"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "enrollment": 40,
+      "countries": [
+        "United States"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT07715903",
+      "brief_title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "official_title": "Phase I Study Evaluating Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2026-08-02",
+      "primary_completion": "2029-12-31",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "interventions": [
+        "Carfilzomib"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "enrollment": 20,
+      "countries": [
+        "United States"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT02772003",
+      "brief_title": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "official_title": "Phase I Trial of a Therapeutic DNA Vaccine for Chronic Hepatitis C Virus (HCV) Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2016-06-06",
+      "primary_completion": "2020-03-04",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "Electroporation-Mediated Plasmid DNA Vaccine Therapy",
+        "HCV DNA Vaccine INO-8000",
+        "Laboratory Biomarker Analysis",
+        "Quality-of-Life Assessment",
+        "Rocakinogene Sifuplasmid"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "enrollment": 33,
+      "countries": [
+        "Puerto Rico",
+        "United States"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT07729917",
+      "brief_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "official_title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2026-08-10",
+      "primary_completion": "2028-08-31",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "interventions": [
+        "FGFR Inhibitor",
+        "IDH1 mutation inhibitor",
+        "KRAS mutation inhibitor",
+        "NTRK mutation inhibitor",
+        "BRAF V600E mutation inhibitor",
+        "BRCA 1/2 mutation inhibitor",
+        "HER2 target therapy",
+        "Immune Checkpoint Inhibitors",
+        "Chemotherapy: GP/GEMOX"
+      ],
+      "sponsor": "Zhejiang University",
+      "enrollment": 240,
+      "countries": [
+        "China"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT06710223",
+      "brief_title": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "official_title": "A Phase Ib Study of Cryoablation and Pressure-enabled Hepatic Arterial Infusion of Class C Toll-like Receptor 9 Agonist SD-101 in Combination With Durvalumab and Tremelimumab in Patients With Advanced Hepatocellular Carcinoma",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2025-01-03",
+      "primary_completion": "2027-12",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "SD-101",
+        "Cryotherapy",
+        "Tremelimumab",
+        "Durvalumab"
+      ],
+      "sponsor": "University of California, San Diego",
+      "enrollment": 16,
+      "countries": [
+        "United States"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT05727176",
+      "brief_title": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "official_title": "Phase 2 Study of Futibatinib 20 mg and 16 mg in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusions or Rearrangements",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2023-07-05",
+      "primary_completion": "2026-12",
+      "phases": [
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "interventions": [
+        "TAS-120"
+      ],
+      "sponsor": "Taiho Oncology, Inc.",
+      "enrollment": 120,
+      "countries": [
+        "Argentina",
+        "Australia",
+        "Brazil",
+        "Canada",
+        "China",
+        "Hong Kong",
+        "Italy",
+        "Japan",
+        "Poland",
+        "Portugal",
+        "South Korea",
+        "Spain",
+        "United States"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT07727759",
+      "brief_title": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "official_title": "Beyond Size - Integrating CT Volumetry With Hepatic Vascular Deformation Mapping to Anticipate Post-Resection Congestion and Liver Failure",
+      "status": "NOT_YET_RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2026-08-15",
+      "primary_completion": "2028-04-30",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "interventions": [
+        "Preoperative CT volumetry with hepatic vascular deformation mapping (VDM)"
+      ],
+      "sponsor": "Minia University",
+      "enrollment": 1070,
+      "countries": [
+        "Egypt"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT07479485",
+      "brief_title": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "official_title": "An Open-Label, Multicenter, Phase I/II Study Evaluating MRG006A in Combination With Immune Checkpoint Inhibitors and Targeted Therapy in Patients With Advanced Hepatocellular Carcinoma",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2026-04-08",
+      "primary_completion": "2028-04",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "MRG006A",
+        "Pucotenlimab",
+        "Bevacizumab",
+        "PD1/VEGF antibody",
+        "TKI"
+      ],
+      "sponsor": "Lepu Biopharma Co., Ltd.",
+      "enrollment": 160,
+      "countries": [
+        "China"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT06066138",
+      "brief_title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "official_title": "A Feasibility Phase I Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2025-11-04",
+      "primary_completion": "2027-01-31",
+      "phases": [
+        "PHASE1"
+      ],
+      "study_type": "INTERVENTIONAL",
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "interventions": [
+        "Atezolizumab"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "enrollment": 30,
+      "countries": [
+        "United States"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT00034216",
+      "brief_title": "Collection of Blood From Patients With Cancer",
+      "official_title": "Biospecimen Acquisition From Human Subjects",
+      "status": "RECRUITING",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2002-07-16",
+      "primary_completion": null,
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Prostate Cancer",
+        "Breast Cancer",
+        "Colon Cancer",
+        "Lung Cancer",
+        "Liver Cancer"
+      ],
+      "interventions": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "enrollment": 1750,
+      "countries": [
+        "United States"
+      ],
+      "brief_summary": ""
+    },
+    {
+      "nct_id": "NCT07719933",
+      "brief_title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "official_title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "status": "COMPLETED",
+      "last_update_post_date": "2026-07-28",
+      "start_date": "2024-04-01",
+      "primary_completion": "2024-12-31",
+      "phases": [],
+      "study_type": "OBSERVATIONAL",
+      "conditions": [
+        "Liver Neoplasms",
+        "Postoperative Complications"
+      ],
+      "interventions": [
+        "terlipressin"
+      ],
+      "sponsor": "First Affiliated Hospital, Sun Yat-Sen University",
+      "enrollment": 161,
+      "countries": [
+        "China"
+      ],
+      "brief_summary": ""
+    }
+  ]
+}
