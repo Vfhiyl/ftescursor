@@ -1,0 +1,57 @@
+{
+  "folder": "202607/29/17",
+  "previous_folder": "202607/29/16",
+  "trigger_utc": "2026-07-29T17:00:37.583Z",
+  "collected_at_utc": "2026-07-29T17:03:32.464818+00:00",
+  "window_start_utc": "2026-07-28T17:03:32.464818+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 127,
+    "pubmed_pdat_count": 40,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 76,
+    "crossref_unique_title_filtered": 121,
+    "crossref_new_dois": [
+      "10.1016/j.hbpd.2026.07.009"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 31,
+    "clinicaltrials_focus": 24,
+    "clinicaltrials_new_ncts": [
+      "NCT05044819",
+      "NCT06506955",
+      "NCT07281924",
+      "NCT07731373"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / NHC / AWMF v5.2 / AFEF·TNCD / Минздрав КР 2025 reachable; continuation-only EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; no new LBA this UTC hour; no guideline version change."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 127 ID set identical to 16h (NEW PMID=0).",
+    "Crossref title-filtered 120→121: +1 NEW DOI (HBPD Int exosome miR-769-3p / ALKBH5-m6A mechanism); material=false.",
+    "CT related 27→31: NEW NCT05044819 (Epidiolex FP) + NCT07731373 (PCOS FP) + NCT07281924 (melanoma liver mets FP) + NCT06506955 (futibatinib continuation peripheral); 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv/EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged (CN 2026 / JSH 2025 / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 16h; short pack only."
+  ]
+}

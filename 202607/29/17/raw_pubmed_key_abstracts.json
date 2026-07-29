@@ -1,0 +1,37 @@
+{
+  "count": 4,
+  "records": [
+    {
+      "pmid": "42518346",
+      "title": "Yangyin Fuzheng Jiedu prescription as an adjunct to minimally invasive treatment in early-stage hepatocellular carcinoma: a randomized controlled trial.",
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2026.1780139",
+      "abstract": "Recurrence remains common after minimally invasive treatment in patients with early-stage hepatocellular carcinoma (HCC). This randomized controlled trial evaluated the efficacy and safety of Yangyin Fuzheng Jiedu Prescription (YFJP) as an adjunct to minimally invasive treatment in early-stage HCC. In this randomized controlled trial, 300 patients with early-stage HCC (BCLC stage 0-A) undergoing minimally invasive treatment were randomly assigned (1:1) to receive YFJP plus minimally invasive treatment (YFJP group) or minimally invasive treatment alone (Control group). Patients were followed for 48 weeks. The primary endpoint was recurrence-free survival (RFS). RFS was assessed using the Kaplan-Meier method and compared with the log-rank test. Cox proportional hazards models were used for exploratory subgroup analyses. Safety was evaluated by the incidence of adverse events. At 48 weeks, outcome data were available for 135 patients in the YFJP group and 137 patients in the Control group. Recurrence-free survival was significantly longer in the YFJP group than in the Control group (log-rank p = 0.016). Subgroup analyses showed a generally consistent direction of treatment effect across clinical subgroups, although the magnitude of effect varied. The incidence of adverse events was similar between groups, with no unexpected safety signals observed. In patients with early-stage HCC undergoing minimally invasive treatment, adjunctive treatment with YFJP was associated with improve",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518346/"
+    },
+    {
+      "pmid": "42518016",
+      "title": "Ceralasertib Plus Durvalumab in Chinese Patients with Advanced Solid Tumors: A Nonrandomized Clinical Trial.",
+      "journal": "Oncology and therapy",
+      "doi": "10.1016/j.esmoop.2026.106957",
+      "abstract": "This phase I, multicenter, nonrandomized open-label study is the first study to investigate the safety, pharmacokinetics, and antitumor activity of ceralasertib, an oral ATR kinase inhibitor, in combination with in Chinese patients with advanced solid tumors who are refractory or resistant to prior anti-PD-(L)1 immunotherapy or for whom no standard of care exists. Patients were enrolled into one of two cohorts. Cohort 1 received ceralasertib 240 mg twice daily on days 1‒7 of cycle 0 then on days 22‒28 from cycle 1 onwards (28-day cycle). Cohort 2 received ceralasertib 160 mg twice daily on days 1‒14 of cycle 0 then on days 15‒28 from cycle 1 onwards (28-day cycle). All patients received durvalumab 1500 mg on day 1 (28-day cycle). Patients were treated until disease progression, discontinuation due to adverse events, or patient or investigator's decision to withdraw. The primary endpoint was safety and tolerability of ceralasertib combined with durvalumab. Secondary endpoints included ceralasertib pharmacokinetics and antitumor activity. Overall, 14 patients were enrolled (cohort 1, n = 8; cohort 2, n = 6). All patients were Chinese and the majority (85.7%) had received > 4 prior lines of therapy. Most patients (13/14; 92.9%) had an adverse event, which were grade ≥ 3 in 7 (50.0%) patients. No dose-limiting toxicities occurred (12 evaluable patients; six in each cohort). Pharmacokinetics for ceralasertib were comparable to that reported in other studies for monotherapy or in c",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518016/"
+    },
+    {
+      "pmid": "42514220",
+      "title": "Choosing the Platinum Partner in Advanced Biliary Tract Cancer: A Propensity Score-Matched Real-World Comparison of Gemcitabine Plus Carboplatin Versus Gemcitabine Plus Cisplatin.",
+      "journal": "Life (Basel, Switzerland)",
+      "doi": "10.3389/fonc.2026.1750154",
+      "abstract": "Gemcitabine plus cisplatin (GemCis) has been served as an important first-line chemotherapy backbone for unresectable locally advanced or metastatic biliary tract cancer (BTC). However, cisplatin is unsuitable for all patients. Gemcitabine plus carboplatin (GemCarbo) is frequently used as an alternative, but direct comparative data remain limited. We retrospectively review patients with unresectable locally advanced or metastatic BTC who received first-line GemCis or GemCarbo at Songklanagarind Hospital between 2011 and 2025. The primary endpoint was overall survival (OS). Secondary endpoints included progression-free survival (PFS), objective response rate (ORR), disease control rate (DCR), and selected laboratory-based safety outcomes. Propensity score matching was applied to reduce baseline treatment selection bias. Among 154 eligible patients, 95 received GemCis and 59 received GemCarbo. In the overall cohort, median OS was 8.44 months with GemCarbo and 9.82 months with GemCis (HR, 1.18; 95% CI, 0.82-1.70; p = 0.382). After propensity score matching, median OS was 8.44 months with GemCarbo and 11.63 months with GemCis (HR, 1.26; 95% CI, 0.84-1.90; p = 0.271). Median PFS was 4.27 and 5.75 months (HR, 0.91; 95% CI, 0.62-1.33; p = 0.617). ORR and DCR were comparable among evaluable patients. Increased serum creatinine was more frequent with GemCis, whereas hematologic toxicities were comparable. GemCarbo showed no statistically significant difference in OS or PFS compared wi",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42514220/"
+    },
+    {
+      "pmid": "42512110",
+      "title": "Atezolizumab Plus Bevacizumab Versus Durvalumab Plus Tremelimumab for Advanced Hepatocellular Carcinoma: A Propensity-Score-Matched Analysis.",
+      "journal": "Biomedicines",
+      "doi": "10.3390/biomedicines14071638",
+      "abstract": "Background: Atezolizumab plus bevacizumab (A + B) and durvalumab plus tremelimumab (D + T) are approved first-line systemic therapy options for advanced hepatocellular carcinoma (HCC), with no head-to-head comparison. In this propensity-matched analysis, we compared the survival of patients with advanced HCC who received either A + B or D + T therapy. Methods: Patients with advanced HCC who received A + B or D + T treatment in the first-line setting were identified using the TriNetX platform, a health research network that provides access to electronic health record data from 112 healthcare organizations. Propensity-score-matched (PSM) analysis was conducted, and the median overall survival (OS) was estimated using the Kaplan-Meier method. Results: We identified 2819 patients with HCC who were treated with A + B or D + T: 2031 patients received A + B and 788 received D + T. Compared to patients in the A + B cohort, those who received D + T were more likely to be older (median age: 68.4 vs. 66.9 years), have lower platelet counts (186.8 vs. 201.3), higher prevalence of hypoalbuminemia with levels < 2.7 g/dL (35.2% vs. 28.4%), higher prevalence of bilirubin levels between 2.0 and 2.9 mg/dL (28.8% vs. 23.8%), and decreased INR with levels between 0.0 and 1.6 (92.1% vs. 86.3%). After PSM, 1536 patients were included in the survival analyses, with all variables adequately matched. There was no significant difference in the median OS between those receiving A + B or D + T [16.3 vs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42512110/"
+    }
+  ]
+}
