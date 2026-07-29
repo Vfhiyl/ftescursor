@@ -1,0 +1,165 @@
+{
+  "count": 9,
+  "records": [
+    {
+      "pmid": "42524660",
+      "title": "Definition of Conversion Therapy and Neoadjuvant Therapy for Hepatocellular Carcinoma: A Consensus Guideline from the Japan Liver Cancer Association.",
+      "journal": "Liver Cancer",
+      "abstract": "With the advent of novel systemic therapies that provide high response rates, such as lenvatinib, atezolizumab-bevacizumab, durvalumab-tremelimumab, and nivolumab-ipilimumab, treatment strategies for patients with advanced hepatocellular carcinoma (HCC) have markedly evolved, and discussions on conversion therapy - which, broadly speaking, combines these systemic therapies with locoregional modalities - have become commonplace. However, the term \"conversion therapy\" has not yet been clearly defined, making it difficult to compare treatment outcomes among studies. To address this issue, the Japan Liver Cancer Association established a consensus-based \"Working Group on the Definition of Conversion\" as an official project of the association. The working group comprised experts in hepatobiliary surgery, hepatology, and radiology, with a rapporteur responsible for drafting and revising the definitions. The group proposed standardized definitions for \"conversion surgery,\" \"neoadjuvant therapy,\" and \"ablation as conversion therapy,\" while recommending that transcatheter arterial chemoembolization should not be classified as conversion therapy due to its limited curative potential. The definitions also introduced two key concepts: functional conversion (based on the hepatic functional reserve) and oncological conversion (based on the tumor status). Adoption of these definitions is expected to facilitate appropriate evaluation of pretreatments and outcomes of conversion therapy. Ultimately, these efforts are expected to contribute to refining clinical decision-making, providing a common framework for guideline development and future clinical studies, and improving the outcomes of multidisciplinary treatments for advanced HCC; however, further validation is required.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Ichida Akihiko",
+        "Tateishi Ryosuke",
+        "Hatano Etsuro",
+        "Taketomi Akinobu",
+        "Tanabe Minoru",
+        "Nouso Kazuhiro"
+      ],
+      "doi": "10.1159/000552928"
+    },
+    {
+      "pmid": "42524515",
+      "title": "Lenvatinib Added to Nivolumab and Ipilimumab Improves Tumor Control and Progression-Free Survival in Unresectable Hepatocellular Carcinoma.",
+      "journal": "Liver Cancer",
+      "abstract": "INTRODUCTION: In CheckMate-9DW, the suboptimal early tumor control of nivolumab-ipilimumab resulted in higher early mortality compared with the sorafenib/lenvatinib arm during the first 12 months. We evaluated whether adding lenvatinib to nivolumab-ipilimumab (NIL) improves outcomes versus nivolumab-ipilimumab (NI). METHODS: Patients with unresectable HCC treated with NI with or without lenvatinib were retrospectively analyzed. Responses were evaluated by RECIST v1.1, survival outcomes by Kaplan-Meier and inverse probability of treatment weighting (IPTW) adjustment, and multiple sensitivity analyses. Liver function changes were evaluated using the albumin-bilirubin (ALBI) score. RESULTS: Among 104 patients, 82 received NI and 22 received NIL. The NIL group demonstrated a higher disease control rate than the NI group (81.8% vs. 39.0%; p &lt; 0.01), with similar duration of response (21.4 vs. 21.8 months). Median progression-free survival (PFS) was longer with NIL (10.2 vs. 3.2 months), but not for overall survival (OS). In the first-line setting, NIL showed a trend toward longer PFS and fewer early deaths within 12 months. After IPTW adjustment and sensitivity analyses, the NIL regimen consistently demonstrated improved PFS (HR 0.44; p &lt; 0.01) without a statistically significant OS benefit. Hypertension, proteinuria and stomatitis were more frequent in the NIL group, while ALBI scores remained stable. Development of immune-related adverse events was associated with improved outcomes. CONCLUSION: This real-world study provides proof-of-concept evidence that incorporating a VEGF inhibitor into dual ICIs therapy is associated with improved tumor control and prolonged PFS, with a potential reduction in early mortality. Prospective studies are warranted to confirm these findings.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Lai Kuan-Chang",
+        "Liu Chien-An",
+        "Lei Hao-Jan",
+        "Chen San-Chi"
+      ],
+      "doi": "10.1159/000552861"
+    },
+    {
+      "pmid": "42524843",
+      "title": "Exploring the Role of Surgery After Systemic Therapy in Locally Advanced Biliary Tract Cancer: Outcomes From a Large Retrospective Multinational Real-World Cohort Treated With Cisplatin, Gemcitabine, and Durvalumab.",
+      "journal": "Int J Cancer",
+      "abstract": "Surgery after response to first-line chemoimmunotherapy may offer a potential curative option for patients with locally advanced biliary tract cancer (BTC) initially considered unresectable. However, robust real-world evidence in this setting remains limited. We retrospectively analyzed patients with locally advanced BTC treated with first-line cisplatin, gemcitabine, and durvalumab (CGD) across 55 centers in 12 countries. Endpoints included overall survival (OS), progression-free survival (PFS), disease-free survival (DFS) among resected patients, objective response rate (ORR), and the prognostic impact of surgery. A multivariable logistic regression model was developed to predict surgical conversion using baseline clinical and laboratory variables. Among 1358 screened patients, 219 had locally advanced disease and were included in the analysis. Median follow-up was 14.5&#x2009;months. ORR was 34.6%, with median PFS and OS of 10.0 and 20.7&#x2009;months, respectively. Twenty-four patients (10.9%) underwent surgical resection after systemic therapy. Median OS was 22.5&#x2009;months in resected patients versus 19.9&#x2009;months in those who did not undergo surgery. Median DFS after resection was 15.8&#x2009;months. Pathological lymph node involvement was independently associated with shorter DFS. Larger baseline tumor size correlated with higher odds of radiological response but not with OS. An exploratory elastic-net model retained four baseline variables and showed moderate discriminative ability for surgical conversion, with an apparent AUC of 0.72 and an optimism-corrected AUC of 0.65. First-line CGD enabled secondary resection in approximately 11% of patients with locally advanced BTC. A simple baseline model may support patient selection for conversion surgery, although prospective validation is needed.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Rimini Margherita",
+        "Lamarca Angela",
+        "Ikeda Masafumi",
+        "Abidoye Oluseyi",
+        "Lucchetti Jessica",
+        "Antonuzzo Lorenzo"
+      ],
+      "doi": "10.1002/ijc.70641"
+    },
+    {
+      "pmid": "42523603",
+      "title": "Metabolic comorbidities affect the survival of hepatitis B virus-related hepatocellular carcinoma in Chinese patients: a retrospective cohort study with propensity score matching.",
+      "journal": "Front Oncol",
+      "abstract": "OBJECTIVE: Recent literature has confirmed the roles of metabolic comorbidities as risk factors for the incidence of hepatocellular carcinoma (HCC). In China, most HCC cases are attributed to chronic hepatitis B virus (HBV). However, the relationships between metabolic comorbidities and the prognosis of Chinese patients with hepatitis B virus (HBV)-related HCC remain uncertain. METHODS: A total of 164 patients with HBV-related HCC from eight hospitals affiliated with Sun Yat-sen University were enrolled in this cohort study from 2011 to 2021. The patients were divided into the MC group (metabolic comorbidities: at least one metabolic comorbidity from among type 2 diabetes mellitus (T2DM), hypertension, and low high-density lipoprotein (HDL) levels) and the NMC group (without these factors). In this manuscript, \"MC\" refers to metabolic comorbidity, rather than metabolic syndrome. Propensity score matching (PSM) and multivariate Cox regression were used to analyse overall survival (OS). RESULTS: After PSM, 60 patients each in the MC and NMC groups were included in the study. Overall survival was significantly worse in the MC group than in the NMC group before and after PSM. T2DM was an independent risk factor for OS. T2DM, hypertension, and low HDL levels were independent risk factors for the presence of intrahepatic multifocal lesions at diagnosis. The presence of all three metabolic comorbidities was associated with significantly worse OS (p=0.043). CONCLUSION: Metabolic comorbidities were associated with poor prognosis and the progression of HBV-related HCC. The presence of three metabolic comorbidities (T2DM, hypertension, and low HDL levels) was associated with poor OS, suggesting that metabolic burden may negatively affect survival once a certain number of factors accumulate.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Zhou Zheng",
+        "Zheng Xiyan",
+        "Lin Zhiqun",
+        "Chen Xianqing",
+        "Xie Maoyun"
+      ],
+      "doi": "10.3389/fonc.2026.1863272"
+    },
+    {
+      "pmid": "42524025",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade.",
+      "journal": "Ther Adv Med Oncol",
+      "abstract": "BACKGROUND: Transarterial chemoembolization combined with tyrosine kinase inhibitors and immune checkpoint inhibitors (TTI) has emerged as a promising strategy for unresectable hepatocellular carcinoma (uHCC); however, its impact on liver function and the prognostic role of baseline albumin-bilirubin (ALBI) grade remain insufficiently defined. OBJECTIVES: To compare the effects of combined therapy and transarterial chemoembolization (TACE) alone on liver function in uHCC patients, and to evaluate the prognostic value of baseline ALBI grade. DESIGN: This retrospective study enrolled uHCC patients treated with TTI or TACE alone between January 2018 and December 2023. METHODS: The primary outcome was the time to progression of baseline ALBI grade, with secondary outcomes including overall survival (OS) and progression-free survival (PFS) of patients. Survival outcomes were analyzed using the Kaplan-Meier method. RESULTS: A total of 162 patients (TTI group: 68; TACE alone group: 94) were included. The TTI group showed a significantly longer median time to progression of baseline ALBI grade than the TACE alone group (19.0&#x2009;months vs 11.6&#x2009;months, p&#x2009;=&#x2009;0.004). Subgroup analyses revealed similar benefits of the TTI group (11.3&#x2009;months vs 5.0&#x2009;months for baseline ALBI grade 1, p&#x2009;=&#x2009;0.015; 20.0&#x2009;months vs 14.7&#x2009;months for baseline ALBI grade 2, p&#x2009;=&#x2009;0.025). Patients in the TTI group demonstrated superior median OS (42.2&#x2009;months vs 22.0&#x2009;months for baseline ALBI grade 1, p&#x2009;=&#x2009;0.077; 22.6&#x2009;months vs 13.5&#x2009;months for baseline ALBI grade 2, p&#x2009;=&#x2009;0.001) and longer median PFS (11.7&#x2009;months vs 6.8&#x2009;months for baseline ALBI grade 1, p&#x2009;=&#x2009;0.148; 8.4&#x2009;months vs 4.9&#x2009;months for baseline ALBI grade 2, p&#x2009;=&#x2009;0.022) compared to the TACE alone group. CONCLUSION: TTI therapy preserved liver function for a longer duration and achieved better survival outcomes than TACE alone in uHCC patients, particularly benefiting those with baseline ALBI grade 2.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Guo Yiwan",
+        "Liu Xiaocui",
+        "Sun Bo",
+        "Pu Fan",
+        "Li Xin",
+        "Zheng Chuansheng"
+      ],
+      "doi": "10.1177/17588359261470015"
+    },
+    {
+      "pmid": "42524514",
+      "title": "Preoperative Albumin-Bilirubin Score as a Predictor of Postoperative Complications After Liver Resection.",
+      "journal": "Cureus",
+      "abstract": "INTRODUCTION: Hepatic resection is an important curative procedure for both benign and malignant liver diseases, and the risks associated with liver resection, especially posthepatectomy liver failure (PHLF), are still a major concern. This is the reason why it is clear that the correct evaluation of hepatic functional reserve is imperative before surgery. The conventional scoring systems, like Model for End-stage Liver Disease (MELD) and Child-Turcotte-Pugh (CTP), are less effective in predicting postoperative morbidity. An objective, inexpensive method, the albumin-bilirubin (ALBI) score, involving serum albumin and bilirubin, can be helpful in a resource-limited setting. OBJECTIVE: The objective of this study was to determine the preoperative ALBI score for predicting postoperative complications of patients undergoing hepatic resection. MATERIALS AND METHODS: This is a prospective observational study carried out in the Department of Hepatobiliary, Pancreatic and Liver Transplant Surgery (HBLT) of Bangabandhu Sheikh Mujib Medical University (now Bangladesh Medical University (BMU)), Dhaka, from August 2023 till July 2024. The number of adult patients who underwent liver resection and met the inclusion criteria was 70, who were sampled purposively. All of the demographic, laboratory, clinical, and operative data were documented preoperatively. Presurgery scores for ALBI, CTP, and MELD were calculated. The postoperative complications were assessed within 30 days. Data were analyzed with Statistical Package for the Social Sciences (SPSS) version 23, and receiver operating characteristic curve (ROC) analysis was used to assess the predictive accuracy of ALBI. RESULTS: Out of 70 patients, 30 patients (42.9%) had postoperative complications. Patients with postoperative complications were significantly older than those without complications (50.67 &#xb1; 7.06 vs. 44.68 &#xb1; 10.26 years; P = 0.005). Biochemical parameters such as serum albumin were significantly decreased in the patients with complications. Liver failure after liver resection was significantly more common with an increase in the ALBI grade and did not occur in ALBI-1 (0.0%); there were 38.5% in ALBI-2 and 100% in ALBI-3. The ALBI score was significantly different between complication and non-complication groups, while the MELD score did not differ significantly between groups, whereas the CTP class showed a statistically significant difference. ALBI score showed weak-to-moderate predictive ability with area under the curve (AUC) 0.659, sensitivity 70.0%, and specificity 62.5% at a cut-off of -2.67&#xa0;and in binary logistic regression analysis, age and ALBI score were independently associated with postoperative complications. CONCLUSION: Preoperative ALBI score was significantly associated with postoperative complications and showed weak-to-moderate discriminatory ability. ALBI as having weak-to-moderate discriminatory ability and as a possible adjunctive marker, not a strong predictive test or replacement for clinical judgment and established scoring systems, but larger multicenter studies are needed to validate its cut-off and clinical usefulness.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Debnath Anupam",
+        "Das Bidhan C",
+        "Arefin Murshidul",
+        "Kawsar Bhuiyan Md",
+        "Mahmud Rayhan Golam",
+        "Alam Mohim Nur"
+      ],
+      "doi": "10.7759/cureus.111661"
+    },
+    {
+      "pmid": "42525407",
+      "title": "Artificial Intelligence-Driven Video-Based Surgical Skill Assessment in Hepatobiliary Laparoscopic Surgery.",
+      "journal": "JAMA Surg",
+      "abstract": "This quality improvement study evaluates the use of a video-based artificial intelligence framework that uses multi-instrument tracking and clinically informed spatiotemporal kinematic features to provide objective, granular assessment of laparoscopic cholecystectomy skill.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Zeng Xiaojun",
+        "Li Yuchong",
+        "Wang Junfeng",
+        "Yang Longshan",
+        "Li Xinci",
+        "Wu Pengbo"
+      ],
+      "doi": "10.1001/jamasurg.2026.3007"
+    },
+    {
+      "pmid": "42523995",
+      "title": "Combination therapy with anti-PD-1 antibody, radiotherapy, and tyrosine kinase inhibitor for unresectable primary ectopic hepatocellular carcinoma: a case report with genomic profiling and literature review.",
+      "journal": "Front Immunol",
+      "abstract": "BACKGROUND: Ectopic hepatocellular carcinoma (EHCC) is an exceedingly rare malignancy characterized by its occurrence outside the liver without a detectable intrahepatic primary tumor. Owing to its rarity and the absence of standardized management guidelines, the diagnosis and treatment of EHCC pose significant challenges. METHODS: We report a case of unresectable, multifocal EHCC managed by a multidisciplinary team (MDT). Comprehensive molecular profiling, including whole-exome sequencing (WES) and RNA sequencing (RNA-seq), was performed to characterize the tumor's genetic and transcriptomic landscape. A systematic literature review of EHCC case reports in the PubMed database was also conducted. RESULTS: A patient in his sixties was diagnosed with unresectable, multifocal EHCC localized within the abdominal cavity. The diagnosis was confirmed by laparoscopic biopsy and histopathological examination, which revealed hepatocellular carcinoma with fatty metaplasia, corroborated by positive immunohistochemical staining. Comprehensive genomic analysis using RNA-seq and WES identified key molecular features potentially involved in EHCC pathogenesis. Guided by the MDT, the patient received a multimodal regimen comprising lenvatinib (8 mg once daily), camrelizumab (200 mg every two weeks; an anti-PD-1 antibody), and stereotactic body radiotherapy (SBRT) targeting residual abdominal lesions. The patient achieved a progression-free survival (PFS) of 27 months and an overall survival (OS) of 30 months. A systematic review of 55 reported EHCC cases provided a comprehensive overview of the disease's demographic, clinical, management, and prognostic characteristics. CONCLUSION: This study provides the molecular profiling of an EHCC case, offering descriptive insights into its genomic and transcriptomic landscape. Furthermore, the favorable clinical outcome associated with the combination therapy of lenvatinib, camrelizumab, and SBRT suggests the potential value of this multimodal strategy, indicating a potential therapeutic approach for future cases.",
+      "pubtypes": [
+        "<PublicationType UI=\"D002363\">Case Reports",
+        "Journal Article"
+      ],
+      "authors": [
+        "Tang Peng",
+        "Liu Weixing",
+        "Xu Yating",
+        "Long You",
+        "Li Yixiao",
+        "Li Jiaxin"
+      ],
+      "doi": "10.3389/fimmu.2026.1746990"
+    },
+    {
+      "pmid": "42524073",
+      "title": "Clinical Utility and Safety of a Novel Ultraslim Catheter-Type Peroral Cholangioscope/Pancreatoscope: A Single-Center Case Series.",
+      "journal": "DEN Open",
+      "abstract": "Peroral cholangioscopy (POCS) and peroral pancreatoscopy (POPS) enable direct intraductal visualization for pancreatobiliary disease diagnosis and management. Nonetheless, conventional devices have relatively large diameters, limiting their use in narrow ducts. This single-center, retrospective, observational study aimed to evaluate the feasibility and safety of a novel ultraslim catheter-type POCS/POPS (UCPOCS/UCPOPS) (distal outer diameter: 2.3&#xa0;mm) in 12 patients who underwent UCPOCS or UCPOPS from November 2022 to August 2024. UCPOCS was performed in eight patients with bile duct stones (n = 3), biliary strictures (n = 2), intrahepatic cholangiocarcinoma (n = 1), post-hepatectomy biliary bleeding (n = 1), and acute cholecystitis requiring endoscopic naso-gallbladder drainage (n = 1). UCPOPS was performed in four patients for postoperative pancreatic duct evaluation (n = 2) and intraductal papillary mucinous neoplasm assessment (n = 2). Technical success, defined as successful scope insertion into the target duct, was achieved in all cases. Clinical success was achieved in 11/12 cases (91.7%), including diagnostic clinical success in 10/11 diagnostic cases (90.9%) and procedural utility success in 1/1 procedural utility case (100%). The smallest successfully visualized duct measured 1.8&#xa0;mm in diameter based on fluoroscopic estimation at the intended insertion site. One patient developed mild post-endoscopic retrograde cholangiopancreatography pancreatitis, which resolved with conservative management; no other adverse events were observed. The median total procedure time and scope insertion time were 42 and 7&#xa0;min, respectively. These findings indicate that the UCPOCS or UCPOPS is a feasible and safe intraductal visualization tool for pancreatobiliary diseases, particularly in patients with narrow ducts or challenging anatomy. Trial Registration: N/A.",
+      "pubtypes": [
+        "<PublicationType UI=\"D016428\">Journal Article"
+      ],
+      "authors": [
+        "Kojima Hiroyuki",
+        "Mukai Shuntaro",
+        "Sofuni Atsushi",
+        "Tsuchiya Takayoshi",
+        "Tanaka Reina",
+        "Tonozuka Ryosuke"
+      ],
+      "doi": "10.1002/deo2.70388"
+    }
+  ]
+}
