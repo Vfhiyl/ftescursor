@@ -1,0 +1,510 @@
+{
+  "count": 35,
+  "abstracts": [
+    {
+      "pmid": "42524843",
+      "title": "Exploring the Role of Surgery After Systemic Therapy in Locally Advanced Biliary Tract Cancer: Outcomes From a Large Retrospective Multinational Real-World Cohort Treated With Cisplatin, Gemcitabine, and Durvalumab.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Surgery after response to first-line chemoimmunotherapy may offer a potential curative option for patients with locally advanced biliary tract cancer (BTC) initially considered unresectable. However, robust real-world evidence in this setting remains limited. We retrospectively analyzed patients with locally advanced BTC treated with first-line cisplatin, gemcitabine, and durvalumab (CGD) across 55 centers in 12 countries. Endpoints included overall survival (OS), progression-free survival (PFS), disease-free survival (DFS) among resected patients, objective response rate (ORR), and the prognostic impact of surgery. A multivariable logistic regression model was developed to predict surgical conversion using baseline clinical and laboratory variables. Among 1358 screened patients, 219 had locally advanced disease and were included in the analysis. Median follow-up was 14.5 months. ORR was 34.6%, with median PFS and OS of 10.0 and 20.7 months, respectively. Twenty-four patients (10.9%) underwent surgical resection after systemic therapy. Median OS was 22.5 months in resected patients versus 19.9 months in those who did not undergo surgery. Median DFS after resection was 15.8 months. Pathological lymph node involvement was independently associated with shorter DFS. Larger baseline tumor size correlated with higher odds of radiological response but not with OS. An exploratory elastic-net model retained four baseline variables and showed moderate discriminative ability for surgical conversion, with an apparent AUC of 0.72 and an optimism-corrected AUC of 0.65. First-line CGD enabled secondary resection in approximately 11% of patients with locally advanced BTC. A simple baseline model may support patient selection for conversion surgery, although prospective validation is needed."
+        }
+      ]
+    },
+    {
+      "pmid": "42524736",
+      "title": "Screening for Fibrosis in Metabolic Dysfunction-Associated Steatotic Liver Disease: Evidence, Challenges, and the Role of Imaging-From the AJR Special Series on Screening.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects 40% of the world's population. Despite an association with increased cardiovascular morbidity, MASLD usually does not lead to liver-related adverse outcomes until fibrosis develops. MASLD with clinically significant fibrosis (histologic fibrosis stage ≤2) is associated with poorer prognosis and helps guide management, including specialty care referral. Among adults with MASLD, those with noncirrhotic clinically significant fibrosis (stage 2 or 3) may be eligible for pharmacotherapy to prevent progression to cirrhosis; those with advanced fibrosis (stage ≤3) usually require intensive monitoring; and those with cirrhosis (stage 4) may require additional supportive therapy and surveillance for gastroesophageal varices or primary liver cancer. Professional societies now recommend selective screening of high-risk patients to detect MASLD with clinically significant or advanced fibrosis. While guideline details vary, the screening population generally includes those with diabetes, other cardiometabolic factors, or incidentally detected steatosis. Screening begins with blood-based tests; second-line assessment, possibly including noninvasive imaging, seeks to verify MASLD with clinically significant or advanced fibrosis, stratify risk, and inform management. This Special Series Review describes current and best practices for screening adults to detect and stratify MASLD, focusing on imaging's critical and evolving role in addressing this public health challenge."
+        }
+      ]
+    },
+    {
+      "pmid": "42524660",
+      "title": "Definition of Conversion Therapy and Neoadjuvant Therapy for Hepatocellular Carcinoma: A Consensus Guideline from the Japan Liver Cancer Association.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "With the advent of novel systemic therapies that provide high response rates, such as lenvatinib, atezolizumab-bevacizumab, durvalumab-tremelimumab, and nivolumab-ipilimumab, treatment strategies for patients with advanced hepatocellular carcinoma (HCC) have markedly evolved, and discussions on conversion therapy - which, broadly speaking, combines these systemic therapies with locoregional modalities - have become commonplace. However, the term \"conversion therapy\" has not yet been clearly defined, making it difficult to compare treatment outcomes among studies. To address this issue, the Japan Liver Cancer Association established a consensus-based \"Working Group on the Definition of Conversion\" as an official project of the association. The working group comprised experts in hepatobiliary surgery, hepatology, and radiology, with a rapporteur responsible for drafting and revising the definitions. The group proposed standardized definitions for \"conversion surgery,\" \"neoadjuvant therapy,\" and \"ablation as conversion therapy,\" while recommending that transcatheter arterial chemoembolization should not be classified as conversion therapy due to its limited curative potential. The definitions also introduced two key concepts: functional conversion (based on the hepatic functional reserve) and oncological conversion (based on the tumor status). Adoption of these definitions is expected to facilitate appropriate evaluation of pretreatments and outcomes of conversion therapy. Ultimately, these efforts are expected to contribute to refining clinical decision-making, providing a common framework for guideline development and future clinical studies, and improving the outcomes of multidisciplinary treatments for advanced HCC; however, further validation is required."
+        }
+      ]
+    },
+    {
+      "pmid": "42524515",
+      "title": "Lenvatinib Added to Nivolumab and Ipilimumab Improves Tumor Control and Progression-Free Survival in Unresectable Hepatocellular Carcinoma.",
+      "abstract": [
+        {
+          "label": "INTRODUCTION",
+          "text": "In CheckMate-9DW, the suboptimal early tumor control of nivolumab-ipilimumab resulted in higher early mortality compared with the sorafenib/lenvatinib arm during the first 12 months. We evaluated whether adding lenvatinib to nivolumab-ipilimumab (NIL) improves outcomes versus nivolumab-ipilimumab (NI)."
+        },
+        {
+          "label": "METHODS",
+          "text": "Patients with unresectable HCC treated with NI with or without lenvatinib were retrospectively analyzed. Responses were evaluated by RECIST v1.1, survival outcomes by Kaplan-Meier and inverse probability of treatment weighting (IPTW) adjustment, and multiple sensitivity analyses. Liver function changes were evaluated using the albumin-bilirubin (ALBI) score."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Among 104 patients, 82 received NI and 22 received NIL. The NIL group demonstrated a higher disease control rate than the NI group (81.8% vs. 39.0%; p < 0.01), with similar duration of response (21.4 vs. 21.8 months). Median progression-free survival (PFS) was longer with NIL (10.2 vs. 3.2 months), but not for overall survival (OS). In the first-line setting, NIL showed a trend toward longer PFS and fewer early deaths within 12 months. After IPTW adjustment and sensitivity analyses, the NIL regimen consistently demonstrated improved PFS (HR 0.44; p < 0.01) without a statistically significant OS benefit. Hypertension, proteinuria and stomatitis were more frequent in the NIL group, while ALBI scores remained stable. Development of immune-related adverse events was associated with improved outcomes."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "This real-world study provides proof-of-concept evidence that incorporating a VEGF inhibitor into dual ICIs therapy is associated with improved tumor control and prolonged PFS, with a potential reduction in early mortality. Prospective studies are warranted to confirm these findings."
+        }
+      ]
+    },
+    {
+      "pmid": "42524514",
+      "title": "Preoperative Albumin-Bilirubin Score as a Predictor of Postoperative Complications After Liver Resection.",
+      "abstract": [
+        {
+          "label": "INTRODUCTION",
+          "text": "Hepatic resection is an important curative procedure for both benign and malignant liver diseases, and the risks associated with liver resection, especially posthepatectomy liver failure (PHLF), are still a major concern. This is the reason why it is clear that the correct evaluation of hepatic functional reserve is imperative before surgery. The conventional scoring systems, like Model for End-stage Liver Disease (MELD) and Child-Turcotte-Pugh (CTP), are less effective in predicting postoperative morbidity. An objective, inexpensive method, the albumin-bilirubin (ALBI) score, involving serum albumin and bilirubin, can be helpful in a resource-limited setting."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "The objective of this study was to determine the preoperative ALBI score for predicting postoperative complications of patients undergoing hepatic resection."
+        },
+        {
+          "label": "MATERIALS AND METHODS",
+          "text": "This is a prospective observational study carried out in the Department of Hepatobiliary, Pancreatic and Liver Transplant Surgery (HBLT) of Bangabandhu Sheikh Mujib Medical University (now Bangladesh Medical University (BMU)), Dhaka, from August 2023 till July 2024. The number of adult patients who underwent liver resection and met the inclusion criteria was 70, who were sampled purposively. All of the demographic, laboratory, clinical, and operative data were documented preoperatively. Presurgery scores for ALBI, CTP, and MELD were calculated. The postoperative complications were assessed within 30 days. Data were analyzed with Statistical Package for the Social Sciences (SPSS) version 23, and receiver operating characteristic curve (ROC) analysis was used to assess the predictive accuracy of ALBI."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Out of 70 patients, 30 patients (42.9%) had postoperative complications. Patients with postoperative complications were significantly older than those without complications (50.67 ± 7.06 vs. 44.68 ± 10.26 years; P = 0.005). Biochemical parameters such as serum albumin were significantly decreased in the patients with complications. Liver failure after liver resection was significantly more common with an increase in the ALBI grade and did not occur in ALBI-1 (0.0%); there were 38.5% in ALBI-2 and 100% in ALBI-3. The ALBI score was significantly different between complication and non-complication groups, while the MELD score did not differ significantly between groups, whereas the CTP class showed a statistically significant difference. ALBI score showed weak-to-moderate predictive ability with area under the curve (AUC) 0.659, sensitivity 70.0%, and specificity 62.5% at a cut-off of -2.67 and in binary logistic regression analysis, age and ALBI score were independently associated with postoperative complications."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Preoperative ALBI score was significantly associated with postoperative complications and showed weak-to-moderate discriminatory ability. ALBI as having weak-to-moderate discriminatory ability and as a possible adjunctive marker, not a strong predictive test or replacement for clinical judgment and established scoring systems, but larger multicenter studies are needed to validate its cut-off and clinical usefulness."
+        }
+      ]
+    },
+    {
+      "pmid": "42524084",
+      "title": "Ferroptosis regulatory networks as therapeutic sensitizers in combination therapy for hepatocellular carcinoma (Review).",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Hepatocellular carcinoma (HCC) is a leading cause of cancer-related mortality worldwide, and multidrug resistance remains a major barrier to effective treatment. Ferroptosis, an iron-dependent form of programmed cell death driven by lipid peroxide accumulation, has emerged as a potential therapeutic strategy for HCC because it may bypass apoptosis-related resistance mechanisms. The present narrative review summarizes current evidence on ferroptosis-mediated sensitization mechanisms in combination therapy for HCC, focusing on core regulatory networks, including glutathione peroxidase 4, System Xc- and iron metabolism pathways, and their interactions with key signaling pathways, such as activating transcription factor 4/signal transducer and activator of transcription 3, p53 and Wnt/β-catenin. The current review also discusses the synergistic effects and molecular mechanisms of ferroptosis inducers combined with targeted therapy, chemotherapy and immunotherapy. Furthermore, the potential value of ferroptosis-related biomarkers for predicting treatment response and prognosis is evaluated, and unresolved mechanistic questions and barriers to clinical translation are highlighted. Finally, the present review outlines future research directions, including the development of targeted nanodelivery systems and biomarker-based clinical trials, to support more precise ferroptosis-based combination strategies for HCC."
+        }
+      ]
+    },
+    {
+      "pmid": "42524025",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Transarterial chemoembolization combined with tyrosine kinase inhibitors and immune checkpoint inhibitors (TTI) has emerged as a promising strategy for unresectable hepatocellular carcinoma (uHCC); however, its impact on liver function and the prognostic role of baseline albumin-bilirubin (ALBI) grade remain insufficiently defined."
+        },
+        {
+          "label": "OBJECTIVES",
+          "text": "To compare the effects of combined therapy and transarterial chemoembolization (TACE) alone on liver function in uHCC patients, and to evaluate the prognostic value of baseline ALBI grade."
+        },
+        {
+          "label": "DESIGN",
+          "text": "This retrospective study enrolled uHCC patients treated with TTI or TACE alone between January 2018 and December 2023."
+        },
+        {
+          "label": "METHODS",
+          "text": "The primary outcome was the time to progression of baseline ALBI grade, with secondary outcomes including overall survival (OS) and progression-free survival (PFS) of patients. Survival outcomes were analyzed using the Kaplan-Meier method."
+        },
+        {
+          "label": "RESULTS",
+          "text": "A total of 162 patients (TTI group: 68; TACE alone group: 94) were included. The TTI group showed a significantly longer median time to progression of baseline ALBI grade than the TACE alone group (19.0 months vs 11.6 months, p = 0.004). Subgroup analyses revealed similar benefits of the TTI group (11.3 months vs 5.0 months for baseline ALBI grade 1, p = 0.015; 20.0 months vs 14.7 months for baseline ALBI grade 2, p = 0.025). Patients in the TTI group demonstrated superior median OS (42.2 months vs 22.0 months for baseline ALBI grade 1, p = 0.077; 22.6 months vs 13.5 months for baseline ALBI grade 2, p = 0.001) and longer median PFS (11.7 months vs 6.8 months for baseline ALBI grade 1, p = 0.148; 8.4 months vs 4.9 months for baseline ALBI grade 2, p = 0.022) compared to the TACE alone group."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "TTI therapy preserved liver function for a longer duration and achieved better survival outcomes than TACE alone in uHCC patients, particularly benefiting those with baseline ALBI grade 2."
+        }
+      ]
+    },
+    {
+      "pmid": "42523603",
+      "title": "Metabolic comorbidities affect the survival of hepatitis B virus-related hepatocellular carcinoma in Chinese patients: a retrospective cohort study with propensity score matching.",
+      "abstract": [
+        {
+          "label": "OBJECTIVE",
+          "text": "Recent literature has confirmed the roles of metabolic comorbidities as risk factors for the incidence of hepatocellular carcinoma (HCC). In China, most HCC cases are attributed to chronic hepatitis B virus (HBV). However, the relationships between metabolic comorbidities and the prognosis of Chinese patients with hepatitis B virus (HBV)-related HCC remain uncertain."
+        },
+        {
+          "label": "METHODS",
+          "text": "A total of 164 patients with HBV-related HCC from eight hospitals affiliated with Sun Yat-sen University were enrolled in this cohort study from 2011 to 2021. The patients were divided into the MC group (metabolic comorbidities: at least one metabolic comorbidity from among type 2 diabetes mellitus (T2DM), hypertension, and low high-density lipoprotein (HDL) levels) and the NMC group (without these factors). In this manuscript, \"MC\" refers to metabolic comorbidity, rather than metabolic syndrome. Propensity score matching (PSM) and multivariate Cox regression were used to analyse overall survival (OS)."
+        },
+        {
+          "label": "RESULTS",
+          "text": "After PSM, 60 patients each in the MC and NMC groups were included in the study. Overall survival was significantly worse in the MC group than in the NMC group before and after PSM. T2DM was an independent risk factor for OS. T2DM, hypertension, and low HDL levels were independent risk factors for the presence of intrahepatic multifocal lesions at diagnosis. The presence of all three metabolic comorbidities was associated with significantly worse OS (p=0.043)."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Metabolic comorbidities were associated with poor prognosis and the progression of HBV-related HCC. The presence of three metabolic comorbidities (T2DM, hypertension, and low HDL levels) was associated with poor OS, suggesting that metabolic burden may negatively affect survival once a certain number of factors accumulate."
+        }
+      ]
+    },
+    {
+      "pmid": "42522599",
+      "title": "Autophagy in MASLD: A Metabolic and Precision Medicine Perspective.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most common chronic liver condition worldwide and a major contributor to cirrhosis and hepatocellular carcinoma (HCC). While metabolic triggers such as obesity and insulin resistance are key drivers of MASLD, growing evidence has identified defects in intracellular quality control-namely impaired autophagy-as central mechanisms governing disease progression. Autophagy, including selective lipophagy and mitophagy, plays a crucial role in hepatic lipid turnover and mitochondrial homeostasis. In MASLD, disruption of these processes contributes to lipid accumulation and oxidative stress, leading to hepatocellular damage (ballooning), fibrogenesis, and HCC. Experimental studies linked impaired autophagic flux to liver injury, and emerging evidence from human genetics suggests that inter-individual inherited variation influences MASLD susceptibility by impairing autophagy. Specifically, main genetic MASLD modifiers such as the p.I148M variant of Patatin-like phospholipase domain-containing protein 3 (PNPLA3) and loss-of-function and hypomorphic variants in autophagy-related gene 7 (ATG7), a core autophagy gene, predispose to ballooning, fibrosis, and HCC. By outlining emerging therapies that restore autophagic flux and reduce steatosis, lipotoxicity, and fibrosis, we propose an integrated precision-medicine model based on genetics and autophagy dynamics biomarkers, offering a new framework for personalized therapeutics."
+        }
+      ]
+    },
+    {
+      "pmid": "42522589",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "abstract": []
+    },
+    {
+      "pmid": "42522214",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy.",
+      "abstract": [
+        {
+          "label": "OBJECTIVE",
+          "text": "To investigate the psychological status of patients with hepatocellular carcinoma (HCC) undergoing hepatectomy, analyze risk factors for anxiety and depression, and provide a theoretical basis for individualized mental intervention strategies."
+        },
+        {
+          "label": "METHODS",
+          "text": "A total of 412 HCC patients who underwent hepatectomy at Fuyang People's Hospital from January 2022 to January 2026 were enrolled. The Hospital Anxiety and Depression Scale (HADS) and FRAIL scale were used to assess psychological status and frailty, respectively. Univariate ANOVA and linear regression were performed to analyze relationships between anxiety, depression, and perioperative factors."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Of 456 distributed questionnaires, 412 were valid (response rate: 90.35%). Mean HADS-A (anxiety) score was 8.34 ± 2.79: 130 asymptomatic, 192 doubtful, and 90 definite cases. Mean HADS-D (depression) score was 8.68 ± 2.75: 187 asymptomatic, 96 doubtful, and 129 definite cases. Univariate analysis showed associations between anxiety/depression and family income, open surgery, FRAIL score, and complications. Multivariate analysis identified open surgery, FRAIL score, and complications as independent risk factors (p < 0.05)."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Patients with HCC undergoing hepatectomy exhibited significant anxiety and depression symptoms. FRAIL score, open surgery, and complication severity were risk factors, warranting attention to postoperative negative emotions and timely intervention."
+        }
+      ]
+    },
+    {
+      "pmid": "42515859",
+      "title": "INtraVESical immunoTherapy (INVEST) prior to radical cystectomy for bladder cancer: trial protocol.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "High-risk non-muscle-invasive bladder cancer (HRNMIBC) has a variable prognosis, managed predominantly by local surgical resection and intravesical Bacillus Calmette-Guérin (BCG), or radical cystectomy (RC). Current treatments are poorly tolerated, have supply limitations and often fail to control the disease. Treatments overcoming these limitations are needed to improve HRNMIBC outcomes. Many novel agents have been approved in recent years (including systemic pembrolizumab, nogapendekin alfa inbakicept-pmln, N-803), but long-term efficacy is unknown. Given advanced bladder cancer findings, we believe direct intravesical administration of atezolizumab may aid with managing HRNMIBC or muscle-invasive bladder cancer in patients who are ineligible for cisplatin-based neoadjuvant chemotherapy."
+        },
+        {
+          "label": "STUDY DESIGN",
+          "text": "The INtraVESical immunoTherapy (INVEST) trial is a UK-based, open-label, non-randomised, single-centre, Phase Ib dose escalation, window of opportunity study exploring atezolizumab administration via intravesical routes (passive instillation and direct injection [sub-urothelial]) in patients with bladder cancer with all stages undergoing RC. For both routes, an initial dose confirmation stage will determine toxicity and recommended atezolizumab dosage, followed by a dose expansion stage to further evaluate safety and toxicity at the recommended dose."
+        },
+        {
+          "label": "ENDPOINTS",
+          "text": "We aim to investigate safety (primary) and preliminary activity (secondary) of intravesical atezolizumab delivered by passive instillation and direct injection into the tumour/bladder wall in patients with bladder urothelial cell carcinoma prior to RC. Primary endpoints include dose limiting toxicities and adverse events. Secondary endpoints include progression-free survival, pathological complete response rate and treatment compliance. Exploratory endpoints include pharmacokinetic profile (assessed by serum and urine concentrations at prespecified timepoints), spatial analysis of atezolizumab distribution within RC tissue by imaging mass spectrometry and overall survival."
+        },
+        {
+          "label": "PATIENTS AND METHODS",
+          "text": "Atezolizumab will be administered intravesically by either passive instillation or direct injection into the tumour/bladder wall. Cohorts will receive either 600 mg or 1200 mg doses administered as a single dose or as multiple doses (weekly for 3-6 weeks)."
+        },
+        {
+          "label": "TRIAL REGISTRATION",
+          "text": "International Standard Randomised Controlled Trial Number: ISRCTN15842444, registered 2 December 2022."
+        }
+      ]
+    },
+    {
+      "pmid": "42515615",
+      "title": "Are Direct-Acting Antivirals Effective and Safe for Hepatitis C Patients with Arterial Hypertension? Evidence from a Large Retrospective Real-World Study.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Background/Objectives: Arterial hypertension (AH) and hepatitis C virus (HCV) infection are interlinked, with AH increasing the risk of severe liver disease and HCV contributing to cardiovascular issues. Treating HCV in hypertensive patients is critical, though data on direct-acting antivirals (DAAs) in this group remain limited. Methods: This retrospective study evaluated the effects of DAAs in AH patients with HCV using data from the 2015-2023 EpiTer-2 project, a multicenter study in Poland. Results: Among the 18,968 HCV-infected DAA-treated patients, 5976 had AH. These patients were older, predominantly women, and had higher rates of obesity, comorbidities, cirrhosis, hepatocellular carcinoma, and genotype 1b infection. Sustained virologic response rates were high and comparable between the AH and non-AH groups in the intent-to-treat (94.8% vs. 94.2%) and per-protocol analyses (97.6% vs. 97.6%). AH was not independently associated with treatment failure (OR 0.87, 95% CI: 0.69-1.10). Predictors of failure included genotype 3, decompensated liver function, cirrhosis, thrombocytopenia, and treatment with asunaprevir + daclatasvir. While therapy discontinuation was more common in the AH patients, most completed treatment, with fatigue being the most frequent adverse event. Although not directly evaluated, the overall safety outcomes suggest that potential drug-drug interactions with antihypertensive therapies are unlikely to have a major clinical impact in routine practice. Conclusions: This study highlights the safety and efficacy of DAAs in AH patients and emphasizes the importance of early HCV detection and treatment in this population."
+        }
+      ]
+    },
+    {
+      "pmid": "42515083",
+      "title": "Long-Term Outcomes After Hepatectomy for Alveolar Echinococcosis in Immunosuppressed Patients.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Long-term outcomes after hepatectomy for alveolar echinococcosis (AE) in immunosuppressed patients remain poorly investigated. This study evaluated recurrence rates and recurrence-free/overall survivals (RFS/OS) after AE resection in immunocompromised and immunocompetent patients. Consecutive patients operated for liver AE in two university hospitals were retrospectively collected (2000-2021). Immunosuppressed patients were defined as patients who had a reduced ability to fight infection due to certain diseases or treatments. 195 patients had hepatectomy for liver AE. Preoperative albendazole was given in 111 cases (57%). Fifty-two patients (27%) were considered immunosuppressed. Patients in the immunosuppressed and immunocompetent cohorts had similar preoperative characteristics. Recurrences occurred in 10 patients (immunosuppressed group: 4, non-immunosuppressed group: 6) within a median follow-up of 58 months (95%CI 48-68). No significant differences in RFS and OS were found between the immunosuppressed and immunocompetent groups (212 vs. 206 months, p = 0.625 and 236 vs. 210 months, p = 0.282). Two-year recurrence rates were 0% in the immunosuppressed cohort and 1% (1/142) in the immunocompetent patients (p = 0.466). Absence of preoperative albendazole and lesion size were predictive of recurrence after hepatectomy. Immunosuppression was not found to be a risk factor for recurrence (HR 1.4, p = 0.626). In this bicentric study, immunocompromised patients did not have significantly different recurrence rates, RFS, and OS than immunocompetent patients."
+        }
+      ]
+    },
+    {
+      "pmid": "42514243",
+      "title": "Clinical Prognostic Factors and Survival Risk Stratification for Advanced Biliary Tract Cancer Treated with Gemcitabine-Based Palliative Chemotherapy: A Real-World Retrospective Study.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Although gemcitabine-based palliative chemotherapy remains widely used for advanced biliary tract cancer (BTC), practical pretreatment prognostic factors are needed. This study identified baseline prognostic factors associated with overall survival (OS) and explored a simple risk stratification approach for 12-month survival in advanced BTC patients treated with gemcitabine-based chemotherapy."
+        },
+        {
+          "label": "METHODS",
+          "text": "This retrospective cohort study included advanced BTC patients treated with gemcitabine-based palliative chemotherapy between 2011 and 2025. Baseline clinical and laboratory variables were collected at treatment initiation. The Kaplan-Meier method estimated OS. Univariable and multivariable Cox proportional hazards regression analyses identified prognostic factors. A post hoc exploratory risk score was developed using routinely available factors independently associated with OS."
+        },
+        {
+          "label": "RESULTS",
+          "text": "A total of 154 patients were included, gemcitabine plus cisplatin was administered to 95 patients, whereas 59 received gemcitabine plus carboplatin. Median OS was 9.43 months. Multivariable analysis showed that ECOG performance status ≥ 2 (adjusted HR, 5.68; 95% CI, 2.52-12.81), alkaline phosphatase (ALP) ≥ 2 × ULN (adjusted HR, 1.53; 95% CI, 1.01-2.33), and neutrophil-to-lymphocyte ratio (NLR) ≥ 3 (adjusted HR, 1.51; 95% CI, 1.03-2.20) were associated with worse OS. An exploratory score assigning one point to each factor stratified patients into low-, intermediate-, and high-risk groups. The estimated 12-month OS rates were 59.6%, 40.4%, and 10.8%, respectively."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "Poor performance status, elevated ALP, and elevated NLR were associated with worse OS in advanced BTC patients receiving gemcitabine-based palliative chemotherapy. However, the associations for ALP and NLR were modest and should be interpreted cautiously. A simple exploratory score based on routinely available factors demonstrated distinct 12-month survival across risk groups and may help inform prognostic discussions in routine practice. This approach should be considered hypothesis-generating, and external validation is warranted."
+        }
+      ]
+    },
+    {
+      "pmid": "42514220",
+      "title": "Choosing the Platinum Partner in Advanced Biliary Tract Cancer: A Propensity Score-Matched Real-World Comparison of Gemcitabine Plus Carboplatin Versus Gemcitabine Plus Cisplatin.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Gemcitabine plus cisplatin (GemCis) has been served as an important first-line chemotherapy backbone for unresectable locally advanced or metastatic biliary tract cancer (BTC). However, cisplatin is unsuitable for all patients. Gemcitabine plus carboplatin (GemCarbo) is frequently used as an alternative, but direct comparative data remain limited. We retrospectively review patients with unresectable locally advanced or metastatic BTC who received first-line GemCis or GemCarbo at Songklanagarind Hospital between 2011 and 2025. The primary endpoint was overall survival (OS). Secondary endpoints included progression-free survival (PFS), objective response rate (ORR), disease control rate (DCR), and selected laboratory-based safety outcomes. Propensity score matching was applied to reduce baseline treatment selection bias. Among 154 eligible patients, 95 received GemCis and 59 received GemCarbo. In the overall cohort, median OS was 8.44 months with GemCarbo and 9.82 months with GemCis (HR, 1.18; 95% CI, 0.82-1.70; p = 0.382). After propensity score matching, median OS was 8.44 months with GemCarbo and 11.63 months with GemCis (HR, 1.26; 95% CI, 0.84-1.90; p = 0.271). Median PFS was 4.27 and 5.75 months (HR, 0.91; 95% CI, 0.62-1.33; p = 0.617). ORR and DCR were comparable among evaluable patients. Increased serum creatinine was more frequent with GemCis, whereas hematologic toxicities were comparable. GemCarbo showed no statistically significant difference in OS or PFS compared with GemCis, suggesting that it may be considered as an alternative when cisplatin is unsuitable. However, prospective validation is warranted."
+        }
+      ]
+    },
+    {
+      "pmid": "42514188",
+      "title": "Effects of ATP and Taxifolin on Atezolizumab-Induced Renal Injury: A Biochemical, Histopathological, and Immunofluorescence Evaluation.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Immune checkpoint inhibitors (ICIs), particularly programmed death-ligand 1 (PD-L1) inhibitors such as atezolizumab, have significantly improved outcomes in cancer therapy. However, these agents may cause immune-related adverse effects, including nephrotoxicity associated with oxidative stress and cellular stress responses. This study aimed to investigate and comparatively evaluate the protective effects of adenosine triphosphate (ATP) and taxifolin against atezolizumab-induced renal tissue injury in rats."
+        },
+        {
+          "label": "METHODS",
+          "text": "Animals were divided into four groups: healthy (HG), atezolizumab (ATZ), ATP + atezolizumab (ATAZ), and taxifolin + atezolizumab (TXAZ). ATP (4 mg/kg, i.p.) and taxifolin (50 mg/kg, oral) were administered for six days, while atezolizumab (10 mg/kg, i.p.) was given on days 1 and 4. On day 7, renal tissues were collected for biochemical, histopathological, and double immunofluorescence analyses."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Atezolizumab significantly increased malondialdehyde (MDA) levels and decreased total glutathione (tGSH), superoxide dismutase (SOD), and catalase (CAT) levels, indicating enhanced oxidative stress and impaired antioxidant defense. These changes were accompanied by tubular degeneration and increased expression of apoptotic markers. Both ATP and taxifolin significantly ameliorated these alterations; however, ATP demonstrated a more pronounced protective effect."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In conclusion, ATP and taxifolin attenuated the biochemical, histopathological, and immunofluorescence alterations associated with atezolizumab administration. ATP exhibited a more pronounced protective effect than taxifolin under the conditions of this experimental model. Nevertheless, further experimental studies are required to elucidate the mechanisms underlying these effects."
+        }
+      ]
+    },
+    {
+      "pmid": "42513363",
+      "title": "Real-World Outcomes of Combined Carbon-Ion Radiotherapy and Systemic Immunotherapy for Hepatocellular Carcinoma (Atezolizumab Plus Bevacizumab or Durvalumab Plus Tremelimumab): A Single-Center Retrospective Study.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Background: Carbon-ion radiotherapy (CIRT) is an effective local treatment for hepatocellular carcinoma (HCC); however, evidence on systemic immunotherapy after CIRT and the role of CIRT following immunotherapy remains limited. This study aimed to assess clinical outcomes and sequencing of CIRT and systemic immunotherapy in real-world practice. Methods: We retrospectively analyzed 41 patients with HCC who received CIRT and systemic immunotherapy (atezolizumab plus bevacizumab or durvalumab plus tremelimumab). Patients were categorized into three groups: (i) systemic immunotherapy for recurrent HCC after CIRT (n = 20), (ii) curative-intent CIRT after systemic immunotherapy (n = 10), and (iii) CIRT for residual or insufficiently responding lesions (≤3 lesions) after systemic immunotherapy (n = 11). Results: In group (i), 14 of 20 patients achieved complete or partial responses. These responders had low tumor burden (within the up-to-7 criteria) and preserved liver function (modified albumin-bilirubin grade 1/2a) at treatment initiation and demonstrated significantly longer progression-free and overall survival than those with stable or progressive disease. In group (ii), 4 of 10 patients achieved a clinical complete response and became drug-free; notably, all had solitary intrahepatic tumors at immunotherapy initiation. In group (iii), the rate of transition to clinical complete response was low, and disease control remained limited. Conclusions: Systemic immunotherapy demonstrated high effectiveness in recurrent HCC following CIRT, particularly in patients with low tumor burden and preserved liver function. Moreover, curative-intent CIRT after immunotherapy may benefit patients with solitary intrahepatic tumors but appears limited in those with insufficient response to immunotherapy, including residual oligolesions."
+        }
+      ]
+    },
+    {
+      "pmid": "42512632",
+      "title": "Adult Hepatic Infarction for Internists: A Practical Diagnostic and Management Pathway to Avoid Misdiagnosis, Unnecessary Drainage, and Delayed Vascular Recognition.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Introduction: Hepatic infarction is an uncommon but clinically important cause of focal ischemic liver injury. In internal medicine, it usually emerges in acutely ill or complex hospitalized adults with sepsis, shock, malignancy, thrombosis, vasculitis, transplantation, or recent hepatobiliary or interventional procedures who develop a new focal hepatic lesion and abnormal liver tests. Aims: This review aims to provide internists with a practical diagnostic and management pathway for recognizing hepatic infarction, distinguishing it from abscess and malignancy, selecting appropriate imaging, identifying vascular complications, and avoiding unnecessary biopsy or drainage when conservative management is safer. Methods: We performed a structured narrative review of adult hepatic infarction and related ischemic liver entities using targeted searches in PubMed/MEDLINE and Scopus. The search strategy, screening process, and evidence limitations are reported explicitly. Because the available evidence is dominated by case reports, small series, radiology reviews, and guidance on related vascular liver diseases, the synthesis is qualitative and the proposed pathway is conceptual rather than prospectively validated. Results: Hepatic infarction is most often recognized when systemic hypoperfusion, splanchnic vasoconstriction, microvascular dysfunction, or local macrovascular compromise coexist. Multiphasic computed tomography (CT) is usually the first-line acute-care modality, while MRI, contrast-enhanced ultrasound, Doppler ultrasound, CT angiography, or vascular imaging should be selected according to diagnostic uncertainty and suspected arterial or portal venous complications. The main diagnostic pitfalls are misclassification as abscess, malignancy, hematoma, or postoperative collection. Conclusions: In the appropriate clinical context, a wedge-shaped or geographic non-enhancing hepatic lesion should trigger vascular-ischemic reasoning before being labeled as abscess or tumor. The proposed internist-led pathway is intended as a pragmatic conceptual framework for diagnostic reasoning and multidisciplinary communication, not as a validated guideline or evidence-based algorithm."
+        }
+      ]
+    },
+    {
+      "pmid": "42512398",
+      "title": "Molecular Pathophysiology of Hepatocellular Carcinoma: From Metabolic Inflammation to Therapeutic Targets.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Background/Objectives: Hepatocellular carcinoma (HCC) is undergoing a profound epidemiological shift from viral etiologies toward metabolic dysfunction-associated steatohepatitis (MASH). Current targeted therapies often fail to provide effective responses due to the complex, interconnected nature of the tumor microenvironment. This review aims to explain the molecular axis linking chronic metabolic injury to carcinogenesis, focusing specifically on the oncoproteins Astrocyte elevated gene-1/metadherin (AEG-1/MTDH) and staphylococcal nuclease and tudor domain-containing 1 (SND1) as cooperating regulators of this disease network. Methods: This article represents a narrative review of the published literature and does not follow a systematic or exhaustive search protocol. A structured literature search using specific search terms was conducted across PubMed, Scopus, and Web of Science databases, with a last search date of May 2026. Results: Available preclinical data indicate that AEG-1 mediates early preneoplastic injury via dysregulation of hepatic lipid metabolism leading to lipotoxicity and survival of genetically unstable hepatocytes. As the disease progresses, AEG-1 amplifies NF-κB-driven inflammation and, as tumors emerge, recruits SND1 as a cooperating partner to form a gene-silencing complex that suppresses tumor suppressor proteins. Furthermore, AEG-1 and SND1 reprogram surrounding macrophages into an immunosuppressive state and drive tumor resistance to standard anti-angiogenic and chemotherapeutic drugs. Conclusions: The evidence reviewed supports a model in which HCC is driven by an interconnected metabolic-inflammatory-oncogenic cycle. AEG-1 functions as an upstream metabolic and inflammatory driver that cooperates with SND1 in a subset of oncogenic silencing events within this pathogenic network. Therefore, utilizing advanced nanomedicine platforms to simultaneously target these proteins represents a mechanistically rational therapeutic strategy that warrants further preclinical evaluation in advanced HCC."
+        }
+      ]
+    },
+    {
+      "pmid": "42512372",
+      "title": "Intraoperative Ultrasound in Hepatic Oncology Surgery: A Narrative Review of Its Impact on Surgical Strategy and Oncologic Outcomes.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Background/Objectives: Intraoperative ultrasound (IOUS) has become an integral component of modern hepatic oncology surgery, providing real-time imaging guidance during liver resections for hepatocellular carcinoma, colorectal liver metastases, and other primary or secondary hepatic malignancies. Despite substantial improvements in preoperative imaging modalities, occult lesions, disappearing metastases after chemotherapy, and complex vascular relationships continue to represent major intraoperative challenges. This structured narrative review aimed to evaluate the contemporary role of IOUS in hepatic oncology surgery, with particular emphasis on contrast-enhanced intraoperative ultrasound (CE-IOUS), minimally invasive liver surgery, navigation-assisted hepatectomy, and emerging artificial intelligence-based technologies. Methods: A structured literature review was conducted using PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar databases. Peer-reviewed studies, international guidelines, consensus statements, systematic reviews, and technological reports addressing IOUS applications in liver surgery were analyzed. Particular focus was placed on studies evaluating lesion detection, intraoperative strategy modification, disappearing colorectal liver metastases, parenchymal-sparing hepatectomy, laparoscopic and robotic liver surgery, navigation systems, augmented reality integration, and AI-assisted imaging technologies. Results: Contemporary evidence demonstrates that IOUS continues to significantly influence intraoperative decision-making despite advances in magnetic resonance imaging and multidetector computed tomography. CE-IOUS improves the detection of occult hepatic lesions and residual disease after systemic chemotherapy, particularly in disappearing colorectal liver metastases. IOUS-guided anatomical and parenchymal-sparing resections contribute to the preservation of functional liver parenchyma while maintaining oncologic radicality. In minimally invasive liver surgery, laparoscopic ultrasound remains essential for lesion localization and vascular mapping. Recent developments integrating navigation systems, augmented reality platforms, and AI-assisted image recognition suggest a progressive transition toward digitally integrated precision liver surgery. Conclusions: IOUS remains a cornerstone of modern hepatic oncology surgery and continues to evolve from a localization tool into a comprehensive platform for precision-guided liver resection. The integration of CE-IOUS, navigation technologies, and artificial intelligence may further enhance intraoperative accuracy, oncologic safety, and individualized surgical planning in the future."
+        }
+      ]
+    },
+    {
+      "pmid": "42512363",
+      "title": "Exploratory Evaluation of Hepatic Venous Pressure Gradient, Indocyanine Green Retention, and Liver Stiffness in Predicting Short-Term Outcomes After Liver Resection in Patients with Cirrhosis: A Multicenter Prospective Study.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Introduction: The correct risk stratification is the key to achieving a low postoperative mortality after liver resection for HCC, including the evaluation of liver function and the presence of portal hypertension. The aim of this study was to evaluate the accuracy of Hepatic Venous-Portal pressure Gradients (HVPG), Indocyanine Green retention test (ICG-R15) and Liver Stiffness (LSM) in predicting the risk of post-hepatectomy liver failure and major postoperative complications in selected cirrhotic patients. Methods: A multicenter prospective study was designed, including consecutive cirrhotic patients undergoing liver resection for HCC. The predictive ability of HVPG, LSM and ICG-R15 was tested by evaluating the Area Under the ROC Curves. Results: Ninety-eight cirrhotic patients undergoing liver resection for HCC were included. Twelve patients (12.2%) developed at least one of the complications included within the composite endpoint. Three patients (3%) developed post-hepatectomy liver failure (PHLF) (one graded A and two graded C according to the International Study Group of Liver Surgery), five patients (5.1%) developed large ascites, five patients (5.1%) developed severe postoperative complications, two patients (2%) died during the hospital stay (PHLF). HVPG showed the higher AUC (0.778, 95% CI 0.641- 0.898; p < 0.001), followed by LSM (0.669, 95% CI 0.471-0.847; p = 0.097) and ICG-R15 (0.593, 95% CI 0.378-0.788; p = 0.615). Conclusions: In our cohort of selected HCC patients undergoing elective surgery, the predictive ability of HVPG on developing a composite endpoint including PHLF, in-hospital mortality, large postoperative ascites and major postoperative complications is higher than LSM and ICG-R15."
+        }
+      ]
+    },
+    {
+      "pmid": "42512347",
+      "title": "Interventional Radiology in the Management of Primary Liver Malignancies.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Primary liver malignancies, including hepatocellular carcinoma, intrahepatic cholangiocarcinoma, and combined hepatocellular cholangiocarcinoma, remain major causes of cancer-related morbidity and mortality worldwide. Although systemic therapies have advanced substantially, intrahepatic tumor progression, liver failure, and portal hypertension continue to drive adverse outcomes in many patients. Interventional radiology plays a central and expanding role in the multidisciplinary management of these tumors by providing image-guided locoregional therapies for local tumor control, downstaging, bridging transplantation or resection, palliation, and potential survival benefit. This narrative review summarizes current evidence and technical considerations for major locoregional approaches, including radiofrequency ablation, microwave ablation, cryoablation, transarterial chemoembolization, transarterial radioembolization, endobiliary therapies, stereotactic body radiation therapy, irreversible electroporation, histotripsy, high-intensity focused ultrasound, hepatic arterial infusion, and brachytherapy. Interventional radiology also contributes to preoperative liver optimization through portal vein embolization, liver venous deprivation, lobar radioembolization to induce contralateral hypertrophy, and, in some patients, portal decompression before hepatic resection. For hepatocellular carcinoma, ablation and transarterial therapies are integrated into stage-based treatment algorithms and may provide curative-intent treatment in some patients. In intrahepatic cholangiocarcinoma, locoregional therapies provide meaningful disease control and may prolong survival, particularly when combined with systemic therapy. In combined hepatocellular cholangiocarcinoma, treatment remains individualized because of limited prospective data and heterogeneous tumor biology. Beyond cytoreduction, locoregional therapies can modulate the tumor immune microenvironment through immunogenic cell death, antigen release, cytokine signaling, and vascular remodeling, providing a rationale for combination strategies with immune checkpoint inhibitors, anti-angiogenic agents, and targeted therapies. As treatment paradigms evolve, the future of interventional radiology in primary liver cancer will depend on appropriate patient selection, optimized dosimetry and technique, integration with molecular and immunologic biomarkers, and coordinated multidisciplinary care."
+        }
+      ]
+    },
+    {
+      "pmid": "42512302",
+      "title": "Immunotherapy-Based Conversion to Curative-Intent Treatment in Hepatocellular Carcinoma: A Multidisciplinary Framework.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Immune checkpoint inhibitor (ICI)-based combinations have become central systemic treatment options for advanced hepatocellular carcinoma (HCC) and are now being integrated into selected intermediate-stage settings. As tumor responses have improved, some patients who were not initially candidates for curative-intent treatment may later become candidates for resection, ablation, or liver transplantation. However, radiographic response alone does not define curative-intent candidacy, and no shared framework currently guides how post-immunotherapy response should be translated into a treatment decision. Terminology also differs regionally: Asian literature frames a resection-anchored paradigm, whereas Western practice uses transplant-anchored downstaging. This narrative review proposes a multidisciplinary framework for immunotherapy-based conversion to curative-intent treatment in HCC. We first clarify the lexicon of conversion, downstaging, bridging, neoadjuvant therapy, post-ICI transplantation, and drug-free or treatment-free status. We then summarize conversion-relevant evidence across key clinical decision settings, including transarterial chemoembolization (TACE)-unsuitable intermediate-stage disease, portal vein tumor thrombus or macrovascular invasion, borderline-resectable or locally advanced disease, and transplant downstaging or bridging. The central framework defines curative-intent transition through the intersection of three domains: technical suitability, oncologic suitability, and physiologic or liver-reserve suitability. Biomarkers, imaging response, tumor-marker kinetics, liver function, and treatment-related toxicity are discussed as inputs into candidacy rather than as response measures alone. Finally, we propose a multidisciplinary workflow and highlight lessons from pancreatic cancer, biliary tract cancer, and colorectal liver metastases. As an expert-opinion-based framework, this approach should structure multidisciplinary discussion rather than serve as validated selection criteria; harmonized terminology, prospective conversion registries, and conversion-specific endpoints are needed for prospective validation."
+        }
+      ]
+    },
+    {
+      "pmid": "42512276",
+      "title": "Thermal Ablation of Hypervascular Liver Tumors After Selective Intra-Arterial Lipiodol Injection (SIALI): A Technical Narrative Review of Technique, Institutional Variations, and Published Evidence.",
+      "abstract": [
+        {
+          "label": "PURPOSE",
+          "text": "Percutaneous thermal ablation of hypervascular liver tumors is limited by lesion conspicuity on conventional imaging, challenges with ablative margin assessment, and unequal global access to advanced technologies such as ablation confirmation software and radioembolization. This review describes the selective intra-arterial lipiodol injection (SIALI) technique, its technical variations across institutions, and summarizes published clinical outcomes for SIALI-guided thermal ablation of hepatic malignancies."
+        },
+        {
+          "label": "METHODS",
+          "text": "A narrative review was conducted through structured searches of the PubMed, Embase, and Cochrane databases using terms including \"selective intra-arterial lipiodol injection,\" \"lipiodol-guided ablation,\" \"SIALI,\" and \"hepatic arterial lipiodol.\" Studies were selected based on relevance to SIALI technique, clinical outcomes, and comparator techniques, including hepatic arteriography with C-arm CT-guided ablation (hepACAGA) and ablation confirmation software. Full-text peer-reviewed articles were included; conference abstracts and letters were excluded. No formal PRISMA-compliant inclusion or exclusion criteria were applied, consistent with the narrative review format."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Seven studies were identified, encompassing six retrospective cohort studies and one prospective randomized controlled trial, collectively comprising over 900 patients treated across institutions in Asia, Europe, and the United States. Across heterogeneous patient populations and technical approaches, SIALI-guided thermal ablation was associated with improved local tumor recurrence rates, local recurrence-free survival, and overall survival compared with conventional ultrasound- or CT-guided ablation alone in selected studies where comparator data were available, with favorable technical success rates in lesions otherwise occult on standard imaging."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "SIALI appears to be a technically feasible and potentially useful adjunct technique that may improve lesion conspicuity and enable real-time ablative margin assessment in the treatment of hypervascular liver tumors, particularly in settings without access to ablation confirmation software. The available evidence is predominantly retrospective, and prospective validation is needed before broad conclusions regarding oncologic outcomes can be drawn."
+        }
+      ]
+    },
+    {
+      "pmid": "42512256",
+      "title": "Clinical Utility and Genomic Landscape of Comprehensive Genomic Profiling in Biliary Tract Tumors: A Single-Center Real-World Study.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Background: Comprehensive genomic profiling (CGP) is increasingly incorporated into the management of biliary tract tumors (BTTs); however, single-center real-world data integrating clinical utility and site-specific genomic landscape remain limited. Methods: This retrospective single-center observational study included 91 patients with BTTs who underwent CGP. The primary endpoints were the rates of potentially actionable genomic alterations, expert panel-based therapeutic options, and implementation of genomically matched therapy. Secondary endpoints included the distribution of recurrent and clinically relevant genomic alterations according to the primary tumor site. Results: The cohort included 46 patients with intrahepatic cholangiocarcinoma (iCCA), 19 with extrahepatic cholangiocarcinoma (eCCA), 24 with gallbladder cancer (GBC), and 2 with ampullary tumors. CGP was successfully performed in all 91 patients. Reportable genomic alterations were detected in 88 patients (96.7%), whereas no reportable alteration was detected in three patients (3.3%). The most frequently altered genes were TP53 (51/91, 56.0%), KRAS (21/91, 23.1%), CDKN2A (18/91, 19.8%), SMAD4 (14/91, 15.4%), and ARID1A/PBRM1 (12/91, 13.2%). Potentially actionable genomic alterations were identified in 21 patients (23.1%). Expert panel-based therapeutic options were identified in 15 patients (16.5%), and genomically matched therapy was introduced in 7 patients (7.7%). Matched therapy was introduced the most frequently in iCCA (6/46, 13%), followed by GBC (1/24, 4.2%), whereas no patient with eCCA or ampullary tumor received matched therapy. Conclusions: CGP revealed a heterogeneous genomic landscape across BTT subtypes and provided clinically actionable information in a limited but meaningful subset of patients. The practical utility of CGP was the greatest in selected molecular subsets, particularly iCCA."
+        }
+      ]
+    },
+    {
+      "pmid": "42512110",
+      "title": "Atezolizumab Plus Bevacizumab Versus Durvalumab Plus Tremelimumab for Advanced Hepatocellular Carcinoma: A Propensity-Score-Matched Analysis.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Background: Atezolizumab plus bevacizumab (A + B) and durvalumab plus tremelimumab (D + T) are approved first-line systemic therapy options for advanced hepatocellular carcinoma (HCC), with no head-to-head comparison. In this propensity-matched analysis, we compared the survival of patients with advanced HCC who received either A + B or D + T therapy. Methods: Patients with advanced HCC who received A + B or D + T treatment in the first-line setting were identified using the TriNetX platform, a health research network that provides access to electronic health record data from 112 healthcare organizations. Propensity-score-matched (PSM) analysis was conducted, and the median overall survival (OS) was estimated using the Kaplan-Meier method. Results: We identified 2819 patients with HCC who were treated with A + B or D + T: 2031 patients received A + B and 788 received D + T. Compared to patients in the A + B cohort, those who received D + T were more likely to be older (median age: 68.4 vs. 66.9 years), have lower platelet counts (186.8 vs. 201.3), higher prevalence of hypoalbuminemia with levels < 2.7 g/dL (35.2% vs. 28.4%), higher prevalence of bilirubin levels between 2.0 and 2.9 mg/dL (28.8% vs. 23.8%), and decreased INR with levels between 0.0 and 1.6 (92.1% vs. 86.3%). After PSM, 1536 patients were included in the survival analyses, with all variables adequately matched. There was no significant difference in the median OS between those receiving A + B or D + T [16.3 vs. 22.5 months, hazard ratio (HR) 0.89, 95% confidence interval (CI) 0.76-1.0]. Higher rates of immune-mediated colitis were noted in the D + T group. Conclusions: Similar survival rates were observed among patients with advanced HCC who received A + B and D + T in the first-line setting. Our study suggests that both A + B and D + T are valid treatment options, and that therapy can be tailored based on comorbidities, adverse effects, and patient preferences."
+        }
+      ]
+    },
+    {
+      "pmid": "42512015",
+      "title": "Hepatitis C in the Direct-Acting Antiviral Era: Immunopathogenesis, Dendritic Cells and Modern Clinical Management.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Hepatitis C virus (HCV) infection remains a major cause of chronic liver disease worldwide, with potential progression to advanced fibrosis, cirrhosis, hepatocellular carcinoma, and extrahepatic disease. According to World Health Organization estimates, approximately 50 million people worldwide live with chronic HCV infection, and nearly 1 million new infections occur each year. In 2022, approximately 242,000 deaths were attributed to hepatitis C, mainly from cirrhosis and hepatocellular carcinoma. Chronic infection develops when antiviral immune response fails to eliminate the virus. Viral clearance requires early innate immune activation, effective antigen presentation, broad HCV-specific CD4+ and CD8+ T-cell responses and durable immune memory. Dendritic cells play a pivotal role in this process by linking innate and adaptive immunity. In chronic HCV infection, dendritic cells may be reduced in number and show impaired maturation, lower interleukin (IL)-12 production, higher IL-10 expression and weaker stimulation of HCV-specific CD4+ T-cell responses. This review discusses the role of dendritic cells (DCs) in HCV infection, with emphasis on DCs' phenotype and function in acute and chronic disease. It also summarizes immune changes after direct-acting antiviral (DAA)-induced sustained virologic response (SVR), including partial recovery of innate immune responses and persistent residual immune dysregulation. When accessible and appropriately selected, modern direct-acting antiviral therapy substantially improves outcomes for patients with HCV infection."
+        }
+      ]
+    },
+    {
+      "pmid": "42511915",
+      "title": "HBx-Associated Reactivation of the IGF2 Locus in Chronic HBV Infection and HBV-Related Hepatocarcinogenesis: Evidence Boundaries and Biomarker Implications.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Chronic hepatitis B virus (HBV) infection remains one of the main causes of hepatocellular carcinoma (HCC), even though vaccination and long-term viral suppression have reduced new infections and circulating viral replication. This residual cancer risk suggests that serum HBV DNA alone does not capture the full biology of HBV-related carcinogenesis. Hepatitis B virus X protein (HBx) is a relevant entry point because it maintains the transcriptional competence of covalently closed circular DNA (cccDNA), engages host chromatin regulators, and may persist in tumors as cccDNA-derived, integration-derived, full-length, truncated, or fusion forms. This review focuses on a specific question: does the available literature support HBx-associated reactivation of the IGF2 locus in chronic HBV infection and HBV-related hepatocarcinogenesis, and, if so, at which regulatory layer is the claim defensible? The most direct evidence remains promoter-proximal. Classic mechanistic work shows acute HBx-dependent activation of IGF2 promoter P4 through Sp1- and PKC/ERK-dependent signaling. Human tissue and cell-based studies also support a broader fetal-promoter compartment, including P3/P4 transcript enrichment, local promoter hypomethylation, MBD2-HBx-CBP/p300 recruitment, and increased histone H3/H4 acetylation. These observations do not, however, establish HBV exclusivity, uniform loss of imprinting, or direct HBx-mediated rewiring of the human IGF2/H19 topological domain. Recent integration-aware and long-read studies further argue against treating tumor-stage HBx as a single biological variable. In the present evidence framework, HBx-associated IGF2 locus reactivation is therefore more appropriately viewed as a stage-aware, promoter-resolved, biomarker-oriented hypothesis than as a universal mechanism or a treatment algorithm for HBV-related HCC."
+        }
+      ]
+    },
+    {
+      "pmid": "42511572",
+      "title": "Advances in Immunotherapy for Intrahepatic Cholangiocarcinoma.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Intrahepatic cholangiocarcinoma (iCCA) is a highly lethal and heterogeneous primary liver malignancy with a dismal prognosis. Approximately 70% of patients are diagnosed at locally advanced or metastatic stages, therefore missing the opportunity for curative surgery, and conventional chemotherapy offers limited survival benefits. Immunotherapy, especially immune checkpoint blockade, represents a promising strategy, yet its efficacy as monotherapy in iCCA remains modest primarily due to the profoundly immunosuppressive and desmoplastic tumor microenvironment. This review examines the immune cell infiltration landscape of iCCA, focusing on the distinct roles of lymphoid cells and myeloid cells in shaping immune evasion. We then analyze key factors affecting immune responses, such as tumor-intrinsic driver mutations, immune regulatory mechanisms, and acquired resistance. Furthermore, we summarize current clinical advances in iCCA immunotherapy, including immune checkpoint inhibitor monotherapy, bispecific antibodies, combination strategies with chemotherapy or targeted therapy, cancer vaccines, and adoptive cell therapy. Despite some progress, the overall response to immunotherapy remains suboptimal, and future strategies need to focus on deciphering context-specific resistance mechanisms and enhancing the tumor-specific immune response."
+        }
+      ]
+    },
+    {
+      "pmid": "42510799",
+      "title": "Genome-Wide Association Studies in Hepatocellular Carcinoma: Aetiology-Specific Susceptibility, Functional Interpretation, and Clinical Translation.",
+      "abstract": [
+        {
+          "label": "BACKGROUND/OBJECTIVES",
+          "text": "Hepatocellular carcinoma (HCC) arises through heterogeneous pathways involving chronic hepatitis B virus infection, hepatitis C virus infection, alcohol-related liver disease, metabolic dysfunction-associated steatotic liver disease, fibrosis, cirrhosis, and environmental exposures. Genome-wide association studies (GWASs) have identified host germline loci associated with HCC susceptibility, but interpretation is complicated by aetiology, ancestry, liver disease stage, and the definition of controls. This narrative review examines current GWAS evidence for HCC, with emphasis on aetiology-specific susceptibility, functional interpretation, cross-disorder genetic effects, and clinical translation."
+        },
+        {
+          "label": "METHODS",
+          "text": "Studies were identified through iterative searches of PubMed/PMC, publisher pages, academic search tools, and citation tracking, supplemented by targeted searches for major HCC-associated loci. Sources were chosen based on relevance to GWAS discovery, replication, meta-analysis, functional interpretation, polygenic risk modelling, or HCC risk stratification, rather than by a formal systematic review protocol."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Viral HCC studies most often implicate immune regulation and antigen presentation, including MICA, HLA-DQ, HLA-DQB1, HLA class I, HCP5, STAT4, DEPDC5, and FAM114A1. Alcohol-related, metabolic, and non-viral HCC studies more often implicate hepatic lipid metabolism, telomere biology, iron metabolism, steatosis, and cirrhosis-related pathways, including PNPLA3, TM6SF2, TERT, HSD17B13, APOE, HFE, and MTARC1. Recent studies increasingly combine GWASs with fine-mapping, functional annotation, transcriptomic analyses, and risk modelling."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "HCC genetic susceptibility is highly aetiology-specific and overlaps with other liver and metabolic disorders, but discoveries from genetic studies have not yet been translated into routine clinical practice. Future work should prioritise multi-ancestry cohorts, disease-stage-aware controls, functional validation, and prospectively tested genetic risk models."
+        }
+      ]
+    },
+    {
+      "pmid": "42510783",
+      "title": "Cystic Fibrosis: Modern Diagnostic and Therapeutic Advances from Molecular Pathogenesis to Multidisciplinary Management.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Cystic fibrosis (CF) is an autosomal recessive disorder caused by pathogenic variants in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. It is increasingly understood through a genomics-informed framework linking variant architecture to phenotype, diagnosis, and therapeutic eligibility. This review summarizes current evidence on CFTR structure, variant interpretation, genotype-phenotype heterogeneity, diagnostic workflows, and modern management. We highlight how full-gene sequencing, curated disease-liability databases, functional testing, and organoid-informed theratyping refine diagnosis and treatment selection; how disrupted chloride and bicarbonate transport drives muco-obstructive airway disease and multisystem complications; and why modulator therapy must still be integrated with respiratory, nutritional, endocrine, hepatobiliary, reproductive, and psychosocial care. We also outline unresolved challenges in rare variants, residual organ damage, ancestry-related diagnostic gaps, and mutation-agnostic therapeutic development."
+        }
+      ]
+    },
+    {
+      "pmid": "42509981",
+      "title": "Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy (ALPPS) in Children with Advanced Hepatoblastoma-Lessons from a Case Series and Literature Review.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Liver transplantation is the standard treatment for children with advanced hepato-blastoma when complete resection is not feasible. However, transplantation may be contraindicated because of persistent metastatic disease, severe comorbidities, poor clinical condition, or donor-related limitations. Associating Liver Partition and Portal Vein Ligation for Staged Hepatectomy (ALPPS) has emerged as a potential rescue strategy in highly selected patients. This study evaluated the feasibility, safety, and oncological outcomes of ALPPS in pediatric hepatoblastoma."
+        },
+        {
+          "label": "METHODS",
+          "text": "A retrospective analysis was performed of four consecutive children with advanced hepatoblastoma who underwent classical ALPPS between 2013 and 2025 in two specialized centers. Patient characteristics, indications, future liver remnant (FLR) volumetry, perioperative outcomes, complications, and oncological follow-up were reviewed."
+        },
+        {
+          "label": "RESULTS",
+          "text": "The median age at surgery was 22 months. In all patients, the FLR was considered insufficient for one-stage hepatectomy, leading to ALPPS. Rapid hypertrophy of the FLR was achieved in every case, allowing completion of the second stage after a median of 8.5 days (range, 7-11 days). FLR volume increased by 50-89% following the first stage. Despite successful liver hypertrophy, outcomes remained poor in three patients. One patient died intraoperatively from venous air embolism during the second stage, two died from disease recurrence despite aggressive multimodal treatment, and one remains in complete clinical and radiological remission following ALPPS and adjuvant chemotherapy."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "ALPPS reliably induces rapid FLR hypertrophy and may provide a potentially curative option for carefully selected children when liver transplantation is not feasible. However, its substantial perioperative risk and generally unfavorable oncological outcomes support its role only as a rescue procedure in experienced pediatric hepatobiliary centers. Further multicenter studies are needed to better define indications and patient selection."
+        }
+      ]
+    },
+    {
+      "pmid": "42509735",
+      "title": "Mitophagy in Hepatic Ischemia-Reperfusion Injury: From Mitochondrial Dysfunction to Therapeutic Targeting.",
+      "abstract": [
+        {
+          "label": "",
+          "text": "Hepatic ischemia-reperfusion injury (HIRI) is a major cause of postoperative liver dysfunction and adverse outcomes in hepatectomy, liver transplantation, and hemorrhagic shock. Among the multiple mechanisms implicated in HIRI, mitochondria are recognized as central organelles that integrate metabolic failure, oxidative stress, inflammation, and cell death. During ischemia, interruption of oxygen and nutrient supply impairs oxidative phosphorylation, depletes ATP, disrupts ionic homeostasis, and renders mitochondria highly vulnerable to subsequent injury. Upon reperfusion, reoxygenation triggers excessive reactive oxygen species production, calcium overload, mitochondrial permeability transition pore opening, and release of damage-associated molecular patterns, thereby amplifying hepatocellular injury and sterile inflammatory responses. As a key component of mitochondrial quality control, mitophagy plays a context-dependent role in HIRI. Appropriate activation of mitophagy facilitates the clearance of damaged mitochondria, limits oxidative stress, restrains inflammasome activation, and preserves hepatocellular homeostasis, whereas insufficient or dysregulated mitophagy contributes to mitochondrial accumulation and aggravates liver injury. This review summarizes mitochondrial alterations during the ischemic and reperfusion phases, outlines the major mitophagy pathways involved in HIRI and discusses recent advances in upstream regulation, disease-specific dysregulation, and mitophagy-targeted interventions. A better understanding of the dynamic and biphasic nature of mitophagy in HIRI may provide a stronger theoretical basis for precision liver-protective strategies and future translational therapies."
+        }
+      ]
+    },
+    {
+      "pmid": "42509505",
+      "title": "Multimodal analysis of the learning curve for pure laparoscopic donor right hepatectomy in a low-volume transplant center: a comparative cohort study.",
+      "abstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "The adoption of pure laparoscopic donor right hepatectomy (PLDRH) has been limited by a perceived steep learning curve, traditionally estimated at 60-70 cases. This study evaluates whether \"second-generation\" laparoscopic surgeons can achieve proficiency more rapidly in a low-volume transplant center using structured training and standardized techniques."
+        },
+        {
+          "label": "METHODS",
+          "text": "We analyzed 29 consecutive, non-selective PLDRH cases performed by a single surgeon. A multimodal CUSUM analysis, incorporating operative time, estimated blood loss, and the Comprehensive Complication Index, was used to define the learning curve, alongside a donor complexity score. Outcomes were compared with a cohort of 21 conventional open donor right hepatectomies."
+        },
+        {
+          "label": "RESULTS",
+          "text": "A three-phase learning progression was identified. Competency and proficiency were reached at cases 10 and 20, respectively. Phase 2 (cases 11-20) was characterized by a \"second learning curve\" as the team encountered more complex anatomical variations within the consecutive cohort. By Phase 3 (cases 21-29), surgical metrics stabilized with zero complications, even as case complexity increased. Compared to CODRH, the PLDRH group achieved similar safety profiles but significantly shorter hospital stays (p < 0.05)."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "PLDRH can be safely implemented in low-volume centers with an accelerated learning curve. For surgeons with prior advanced laparoscopic expertise, institutional proficiency may be achieved within 20 cases. These findings suggest that standardized \"second-generation\" approaches may broaden the accessibility of laparoscopic donor surgery without compromising safety."
+        }
+      ]
+    }
+  ]
+}

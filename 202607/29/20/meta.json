@@ -1,0 +1,58 @@
+{
+  "folder": "202607/29/20",
+  "previous_folder": "202607/29/19",
+  "trigger_utc": "2026-07-29T20:02:08.137Z",
+  "collected_at_utc": "2026-07-29T20:08:44.182928+00:00",
+  "window_start_utc": "2026-07-28T20:08:44.182928+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 170,
+    "pubmed_pdat_count": 49,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids": [],
+    "pubmed_clinical_leaning": 53,
+    "crossref_unique_title_filtered": 124,
+    "crossref_new_dois": [
+      "10.1186/s12910-026-01545-w",
+      "10.21203/rs.3.rs-10395965/v1",
+      "10.2139/ssrn.6620170",
+      "10.52604/alt.26.0006",
+      "10.65405/36sdgf96"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 26,
+    "clinicaltrials_focus": 23,
+    "clinicaltrials_new_ncts": [
+      "NCT06199232"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / AWMF / HAS reachable; OncLive/がんナビ landing ping unstable this hour; continuation-only EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; JLCA conversion consensus already indexed at 18h; no new LBA or guideline version this UTC hour."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 170 ID set identical to 19h (NEW PMID=0, DROPPED=0).",
+    "Crossref title-filtered 119→124: NEW DOI=5 (3 window-edge reentries of 19h drops: LT ethics / SSRN / transplant oncology review; + Research Square robotic hepatectomy learning-curve posted-content; + Libya HCC prevalence descriptive); material=false.",
+    "CT related 25→26: NEW NCT06199232 (CRCLM HAIC FP reentry after 19h drop); 0 results-module material updates; focus flicker NCT07719933 in / NCT00034216+NCT07359820 out.",
+    "Preprints: medRxiv/bioRxiv details + EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged vs 18h (CN 2026 / JSH / JLCA conversion consensus already logged / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "Crossref collected with cursor pagination across query set.",
+    "No material clinical delta vs 19h; short pack only."
+  ]
+}
