@@ -1,0 +1,365 @@
+{
+  "window": [
+    "2026-07-28",
+    "2026-07-29"
+  ],
+  "count": 16,
+  "studies": [
+    {
+      "nctId": "NCT07059494",
+      "title": "A Feasibility Clinical Trial of Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization for Patients With Hepatocellular Carcinoma (HCC) for Liver Transplantation",
+      "briefTitle": "Atezolizumab and Bevacizumab in Combination With Y^90 Radioembolization in HCC for Liver Transplant",
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE4"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "Atezolizumab",
+        "Bevacizumab",
+        "Y^90 Radioembolization"
+      ],
+      "summary": "A single institution, single arm, two-cohort feasibility trial to evaluate the combination of locoregional Y\\^90 therapy with systemic atezolizumab and bevacizumab, in participants presenting with hepatocellular carcinoma (HCC) 1) within Milan Criteria (MC) with AFP ≥ 400 ng/ml as a means of bridge therapy prior to transplant, 2) beyond the Milan Criteria (MC) (within USCF DS criteria and all comers), as a means of downstaging prior to liver transplantation.",
+      "url": "https://clinicaltrials.gov/study/NCT07059494"
+    },
+    {
+      "nctId": "NCT07715903",
+      "title": "Phase I Study Evaluating Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "briefTitle": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE1"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "interventions": [
+        "Carfilzomib"
+      ],
+      "summary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administered through the HAI pump directly to the liver for people with colon, adrenal glands, or bile duct cancer that has spread to the liver.\n\nObjective:\n\nTo test the safety of carfilzomib (CFZ) delivered via a hepatic artery infusion (HAI) pump directly to the liver in people with cancer in their liver.\n\nE",
+      "url": "https://clinicaltrials.gov/study/NCT07715903"
+    },
+    {
+      "nctId": "NCT02772003",
+      "title": "Phase I Trial of a Therapeutic DNA Vaccine for Chronic Hepatitis C Virus (HCV) Infection",
+      "briefTitle": "DNA Vaccine Therapy in Treating Patients With Chronic Hepatitis C Virus Infection",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE1"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Chronic Hepatitis",
+        "Hepatitis C Infection",
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "Electroporation-Mediated Plasmid DNA Vaccine Therapy",
+        "HCV DNA Vaccine INO-8000",
+        "Laboratory Biomarker Analysis",
+        "Quality-of-Life Assessment",
+        "Rocakinogene Sifuplasmid"
+      ],
+      "summary": "This phase I trial studies the side effects and best dose of deoxyribonucleic acid (DNA) vaccine therapy in treating patients with hepatitis C virus (HCV) infection that persists or progresses over a long period of time. Vaccines made from DNA may help the body build an effective immune response to kill cancer cells that express HCV infection.",
+      "url": "https://clinicaltrials.gov/study/NCT02772003"
+    },
+    {
+      "nctId": "NCT06199232",
+      "title": "Targeted Treatment Based on ctDNA Genotyping Combined With Tislelizumab and HAIC as Salvage Treatment for Advanced Colorectal Cancer Liver Metastasis Failed From Standard Systemic Treatment (SALVLIV Trial)",
+      "briefTitle": "Targeted Treatment Plus Tislelizumab and HAIC for Advanced CRCLM Failed From Standard Systemic Treatment",
+      "status": "COMPLETED",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "NA"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Liver Metastasis Colon Cancer",
+        "ctDNA Genotype",
+        "MSS",
+        "Failed From Standard Treatment"
+      ],
+      "interventions": [
+        "HAIC+targeted therapy+PD-1 inhibitor"
+      ],
+      "summary": "Hepatic arterial infuison chemothearpy (HAIC), targeted therapy, and programmed death-1 (PD-1) inhibitors have been demonstrated to be effective for colorectal cancer liver metastasis (CRCLM). Thus, the investigators will conduct a prospective trial to explore the efficacy and safety of targeted treatment based on genotyping or ctDNA genotyping combined with tislelizumab and HAIC as salvage treatment for advanced CRCLM failed from standard systemic treatment, aiming to provide individualized optimized regimen for microsatellite stable (MSS) CRCLM in salvage treatment.",
+      "url": "https://clinicaltrials.gov/study/NCT06199232"
+    },
+    {
+      "nctId": "NCT07729917",
+      "title": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "briefTitle": "Precision Integrated Strategies and Efficacy Evaluation for Biliary Tract Cancers: An Umbrella Platform Study",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Bile Duct Carcinoma",
+        "Cholangiocarcinoma"
+      ],
+      "interventions": [
+        "FGFR Inhibitor",
+        "IDH1 mutation inhibitor",
+        "KRAS mutation inhibitor",
+        "NTRK mutation inhibitor",
+        "BRAF V600E mutation inhibitor",
+        "BRCA 1/2 mutation inhibitor",
+        "HER2 target therapy",
+        "Immune Checkpoint Inhibitors"
+      ],
+      "summary": "This study is a prospective, multicenter, open-label, umbrella phase II clinical trial. Based on different multigene expression profiling subtypes and potential molecular characteristics of various pathways, 8 treatment arms and 13 treatment groups are preliminarily designed. After successful screening, investigators will assign eligible subjects to a treatment group based on the patient's genetic test report (if available) and performance status. For subjects without a genetic test report, they will be allocated to Arm H to receive immunotherapy combined with chemotherapy or other regimens.",
+      "url": "https://clinicaltrials.gov/study/NCT07729917"
+    },
+    {
+      "nctId": "NCT05044819",
+      "title": "A Long-term Safety Study to Assess the Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+      "briefTitle": "Assessment of Potential for Chronic Liver Injury in Participants Treated With Epidiolex (Cannabidiol) Oral Solution",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE4"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Lennox Gastaut Syndrome",
+        "Dravet Syndrome",
+        "Tuberous Sclerosis Complex"
+      ],
+      "interventions": [
+        "Cannabidiol"
+      ],
+      "summary": "This study will monitor for potential chronic liver injury and liver fibrosis, in participants treated with cannabidiol oral solution.",
+      "url": "https://clinicaltrials.gov/study/NCT05044819"
+    },
+    {
+      "nctId": "NCT06710223",
+      "title": "A Phase Ib Study of Cryoablation and Pressure-enabled Hepatic Arterial Infusion of Class C Toll-like Receptor 9 Agonist SD-101 in Combination With Durvalumab and Tremelimumab in Patients With Advanced Hepatocellular Carcinoma",
+      "briefTitle": "Cryoablation and Arterial Infusion of SD-101 in Combination With Durvalumab and Tremelimumab",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE1"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "SD-101",
+        "Cryotherapy",
+        "Tremelimumab",
+        "Durvalumab"
+      ],
+      "summary": "The goal of this Phase 1b clinical trial is to evaluate the safety and efficacy of cryoablation and hepatic arterial administration of SD-101 in participants with advanced hepatocellular carcinoma. After this procedure, participants will be treated with tremelimumab and durvalumab every 4 weeks (STRIDE regimen).",
+      "url": "https://clinicaltrials.gov/study/NCT06710223"
+    },
+    {
+      "nctId": "NCT07731373",
+      "title": "COMPASS-PedPCOS: BMI-Independent Mechanistic Dissection of PCOS-Associated MASLD in Adolescent Girls With Obesity Using an Expanded Biomarker Panel - A Single-Center Pre-Pilot Clinical Study",
+      "briefTitle": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": null,
+      "studyType": "OBSERVATIONAL",
+      "conditions": [
+        "Polycystic Ovary Syndrome (PCOS)",
+        "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+        "Pediatric Obesity",
+        "Hyperandrogenism",
+        "Insulin Resistance Syndrome"
+      ],
+      "interventions": [
+        "Extended Biomarker Panel, Liver Elastography and Targeted Genotyping"
+      ],
+      "summary": "This single-center, prospective, observational, cross-sectional mechanistic pilot study will evaluate whether polycystic ovary syndrome (PCOS) contributes to hepatic steatosis in adolescent girls independently of adiposity. A total of 150 girls aged 10-18 years will be enrolled into three groups of 50: girls with PCOS and obesity, age- and body mass index-matched girls with obesity but without PCOS, and healthy normal-weight girls. Each participant will undergo a single evaluation comprising anthropometry, clinical and biochemical phenotyping, transient elastography with controlled attenuation parameter and two-dimensional shear wave elastography, and a single venous blood sample.\n\nAn extended biomarker panel will be measured by enzyme-linked immunosorbent assay (Fetuin-A, fibroblast growt",
+      "url": "https://clinicaltrials.gov/study/NCT07731373"
+    },
+    {
+      "nctId": "NCT05727176",
+      "title": "Phase 2 Study of Futibatinib 20 mg and 16 mg in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusions or Rearrangements",
+      "briefTitle": "Study of Futibatinib in Patients With Advanced Cholangiocarcinoma With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Advanced Cholangiocarcinoma",
+        "FGFR2 Fusions",
+        "Gene Rearrangement"
+      ],
+      "interventions": [
+        "TAS-120"
+      ],
+      "summary": "This is an open-label, multinational, randomized Phase 2 study confirming the clinical benefit of 20 mg futibatinib and evaluating the safety and efficacy of 16 mg futibatinib in previously treated CCA harboring FGFR2 gene fusions and other rearrangements.",
+      "url": "https://clinicaltrials.gov/study/NCT05727176"
+    },
+    {
+      "nctId": "NCT07727759",
+      "title": "Beyond Size - Integrating CT Volumetry With Hepatic Vascular Deformation Mapping to Anticipate Post-Resection Congestion and Liver Failure",
+      "briefTitle": "CT Volumetry and Hepatic Vascular Deformation Mapping to Predict Post-Hepatectomy Liver Failure",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": null,
+      "studyType": "OBSERVATIONAL",
+      "conditions": [
+        "Post-Hepatectomy Liver Failure",
+        "Liver Failure",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Liver Metastases",
+        "Postoperative Complications",
+        "Hepatic Congestion"
+      ],
+      "interventions": [
+        "Preoperative CT volumetry with hepatic vascular deformation mapping (VDM)"
+      ],
+      "summary": "Removing a large part of the liver (major hepatectomy) can cure primary and secondary liver cancers, but it carries the risk of post-hepatectomy liver failure (PHLF), a serious complication in which the liver left behind - the future liver remnant (FLR) - cannot meet the body's metabolic needs. PHLF occurs after roughly 5% to 15% of major hepatectomies and is the leading cause of postoperative death.\n\nBefore surgery, surgeons routinely use CT scans to measure how much liver will remain (CT volumetry). Volume alone does not tell the whole story. After a large resection the remaining liver can rotate and shift into the empty space left behind, kinking or compressing the veins that drain it. The resulting congestion can make an apparently adequate remnant fail.\n\nThis prospective, multicenter,",
+      "url": "https://clinicaltrials.gov/study/NCT07727759"
+    },
+    {
+      "nctId": "NCT07479485",
+      "title": "An Open-Label, Multicenter, Phase I/II Study Evaluating MRG006A in Combination With Immune Checkpoint Inhibitors and Targeted Therapy in Patients With Advanced Hepatocellular Carcinoma",
+      "briefTitle": "MRG006A Combination Therapy for Advanced Hepatocellular Carcinoma (Phase I/II)",
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "interventions": [
+        "MRG006A",
+        "Pucotenlimab",
+        "Bevacizumab",
+        "PD1/VEGF antibody",
+        "TKI"
+      ],
+      "summary": "This is an open-label, multicenter, Phase I/II clinical study designed to evaluate the safety, tolerability, pharmacokinetics, and preliminary efficacy of MRG006A in combination with immune checkpoint inhibitors and targeted therapy in patients with advanced hepatocellular carcinoma (HCC).",
+      "url": "https://clinicaltrials.gov/study/NCT07479485"
+    },
+    {
+      "nctId": "NCT06066138",
+      "title": "A Feasibility Phase I Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "briefTitle": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE1"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Locally Advanced Alveolar Soft Part Sarcoma",
+        "Metastatic Alveolar Soft Part Sarcoma",
+        "Locally Advanced Non Small Cell Lung Cancer",
+        "Metastatic Non Small Cell Lung Cancer",
+        "Locally Advanced Small Cell Lung Cancer",
+        "Metastatic Small Cell Lung Cancer",
+        "Locally Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Locally Advanced Melanoma",
+        "Metastatic Melanoma"
+      ],
+      "interventions": [
+        "Atezolizumab"
+      ],
+      "summary": "Background:\n\nA type of drug called monoclonal antibody immune checkpoint inhibitors are often used in cancer treatment. These drugs help the body s immune system fight cancer by blocking proteins that cause cancer cells to grow. One of these drugs (atezolizumab) is approved to treat certain cancers. Researchers want to find out if lower doses of this drug might provide the same benefit with fewer adverse effects.\n\nObjective:\n\nTo test different doses and timing of atezolizumab for people with cancer.\n\nEligibility:\n\nPeople aged 18 years and older with cancer that has spread locally or to other organs. They must be eligible for treatment with the study drug.\n\nDesign:\n\nParticipants will be screened. They will have blood tests and imaging scans. They will provide a sample of tissue from their t",
+      "url": "https://clinicaltrials.gov/study/NCT06066138"
+    },
+    {
+      "nctId": "NCT07359820",
+      "title": "A Phase 2, Open-Label, Single-Arm Study of Lirafugratinib in Patients With Previously Treated, Unresectable, Locally Advanced or Metastatic Solid Tumors (Excluding Cholangiocarcinoma) With FGFR2 Fusion or Rearrangement",
+      "briefTitle": "A Study of Lirafugratinib in Non-CCA Solid Tumors With FGFR2 Fusion or Rearrangement",
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "FGFR2 Gene Fusion/Rearrangement",
+        "Other Solid Tumors, Adult"
+      ],
+      "interventions": [
+        "Lirafugratinib"
+      ],
+      "summary": "The goal of this clinical trial is to evaluate if lirafugratinib is efficacious and safe to treat adult patients with previously treated, unresectable, locally advanced or metastatic solid tumors (excluding cholangiocarcinoma) harboring FGFR2 fusion or rearrangement.\n\nParticipants will:\n\n* Take lirafugratinib regularly as instructed by their study doctor.\n* Visit the clinic as instructed for checkups and tests.\n* Keep a diary recording each time a dose of lirafugratinib is taken.",
+      "url": "https://clinicaltrials.gov/study/NCT07359820"
+    },
+    {
+      "nctId": "NCT00034216",
+      "title": "Biospecimen Acquisition From Human Subjects",
+      "briefTitle": "Collection of Blood From Patients With Cancer",
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": null,
+      "studyType": "OBSERVATIONAL",
+      "conditions": [
+        "Prostate Cancer",
+        "Breast Cancer",
+        "Colon Cancer",
+        "Lung Cancer",
+        "Liver Cancer"
+      ],
+      "interventions": [],
+      "summary": "This study will collect blood from patients with cancer to study the level of cells which decrease the immune response (suppressor cells) before and after chemotherapy. Patients 18 years of age and older with cancer may participate. This study does not involve treatment.\n\nParticipants will have about 50 ml (3 tablespoonfuls) of blood drawn. Depending on their condition, patients may be invited to enroll in a clinical research study involving chemotherapy, radiotherapy, or surgery. Additional 40-ml blood samples may be drawn during the course of treatment.",
+      "url": "https://clinicaltrials.gov/study/NCT00034216"
+    },
+    {
+      "nctId": "NCT07719933",
+      "title": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "briefTitle": "Intraoperative Continuous Terlipressin Infusion is Associated With Reduced Severe Postoperative Complications After Laparoscopic Hepatectomy: a Prospective Propensity Score-matched Cohort Study",
+      "status": "COMPLETED",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": null,
+      "studyType": "OBSERVATIONAL",
+      "conditions": [
+        "Liver Neoplasms",
+        "Postoperative Complications"
+      ],
+      "interventions": [
+        "terlipressin"
+      ],
+      "summary": "Liver resection is an important surgical treatment for patients with liver diseases. Despite advances in surgical and anesthetic management, postoperative complications remain a major concern and may affect patient recovery. Maintaining stable blood circulation during surgery is an important part of perioperative care.\n\nTerlipressin is a vasoactive medication that may help maintain blood pressure and improve hemodynamic stability during surgery. However, the relationship between intraoperative continuous terlipressin infusion and postoperative outcomes after laparoscopic hepatectomy remains unclear.\n\nThis prospective observational cohort study aims to evaluate the association between continuous intraoperative terlipressin infusion and postoperative severe complications in patients undergoi",
+      "url": "https://clinicaltrials.gov/study/NCT07719933"
+    },
+    {
+      "nctId": "NCT06506955",
+      "title": "An Open-label, Rollover Study of Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib Study",
+      "briefTitle": "Futibatinib in Patients Previously Enrolled in an Antecedent Futibatinib as Monotherapy or Combination Therapy.",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-28",
+      "phase": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Advanced/Metastatic Cancer"
+      ],
+      "interventions": [
+        "futibatinib",
+        "futibatinib, fulvestrant"
+      ],
+      "summary": "This is a nonrandomized, open-label, multicenter rollover study for patients who received futibatinib as monotherapy or as combination therapy in a Taiho-sponsored futibatinib study.",
+      "url": "https://clinicaltrials.gov/study/NCT06506955"
+    }
+  ]
+}
