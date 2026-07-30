@@ -1,0 +1,861 @@
+{
+  "collected_at_utc": "2026-07-30T15:03:54.435461+00:00",
+  "filter": "AREA[LastUpdatePostDate]RANGE[2026-07-29,2026-07-30]",
+  "query_cond": "hepatocellular carcinoma OR liver cancer OR cholangiocarcinoma",
+  "related_count": 24,
+  "focus_count": 16,
+  "related": [
+    {
+      "nct": "NCT02465060",
+      "nctId": "NCT02465060",
+      "title": "Targeted Therapy Directed by Genetic Testing in Treating Patients With Advanced Refractory Solid Tumors, Lymphomas, or Multiple Myeloma (The MATCH Screening Trial)",
+      "officialTitle": "Molecular Analysis for Therapy Choice (MATCH)",
+      "conditions": [
+        "Advanced Lymphoma",
+        "Advanced Malignant Solid Neoplasm",
+        "Bladder Carcinoma",
+        "Breast Carcinoma",
+        "Cervical Carcinoma",
+        "Colon Carcinoma",
+        "Colorectal Carcinoma",
+        "Endometrial Carcinoma",
+        "Esophageal Carcinoma",
+        "Exocrine Pancreas Carcinoma",
+        "Gastric Carcinoma",
+        "Glioma",
+        "Head and Neck Carcinoma",
+        "Hematopoietic and Lymphoid Cell Neoplasm",
+        "Kidney Carcinoma",
+        "Liver Carcinoma",
+        "Lung Carcinoma",
+        "Lymphoma",
+        "Malignant Uterine Corpus Neoplasm",
+        "Malignant Uterine Neoplasm",
+        "Melanoma",
+        "Multiple Myeloma",
+        "Ovarian Carcinoma",
+        "Prostate Carcinoma",
+        "Rectal Carcinoma",
+        "Recurrent Bladder Carcinoma",
+        "Recurrent Breast Carcinoma",
+        "Recurrent Cervical Carcinoma",
+        "Recurrent Colon Carcinoma",
+        "Recurrent Colorectal Carcinoma",
+        "Recurrent Esophageal Carcinoma",
+        "Recurrent Gastric Carcinoma",
+        "Recurrent Glioma",
+        "Recurrent Head and Neck Carcinoma",
+        "Recurrent Liver Carcinoma",
+        "Recurrent Lung Carcinoma",
+        "Recurrent Lymphoma",
+        "Recurrent Malignant Solid Neoplasm",
+        "Recurrent Malignant Uterine Corpus Neoplasm",
+        "Recurrent Melanoma",
+        "Recurrent Multiple Myeloma",
+        "Recurrent Ovarian Carcinoma",
+        "Recurrent Pancreatic Carcinoma",
+        "Recurrent Prostate Carcinoma",
+        "Recurrent Rectal Carcinoma",
+        "Recurrent Skin Carcinoma",
+        "Recurrent Thyroid Gland Carcinoma",
+        "Refractory Lymphoma",
+        "Refractory Malignant Solid Neoplasm",
+        "Refractory Multiple Myeloma",
+        "Skin Carcinoma",
+        "Thyroid Gland Carcinoma"
+      ],
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06050252",
+      "nctId": "NCT06050252",
+      "title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "officialTitle": "A Phase II Trial of Durvalumab With Gemcitabine and Cisplatin as Neoadjuvant Therapy for High-Risk Resectable Intrahepatic Cholangiocarcinoma",
+      "conditions": [
+        "Resectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07734766",
+      "nctId": "NCT07734766",
+      "title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "officialTitle": "A Single-Arm Study of Ebastine as Adjuvant Therapy in Patients With Tumor Budding-Positive Hepatocellular Carcinoma After Curative Hepatectomy",
+      "conditions": [
+        "Hepato Cellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE4"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07409805",
+      "nctId": "NCT07409805",
+      "title": "YMN-136 Vaccine for Patients With Liver Metastasis of Colorectal Cancer Progressing After Third-Line Treatment",
+      "officialTitle": "Evaluation of Safety and Efficacy of YMN-136 Vaccine in Patients With Liver Metastasis of Colorectal Cancer Progressing After Third-Line Treatment: A Prospective Phase I Clinical Study",
+      "conditions": [
+        "Colorectal Cancer"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07732686",
+      "nctId": "NCT07732686",
+      "title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "officialTitle": "Breath Volatile Organic Compounds (VOC) Analysis Using Proton Transfer Reaction Mass Spectrometry (PTR-MS)",
+      "conditions": [
+        "Pancreas Cancer",
+        "Hepatocellular Carcinoma",
+        "Lung Cancer",
+        "Ovarian Cancer",
+        "Breast Cancer",
+        "Head and Neck Cancer",
+        "Colon Cancer",
+        "Bladder Cancer",
+        "Other Cancer"
+      ],
+      "phases": [],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL"
+    },
+    {
+      "nct": "NCT04712643",
+      "nctId": "NCT04712643",
+      "title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "officialTitle": "A Phase III, Open-Label, Randomized Study of On-Demand TACE Combined With Atezolizumab Plus Bevacizumab (Atezo/Bev) or On-Demand TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "officialTitle": "An Exploratory Study on the Use of Envafolimab Combined With Suvemcitug and HAIC for the Conversion Therapy of Potentially Resectable Hepatocellular Carcinoma",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07734857",
+      "nctId": "NCT07734857",
+      "title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "officialTitle": "Peripheral Blood Biomarkers for Predicting Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma: A Single-Center Prospective Observational Cohort Study",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "phases": [],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL"
+    },
+    {
+      "nct": "NCT07732504",
+      "nctId": "NCT07732504",
+      "title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "officialTitle": "A Pragmatic, Multicenter, Open-Label, Blinded-Outcome, Parallel-Group Randomized Controlled Trial of AI-Guided Risk-Adaptive Surveillance for Early Detection and Curative-Intent Salvage of Hepatocellular Carcinoma Recurrence After Resection or Thermal Ablation",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06427941",
+      "nctId": "NCT06427941",
+      "title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "officialTitle": "A Phase 1 Study Investigating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Selected Advanced or Metastatic Solid Tumors",
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Local Advanced Hepatocellular Carcinoma",
+        "Alpha-fetoprotein (AFP)-Producing Gastric Cancer",
+        "Extragonadal Yolk Sac Tumors",
+        "Glypican-3 (GPC3)-Positive Squamous Non-small Cell Lung Cancer"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT05621499",
+      "nctId": "NCT05621499",
+      "title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "officialTitle": "The Safety and Efficacy of HAIC or Lenvatinib Combined With Sintilimab as a Neoadjuvant Therapy for High Recurrence Risk Resectable Stage IB Solitary Hepatocellular Carcinoma: a Prospective, Randomized, Two Cohort, Exploratory Study",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "officialTitle": "A Multi-Center, Double-Blind, Randomized, Phase III Study to Investigate the Efficacy and Safety of Nofazinlimab (CS1003) in Combination With Lenvatinib Compared to Placebo in Combination With Lenvatinib as First-Line Therapy in Subjects With Advanced Hepatocellular Carcinoma (HCC)",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": true,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06786429",
+      "nctId": "NCT06786429",
+      "title": "Managing Hepatitis B (Hep. B) and Human Papilloma Virus (HPV) Related Cancers and Mental Health.",
+      "officialTitle": "Managing Hepatitis B (Hep. B) and Human Papilloma Virus (HPV) Related Cancers Among Women of Childbearing Age, and Young Adults in Zimbabwe in the Context of Mental Health: a Multimodal, Multifaceted Approach.",
+      "conditions": [
+        "Hepatitis B",
+        "Human Papilloma Virus",
+        "Mental Health Issue",
+        "Cancer Liver",
+        "Cancer of Cervix",
+        "Depression, Anxiety"
+      ],
+      "phases": [
+        "PHASE4"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06160752",
+      "nctId": "NCT06160752",
+      "title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "officialTitle": "A Multicenter, Open-label, First-in-Human Study of TYRA-200 in Advanced Intrahepatic Cholangiocarcinoma and Other Solid Tumors With Activating FGFR2 Gene Alterations (SURF-201)",
+      "conditions": [
+        "Locally Advanced Cholangiocarcinoma",
+        "Intrahepatic Cholangiocarcinoma",
+        "Solid Tumor",
+        "Metastatic Cholangiocarcinoma"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06638502",
+      "nctId": "NCT06638502",
+      "title": "Safety of HRX215 in Patients After Minor and Major Liver Resection",
+      "officialTitle": "Double-Blind, Randomized, Placebo-Controlled, Study to Evaluate the Safety and Efficacy of HRX215 in Participants After Major Hepatectomy, Preceded by Two Open Pilot Parts in Participants After Minor and After Major Hepatectomy Due to Colon Carcinoma Metastases",
+      "conditions": [
+        "Liver Resection",
+        "Colorectal Carcinoma Liver Metastases"
+      ],
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07281924",
+      "nctId": "NCT07281924",
+      "title": "Hepzato Kit and Opdualag for Metastatic Melanoma and Liver Metastasis",
+      "officialTitle": "A Phase 1b/2 Trial Evaluating the Safety, Tolerability, and Preliminary Efficacy of Melphalan Percutaneous Hepatic Perfusion Therapy (HEPZATO KIT™) With Nivolumab and Relatlimab (Opdualag) in Patients With Metastatic Melanoma and Liver Metastasis",
+      "conditions": [
+        "Metastatic Melanoma",
+        "Liver Metastases"
+      ],
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07731373",
+      "nctId": "NCT07731373",
+      "title": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "officialTitle": "COMPASS-PedPCOS: BMI-Independent Mechanistic Dissection of PCOS-Associated MASLD in Adolescent Girls With Obesity Using an Expanded Biomarker Panel - A Single-Center Pre-Pilot Clinical Study",
+      "conditions": [
+        "Polycystic Ovary Syndrome (PCOS)",
+        "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+        "Pediatric Obesity",
+        "Hyperandrogenism",
+        "Insulin Resistance Syndrome"
+      ],
+      "phases": [],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL"
+    },
+    {
+      "nct": "NCT03695250",
+      "nctId": "NCT03695250",
+      "title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "officialTitle": "Phase I/II Trial of BMS-986205 and Nivolumab as First or Second Line Therapy in Hepatocellular Carcinoma",
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8",
+        "Stage IVA Hepatocellular Carcinoma AJCC v8",
+        "Stage IVB Hepatocellular Carcinoma AJCC v8",
+        "Unresectable Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "TERMINATED",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": true,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07285044",
+      "nctId": "NCT07285044",
+      "title": "The Cancer Connected Access and Remote Expertise Beyond Walls Program to Provide In-Home Cancer Treatment and Improve Treatment Satisfaction in Cancer Patients Living in the Florida Panhandle and Surrounding Areas",
+      "officialTitle": "Cancer CARE (Connected Access and Remote Expertise) Beyond Walls - Pilot, Phase 2 Clinical Trial to Evaluate Administration of Cancer-Directed Therapy in the Patient's Homes Versus in Clinic in the Florida Panhandle and Surrounding Areas",
+      "conditions": [
+        "Amyloidosis",
+        "Basal Cell Carcinoma",
+        "Biliary Tract Carcinoma",
+        "Bladder Carcinoma",
+        "Breast Carcinoma",
+        "Cervical Carcinoma",
+        "Colorectal Carcinoma",
+        "Endometrial Carcinoma",
+        "Fallopian Tube Carcinoma",
+        "Gastroesophageal Junction Carcinoma",
+        "Glioblastoma",
+        "Head and Neck Carcinoma",
+        "Hematopoietic and Lymphatic System Neoplasm",
+        "Hepatocellular Carcinoma",
+        "Hodgkin Lymphoma",
+        "Lung Carcinoma",
+        "Malignant Solid Neoplasm",
+        "Mantle Cell Lymphoma",
+        "Melanoma",
+        "Merkel Cell Carcinoma",
+        "Multiple Myeloma",
+        "Myelodysplastic Syndrome",
+        "Ovarian Carcinoma",
+        "Pancreatic Carcinoma",
+        "Primary Peritoneal Carcinoma",
+        "Prostate Carcinoma",
+        "Renal Cell Carcinoma",
+        "Squamous Cell Carcinoma",
+        "Urothelial Carcinoma"
+      ],
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07268131",
+      "nctId": "NCT07268131",
+      "title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "officialTitle": "Neoadjuvant TACE Plus Iparomlimab and Tuvonralimab （QL1706）and Adjuvant QL1706 in Resectable BCLC Stage A/B Hepatocellular Carcinoma Patients Beyond Milan Criteria: the TITAN-HCC Phase II Trial",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT05039632",
+      "nctId": "NCT05039632",
+      "title": "Phase I/II Randomized Study of NBTXR3 Activated by Abscopal or RadScopal Radiation in Combination With Immunotherapy (Anti-PD-1/L-1) for Patients With Advanced Solid Malignancies",
+      "officialTitle": "Phase I/II Randomized Study of NBTXR3 Activated by Abscopal or RadScopal Radiation in Combination With Immunotherapy (Anti-PD-1/L-1) for Patients With Advanced Solid Malignancies",
+      "conditions": [
+        "Advanced Malignant Solid Neoplasm",
+        "Metastatic Malignant Neoplasm in the Liver",
+        "Metastatic Malignant Neoplasm in the Lung",
+        "Metastatic Malignant Solid Neoplasm"
+      ],
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06915753",
+      "nctId": "NCT06915753",
+      "title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "officialTitle": "A Multicenter, Open-label, First-in-Human Study of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Solid Tumors",
+        "Solid Tumor, Adult",
+        "FGFR Gene Amplification",
+        "FGFR Gene Alterations",
+        "FGFR3 Gene Alteration",
+        "FGFR3 Gene Mutation",
+        "Advanced Solid Tumors",
+        "FGFR4 Gene Mutation",
+        "FGFR4 Gene Fusions",
+        "FGF19 Gene Amplification",
+        "FGF19 Gene Overexpression",
+        "FGFR3 Gene Fusions",
+        "Locally Advanced Unresectable Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "officialTitle": "Phase I Study Evaluating Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT05563870",
+      "nctId": "NCT05563870",
+      "title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "officialTitle": "A Combined Endoscopy and Radiology-guided Radiofrequency Ablation Therapy Protocol for Inoperable Perihilar Cholangiocarcinoma",
+      "conditions": [
+        "Perihilar Cholangiocarcinoma"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    }
+  ],
+  "focus": [
+    {
+      "nct": "NCT06050252",
+      "nctId": "NCT06050252",
+      "title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "officialTitle": "A Phase II Trial of Durvalumab With Gemcitabine and Cisplatin as Neoadjuvant Therapy for High-Risk Resectable Intrahepatic Cholangiocarcinoma",
+      "conditions": [
+        "Resectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07734766",
+      "nctId": "NCT07734766",
+      "title": "Ebastine for Adjuvant Treatment of Tumor Budding-Positive Liver Cancer After Surgery",
+      "officialTitle": "A Single-Arm Study of Ebastine as Adjuvant Therapy in Patients With Tumor Budding-Positive Hepatocellular Carcinoma After Curative Hepatectomy",
+      "conditions": [
+        "Hepato Cellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE4"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07732686",
+      "nctId": "NCT07732686",
+      "title": "Analysis of Breath Volatile Organic Compounds Using Mass Spectrometry",
+      "officialTitle": "Breath Volatile Organic Compounds (VOC) Analysis Using Proton Transfer Reaction Mass Spectrometry (PTR-MS)",
+      "conditions": [
+        "Pancreas Cancer",
+        "Hepatocellular Carcinoma",
+        "Lung Cancer",
+        "Ovarian Cancer",
+        "Breast Cancer",
+        "Head and Neck Cancer",
+        "Colon Cancer",
+        "Bladder Cancer",
+        "Other Cancer"
+      ],
+      "phases": [],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL"
+    },
+    {
+      "nct": "NCT04712643",
+      "nctId": "NCT04712643",
+      "title": "A Study of TACE Combined With Atezolizumab Plus Bevacizumab or TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "officialTitle": "A Phase III, Open-Label, Randomized Study of On-Demand TACE Combined With Atezolizumab Plus Bevacizumab (Atezo/Bev) or On-Demand TACE Alone in Patients With Untreated Heaptocellular Carcionma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "officialTitle": "An Exploratory Study on the Use of Envafolimab Combined With Suvemcitug and HAIC for the Conversion Therapy of Potentially Resectable Hepatocellular Carcinoma",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07734857",
+      "nctId": "NCT07734857",
+      "title": "Peripheral Blood Biomarkers and Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma",
+      "officialTitle": "Peripheral Blood Biomarkers for Predicting Response to Atezolizumab Plus Bevacizumab in Hepatocellular Carcinoma: A Single-Center Prospective Observational Cohort Study",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "phases": [],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "OBSERVATIONAL"
+    },
+    {
+      "nct": "NCT07732504",
+      "nctId": "NCT07732504",
+      "title": "AI-Guided Surveillance and Curative Salvage of Recurrence After Hepatocellular Carcinoma Resection or Ablation",
+      "officialTitle": "A Pragmatic, Multicenter, Open-Label, Blinded-Outcome, Parallel-Group Randomized Controlled Trial of AI-Guided Risk-Adaptive Surveillance for Early Detection and Curative-Intent Salvage of Hepatocellular Carcinoma Recurrence After Resection or Thermal Ablation",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06427941",
+      "nctId": "NCT06427941",
+      "title": "A Phase 1 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+      "officialTitle": "A Phase 1 Study Investigating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Selected Advanced or Metastatic Solid Tumors",
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Local Advanced Hepatocellular Carcinoma",
+        "Alpha-fetoprotein (AFP)-Producing Gastric Cancer",
+        "Extragonadal Yolk Sac Tumors",
+        "Glypican-3 (GPC3)-Positive Squamous Non-small Cell Lung Cancer"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT05621499",
+      "nctId": "NCT05621499",
+      "title": "HAIC or Lenvatinib Combined With Sintilimab for High Recurrence Risk Resectable Solitary Hepatocellular Carcinoma",
+      "officialTitle": "The Safety and Efficacy of HAIC or Lenvatinib Combined With Sintilimab as a Neoadjuvant Therapy for High Recurrence Risk Resectable Stage IB Solitary Hepatocellular Carcinoma: a Prospective, Randomized, Two Cohort, Exploratory Study",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "officialTitle": "A Multi-Center, Double-Blind, Randomized, Phase III Study to Investigate the Efficacy and Safety of Nofazinlimab (CS1003) in Combination With Lenvatinib Compared to Placebo in Combination With Lenvatinib as First-Line Therapy in Subjects With Advanced Hepatocellular Carcinoma (HCC)",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": true,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06160752",
+      "nctId": "NCT06160752",
+      "title": "Safety and Anti-Tumor Activity of TYRA-200 in Advanced Cholangiocarcinoma With Activating FGFR2 Gene Alterations",
+      "officialTitle": "A Multicenter, Open-label, First-in-Human Study of TYRA-200 in Advanced Intrahepatic Cholangiocarcinoma and Other Solid Tumors With Activating FGFR2 Gene Alterations (SURF-201)",
+      "conditions": [
+        "Locally Advanced Cholangiocarcinoma",
+        "Intrahepatic Cholangiocarcinoma",
+        "Solid Tumor",
+        "Metastatic Cholangiocarcinoma"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT03695250",
+      "nctId": "NCT03695250",
+      "title": "BMS-986205 and Nivolumab as First or Second Line Therapy in Treating Patients With Liver Cancer",
+      "officialTitle": "Phase I/II Trial of BMS-986205 and Nivolumab as First or Second Line Therapy in Hepatocellular Carcinoma",
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8",
+        "Stage IVA Hepatocellular Carcinoma AJCC v8",
+        "Stage IVB Hepatocellular Carcinoma AJCC v8",
+        "Unresectable Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "TERMINATED",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": true,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07268131",
+      "nctId": "NCT07268131",
+      "title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "officialTitle": "Neoadjuvant TACE Plus Iparomlimab and Tuvonralimab （QL1706）and Adjuvant QL1706 in Resectable BCLC Stage A/B Hepatocellular Carcinoma Patients Beyond Milan Criteria: the TITAN-HCC Phase II Trial",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT06915753",
+      "nctId": "NCT06915753",
+      "title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "officialTitle": "A Multicenter, Open-label, First-in-Human Study of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+      "conditions": [
+        "Metastatic Hepatocellular Carcinoma",
+        "Solid Tumors",
+        "Solid Tumor, Adult",
+        "FGFR Gene Amplification",
+        "FGFR Gene Alterations",
+        "FGFR3 Gene Alteration",
+        "FGFR3 Gene Mutation",
+        "Advanced Solid Tumors",
+        "FGFR4 Gene Mutation",
+        "FGFR4 Gene Fusions",
+        "FGF19 Gene Amplification",
+        "FGF19 Gene Overexpression",
+        "FGFR3 Gene Fusions",
+        "Locally Advanced Unresectable Hepatocellular Carcinoma"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "RECRUITING",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "officialTitle": "Phase I Study Evaluating Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "phases": [
+        "PHASE1"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePostDate": "2026-07-30",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    },
+    {
+      "nct": "NCT05563870",
+      "nctId": "NCT05563870",
+      "title": "Endoscopy and Radiology-guided Ablation for Inoperable Cholangiocarcinoma",
+      "officialTitle": "A Combined Endoscopy and Radiology-guided Radiofrequency Ablation Therapy Protocol for Inoperable Perihilar Cholangiocarcinoma",
+      "conditions": [
+        "Perihilar Cholangiocarcinoma"
+      ],
+      "phases": [
+        "NA"
+      ],
+      "status": "COMPLETED",
+      "lastUpdatePostDate": "2026-07-29",
+      "hasResults": false,
+      "studyType": "INTERVENTIONAL"
+    }
+  ],
+  "focus_ncts": [
+    "NCT06050252",
+    "NCT07734766",
+    "NCT07732686",
+    "NCT04712643",
+    "NCT07738055",
+    "NCT07734857",
+    "NCT07732504",
+    "NCT06427941",
+    "NCT05621499",
+    "NCT04194775",
+    "NCT06160752",
+    "NCT03695250",
+    "NCT07268131",
+    "NCT06915753",
+    "NCT07715903",
+    "NCT05563870"
+  ],
+  "related_ncts": [
+    "NCT02465060",
+    "NCT06050252",
+    "NCT07734766",
+    "NCT07409805",
+    "NCT07732686",
+    "NCT04712643",
+    "NCT07738055",
+    "NCT07734857",
+    "NCT07732504",
+    "NCT06427941",
+    "NCT05621499",
+    "NCT04194775",
+    "NCT06786429",
+    "NCT06160752",
+    "NCT06638502",
+    "NCT07281924",
+    "NCT07731373",
+    "NCT03695250",
+    "NCT07285044",
+    "NCT07268131",
+    "NCT05039632",
+    "NCT06915753",
+    "NCT07715903",
+    "NCT05563870"
+  ]
+}

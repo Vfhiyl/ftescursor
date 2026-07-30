@@ -1,0 +1,35 @@
+{
+  "collected_at_utc": "2026-07-30T15:03:54.435461+00:00",
+  "window_hours": 24,
+  "medrxiv": [],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "category": "cancer biology"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1287662",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1287547",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR"
+    }
+  ],
+  "counts": {
+    "medrxiv": 0,
+    "biorxiv": 1,
+    "europepmc_ppr": 2
+  }
+}
