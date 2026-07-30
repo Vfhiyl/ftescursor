@@ -1,0 +1,314 @@
+{
+  "count": 23,
+  "items": [
+    {
+      "pmid": "42530952",
+      "title": "Refining Combination Locoregional Therapy for Intermediate-Stage Hepatocellular Carcinoma-Lessons From the TORCH Trial.",
+      "journal": "JAMA oncology",
+      "doi": "10.1001/jamaoncol.2026.1884",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530952/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42530948",
+      "title": "Transarterial Chemoembolization Plus Thermal Ablation in Unresectable Hepatocellular Carcinoma: The Phase 3 TORCH Randomized Clinical Trial.",
+      "journal": "JAMA oncology",
+      "doi": "10.1001/jamaoncol.2026.2366",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Transarterial chemoembolization (TACE) is the standard of care for liver-confined hepatocellular carcinoma (HCC) that is not amenable to curative treatment; however, TACE has demonstrated unsatisfactory survival benefits. To evaluate whether combining TACE with subsequent thermal ablation improves clinical outcomes compared with TACE alone in patients with liver-confined unresectable HCC. The open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530948/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42529015",
+      "title": "Serum M2BPGi as a predictor of hepatocellular carcinoma development in chronic hepatitis B and C: a systematic review and meta-analysis.",
+      "journal": "Frontiers in medicine",
+      "doi": "10.1093/infdis/jiz496",
+      "pub_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "abstract_snippet": "Hepatocellular carcinoma (HCC) kills about 830,000 people each year, and most cases arise in chronic viral hepatitis. Better risk markers would let clinicians focus surveillance where it matters. Mac-2 binding protein glycosylation isomer (M2BPGi) is a serum glycobiomarker of liver fibrosis. Several cohort studies tie elevated M2BPGi to HCC. No quantitative synthesis has pooled this evidence acros",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529015/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42528412",
+      "title": "TRIM31 promotes lenvatinib resistance and stemness in hepatocellular carcinoma through K48/K63-linked ubiquitination of GLDC.",
+      "journal": "Acta biochimica et biophysica Sinica",
+      "doi": "10.3724/abbs.2026111",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Hepatocellular carcinoma (HCC) is a type of cancer with a high incidence rate and a high mortality rate and is a major cause of cancer-related death. The resistance of liver cancer cells to lenvatinib has become a crucial limitation that restricts the clinical therapeutic efficacy of HCC treatment. In the present study, we successfully establish lenvatinib-resistant liver cancer cell lines and per",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528412/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42528367",
+      "title": "Hepatic T-cell dysfunction in chronic liver disease and hepatocellular carcinoma: a spatial systems immunology framework for precision immunotherapy.",
+      "journal": "Expert opinion on therapeutic targets",
+      "doi": "10.1080/14728222.2026.2708824",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract_snippet": "Chronic liver diseases, including chronic viral hepatitis, metabolic dysfunction-associated steatohepatitis (MASH), cirrhosis, and hepatocellular carcinoma (HCC), are characterized by progressive immune dysregulation that drives chronic inflammation, fibrosis, and hepatocarcinogenesis. Although hepatic T-cell dysfunction is a hallmark of these diseases, it is still predominantly investigated throu",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528367/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42527888",
+      "title": "A Legacy Strategy in a Modern Era: Reassessing Low Central Venous Pressure During Hepatectomy.",
+      "journal": "The American surgeon",
+      "doi": "10.1177/00031348261474197",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract_snippet": "Low central venous pressure (LCVP) has long been used to reduce bleeding during hepatectomy, but whether its benefit persists in the context of modern liver surgery, particularly minimally invasive approaches, remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials comparing LCVP with conventional central venous pressure management. PubMed, Embase, Web",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527888/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42527869",
+      "title": "Bronchobiliary Fistula After Hepatic Ablation: A Case-Based Systematic Review and Practical Management Algorithm.",
+      "journal": "The American surgeon",
+      "doi": "10.1177/00031348261474185",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract_snippet": "BackgroundBronchobiliary fistula (BBF) is a rare but significant complication of hepatic ablation, particularly in tumors adjacent to the diaphragm. With increasing use of thermal ablation, growing literature has emerged characterizing its presentation and management.MethodsWe present a representative case of recurrent BBF after radiofrequency ablation for hepatocellular carcinoma, successfully ma",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527869/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42527293",
+      "title": "Hepatocellular carcinoma A major challenge in the Arab world: A systematic review.",
+      "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+      "doi": "10.1016/j.ajg.2026.06.010",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "abstract_snippet": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527293/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42527085",
+      "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma.",
+      "journal": "Anticancer research",
+      "doi": "10.21873/anticanres.18300",
+      "pub_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "abstract_snippet": "Durvalumab plus tremelimumab (DT) therapy has demonstrated overall survival benefit in a clinical trial and is now widely used as first-line treatment for unresectable hepatocellular carcinoma (u-HCC). However, evidence supporting the efficacy of lenvatinib (LEN) as subsequent therapy after DT progression remains limited. This multicenter study enrolled patients who received LEN as first-line ther",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527085/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42526918",
+      "title": "Development of an externally controlled trial from a single-arm study to assess first-line immunochemotherapy in advanced large cell neuroendocrine lung carcinomas: a study protocol from the FIRST-NEC GFPC 01-2022 trial.",
+      "journal": "BMJ open",
+      "doi": "10.1136/bmjopen-2026-118897",
+      "pub_types": [
+        "Journal Article",
+        "Clinical Trial Protocol"
+      ],
+      "abstract_snippet": "Large-cell neuroendocrine carcinomas (LCNECs) of the lung are rare tumours with poor prognosis. A platinum-based regimen is currently the recommended first-line treatment for advanced LCNECs. Retrospective studies suggest potential benefit from immune checkpoint inhibitors (ICIs) but prospective data is lacking. The ongoing phase II FIRST-NEC (First-line treatment for NeuroEndocrine Carcinoma) ext",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526918/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42526598",
+      "title": "Impact of Adherence to Target Volume Contouring Guidelines on Patterns of Failure in Sacral Stereotactic Body Radiotherapy.",
+      "journal": "Practical radiation oncology",
+      "doi": "10.1016/j.prro.2026.07.001",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "We previously demonstrated that adherence to sacral stereotactic body radiotherapy (SBRT) clinical target volume (CTV) contouring guidelines is independently associated with reduced risk of local failure (LF). We hypothesized that this benefit results from coverage of involved and adjacent boney sectors at risk of subclinical disease and performed a pattern-of-failure (POF) analysis to evaluate th",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526598/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42525921",
+      "title": "COMMIT: A Randomized Study of mFOLFOX6/Bevacizumab/Atezolizumab or Atezolizumab Alone as First-Line Treatment of Deficient DNA Mismatch Repair Metastatic Colorectal Cancer.",
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "doi": "10.1200/JCO-25-03052",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Immunotherapy for frontline mismatch repair-deficient/microsatellite instability-high (dMMR/MSI-H) metastatic colorectal cancer (mCRC) is effective; however, nearly half of the patients treated with single-agent PD-1 therapy will progress within 12 months. Preclinical studies in CRC and clinical data from other cancers suggest that vascular endothelial growth factor inhibition and chemotherapy can",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525921/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42524843",
+      "title": "Exploring the Role of Surgery After Systemic Therapy in Locally Advanced Biliary Tract Cancer: Outcomes From a Large Retrospective Multinational Real-World Cohort Treated With Cisplatin, Gemcitabine, and Durvalumab.",
+      "journal": "International journal of cancer",
+      "doi": "10.1002/ijc.70641",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Surgery after response to first-line chemoimmunotherapy may offer a potential curative option for patients with locally advanced biliary tract cancer (BTC) initially considered unresectable. However, robust real-world evidence in this setting remains limited. We retrospectively analyzed patients with locally advanced BTC treated with first-line cisplatin, gemcitabine, and durvalumab (CGD) across 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524843/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42524660",
+      "title": "Definition of Conversion Therapy and Neoadjuvant Therapy for Hepatocellular Carcinoma: A Consensus Guideline from the Japan Liver Cancer Association.",
+      "journal": "Liver cancer",
+      "doi": "10.1159/000552928",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "With the advent of novel systemic therapies that provide high response rates, such as lenvatinib, atezolizumab-bevacizumab, durvalumab-tremelimumab, and nivolumab-ipilimumab, treatment strategies for patients with advanced hepatocellular carcinoma (HCC) have markedly evolved, and discussions on conversion therapy - which, broadly speaking, combines these systemic therapies with locoregional modali",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524660/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42524515",
+      "title": "Lenvatinib Added to Nivolumab and Ipilimumab Improves Tumor Control and Progression-Free Survival in Unresectable Hepatocellular Carcinoma.",
+      "journal": "Liver cancer",
+      "doi": "10.1159/000552861",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "In CheckMate-9DW, the suboptimal early tumor control of nivolumab-ipilimumab resulted in higher early mortality compared with the sorafenib/lenvatinib arm during the first 12 months. We evaluated whether adding lenvatinib to nivolumab-ipilimumab (NIL) improves outcomes versus nivolumab-ipilimumab (NI). Patients with unresectable HCC treated with NI with or without lenvatinib were retrospectively a",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524515/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42524025",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade.",
+      "journal": "Therapeutic advances in medical oncology",
+      "doi": "10.1177/17588359261470015",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Transarterial chemoembolization combined with tyrosine kinase inhibitors and immune checkpoint inhibitors (TTI) has emerged as a promising strategy for unresectable hepatocellular carcinoma (uHCC); however, its impact on liver function and the prognostic role of baseline albumin-bilirubin (ALBI) grade remain insufficiently defined. To compare the effects of combined therapy and transarterial chemo",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524025/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42523995",
+      "title": "Combination therapy with anti-PD-1 antibody, radiotherapy, and tyrosine kinase inhibitor for unresectable primary ectopic hepatocellular carcinoma: a case report with genomic profiling and literature review.",
+      "journal": "Frontiers in immunology",
+      "doi": "10.1016/j.jhep.2021.11.018",
+      "pub_types": [
+        "Journal Article",
+        "Case Reports",
+        "Systematic Review",
+        "Review"
+      ],
+      "abstract_snippet": "Ectopic hepatocellular carcinoma (EHCC) is an exceedingly rare malignancy characterized by its occurrence outside the liver without a detectable intrahepatic primary tumor. Owing to its rarity and the absence of standardized management guidelines, the diagnosis and treatment of EHCC pose significant challenges. We report a case of unresectable, multifocal EHCC managed by a multidisciplinary team (",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523995/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42523965",
+      "title": "Clinical Outcomes of Lenvatinib-Pembrolizumab in a High-Risk, Dual ICI-Refractory Melanoma Cohort.",
+      "journal": "Clinical Medicine Insights. Oncology",
+      "doi": "10.1177/11795549261472694",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Resistance to immune checkpoint inhibitors (ICIs) remains a major therapeutic challenge in advanced melanoma. The phase II LEAP-004 trial demonstrated activity of lenvatinib plus pembrolizumab after ICI failure; however, real-world data are limited. We conducted a retrospective single-center case series of nine consecutive patients with unresectable or metastatic melanoma refractory to prior immun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523965/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42523603",
+      "title": "Metabolic comorbidities affect the survival of hepatitis B virus-related hepatocellular carcinoma in Chinese patients: a retrospective cohort study with propensity score matching.",
+      "journal": "Frontiers in oncology",
+      "doi": "10.18632/oncotarget.12203",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Recent literature has confirmed the roles of metabolic comorbidities as risk factors for the incidence of hepatocellular carcinoma (HCC). In China, most HCC cases are attributed to chronic hepatitis B virus (HBV). However, the relationships between metabolic comorbidities and the prognosis of Chinese patients with hepatitis B virus (HBV)-related HCC remain uncertain. A total of 164 patients with H",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523603/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42522589",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+      "doi": "10.1111/liv.70825",
+      "pub_types": [
+        "Letter"
+      ],
+      "abstract_snippet": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522589/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42522214",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy.",
+      "journal": "ANZ journal of surgery",
+      "doi": "10.1111/ans.70762",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "To investigate the psychological status of patients with hepatocellular carcinoma (HCC) undergoing hepatectomy, analyze risk factors for anxiety and depression, and provide a theoretical basis for individualized mental intervention strategies. A total of 412 HCC patients who underwent hepatectomy at Fuyang People's Hospital from January 2022 to January 2026 were enrolled. The Hospital Anxiety and ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522214/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42521316",
+      "title": "Evaluating the effectiveness and safety of adjuvant transcatheter arterial chemoembolisation (TACE) after curative resection for Barcelona Clinic Liver Cancer (BCLC) stage 0-B hepatocellular carcinoma: protocol for a target trial emulation study.",
+      "journal": "BMJ open",
+      "doi": "10.1136/bmjopen-2026-117956",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "According to Chinese clinical practice guidelines, patients with hepatocellular carcinoma (HCC) at high risk of recurrence after curative hepatectomy should have adjuvant transcatheter arterial chemoembolisation (TACE). However, the National Comprehensive Cancer Network and the European Association for the Study of the Liver guidelines take a more conservative stance on the routine use of adjuvant",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521316/",
+      "clinical_leaning": true,
+      "is_fp": false
+    },
+    {
+      "pmid": "42520930",
+      "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
+      "journal": "JHEP reports : innovation in hepatology",
+      "doi": "10.1016/j.jhepr.2026.101968",
+      "pub_types": [
+        "Journal Article"
+      ],
+      "abstract_snippet": "Biliary tract cancers (BTCs) are rare, heterogeneous tumors associated with a poor prognosis, even after curative-intent surgery. Adjuvant capecitabine is currently the standard of care; however, real-world data on its efficacy and tolerance are lacking. This French, retrospective, multicentre study, nested within the ACABi-PRONOBIL observational cohort, assessed adjuvant capecitabine efficacy in ",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520930/",
+      "clinical_leaning": true,
+      "is_fp": false
+    }
+  ]
+}

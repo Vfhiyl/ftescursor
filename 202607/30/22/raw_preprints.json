@@ -1,0 +1,188 @@
+{
+  "window": {
+    "from": "2026-07-28",
+    "to": "2026-07-30",
+    "note": "med/bioRxiv details uses ~48h broaden for sentinel continuity; EPMC FIRST_PDATE 24h"
+  },
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "radiology and imaging",
+      "abstract_snippet": "Objective: To identify common photon-counting CT (PCCT) virtual monochromatic imaging (VMI) settings for accurate hepatic fat fraction (FF) quantification across different body sizes, including large body habitus. Method"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-14",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "cancer biology",
+      "abstract_snippet": "Continuity SEEN via DOI endpoint (details date-window 48h did not re-list; original/version dates earlier than cursor window).",
+      "continuity_seen": true
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "abstract_snippet": "Human liver organoids (HLOs) and liver-on-a-chip (LoC) systems are emerging as physiologically relevant human models for studying liver function, disease, and drug metabolism, often in combination with human induced plur"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741358",
+      "title": "Hepatic huntingtin loss drives an acute phase response and liver injury in multiple mouse models",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "molecular biology",
+      "abstract_snippet": "Multiple therapeutic strategies are being developed to slow Huntington's disease (HD) progression through targeted reduction of huntingtin (HTT) protein or mRNA. Despite HTT's discovery over 30 years ago, its cellular fu"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740890",
+      "title": "A single-nucleus atlas of the adult laying hen liver reveals metabolic specialization and improved cellular resolution through enhanced genome annotation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genomics",
+      "abstract_snippet": "The liver of laying hens plays a central role in metabolism and reproduction, supporting the synthesis of egg yolk precursors under strong hormonal regulation. Despite its physiological importance, a high-resolution cell"
+    }
+  ],
+  "biorxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.26.740824",
+      "title": "Seasonal hepatic plasticity follows a temporal response hierarchy in a Neotropical frog",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "zoology",
+      "abstract_snippet": "BackgroundSeasonal climate variation drives physiological change across levels of biological organization in ectotherms, yet whether these responses follow a predictable temporal hierarchy remains untested in wild popula",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.26.740853",
+      "title": "Prohaptoglobin Promotes Pancreatic Cancer Progression by sustaining YAP Activity",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cancer biology",
+      "abstract_snippet": "Background & AimsProhaptoglobin (proHp), a precursor of haptoglobin (Hp), has recently emerged as a cancer-associated biomarker, but its functional role in pancreatic cancer remains unclear. We investigated whether proHp",
+      "reason": "fp theme"
+    },
+    {
+      "doi": "10.64898/2026.07.26.740828",
+      "title": "Doxycycline Modulates Uveal-Melanoma-Associated Marker Expression in BAP1-Repressed Human Ocular Organoids",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cancer biology",
+      "abstract_snippet": "Uveal Melanoma (UM) is the most common eye cancer, with a metastatic mortality rate of 80%. Only 1-3% of patients have detectable UM at metastasis, and UM exhibits punctuated early growth. Doxycycline has recently been s",
+      "reason": "fp theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.739364",
+      "title": "CRTC, not phosphorylated CREB1, drives cAMP-induced transcription across diverse cell types",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "abstract_snippet": "Specialized cell types layer cell-type-restricted proteins, metabolites, and organelles onto a shared foundation of core cellular processes. How this ubiquitous machinery generates lineage-specific outputs is central to ",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.26.740786",
+      "title": "The liver compensates for zonal loss of glucose 6-phosphatase to prevent glycogen storage disease",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "physiology",
+      "abstract_snippet": "The liver is organized into spatial zones with distinct metabolic roles, but how this architecture contributes to disease remains unclear. Glucose production is concentrated in periportal hepatocytes and depends on G6PC1",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.24.740574",
+      "title": "Nocturnin drives mitochondrial NADP(H)/NAD(H) rhythms to regulate steroid rhythm amplitude and time metabolism",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "physiology",
+      "abstract_snippet": "Circadian rhythms are conserved biological timekeeping mechanisms crucial for the temporal compartmentalization of metabolic processes. However, the molecular pathways by which circadian rhythms are regulated within meta",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741306",
+      "title": "Microbial association networks reveal hidden keystone taxa and cross-kingdom interactions after dryland wildfires",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "microbiology",
+      "abstract_snippet": "How wildfires reorganize soil microbial interactions is a key knowledge gap, particularly for drylands that cover nearly 40% of Earth's surface and face increasing wildfire frequency with global change. We compared bacte",
+      "reason": "fp theme"
+    },
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "neuroscience",
+      "abstract_snippet": "Neural lateralization is well recognized in the control of contralateral somatic movement, yet its relevance to visceral organ regulation remains poorly understood. This study aimed to determine whether the central nervo",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.1101/2024.07.15.603519",
+      "title": "Ancient tree-topologies and gene-flow processes among human lineages in Africa",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "4",
+      "category": "genetics",
+      "abstract_snippet": "The deep history of human evolution in Africa remains intensely debated, with increasingly complex models being proposed. To investigate this, we sequenced and analysed 73 novel high-quality whole genomes from 14 Central",
+      "reason": "non-HCC FP"
+    },
+    {
+      "doi": "10.64898/2026.07.01.735884",
+      "title": "Endogenous single-cell experiments and stochastic modeling reveal control mechanisms of glucocorticoid receptor dynamics and DUSP1 transcription",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "cell biology",
+      "abstract_snippet": "Glucocorticoids activate the glucocorticoid receptor (GR) to suppress inflammation, yet it remains unclear how GR transport dynamics and downstream gene regulation are coordinated within single cells. We combine immunocy",
+      "reason": "non-HCC FP"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "date": "2026-07-29",
+      "id": "PPR1287662",
+      "source": "PPR"
+    },
+    {
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "date": "2026-07-29",
+      "id": "PPR1287547",
+      "source": "PPR"
+    }
+  ],
+  "europepmc_http_status": 200,
+  "medrxiv_fp": [
+    {
+      "doi": "10.1101/2025.10.01.25337053",
+      "title": "Temporal Response and Survival Dynamics After Durvalumab in Stage III NSCLC: A Response-Augmented Continuous-Time Markov Framework",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "oncology",
+      "abstract_snippet": "Background: Immunotherapy in unresectable stage III NSCLC shows delayed treatment effects and time varying hazards that challenge proportional-hazards assumptions. We developed a continuous-time Markov chain (CTMC) model",
+      "reason": "NSCLC/non-HCC FP"
+    }
+  ]
+}

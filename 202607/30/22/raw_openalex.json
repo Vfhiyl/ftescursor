@@ -1,0 +1,440 @@
+{
+  "window": {
+    "from_publication_date": "2026-07-29",
+    "to_publication_date": "2026-07-30",
+    "preprint_from": "2026-07-23"
+  },
+  "works": [
+    {
+      "id": "https://openalex.org/W7171504839",
+      "doi": "10.1016/j.tranon.2026.102962",
+      "title": "3′UTR shortening of ZCRB1 promotes malignant progression of hepatocellular carcinoma through GOLM1",
+      "publication_date": "2026-07-29",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171509874",
+      "doi": "10.26442/18151434.2026.2.203697",
+      "title": "Hepatocellular carcinoma: prospects for CAR-T therapy in the Russian Federation. Results of the Expert Council meeting",
+      "publication_date": "2026-07-29",
+      "type": "article",
+      "cited_by_count": 0
+    }
+  ],
+  "works_count": 2,
+  "preprints": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171558660",
+      "doi": "10.26434/chemrxiv.15006664/v1",
+      "title": "Supramolecular tripeptide hydrogels as vehicles for redox-triggered release of chemotherapeutic drugs",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171397044",
+      "doi": "10.64898/2026.07.23.26358781",
+      "title": "High Prevalence of Malignancy in Obstructive Jaundice: A Cross-Sectional Study from Dongola, Sudan",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171507276",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "publication_date": "2026-07-29",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170137160",
+      "doi": "10.21203/rs.3.rs-10436444/v1",
+      "title": "Toxicological Evaluation of Dracaena trifasciata Methanolic Extract on Liver Function in Wistar Rats",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171117043",
+      "doi": "10.21203/rs.3.rs-10169506/v1",
+      "title": "Applied anatomical study of segmental Glissonean pedicles at the hepatic hilum under the concept of Laennec's Capsule",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171518564",
+      "doi": "10.21203/rs.3.rs-10347193/v1",
+      "title": "Three-Dimensional Anatomical Classification and Machine Learning Prediction of the P6a–Right Hepatic Vein Relationship: Surgical Implications for Laparoscopic Right Anterior Sectionectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171601356",
+      "doi": null,
+      "title": "SLIP: Segmentation with Low-latency Interactive Prompting for 3D Medical Images",
+      "publication_date": "2026-07-24",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171429238",
+      "doi": "10.64898/2026.07.26.740293",
+      "title": "Desialylated platelets promote hepatocyte proliferation via the ERK1/2 signaling pathway",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171439687",
+      "doi": "10.64898/2026.07.25.736411",
+      "title": "Matrix Stiffness-driven FAK Splicing Tunes Cell Mechanosensing",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171439551",
+      "doi": "10.21203/rs.3.rs-10341374/v1",
+      "title": "Hydroxysafflor Yellow A Attenuates Microcirculatory Disturban ce in MAFLD via the EGFR/MAPK1 Pathway",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171437528",
+      "doi": "10.64898/2026.07.24.740526",
+      "title": "Circulating colorectal tumor cells remodel their surfaceome to increase their viability and metastatic potential in the bloodstream",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170186248",
+      "doi": "10.21203/rs.3.rs-10436396/v1",
+      "title": "Beyond histology: self‑organizing map-derived MASLD transcriptomic subtypes for patient stratification",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170654659",
+      "doi": "10.21203/rs.3.rs-9586597/v1",
+      "title": "Bacteroides acidifaciens derived pentadecanoic acid alleviates MAFLD by sensitizing senescent macrophages to ferroptosis via JNK-JUN-NCOA4 pathway",
+      "publication_date": "2026-07-24",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170190745",
+      "doi": "10.64898/2026.07.22.740038",
+      "title": "Differential Expression of TKS4 Isoforms and Their Role in Cellular Processes in Breast Cancer",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170846703",
+      "doi": "10.21203/rs.3.rs-10400157/v1",
+      "title": "Expression of AUF1 in lung adenocarcinoma and its diagnostic value across three types of pathological specimens",
+      "publication_date": "2026-07-24",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171387015",
+      "doi": "10.21203/rs.3.rs-10408894/v1",
+      "title": "The Neglected Canal: A Study on the Canal Incidence and Anatomical Characteristics of the Posterior Molar Canal",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170152509",
+      "doi": "10.21203/rs.3.rs-10046022/v1",
+      "title": "MED8 Couples Mediator-Dependent Transcriptional Plasticity with Mesenchymal-Immune Remodeling in Diffuse Glioma",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170704476",
+      "doi": "10.64898/2026.07.23.740343",
+      "title": "Routine FFPE sections support clinically compatible single-nucleus transcriptomics across six human cancer types",
+      "publication_date": "2026-07-24",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171468354",
+      "doi": "10.64898/2026.07.22.739987",
+      "title": "Lupeol, a bioactive compound of tamarind, functions as a potent inhibitor of hepatitis C virus (HCV) entry through disruption of the E2–CD81 interaction",
+      "publication_date": "2026-07-26",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170191123",
+      "doi": "10.64898/2026.07.21.26358625",
+      "title": "Development and Validation of a Pan-Cancer Stromal Activity Score for Predicting Prognosis and Immunotherapy Response",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171030017",
+      "doi": "10.21203/rs.3.rs-9969643/v1",
+      "title": "Interstitial Lung Disease Associated with Immune Checkpoint Inhibitors in Gastrointestinal Cancer Treatment: A Pharmacovigilance Analysis of the FDA Adverse Event Reporting System (FAERS) Database and EudraVigilance Database",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170601294",
+      "doi": "10.64898/2026.07.21.739765",
+      "title": "A non-invasive method of air pollutant exposure in an avian model of development",
+      "publication_date": "2026-07-24",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171372905",
+      "doi": "10.21203/rs.3.rs-10338711/v1",
+      "title": "Does PEO-PDA coating with Zoledronic acid have antitumor activity?",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171436652",
+      "doi": "10.64898/2026.07.24.740659",
+      "title": "ZDHHC14-Mediated Palmitoylation of TBK1 Promotes Pathological Cardiac Hypertrophy via Type I Interferon Signaling Activation",
+      "publication_date": "2026-07-26",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171467923",
+      "doi": "10.64898/2026.07.23.740264",
+      "title": "Spatium: A Protein Language Foundation Model for Spatial Proteomics",
+      "publication_date": "2026-07-26",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170194735",
+      "doi": "10.21203/rs.3.rs-10242305/v1",
+      "title": "GC–MS Characterization and Biological Evaluation of Costus speciosus Rhizomes: Antibacterial Activity and Mechanism of Action against MDR and XDR Bacteria with Anticancer Potential",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171266967",
+      "doi": "10.21203/rs.3.rs-8322190/v1",
+      "title": "The POLR3A/ARG2/spermine axis drives tamoxifen resistance in breast cancer",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171385419",
+      "doi": "10.64898/2026.07.24.740663",
+      "title": "Therapeutic Potential of the Novel Monoclonal Antibody 7-4G against HBsAg in a Mouse Model of Chronic Hepatitis B Virus Infection",
+      "publication_date": "2026-07-26",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170162663",
+      "doi": "10.64898/2026.07.17.739231",
+      "title": "eIF5A is an indispensable protein for eukaryotic cells",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171363534",
+      "doi": "10.64898/2026.07.22.739917",
+      "title": "Age-Dependent Fibroblast Programs Govern Regenerative and Fibrotic Tendon Repair",
+      "publication_date": "2026-07-26",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171411140",
+      "doi": "10.64898/2026.07.22.737014",
+      "title": "The BHMT-TET1 axis regulates glycolytic metabolism in oligodendrocytes and increases myelin in the EAE mouse model of multiple sclerosis",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171451211",
+      "doi": "10.21203/rs.3.rs-10447000/v1",
+      "title": "Proteome Profiling of Intestinal Cultures Treated with Bacteroides fragilis Vesicles Reveals Insights into the Anti-Inflammatory Response",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170188989",
+      "doi": "10.64898/2026.07.16.739045",
+      "title": "Vitamin K2 Limits Ferroptosis-Associated Lipid Peroxidation and Attenuates Aortic Valve Stenosis",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171110059",
+      "doi": "10.21203/rs.3.rs-10081390/v1",
+      "title": "Barriers and opportunities in hepatitis C elimination: perspectives of healthcare workers in Saudi Arabia",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171144782",
+      "doi": "10.21203/rs.3.rs-10034415/v1",
+      "title": "Fatal occult diaphragmatic hernia in a small Indian civet (Viverricula indica taivana) presenting with rectal prolapse: A case report",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170172707",
+      "doi": "10.21203/rs.3.rs-10422449/v1",
+      "title": "Twenty-nanometer Gold Nanoparticles Contribute to the Neuroprotection of Anti-Aging Protein Klotho against Cerebral Ischemia-Reperfusion Injury in Mice",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170140463",
+      "doi": "10.64898/2026.07.22.740069",
+      "title": "TMEM135 deficiency remodels hepatic lipid homeostasis and protein malonylation through a DHA-sensitive lipogenic program buffered by peroxisomal metabolism",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170165397",
+      "doi": "10.21203/rs.3.rs-10383026/v1",
+      "title": "Monosodium Glutamate Modifies Sex-Dependent Metabolic Adaptation and Hepatic Redox Vulnerability during Carbohydrate-Enriched, Lower-Protein Feeding in Wistar Rats",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171357359",
+      "doi": "10.64898/2026.07.24.740563",
+      "title": "Sialyl-Tn-positive tumour-derived extracellular vesicles impair dendritic cell function via horizontal transfer of glycans",
+      "publication_date": "2026-07-26",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171564612",
+      "doi": "10.64898/2026.07.27.740896",
+      "title": "Dissociated responses of vesiculogenesis and amoxicillin impact on extracellular vesicle production of first gut bacterial colonizers <i>Bifidobacterium longum</i> and <i>Lactiplantibacillus plantarum</i>",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171406050",
+      "doi": "10.21203/rs.3.rs-10174676/v1",
+      "title": "Phytochemical Isolation of Scopoletin from Cassia fistula Pods and its Anti-Inflammatory, Analgesic Activities: In Vivo and Molecular Docking Evidence for COX-2 Inhibition",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171569508",
+      "doi": "10.64898/2026.07.23.740366",
+      "title": "Ontology-guided harmonization enables unified discovery of public metabolomics studies within and across repositories",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7170175127",
+      "doi": "10.64898/2026.07.20.739085",
+      "title": "Dronedarone hydrochloride reverses obesity-related metabolic syndrome while preserving skeletal muscle mass",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprints_theme": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprint_count": 4,
+  "api_calls_note": "publication_date filters only; api_key used at runtime not stored"
+}
