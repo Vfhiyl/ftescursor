@@ -1,0 +1,88 @@
+{
+  "window_publication": [
+    "2026-07-29",
+    "2026-07-30"
+  ],
+  "preprint_window": [
+    "2026-07-23",
+    "2026-07-30"
+  ],
+  "works": [
+    {
+      "doi": "10.1016/j.tranon.2026.102962",
+      "title": "3′UTR shortening of ZCRB1 promotes malignant progression of hepatocellular carcinoma through GOLM1",
+      "publication_date": "2026-07-29",
+      "type": "article",
+      "id": "https://openalex.org/W7171504839"
+    },
+    {
+      "doi": "10.26442/18151434.2026.2.203697",
+      "title": "Hepatocellular carcinoma: prospects for CAR-T therapy in the Russian Federation. Results of the Expert Council meeting",
+      "publication_date": "2026-07-29",
+      "type": "article",
+      "id": "https://openalex.org/W7171509874"
+    }
+  ],
+  "works_count": 2,
+  "preprints_theme": [
+    {
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "id": "https://openalex.org/W7171525442"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "id": "https://openalex.org/W7171461925"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "id": "https://openalex.org/W7171091335"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "id": "https://openalex.org/W7171545549"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10169506/v1",
+      "title": "Applied anatomical study of segmental Glissonean pedicles at the hepatic hilum under the concept of Laennec's Capsule",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "id": "https://openalex.org/W7171117043"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10347193/v1",
+      "title": "Three-Dimensional Anatomical Classification and Machine Learning Prediction of the P6a–Right Hepatic Vein Relationship: Surgical Implications for Laparoscopic Right Anterior Sectionectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "id": "https://openalex.org/W7171518564"
+    },
+    {
+      "doi": "10.64898/2026.07.22.740069",
+      "title": "TMEM135 deficiency remodels hepatic lipid homeostasis and protein malonylation through a DHA-sensitive lipogenic program buffered by peroxisomal metabolism",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "id": "https://openalex.org/W7170140463"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10383026/v1",
+      "title": "Monosodium Glutamate Modifies Sex-Dependent Metabolic Adaptation and Hepatic Redox Vulnerability during Carbohydrate-Enriched, Lower-Protein Feeding in Wistar Rats",
+      "publication_date": "2026-07-23",
+      "type": "preprint",
+      "id": "https://openalex.org/W7170165397"
+    }
+  ],
+  "preprint_count": 8,
+  "search_optional": [],
+  "api_calls_approx": 3
+}

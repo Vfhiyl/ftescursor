@@ -1,0 +1,71 @@
+[
+  {
+    "name": "ESMO Daily Reporter",
+    "url": "https://dailyreporter.esmo.org/",
+    "status": 200,
+    "note": "keyword hits on homepage/listing",
+    "hits": [
+      "hepatocellular",
+      "TACE",
+      "EMERALD"
+    ]
+  },
+  {
+    "name": "ASCO Post",
+    "url": "https://ascopost.com/",
+    "status": 200,
+    "note": "keyword hits on homepage/listing",
+    "hits": [
+      "durvalumab"
+    ]
+  },
+  {
+    "name": "OncLive",
+    "url": "https://www.onclive.com/",
+    "status": "error",
+    "note": "HTTP Error 403: Forbidden",
+    "hits": []
+  },
+  {
+    "name": "HAS",
+    "url": "https://www.has-sante.fr/",
+    "status": 200,
+    "note": "",
+    "hits": []
+  },
+  {
+    "name": "AWMF",
+    "url": "https://www.awmf.org/",
+    "status": 200,
+    "note": "",
+    "hits": []
+  },
+  {
+    "name": "Nikkei Cancer Navi",
+    "url": "https://medical.nikkeibp.co.jp/cancer/",
+    "status": "error",
+    "note": "HTTP Error 404: 404",
+    "hits": []
+  },
+  {
+    "name": "NHC",
+    "url": "https://www.nhc.gov.cn/",
+    "status": "error",
+    "note": "HTTP Error 412: Precondition Failed",
+    "hits": []
+  },
+  {
+    "name": "Minzdrav",
+    "url": "https://minzdrav.gov.ru/",
+    "status": "error",
+    "note": "Remote end closed connection without response",
+    "hits": []
+  },
+  {
+    "name": "KLCA",
+    "url": "https://www.lci.or.kr/",
+    "status": 200,
+    "note": "",
+    "hits": []
+  }
+]

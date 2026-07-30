@@ -1,0 +1,120 @@
+{
+  "window": [
+    "2026-07-29",
+    "2026-07-30"
+  ],
+  "medrxiv": [],
+  "biorxiv": [
+    {
+      "title": "Microbial association networks reveal hidden keystone taxa and cross-kingdom interactions after dryland wildfires",
+      "authors": "Joukhajian, A.; Pulido Barriga, M. F.; Homyak, P.; Glassman, S. I.",
+      "author_corresponding": "Arik Joukhajian",
+      "author_corresponding_institution": "University of California, Riverside",
+      "doi": "10.64898/2026.07.28.741306",
+      "date": "2026-07-29",
+      "version": "1",
+      "type": "new results",
+      "license": "cc_no",
+      "category": "microbiology",
+      "jatsxml": "https://www.biorxiv.org/content/early/2026/07/29/2026.07.28.741306.source.xml",
+      "abstract": "How wildfires reorganize soil microbial interactions is a key knowledge gap, particularly for drylands that cover nearly 40% of Earth's surface and face increasing wildfire frequency with global change. We compared bacterial, fungal, and cross-kingdom association networks across four timepoints from 2 weeks to 3 years post-fire in two California dryland systems: a high-intensity chaparral shrubland fire and a low-intensity Eastern Joshua tree desert fire, using nearly identical sampling designs and molecular workflows. Wildfire increased bacterial-fungal associations more than bacterial or fungal interactions in both systems, with burned plots consistently shifting toward cooperative over competitive associations. Bacterial-fungal interactions also increased in burned relative to unburned desert plots, suggesting fire promoted microbial associations in desert soils. Although microbial richness declined by up to 61% one year after chaparral wildfire but remained unchanged in the desert, network clustering declined in both systems, indicating reduced community resilience independent of richness loss. Pyrophilous bacteria, including Massilia and Noviherbaspirillum, emerged as keystone taxa after chaparral wildfire, while generalist bacteria and the putatively pyrophilous Pyronemataceae fungus Pseudotricharina structured desert burned networks. Cross-kingdom network analysis revealed shifts in post-fire microbiomes invisible to traditional diversity metrics, highlighting bacterial-fungal interactions and keystone taxa as drivers of dryland post-fire succession.",
+      "funder": "NA",
+      "published": "NA",
+      "server": "bioRxiv"
+    },
+    {
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "authors": "Fan, J.; Pei, J.; Xu, N.; Zhang, X.; Wang, X.; Mao, S.; Zhang, Y.; Yu, L.; Sun, Y.; Gong, Y.; Xiong, X.; Wang, S.; Li, L.; Shao, Z.; Sun, X.; Chen, L.; Liu, X.",
+      "author_corresponding": "Xin Liu",
+      "author_corresponding_institution": "State Key Laboratory of Cell Biology, CAS Center for Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry and Cell Biology, University of Ch",
+      "doi": "10.64898/2026.07.13.738237",
+      "date": "2026-07-30",
+      "version": "3",
+      "type": "new results",
+      "license": "cc_by_nc_nd",
+      "category": "cancer biology",
+      "jatsxml": "https://www.biorxiv.org/content/early/2026/07/30/2026.07.13.738237.source.xml",
+      "abstract": "Fatty liver disease predisposes to primary liver cancer, yet the lineage routes and niche mechanisms that select rare tumor-fated hepatocytes remain unclear. Here we developed CERAMIC, a high-capacity CRISPR-Cas9 lineage recorder that co-recovers editing scars and transcriptomes from single cells, and applied it to an AKT/NRAS-driven model of MASLD-associated liver tumor initiation. Longitudinal lineage, single-cell and spatial analyses revealed a hierarchical trajectory in which Hep_Bi-zonal cells, rather than Hep_CVlike cells, generated regenerative and neoplastic hepatocyte progenitor states that progressed toward both hepatocellular carcinoma and intrahepatic cholangiocarcinoma lineages. Tumor-fated cells preferentially expanded along a remodeled midlobular-periportal axis and depended on ACOX1-mediated peroxisomal beta-oxidation to withstand lipotoxic and oxidative stress. Spatial and lineage analyses further identified a sequential lipid-associated macrophage niche, in which monocyte-derived LAMs engaged tumor-fated hepatocytes through an LGALS9-P4HB axis, and P4HB inhibition suppressed tumor expansion. These findings define liver tumor initiation as a lineage-restricted process licensed by peroxisomal metabolic adaptation and macrophage-derived niche signals.",
+      "funder": "NA",
+      "published": "NA",
+      "server": "bioRxiv"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1287662",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "authorString": "XU Y, Tao L, Jin R, Liang X.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Research Square",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "versionNumber": 1,
+      "hasTMAccessionNumbers": "N",
+      "firstIndexDate": "2026-07-30",
+      "firstPublicationDate": "2026-07-29"
+    },
+    {
+      "id": "PPR1287547",
+      "source": "PPR",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "authorString": "Paniagua-Pérez R, Madrigal-Bujaidar E, Álvarez-González RI, Madrigal-Santillán EO, Sánchez-Chapul L, Martínez-Canseco CJ, Ruiz-Rosano L, Cruz-Hernández L, Quintana-Armenta A, Valdez-Mijares R, Araujo-Monsalvo VM, Flores-Mondragón G.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Preprints.org",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "versionNumber": 1,
+      "hasTMAccessionNumbers": "N",
+      "firstIndexDate": "2026-07-30",
+      "firstPublicationDate": "2026-07-29"
+    }
+  ],
+  "counts": {
+    "medrxiv": 0,
+    "biorxiv": 2,
+    "europepmc_ppr": 2
+  },
+  "biorxiv_theme_note": [
+    {
+      "doi": "10.64898/2026.07.28.741306",
+      "title": "Microbial association networks reveal hidden keystone taxa and cross-kingdom interactions after dryland wildfires",
+      "date": "2026-07-29",
+      "status": "fp_tace_token"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "status": "theme"
+    }
+  ]
+}
