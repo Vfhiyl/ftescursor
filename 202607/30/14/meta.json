@@ -1,0 +1,59 @@
+{
+  "folder": "202607/30/14",
+  "previous_folder": "202607/30/13",
+  "trigger_utc": "2026-07-30T14:02:27.699Z",
+  "collected_at_utc": "2026-07-30T14:06:33.937587+00:00",
+  "window_start_utc": "2026-07-29T14:02:27.699000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 112,
+    "pubmed_pdat_count": 32,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 24,
+    "crossref_unique_title_filtered": 110,
+    "crossref_new_dois": [],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 0,
+    "crossref_dropped_dois": [],
+    "clinicaltrials_related": 20,
+    "clinicaltrials_focus": 16,
+    "clinicaltrials_new_ncts": [
+      "NCT02465060",
+      "NCT07281924"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA OK; OncLive 403; がんナビ DNS; NHC 412; Minzdrav disconnect; ASCO durvalumab hit=NSCLC FP; ESMO still shows TACE combo/EMERALD uncertainty (unchanged narrative); no new HCC LBA/guideline signal; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/30/13 (112; NEW=0/DROPPED=0).",
+    "Crossref title-filtered identical 110 (NEW DOI=0/DROPPED=0).",
+    "CT related 18→20: NEW NCT07281924 (melanoma liver mets flicker-in) + NCT02465060 (NCI-MATCH basket soft/FP); focus continuity 16 unchanged; no results-bearing update.",
+    "OpenAlex (publication_date only): works_count=2 NEW=[]; preprint_count theme-filtered=8 NEW=[].",
+    "Preprints: bioRxiv organoid slid out of 24h (0); EuropePMC SRC:PPR 2 SEEN; medRxiv=0.",
+    "Guidelines panel unchanged vs 202607/29/18.",
+    "No material delta vs previous hour."
+  ]
+}
