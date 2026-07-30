@@ -1,0 +1,322 @@
+{
+  "window": {
+    "from": "2026-07-28",
+    "to": "2026-07-30",
+    "note": "med/bioRxiv details uses ~48h broaden for sentinel continuity; EPMC FIRST_PDATE 24h"
+  },
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "radiology and imaging",
+      "abstract_snippet": "Objective: To identify common photon-counting CT (PCCT) virtual monochromatic imaging (VMI) settings for accurate hepatic fat fraction (FF) quantification across different body sizes, including large body habitus. Methods: Six non-iodinated fat lesions (FF 5%-40%) were embedded in anthropomorphic li"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "abstract_snippet": "Human liver organoids (HLOs) and liver-on-a-chip (LoC) systems are emerging as physiologically relevant human models for studying liver function, disease, and drug metabolism, often in combination with human induced pluripotent stem cell (hiPSC)-derived tissues. However, hiPSC-derived models often d"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741358",
+      "title": "Hepatic huntingtin loss drives an acute phase response and liver injury in multiple mouse models",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "molecular biology",
+      "abstract_snippet": "Multiple therapeutic strategies are being developed to slow Huntington's disease (HD) progression through targeted reduction of huntingtin (HTT) protein or mRNA. Despite HTT's discovery over 30 years ago, its cellular functions remain incompletely understood, and the long-term consequences of HTT-lo"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740890",
+      "title": "A single-nucleus atlas of the adult laying hen liver reveals metabolic specialization and improved cellular resolution through enhanced genome annotation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genomics",
+      "abstract_snippet": "The liver of laying hens plays a central role in metabolism and reproduction, supporting the synthesis of egg yolk precursors under strong hormonal regulation. Despite its physiological importance, a high-resolution cellular reference of the adult chicken liver is still lacking. Here, we generated a"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "cancer biology",
+      "abstract_snippet": "Fatty liver disease predisposes to primary liver cancer, yet the lineage routes and niche mechanisms that select rare tumor-fated hepatocytes remain unclear. Here we developed CERAMIC, a high-capacity CRISPR-Cas9 lineage recorder that co-recovers editing scars and transcriptomes from single cells, a"
+    }
+  ],
+  "biorxiv_fp": [
+    {
+      "doi": "10.1101/2024.11.21.624653",
+      "title": "Identifying spatially variable genes by projecting to morphologically relevant curves",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "bioinformatics",
+      "abstract_snippet": "Spatial transcriptomics enables high-resolution gene expression measurements while preserving the two-dimensional spatial organization of the biological sample. A common objective in spatial transcriptomics data analysis is to identify spatially variable genes within predefined cell types or regions",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.06.11.731717",
+      "title": "RAI1 safeguards fidelity and tempo of human neurodevelopmental gene expression",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "neuroscience",
+      "abstract_snippet": "Human brain development proceeds on an unusually long timeline relative to other species, a feature that is thought to foster advanced cognitive abilities. The Retinoic Acid Induced 1 (RAI1) gene encodes a nucleosome-binding protein, and its haploinsufficiency is responsible for Smith-Magenis Syndro",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740939",
+      "title": "Live single-molecule imaging reveals global shifts in mRNA mobility during human stem cell differentiation",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "abstract_snippet": "Spatiotemporal regulation of mRNA localisation is fundamental to cell identity specification and function, yet tracking transcript dynamics in living differentiating cells remains technically challenging. Here, we establish a robust pipeline for MS2 tagging of endogenous transcripts in human induced",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.01.29.702647",
+      "title": "H4K20me3 and CTCF act reciprocally at TAD boundaries to regulate cell state transitions",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "cell biology",
+      "abstract_snippet": "Reversible transitions between proliferative and quiescent cell states involve widespread gene expression changes despite stable topologically associating domain (TAD) positioning. We report a reciprocal antagonism between TAD boundary element CTCF and histone modification H4K20me3 as a central mech",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740960",
+      "title": "Host genetics and social relationships jointly shape fitness-associated microbiome variation in a population of feral horses",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "ecology",
+      "abstract_snippet": "Gut microbiome variation is consequential for host fitness, but its contribution to adaptive evolution in host populations remains unclear. Although gut microbiome heritability has been demonstrated in humans, domesticated animals, and wildlife, no study has simultaneously assessed heritability of, ",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740871",
+      "title": "Macronutrient balance generates distinct nutritional optima for growth, immune function and stress responses in the specialist herbivore Plutella xylostella",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "ecology",
+      "abstract_snippet": "Nutrition plays a fundamental role in insect physiology, yet whether growth, immunity and stress responses share a common nutritional optimum remains poorly understood. Using the Geometric Framework for Nutrition, we investigated how dietary protein and carbohydrate balance regulate multiple physiol",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.22.740081",
+      "title": "The consequences of mixed-mode transmission for disease prevalence",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "ecology",
+      "abstract_snippet": "Host-parasite relationships are defined by transmission. Transmission takes diverse forms, with horizontal transmission modes generally characterized as density- or frequency-dependent. However, many observed parasites display mixed-mode transmission using both density- and frequency-dependent route",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.1101/2025.11.02.686131",
+      "title": "Field persistence of entomopathogenic fungi and network-level associations within the soil microbial community as biocontrol agents",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "ecology",
+      "abstract_snippet": "The effects of entomopathogenic fungi (EPF) on native soil microbiota are poorly understood. Here, we investigated the persistence of the EPF Metarhizium brunneum and Beauveria bassiana as preventive treatments for date palms against the red palm weevil, Rhynchophorus ferrugineus, and monitored the ",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.741005",
+      "title": "When Does Reaction Norm GWAS Discover Plasticity? The Residual Channel in Environmental Index-Based Genetic Dissection",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genetics",
+      "abstract_snippet": "CERIS-JGRA replaces the environmental mean in Finlay-Wilkinson regression with a climate-derived index, so that reaction norm association mapping can dissect the genetics of phenotypic plasticity. Its defining design choice forecloses that objective. An index correlated at{rho} with the environmenta",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.26.738612",
+      "title": "Computational evolutionary approach to generate antimicrobial peptides",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "biochemistry",
+      "abstract_snippet": "As a consequence of the overuse of conventional antibiotics, there is currently an unprecedented increase in antibiotic resistance in newer generations of pathogenic bacteria. This growing problem has led scientists to discover novel medications that could potentially reduce the usage of antibiotics",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.26.740815",
+      "title": "Coupling Luciferase Activation and BRET Enables High-Contrast Red-Window Calcium Imaging",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "biochemistry",
+      "abstract_snippet": "Genetically encoded bioluminescent calcium indicators enable excitation-free imaging of Ca2+ dynamics with low background, no photobleaching, and improved tissue penetration. However, many exhibit lower dynamic ranges than their fluorescent counterparts, motivating the development of new sensor conf",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740917",
+      "title": "An integrated biomaterials-centred approach of the ageing thymic microenvironment reveals design principles for regenerative biomaterials",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "bioengineering",
+      "abstract_snippet": "Thymic involution is commonly addressed as a loss of epithelial and lymphoid tissue, yet the accompanying remodelling of the microenvironment remains poorly defined. This work applied a biomaterials-centered approach to compare young and aged bovine thymus by integrating histology, oscillatory rheol",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740463",
+      "title": "A Modular Bio-Hybrid Skin Model for Optical Testing Applications",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "bioengineering",
+      "abstract_snippet": "Synthetic optical skin models offer reproducible, tunable optical properties but lack biological responsiveness, while tissue engineered skin models provide cellular authenticity but suffer from optical variability and limited controllability. The growing demand for alternatives to animal models in ",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.26.740722",
+      "title": "DCGAN-Based Synthetic MRI Augmentation for Data-centric Brain Tumor Segmentation",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "bioengineering",
+      "abstract_snippet": "Accurate brain tumor segmentation from magnetic resonance imaging (MRI) remains a challenging task because supervised deep learning models require large quantities of annotated data, which are expensive and time-consuming to obtain. This study investigates whether synthetic MRI images generated usin",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740975",
+      "title": "Self-Actuating 4D Cell-Strand Bioprinting",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "bioengineering",
+      "abstract_snippet": "Engineering biomimetic tissues with dynamically evolving 3D architectures represents an important direction for next-generation tissue engineering, as it enables recapitulation of the continuous morphogenesis of native tissues during development and regeneration. Here, a self-actuating 4D cell-stran",
+      "reason": "no theme"
+    }
+  ],
+  "medrxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.22.26358733",
+      "title": "Digital Health Adoption, eHealth Literacy, and Trust in AI Among Generation Z University Students in Sri Lanka: An Empirical Study",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "health informatics",
+      "abstract_snippet": "BackgroundDigital health technologies--spanning mobile applications, telemedicine, and AI-driven platforms--are rapidly reshaping healthcare delivery globally. Although Generation Z university students are classified as digital natives, empirical data evaluating their eHealth literacy, technology ac",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.24.26358894",
+      "title": "Dual foundation models for accelerometry predict future health",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "health informatics",
+      "abstract_snippet": "Wrist accelerometers are ubiquitous and capture activity, sleep, and cardiorespiratory motion, but how this relates to future disease across the phenome is unclear. We encoded one week of UK Biobank accelerometry from 97,696 participants using two frozen self-supervised models and trained a multilab",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.1101/2024.09.26.24313895",
+      "title": "Loss-of-function of RNA-binding protein PRRC2B causes translational defects and cardiovascular malformation",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "cardiovascular medicine",
+      "abstract_snippet": "Alternative splicing of pre-mRNA generates variant protein forms from a given gene, accounting for both functional redundancy and diversification. A novel RNA-binding protein, Pro-rich Coiled-coil Containing Protein 2B (PRRC2B), has been shown to mediate both upstream (u)ORF-dependent and independen",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.17.26358332",
+      "title": "Design tensions in a two-sided marketplace for reusable digital therapeutics software components: a qualitative interview study",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "health informatics",
+      "abstract_snippet": "ObjectivesTo identify stakeholder-perceived design tensions in a two-sided marketplace for reusable digital therapeutics (DTx) software components and to use these tensions to propose alternative marketplace concepts.\n\nMethodsWe conducted 24 semi-structured interviews with digital health researchers",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.1101/2025.10.14.25338013",
+      "title": "Monocyte-to-Lymphocyte Ratio and Cardiovascular Outcomes in Individuals with Chronic Kidney Disease: A Systematic Review of Observational Studies",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "cardiovascular medicine",
+      "abstract_snippet": "Aim: To evaluate the association between monocyte-to-lymphocyte ratio (MLR) and cardiovascular outcomes in chronic kidney disease (CKD). Methods: We systematically searched Medline, EMBASE, Web of Science, and Scopus from inception to May 28, 2025. We included peer-reviewed observational studies ass",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.24.26358842",
+      "title": "SSRI treatment of obsessive-compulsive disorder as motion across a bistable fold: A calibrated circuit-plasticity model of response, remission, and augmentation",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "3",
+      "category": "psychiatry and clinical psychology",
+      "abstract_snippet": "SSRIs are first-line for obsessive-compulsive disorder (OCD), yet benefit is partial, weeks-delayed, and severity-gated, and augmentation is empirical. The stable-states view is established but not drug-specific. We supply the missing coupling: a calibrated object joining serotonin pharmacokinetics,",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.1101/2024.09.23.24314227",
+      "title": "Personal protective beliefs and behaviors during the COVID-19 pandemic at a large, multi-campus, public university in Pennsylvania: a cross-sectional survey",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "public and global health",
+      "abstract_snippet": "Introduction: The COVID-19 pandemic impacted many higher education institutions. Understanding the personal protective beliefs and behaviors surrounding public health measures such as face masking, social distancing, and handwashing helps to inform public health outreach measures. Objective: This st",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.02.16.26346377",
+      "title": "Ensuring anatomical specificity in lesion network mapping: a multicentre study of 2,950 stroke patients",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "3",
+      "category": "neurology",
+      "abstract_snippet": "As many neurobehavioural functions rely on distributed brain networks, anatomically diverse brain lesions can cause highly similar neurobehavioural deficits. Lesion network mapping (LNM) builds on this principle to identify symptom-specific brain networks by mapping focal lesions onto a normative fu",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359028",
+      "title": "Participant Experience with the SpaceLabs 90227 ABPM and SOMNOmedics ABPM Pro Devices",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "cardiovascular medicine",
+      "abstract_snippet": "Ambulatory blood pressure monitoring (ABPM) is recommended for confirming hypertension and assessing out-of-office blood pressure (BP). However, patient burden and device tolerability may limit broader implementation. We compared participant experience with a traditional oscillometric ABPM device an",
+      "reason": "no theme"
+    },
+    {
+      "doi": "10.64898/2026.07.25.26358905",
+      "title": "Prevalence, determinants, and cardiometabolic consequences of overweight and obesity among people with Down syndrome: a systematic review and meta-analysis.",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "endocrinology",
+      "abstract_snippet": "ObjectiveThis systematic review and meta-analysis synthesised the global prevalence of overweight and obesity in people with Down syndrome (DS) across the lifespan, characterised determinants of excess adiposity, and examined associations with adverse cardiometabolic outcomes.\n\nMethodsSix databases ",
+      "reason": "weak hepatic theme"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "date": "2026-07-29",
+      "id": "PPR1287662",
+      "source": "PPR"
+    }
+  ],
+  "preprints_new_dois_theme": [],
+  "biorxiv_fp_count": 666,
+  "medrxiv_fp_count": 172
+}

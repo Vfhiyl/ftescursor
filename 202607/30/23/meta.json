@@ -1,0 +1,98 @@
+{
+  "folder": "202607/30/23",
+  "previous_folder": "202607/30/22",
+  "trigger_utc": "2026-07-30T23:00:49.047Z",
+  "collected_at_utc": "2026-07-30T23:10:13.570504+00:00",
+  "window_start_utc": "2026-07-29T23:00:49.047000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 124,
+    "pubmed_pdat_count": 43,
+    "pubmed_edat_new_ids": [
+      "42531433",
+      "42531396",
+      "42531326",
+      "42531243",
+      "42531239"
+    ],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 27,
+    "crossref_unique_title_filtered": 139,
+    "crossref_new_dois": [
+      "10.1016/j.hbpd.2026.07.007",
+      "10.1016/j.hlc.2026.07.067",
+      "10.1016/j.transproceed.2026.07.004",
+      "10.1038/s41392-026-02796-0",
+      "10.1080/00365521.2026.2709613",
+      "10.1111/hepr.70253",
+      "10.31083/fbl51017",
+      "10.3329/jssmc.v17i1.92341",
+      "10.3389/fphar.2026.1907173",
+      "10.3390/cancers18152432",
+      "10.5582/bst.2026.01104",
+      "10.5582/bst.2026.01126",
+      "10.64898/2026.07.28.741157",
+      "10.64898/2026.07.28.741358"
+    ],
+    "crossref_new_dois_material": true,
+    "crossref_material_dois": [
+      "10.5582/bst.2026.01104"
+    ],
+    "crossref_observe_dois": [
+      "10.5582/bst.2026.01126",
+      "10.1016/j.hlc.2026.07.067"
+    ],
+    "crossref_dropped_dois_count": 1,
+    "crossref_dropped_dois": [
+      "10.9734/jammr/2026/v38i86179"
+    ],
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 15,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 4,
+    "preprints_europepmc_ppr": 1,
+    "preprints_new_dois": [],
+    "openalex_count": 29,
+    "openalex_new_dois": [
+      "10.25917/curtin.33110342",
+      "10.25917/curtin.33110342.v1",
+      "10.5281/zenodo.21683045",
+      "10.5281/zenodo.21683046",
+      "10.6084/m9.figshare.33110468",
+      "10.6084/m9.figshare.33110468.v1"
+    ],
+    "openalex_preprint_count": 6,
+    "openalex_preprint_new_dois": [
+      "10.21203/rs.3.rs-10108692/v1",
+      "10.21203/rs.3.rs-10448266/v1"
+    ],
+    "news_sentinel_note": "ASCO/ESMO/AWMF/KLCA OK; OncLive 403 / がんナビ 404 / NHC 412 / Minzdrav unreachable; HAS keyword_hits page-noise only; EDAT +5 incl. CT0180 Phase I PubMed indexing (UPDATED from 19h Crossref); Crossref NEW CCA guidelines comparison 2026 (BioScience Trends); EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged; TORCH remains EDAT-indexed (SEEN)."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set CHANGED vs 202607/30/22 (124; NEW=5/DROPPED=0).",
+    "Key NEW PMID 42531433 = CT0180 GPC3-TCR Phase I — UPDATED material (19h Crossref DOI now PubMed EDAT); Phase I → observe/high-signal only, not must-read standard.",
+    "Other NEW PMIDs: Science metastatic colonization (liver-cancer models, mechanism); HBV cccDNA ddPCR methods; pancreatic IOPN FP; EHD neoplasia/CCA molecular (n=44).",
+    "Crossref title-filtered 126→139: NEW DOI=14; material signal=CCA global guidelines/consensus comparison 2026 (10.5582/bst.2026.01104, single-source review ≠ panel republication); observe=hepatectomy CV PAF + HCC right-atrial case; DROPPED=1 endodontic LT noise from 22h.",
+    "CT related 15→15: NEW []; DROPPED []; NCT07715903 force-included.",
+    "OpenAlex (publication_date only, strong title filter): works_count=29; OpenAlex-only NEW DOIs=['10.25917/curtin.33110342', '10.25917/curtin.33110342.v1', '10.5281/zenodo.21683045', '10.5281/zenodo.21683046', '10.6084/m9.figshare.33110468', '10.6084/m9.figshare.33110468.v1'] (repo/figshare/zenodo deposits, non-material); preprint_count=6 NEW=['10.21203/rs.3.rs-10108692/v1', '10.21203/rs.3.rs-10448266/v1'].",
+    "Preprints: medRxiv theme=1 (fat fraction SEEN) + cfDNA solid-tumor FP filtered; bioRxiv=4 SEEN/continuity; EuropePMC PPR=1 (robotic hepatectomy SEEN; HepG2 preprint dropped from FIRST_PDATE window).",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change; NEW secondary comparison article on CCA guidelines 2026 — see 03_guidelines_watch.md.",
+    "Material delta vs previous hour: EDAT +5 (CT0180 indexing) + CCA guidelines-comparison Crossref signal."
+  ]
+}
