@@ -1,0 +1,113 @@
+{
+  "fetch": {
+    "esmo_daily": {
+      "url": "https://dailyreporter.esmo.org/",
+      "status": 200,
+      "len": 123418,
+      "snippet": "<!DOCTYPE html>\n<html lang=\"en-GB\" class=\"text-sizer-field\" data-size=\"small\">\n<head>\n    <meta charset=\"utf-8\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).init={ajax:{deny_list:[\"bam.eu01.nr-data.net\"]},feature_flags:[\"soft_nav\"]};(window.NREUM||(NREUM={})).loader_config={licenseKey:\"NRJS-0cd3a603be2988fa12c\",applicationID:\"393135294\",browserID:\"535920301\"};;/*! For license information please see nr-loader-rum-1.318.0.min.js.LICENSE.txt */\n(()=>{var e={8122(e,t,r){\"use strict\";r.d"
+    },
+    "asco_post": {
+      "url": "https://ascopost.com/",
+      "status": 200,
+      "len": 68572,
+      "snippet": "\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <!-- Reader 'Header' Section -->\r\n    \r\n    <!-- End Section -->\r\n    \r\n<script src=\"https://n104.ascopost.com/script.js\"></script>\r\n\r\n<meta charset=\"UTF-8\">\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<meta name=\"msvalidate.01\" content=\"88FEC92ABA05E105873DB3F3F23AC1F7\" />\r\n<meta name=\"msvalidate.01\" content=\"33F129497FDC2A699715CDB4AD445F09\" />\r\n\t<title>TAP"
+    },
+    "onclive": {
+      "url": "https://www.onclive.com/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "has": {
+      "url": "https://www.has-sante.fr/",
+      "status": 200,
+      "len": 88576,
+      "snippet": "\n\n\r\n\r\n<!DOCTYPE html>\n<html lang=\"fr\" xml:lang=\"fr\" dir=\"ltr\"   >\n<head>\n  \n\n  <base href=\"https://www.has-sante.fr/\"   />\n  \n  <meta charset=\"UTF-8\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta name=\"Generator\" content=\"Jalios JCMS - Copyright (C) Jalios S.A. 2001 - 2026 - https://www.jalios.com/\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <meta name=\"keywords\" content=\"recommandations, évaluation, certification établissements, accréd"
+    },
+    "awmf": {
+      "url": "https://www.awmf.org/leitlinien",
+      "status": 200,
+      "len": 42528,
+      "snippet": "<!DOCTYPE html>\n<html lang=\"de-DE\">\n<head>\n    <meta charset=\"utf-8\">\n\n<!-- \n\tvisuellverstehen – Design and Development – @vv_agentur\n\n\tThis website is powered by TYPO3 - inspiring people to share!\n\tTYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.\n\tTYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.\n\tInformation and contribution at https://typo3.org/\n-->\n\n\n<title>Leitlinien "
+    },
+    "nhc": {
+      "url": "http://www.nhc.gov.cn/",
+      "error": "HTTP Error 412: Precondition Failed"
+    },
+    "gan_navi": {
+      "url": "https://gan.nikkeibp.co.jp/",
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
+    },
+    "minzdrav": {
+      "url": "https://minzdrav.gov.ru/",
+      "error": "Remote end closed connection without response"
+    },
+    "klca": {
+      "url": "https://www.livercancer.or.kr/",
+      "status": 200,
+      "len": 135380,
+      "snippet": "\r\n<!DOCTYPE html>\r\n<html lang=\"ko\">\r\n<head>\r\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n    <title>대한간암학회</title>\r\n\r\n    <meta content='width=device-width, initial-scale=1' name='viewport'>    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta NAME=\"keywords\" CONTENT=\"대한간암학회\">\r\n<meta NAME=\"description\" CONTENT=\"대한간암학회 사이트입니다.\">\r\n\r\n<meta property=\"og:image\" content=\"/custom/423/images/favicon_400x210.png\">\r\n<link rel=\"shortcut icon\" href=\"/custom/423/"
+    }
+  },
+  "hits": {
+    "esmo_daily": {
+      "status": 200,
+      "keyword_hits": [
+        "hepatocellular",
+        "tace",
+        "TACE",
+        "EMERALD"
+      ],
+      "count": 6
+    },
+    "asco_post": {
+      "status": 200,
+      "keyword_hits": [],
+      "count": 0
+    },
+    "onclive": {
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "has": {
+      "status": 200,
+      "keyword_hits": [],
+      "count": 0
+    },
+    "awmf": {
+      "status": 200,
+      "keyword_hits": [],
+      "count": 0
+    },
+    "nhc": {
+      "error": "HTTP Error 412: Precondition Failed"
+    },
+    "gan_navi": {
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
+    },
+    "minzdrav": {
+      "error": "Remote end closed connection without response"
+    },
+    "klca": {
+      "status": 200,
+      "keyword_hits": [],
+      "count": 0
+    },
+    "asco_search_links": [
+      "https://ascopost.com/news/july-2025/the-inflation-reduction-act-and-ibrutinib/",
+      "https://ascopost.com/issues/july-25-2025/how-i-discuss-the-current-political-chaos-when-patients-ask-health-related-questions-about-it/",
+      "https://ascopost.com/issues/june-25-2025/silence-is-complicity/",
+      "https://ascopost.com/issues/may-10-2025/therapy-with-a-tki-for-egfr-variant-lung-adenocarcinoma-lessons-from-cml/",
+      "https://ascopost.com/issues/june-10-2025/kindness-mercy-empathy-compassion-are-they-relevant-in-the-era-of-robotics-and-ai/",
+      "https://ascopost.com/news/july-2026/proton-pump-inhibitor-antibiotic-exposure-linked-to-worse-durvalumab-outcomes-in-unresectable-stage-iii-nsclc/",
+      "https://ascopost.com/news/july-2026/early-research-examines-daraxonrasib-in-nras-mutant-melanoma/",
+      "https://ascopost.com/news/july-2026/relapsed-or-refractory-multiple-myeloma-early-phase-trial-investigates-novel-bispecific-antibody/",
+      "https://ascopost.com/news/july-2026/dabrafenib-plus-trametinib-improves-progression-free-survival-in-braf-v600e-positive-differentiated-thyroid-cancer/",
+      "https://ascopost.com/news/july-2026/fda-approves-zidesamtinib-for-second-line-treatment-of-ros1-positive-nsclc/"
+    ],
+    "asco_note": "durvalumab/lung terms present — check FP",
+    "esmo_emerald": true,
+    "esmo_tace": true,
+    "esmo_snips": [
+      "iv class=\"short\"> <div class=\"ezxmltext-field\"><p>Findings from the EMERALD-1 and EMERALD-3 studies suggest that further evidence of benefit is needed and ",
+      "eporter.esmo.org/esmo-gastrointestinal-cancers-congress-2026/news/the-place-for-tace-combinations-in-hepatocellular-carcinoma-is-still-uncertain\">The place for "
+    ]
+  }
+}
