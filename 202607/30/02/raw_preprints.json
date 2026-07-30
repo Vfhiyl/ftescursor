@@ -1,0 +1,23 @@
+{
+  "collected_at_utc": "2026-07-30T02:02:39.614813+00:00",
+  "window": {
+    "from": "2026-07-29",
+    "until": "2026-07-30"
+  },
+  "counts": {
+    "medrxiv": 0,
+    "biorxiv": 0,
+    "europepmc_ppr": 1
+  },
+  "medrxiv": [],
+  "biorxiv": [],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1287547",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR"
+    }
+  ]
+}

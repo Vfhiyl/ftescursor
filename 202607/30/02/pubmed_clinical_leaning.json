@@ -1,0 +1,343 @@
+{
+  "count": 16,
+  "items": [
+    {
+      "pmid": "42525407",
+      "title": "Artificial Intelligence-Driven Video-Based Surgical Skill Assessment in Hepatobiliary Laparoscopic Surgery.",
+      "source": "JAMA Surg",
+      "pubdate": "2026 Jul 29",
+      "epubdate": "2026 Jul 29",
+      "authors": [
+        "Zeng X",
+        "Li Y",
+        "Wang J",
+        "Yang L",
+        "Li X",
+        "Wu P",
+        "You C",
+        "Luo W"
+      ],
+      "doi": "10.1001/jamasurg.2026.3007",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42524843",
+      "title": "Exploring the Role of Surgery After Systemic Therapy in Locally Advanced Biliary Tract Cancer: Outcomes From a Large Retrospective Multinational Real-World Cohort Treated With Cisplatin, Gemcitabine, and Durvalumab.",
+      "source": "Int J Cancer",
+      "pubdate": "2026 Jul 29",
+      "epubdate": "2026 Jul 29",
+      "authors": [
+        "Rimini M",
+        "Lamarca A",
+        "Ikeda M",
+        "Abidoye O",
+        "Lucchetti J",
+        "Antonuzzo L",
+        "Kim JW",
+        "Vogel A"
+      ],
+      "doi": "10.1002/ijc.70641",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42524660",
+      "title": "Definition of Conversion Therapy and Neoadjuvant Therapy for Hepatocellular Carcinoma: A Consensus Guideline from the Japan Liver Cancer Association.",
+      "source": "Liver Cancer",
+      "pubdate": "2026 Jun 9",
+      "epubdate": "2026 Jun 9",
+      "authors": [
+        "Ichida A",
+        "Tateishi R",
+        "Hatano E",
+        "Taketomi A",
+        "Tanabe M",
+        "Nouso K",
+        "Minami Y",
+        "Murakami T"
+      ],
+      "doi": "10.1159/000552928",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42524515",
+      "title": "Lenvatinib Added to Nivolumab and Ipilimumab Improves Tumor Control and Progression-Free Survival in Unresectable Hepatocellular Carcinoma.",
+      "source": "Liver Cancer",
+      "pubdate": "2026 Jun 9",
+      "epubdate": "2026 Jun 9",
+      "authors": [
+        "Lai KC",
+        "Liu CA",
+        "Lei HJ",
+        "Chen SC"
+      ],
+      "doi": "10.1159/000552861",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42524514",
+      "title": "Preoperative Albumin-Bilirubin Score as a Predictor of Postoperative Complications After Liver Resection.",
+      "source": "Cureus",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Jun 28",
+      "authors": [
+        "Debnath A",
+        "Das BC",
+        "Arefin M",
+        "Kawsar Bhuiyan M",
+        "Mahmud Rayhan G",
+        "Alam Mohim N",
+        "Chowdhury A",
+        "Bin Anis A"
+      ],
+      "doi": "10.7759/cureus.111661",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42524025",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade.",
+      "source": "Ther Adv Med Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Guo Y",
+        "Liu X",
+        "Sun B",
+        "Pu F",
+        "Li X",
+        "Zheng C",
+        "Kan X",
+        "Yang F"
+      ],
+      "doi": "10.1177/17588359261470015",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42523863",
+      "title": "Immunotherapy and the novel therapeutic development for small-cell lung cancer.",
+      "source": "Ther Adv Med Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Matsuo M",
+        "Taniguchi H",
+        "Takemoto S",
+        "Mine K",
+        "Fukuda T",
+        "Hayashi F",
+        "Ono S",
+        "Akagi K"
+      ],
+      "doi": "10.1177/17588359261466640",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42523603",
+      "title": "Metabolic comorbidities affect the survival of hepatitis B virus-related hepatocellular carcinoma in Chinese patients: a retrospective cohort study with propensity score matching.",
+      "source": "Front Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 14",
+      "authors": [
+        "Zhou Z",
+        "Zheng X",
+        "Lin Z",
+        "Chen X",
+        "Xie M"
+      ],
+      "doi": "10.3389/fonc.2026.1863272",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42523353",
+      "title": "Mitophagy Inhibition Promotes Survival and Mitochondrial Function in MYC-driven HCC.",
+      "source": "bioRxiv",
+      "pubdate": "2026 Jul 14",
+      "epubdate": "2026 Jul 14",
+      "authors": [
+        "Lesner NP",
+        "Kim LC",
+        "Shelton SD",
+        "Landis M",
+        "Cai X",
+        "Zheng D",
+        "Parnaik T",
+        "Bartman C"
+      ],
+      "doi": "10.64898/2026.07.13.738248",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42522589",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "source": "Liver Int",
+      "pubdate": "2026 Sep",
+      "epubdate": "",
+      "authors": [
+        "Prieto Calvo M",
+        "Perfecto A",
+        "Ruiz P",
+        "Gastaca M"
+      ],
+      "doi": "10.1111/liv.70825",
+      "pubtype": [
+        "Letter"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42522214",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy.",
+      "source": "ANZ J Surg",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Xie Z",
+        "Liu C",
+        "Zang S",
+        "Wu P",
+        "Yang R",
+        "Yu J"
+      ],
+      "doi": "10.1111/ans.70762",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42522084",
+      "title": "Right (H145678) and Left (H123458) 6-Segmentectomies for Malignant Liver Tumors: A Retrospective Analysis of 237 Cases Using Contemporary Surgery Quality Indicators.",
+      "source": "Ann Surg",
+      "pubdate": "2026 Jul 29",
+      "epubdate": "2026 Jul 29",
+      "authors": [
+        "Azoulay D",
+        "Corleone P",
+        "Passand GT",
+        "Golse N",
+        "Allard MA",
+        "Pittau G",
+        "Laroche S",
+        "Chouillard MA"
+      ],
+      "doi": "10.1097/SLA.0000000000007166",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42521676",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience.",
+      "source": "J Laparoendosc Adv Surg Tech A",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Lim XY",
+        "Chong Y",
+        "Tan HL",
+        "Chua DW",
+        "Yao C",
+        "Koh YX",
+        "Teo JY",
+        "Cheow PC"
+      ],
+      "doi": "10.1177/10926429261472632",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42521316",
+      "title": "Evaluating the effectiveness and safety of adjuvant transcatheter arterial chemoembolisation (TACE) after curative resection for Barcelona Clinic Liver Cancer (BCLC) stage 0-B hepatocellular carcinoma: protocol for a target trial emulation study.",
+      "source": "BMJ Open",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Li Z",
+        "Mi S",
+        "Li X",
+        "Ren Q"
+      ],
+      "doi": "10.1136/bmjopen-2026-117956",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42520930",
+      "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
+      "source": "JHEP Rep",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Noé C",
+        "Henriques J",
+        "Chanez B",
+        "Vernerey D",
+        "Lecomte T",
+        "Durand A",
+        "Assenat E",
+        "Edeline J"
+      ],
+      "doi": "10.1016/j.jhepr.2026.101968",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "leaning": "clinical"
+    },
+    {
+      "pmid": "42520555",
+      "title": "Oncological and perioperative outcomes in minimally invasive hepatobiliary surgery: A review for the ESSO core curriculum.",
+      "source": "Eur J Surg Oncol",
+      "pubdate": "2026 Jul 25",
+      "epubdate": "2026 Jul 25",
+      "authors": [
+        "Diaz-Nieto R",
+        "Primavesi F",
+        "Sochorova D",
+        "Carrion-Alvarez L",
+        "Soreide K",
+        "Mieog S",
+        "Dopazo C",
+        "Rangelova E"
+      ],
+      "doi": "10.1016/j.ejso.2026.112022",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "leaning": "clinical"
+    }
+  ]
+}

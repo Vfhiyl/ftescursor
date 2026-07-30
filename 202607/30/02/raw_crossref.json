@@ -1,0 +1,1534 @@
+{
+  "collected_at_utc": "2026-07-30T02:01:55.839199+00:00",
+  "window": {
+    "from": "2026-07-29",
+    "until": "2026-07-30"
+  },
+  "queries": [
+    "hepatocellular carcinoma",
+    "hepatectomy HCC",
+    "TACE immunotherapy",
+    "cholangiocarcinoma",
+    "liver transplantation HCC",
+    "EMERALD hepatocellular",
+    "HAIC hepatocellular",
+    "SBRT hepatocellular"
+  ],
+  "unique_title_filtered": 84,
+  "filtered": [
+    {
+      "doi": "10.2147/jhc.s607916",
+      "title": "PTM-Related Signatures Predict Lymph Node Metastasis and Shape Microenvironment in Hepatocellular Carcinoma: A Single-Cell and Bulk Integrated Analysis",
+      "container": "Journal of Hepatocellular Carcinoma",
+      "type": "journal-article",
+      "created": "2026-07-29T05:35:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2147/jhc.s607916"
+    },
+    {
+      "doi": "10.2139/ssrn.7169782",
+      "title": "Therapeutic Inhibition of HIF2α Reprograms the Tumor Microenvironment and Restores Antitumor CD8+ T Cell Immunity in Hepatocellular Carcinoma",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T14:13:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.7169782"
+    },
+    {
+      "doi": "10.18203/2349-2902.isj20262498",
+      "title": "Hepatocellular carcinoma in the context of chronic hepatitis C infection: pathogenesis, diagnosis and therapeutic advances",
+      "container": "International Surgery Journal",
+      "type": "journal-article",
+      "created": "2026-07-29T03:56:21Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.18203/2349-2902.isj20262498"
+    },
+    {
+      "doi": "10.26442/18151434.2026.2.203697",
+      "title": "Hepatocellular carcinoma: prospects for CAR-T therapy in the Russian Federation. Results of the Expert Council meeting",
+      "container": "Journal of Modern Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T00:18:05Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.26442/18151434.2026.2.203697"
+    },
+    {
+      "doi": "10.70755/vnjo.2026.82.13",
+      "title": "HEPATOCELLULAR CARCINOMA MIMICKING FOCAL NODULAR HYPERPLASIA: A CASE REPORT AND LITERATURE REVIEW",
+      "container": "Tạp chí Ung thư học Việt Nam",
+      "type": "journal-article",
+      "created": "2026-07-29T10:34:37Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.70755/vnjo.2026.82.13"
+    },
+    {
+      "doi": "10.5812/hepatmon-171327",
+      "title": "A Novel Preoperative Score Predicts Posthepatectomy Liver Failure in Hepatocellular Carcinoma: Comparison with Traditional Risk Scores",
+      "container": "Hepatitis Monthly",
+      "type": "journal-article",
+      "created": "2026-07-29T13:20:20Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.5812/hepatmon-171327"
+    },
+    {
+      "doi": "10.2139/ssrn.6603950",
+      "title": "Discovery of β-carboline derivatives as potent STAT3 dual phosphorylation inhibitor for hepatocellular carcinoma treatment",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:22:03Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6603950"
+    },
+    {
+      "doi": "10.4240/wjgs.120658",
+      "title": "Complementary diagnostic value of conventional ultrasound and contrast-enhanced magnetic resonance imaging for post-hepatectomy hepatocellular carcinoma surveillance",
+      "container": "World Journal of Gastrointestinal Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T10:15:01Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.4240/wjgs.120658"
+    },
+    {
+      "doi": "10.70755/vnjo.2026.82.12",
+      "title": "COMBINATION OF TACE AND TKIs IN THE TREATMENT OF HEPATOCELLULAR CARCINOMA: FROM THEORY TO CLINICAL PRACTICE",
+      "container": "Tạp chí Ung thư học Việt Nam",
+      "type": "journal-article",
+      "created": "2026-07-29T10:34:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.70755/vnjo.2026.82.12"
+    },
+    {
+      "doi": "10.2139/ssrn.6831520",
+      "title": "A Liquid Biopsy approach: Using Circulating Cancer Stem Cells Phenotype to Predict Vascular Invasion in Hepatocellular Carcinoma Patients",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:38:02Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6831520"
+    },
+    {
+      "doi": "10.3389/fonc.2026.1887443",
+      "title": "Prognostic value of prognostic nutritional index in patients with hepatocellular carcinoma undergoing hepatectomy: a systematic review and meta-analysis",
+      "container": "Frontiers in Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T05:58:41Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3389/fonc.2026.1887443"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.009",
+      "title": "Exosome-delivered miR-769-3p promotes malignant progression of hepatocellular carcinoma via ALKBH5-dependent m6A modification",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T16:11:01Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.009"
+    },
+    {
+      "doi": "10.1111/ans.70762",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy",
+      "container": "ANZ Journal of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T05:39:35Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1111/ans.70762"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2589",
+      "title": "Isorhamnetin-3-O-Neohesperidoside Exerts Anti-Hepatocellular Carcinoma Activity by Targeting Multiple Oncogenic Pathways",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2589"
+    },
+    {
+      "doi": "10.18528/ijgii260007",
+      "title": "Prevalence of viral infection and its impact on early-stage hepatocellular carcinoma: Insights from Mongolia, a developing country",
+      "container": "International Journal of Gastrointestinal Intervention",
+      "type": "journal-article",
+      "created": "2026-07-30T01:30:02Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.18528/ijgii260007"
+    },
+    {
+      "doi": "10.2139/ssrn.6617398",
+      "title": "A Comparative Study of Triple-Marker IHC (Arg-1, Hep Par-1 and BSEP) and Corresponding RNAscope (ARG1/CPS1) Application in the Differential Diagnosis of Poorly Differentiated Hepatocellular Carcinoma",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:22:54Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6617398"
+    },
+    {
+      "doi": "10.2174/0115680096480354260717101124",
+      "title": "Hirsutanonol Inhibits the Progression of Hepatocellular Carcinoma by Promoting the Expression of CNDP1",
+      "container": "Current Cancer Drug Targets",
+      "type": "journal-article",
+      "created": "2026-07-29T06:27:47Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2174/0115680096480354260717101124"
+    },
+    {
+      "doi": "10.20517/2394-5079.2025.120",
+      "title": "Pseudocirrhosis: pathophysiology, clinical mimics, and its role in hepatocellular carcinoma diagnosis and management",
+      "container": "Hepatoma Research",
+      "type": "journal-article",
+      "created": "2026-07-29T10:59:17Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.20517/2394-5079.2025.120"
+    },
+    {
+      "doi": "10.3748/wjg.122971",
+      "title": "Nomogram integrating prognostic immune-inflammatory-nutritional score with clinicopathological parameters for predicting post-transplantation outcomes in hepatocellular carcinoma",
+      "container": "World Journal of Gastroenterology",
+      "type": "journal-article",
+      "created": "2026-07-29T10:15:02Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3748/wjg.122971"
+    },
+    {
+      "doi": "10.1155/ijh/6122232",
+      "title": "Association of the STAT3 rs1053004 Polymorphism With Hepatocellular Carcinoma in Iraqi Patients With Hepatitis B",
+      "container": "International Journal of Hepatology",
+      "type": "journal-article",
+      "created": "2026-07-29T08:32:21Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1155/ijh/6122232"
+    },
+    {
+      "doi": "10.1200/po-25-00745",
+      "title": "Integrated Radioproteomic Modeling for Early Recurrence Prediction and Metabolic Characterization in Hepatocellular Carcinoma",
+      "container": "JCO Precision Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T19:59:10Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1200/po-25-00745"
+    },
+    {
+      "doi": "10.1002/adtp.202500581",
+      "title": "Dual‐Targeted, pH/Reduction‐Responsive Mesoporous Silica Nanocarriers for Selective Sorafenib Delivery to Hepatocellular Carcinoma",
+      "container": "Advanced Therapeutics",
+      "type": "journal-article",
+      "created": "2026-07-29T08:07:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1002/adtp.202500581"
+    },
+    {
+      "doi": "10.1016/j.tranon.2026.102962",
+      "title": "3′UTR shortening of ZCRB1 promotes malignant progression of hepatocellular carcinoma through GOLM1",
+      "container": "Translational Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T00:05:13Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.tranon.2026.102962"
+    },
+    {
+      "doi": "10.1158/0008-5472.can-25-4356",
+      "title": "Mechanosensors Collaborate to Regulate DNA Damage Repair in Hepatocellular Carcinoma",
+      "container": "Cancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T20:21:01Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1158/0008-5472.can-25-4356"
+    },
+    {
+      "doi": "10.65405/36sdgf96",
+      "title": "Prevalence of Hepatocellular Carcinoma and Evaluation of Hematological Alterations among Patients in Northwest Libya",
+      "container": "Al-Farooq Journal of Sciences",
+      "type": "journal-article",
+      "created": "2026-07-29T19:01:08Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.65405/36sdgf96"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.011",
+      "title": "Transforming the treatment landscape for unresectable hepatocellular carcinoma: A perspective on transarterial chemoembolization-anchored triple-combination therapy",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T23:40:54Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.011"
+    },
+    {
+      "doi": "10.1007/s00270-026-04553-w",
+      "title": "High-Specific-Activity Resin Yttrium-90 Radiation Segmentectomy of Hepatocellular Carcinoma: A Study of Efficacy, Safety, and Dosimetry Considerations",
+      "container": "CardioVascular and Interventional Radiology",
+      "type": "journal-article",
+      "created": "2026-07-29T20:35:58Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1007/s00270-026-04553-w"
+    },
+    {
+      "doi": "10.1016/j.bbrc.2026.154340",
+      "title": "Corrigendum to “Natural exosome-like nanovesicles from Smilax China rhizome induce mitophagy-dependent ferroptosis in hepatocellular carcinoma via GPX4/ACSL4 axis” [Biochem. Biophys. Res. Commun. 800 (2026) 153270]",
+      "container": "Biochemical and Biophysical Research Communications",
+      "type": "journal-article",
+      "created": "2026-07-29T20:40:58Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.bbrc.2026.154340"
+    },
+    {
+      "doi": "10.1007/s10142-026-01997-8",
+      "title": "Dihydrolipoamide dehydrogenase promotes hepatocellular carcinoma progression and modulates cuproptosis-dependent cell death",
+      "container": "Functional &amp; Integrative Genomics",
+      "type": "journal-article",
+      "created": "2026-07-29T05:40:13Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1007/s10142-026-01997-8"
+    },
+    {
+      "doi": "10.3390/polym18151863",
+      "title": "Development and Optimization of Sodium Deoxycholate-Stabilised Shellac-Based Polymeric Nanoparticles for Enhanced Pharmacokinetics and Anticancer Activity of Etodolac in Hepatocellular Carcinoma",
+      "container": "Polymers",
+      "type": "journal-article",
+      "created": "2026-07-29T17:01:46Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3390/polym18151863"
+    },
+    {
+      "doi": "10.1177/10926429261472632",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience",
+      "container": "Journal of Laparoendoscopic &amp; Advanced Surgical Techniques",
+      "type": "journal-article",
+      "created": "2026-07-29T03:06:32Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1177/10926429261472632"
+    },
+    {
+      "doi": "10.1007/s10278-026-02139-z",
+      "title": "3D Fractal Analysis of Gd-EOB-DTPA-MRI for Vessels Encapsulating Tumor Clusters Prediction in Hepatocellular Carcinoma",
+      "container": "Journal of Imaging Informatics in Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T16:48:05Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1007/s10278-026-02139-z"
+    },
+    {
+      "doi": "10.1111/jvh.70218",
+      "title": "Differential Hepatitis B Surface Antigen Glycan Isomer Kinetics Between Tenofovir Alafenamide and Entecavir: Hepatocellular Carcinoma Risk Stratification in Hepatitis B e Antigen‐Positive Patients",
+      "container": "Journal of Viral Hepatitis",
+      "type": "journal-article",
+      "created": "2026-07-29T09:42:36Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1111/jvh.70218"
+    },
+    {
+      "doi": "10.34133/cancomm.0043",
+      "title": "Metabolic reprogramming of NSUN2-mediated m5C modification promotes the progression of hepatocellular carcinoma by restricting natural killer cell-mediated cytotoxicity",
+      "container": "Cancer Communications",
+      "type": "journal-article",
+      "created": "2026-07-29T11:27:47Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.34133/cancomm.0043"
+    },
+    {
+      "doi": "10.1038/s41419-026-09118-w",
+      "title": "Tumor-derived annexin A1 drives lenvatinib resistance by regulating SOX2/STAT3/S100A6 feedback loop and M2 macrophage polarization in hepatocellular carcinoma",
+      "container": "Cell Death &amp; Disease",
+      "type": "journal-article",
+      "created": "2026-07-29T09:07:10Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1038/s41419-026-09118-w"
+    },
+    {
+      "doi": "10.21873/anticanres.18300",
+      "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma",
+      "container": "Anticancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T15:05:16Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.21873/anticanres.18300"
+    },
+    {
+      "doi": "10.1038/s41598-026-62723-9",
+      "title": "Integrated LiP-MS and quantitative proteomics reveal coordinated alterations in protein conformation and expression across tumor and peritumoral regions in hepatocellular carcinoma",
+      "container": "Scientific Reports",
+      "type": "journal-article",
+      "created": "2026-07-30T01:46:21Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1038/s41598-026-62723-9"
+    },
+    {
+      "doi": "10.3389/fonc.2026.1822365",
+      "title": "Case Report: transformation to SCLC from EGFR-mutated squamous cell lung carcinoma during osimertinib treatment",
+      "container": "Frontiers in Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T04:35:30Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3389/fonc.2026.1822365"
+    },
+    {
+      "doi": "10.2139/ssrn.6874878",
+      "title": "HER2 status in extrahepatic cholangiocarcinoma and gallbladder carcinoma: concordance between immunohistochemistry and chromogenic in situ hybridization in 140 Cases",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:45:04Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6874878"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T19:44:33Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.21203/rs.3.rs-10395965/v1"
+    },
+    {
+      "doi": "10.18203/2349-2902.isj20262475",
+      "title": "When benign mimics malignancy: giant hypervascular focal nodular hyperplasia requiring left hemi-hepatectomy",
+      "container": "International Surgery Journal",
+      "type": "journal-article",
+      "created": "2026-07-29T03:56:15Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.18203/2349-2902.isj20262475"
+    },
+    {
+      "doi": "10.62347/wbvu7173",
+      "title": "Impact of traditional Chinese medicine on liver regeneration following partial hepatectomy in cirrhotic rats",
+      "container": "International Journal of Clinical and Experimental Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T01:55:45Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.62347/wbvu7173"
+    },
+    {
+      "doi": "10.21873/anticanres.18330",
+      "title": "Minimally Invasive\n                    <i>Versus</i>\n                    Open Liver Resection for HCC in the Posterosuperior Segments: A Propensity Score-matched Study",
+      "container": "Anticancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T15:05:16Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.21873/anticanres.18330"
+    },
+    {
+      "doi": "10.1111/liv.70825",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "container": "Liver International",
+      "type": "journal-article",
+      "created": "2026-07-29T09:17:52Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1111/liv.70825"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2615",
+      "title": "Betulinic Acid Extracted from Guava (Psidium guajava L.) Leaves Inhibits Human Cholangiocarcinoma Cell Metastasis by Activating E-cadherin and Inhibiting MMP-9 and VEGF",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2615"
+    },
+    {
+      "doi": "10.3389/fimmu.2026.1858117",
+      "title": "A TMED3-governed disulfidptosis-related diagnostic signature reveals tumor microenvironment remodeling in intrahepatic cholangiocarcinoma",
+      "container": "Frontiers in Immunology",
+      "type": "journal-article",
+      "created": "2026-07-29T06:03:42Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.3389/fimmu.2026.1858117"
+    },
+    {
+      "doi": "10.1007/s00432-026-06568-9",
+      "title": "Integrated multi-omics analysis reveals that tumour cell-intrinsic DCLK1 is associated with an angiogenic tumour microenvironment in cholangiocarcinoma via NF-κB/CXCL5",
+      "container": "Journal of Cancer Research and Clinical Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T13:13:45Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1007/s00432-026-06568-9"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2491",
+      "title": "Plasma S100A9 Levels in Healthy Individuals, Opisthorchis viverrini-Infected Individuals, and Patients with Cholangiocarcinoma",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2491"
+    },
+    {
+      "doi": "10.3748/wjg.122785",
+      "title": "Efficacy and safety of surufatinib and anti-PD-L1 therapy in combination with hepatic arterial infusion chemotherapy for unresectable intrahepatic cholangiocarcinoma",
+      "container": "World Journal of Gastroenterology",
+      "type": "journal-article",
+      "created": "2026-07-29T10:15:02Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.3748/wjg.122785"
+    },
+    {
+      "doi": "10.1097/sla.0000000000007176",
+      "title": "Differential Effects of VEGFA and EGF Polymorphisms on Susceptibility and Postoperative Outcome in Cholangiocarcinoma",
+      "container": "Annals of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T04:00:47Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1097/sla.0000000000007176"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2697",
+      "title": "Study of the Role of Circulating Cell-Free DNA in the Diagnosis of Cholangiocarcinoma",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2697"
+    },
+    {
+      "doi": "10.1016/j.adro.2026.102126",
+      "title": "Grid Radiation Therapy Based on Multileaf Collimator for Neoadjuvant Treatment of Large-Volume Intrahepatic Cholangiocarcinoma: A Case Report",
+      "container": "Advances in Radiation Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T00:05:47Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1016/j.adro.2026.102126"
+    },
+    {
+      "doi": "10.2139/ssrn.6586869",
+      "title": "Integrated Safety and Survival Risk Stratification Guiding Surgery in Child-Pugh B Intrahepatic Cholangiocarcinoma​",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:21:06Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6586869"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2509",
+      "title": "Microbial Composition Study in Cholangiocarcinoma: Stage-Specific Diversity Analysis in Bile and Tumor Microbiome",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2509"
+    },
+    {
+      "doi": "10.21873/anticanres.18284",
+      "title": "Clinical and Functional Significance of\n                    <i>C16orf74</i>\n                    in Extrahepatic Cholangiocarcinoma",
+      "container": "Anticancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T15:05:16Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.21873/anticanres.18284"
+    },
+    {
+      "doi": "10.1155/crit/8246863",
+      "title": "Passenger Lymphocyte Syndrome With Multiple Allo‐ and Autoantibodies Following Liver Transplantation: A Case Report",
+      "container": "Case Reports in Transplantation",
+      "type": "journal-article",
+      "created": "2026-07-29T12:29:41Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1155/crit/8246863"
+    },
+    {
+      "doi": "10.2139/ssrn.6722098",
+      "title": "Transport Priority and Equilibrium Composition Effects in Liver Transplantation",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:27:56Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.2139/ssrn.6722098"
+    },
+    {
+      "doi": "10.3389/fphar.2026.1807440",
+      "title": "Antithrombotic therapy for hepatic artery thrombosis following liver transplantation: a case report and literature review",
+      "container": "Frontiers in Pharmacology",
+      "type": "journal-article",
+      "created": "2026-07-29T04:34:03Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3389/fphar.2026.1807440"
+    },
+    {
+      "doi": "10.7860/jcdr/2026/90321.24165",
+      "title": "Transfusion Approaches in Liver Transplantation: A Case Series from a Tertiary Care Hospital",
+      "container": "JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH",
+      "type": "journal-article",
+      "created": "2026-07-29T06:07:56Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.7860/jcdr/2026/90321.24165"
+    },
+    {
+      "doi": "10.4285/ctr.26.0016",
+      "title": "Early-onset plasma cell-rich acute cellular rejection following liver transplantation in autoimmune hepatitis-primary biliary cirrhosis overlap syndrome: a case report",
+      "container": "Clinical Transplantation and Research",
+      "type": "journal-article",
+      "created": "2026-07-29T05:43:46Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.4285/ctr.26.0016"
+    },
+    {
+      "doi": "10.1007/s00423-026-04135-x",
+      "title": "Application of a nursing care bundle combined with a clinical nursing pathway in liver transplantation and its impact on patient self-management: a randomized controlled trial",
+      "container": "Langenbeck's Archives of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T00:36:14Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1007/s00423-026-04135-x"
+    },
+    {
+      "doi": "10.1155/ijh/3205201",
+      "title": "Sarcopenia as a Predictor of Mortality Among Cirrhotic Patients Awaiting Liver Transplantation",
+      "container": "International Journal of Hepatology",
+      "type": "journal-article",
+      "created": "2026-07-29T12:13:41Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1155/ijh/3205201"
+    },
+    {
+      "doi": "10.24953/turkjpediatr.1990.3784",
+      "title": "Severe cytomegalovirus infection and immunosuppressive therapy in pediatric liver transplantation",
+      "container": "The Turkish Journal of Pediatrics",
+      "type": "journal-article",
+      "created": "2026-07-29T13:05:52Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.24953/turkjpediatr.1990.3784"
+    },
+    {
+      "doi": "10.3389/fmed.2026.1863619",
+      "title": "Development and internal validation of a nomogram for early prediction of deep vein thrombosis after liver transplantation: an exploratory machine-learning comparison",
+      "container": "Frontiers in Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T04:36:04Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3389/fmed.2026.1863619"
+    },
+    {
+      "doi": "10.1007/978-3-032-31119-1_14",
+      "title": "Data-Driven Prediction Framework for Best Match Donor Selection and Survival Estimation in Liver Transplantation",
+      "container": "Lecture Notes in Networks and Systems Intelligent Strategies for ICT",
+      "type": "book-chapter",
+      "created": "2026-07-29T11:35:35Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1007/978-3-032-31119-1_14"
+    },
+    {
+      "doi": "10.1016/j.livres.2026.07.001",
+      "title": "The changing etiology of liver cancer: A comparative study of global and Chinese burden trends from hepatitis dominance to metabolic risks (1990-2021) and forecasts to 2035",
+      "container": "Liver Research",
+      "type": "journal-article",
+      "created": "2026-07-29T23:33:55Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.livres.2026.07.001"
+    },
+    {
+      "doi": "10.1111/liv.70816",
+      "title": "Autophagy in\n                    <scp>MASLD</scp>\n                    : A Metabolic and Precision Medicine Perspective",
+      "container": "Liver International",
+      "type": "journal-article",
+      "created": "2026-07-29T09:16:56Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1111/liv.70816"
+    },
+    {
+      "doi": "10.47278/book.tl/2026.131",
+      "title": "Liver Cancer Treatment through Integrated Laser Emission and Microwave Irradiation Enhanced by Gold Nanoparticles",
+      "container": "Cancer Biology and Precision Oncology: Innovations in Diagnosis, Drug Discovery and Therapy",
+      "type": "book-chapter",
+      "created": "2026-07-29T11:17:55Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.47278/book.tl/2026.131"
+    },
+    {
+      "doi": "10.2139/ssrn.6976606",
+      "title": "Aetiology-Specific Liver Cancer Burden in Sub-Saharan Africa, 1990–2023: A Global Burden of Disease 2023 Analysis",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:59:05Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.2139/ssrn.6976606"
+    },
+    {
+      "doi": "10.1111/liv.70804",
+      "title": "Comparison of Factors Associated With 30‐Day and 90‐Day Readmission Among a Global Cohort of Patients Hospitalised With Cirrhosis",
+      "container": "Liver International",
+      "type": "journal-article",
+      "created": "2026-07-29T09:23:12Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1111/liv.70804"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.006",
+      "title": "Water pollutants: An increasingly etiological factor for liver cancer",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T15:21:34Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.006"
+    },
+    {
+      "doi": "10.12669/pjms.42.8.15347",
+      "title": "Multidrug resistant bacterial infection in liver transplant recipients: A Deterrent and obstacle",
+      "container": "Pakistan Journal of Medical Sciences",
+      "type": "journal-article",
+      "created": "2026-07-29T05:59:28Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.12669/pjms.42.8.15347"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.007",
+      "title": "Fibroblast growth factor 21 analogues in the FDA pipeline: Hope for metabolic dysfunction-associated steatotic liver disease therapy after resmetirom",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T15:21:32Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.007"
+    },
+    {
+      "doi": "10.1016/j.autrev.2026.104149",
+      "title": "Decoding tumor–associated autoantibodies in liver cancer: Mechanisms, clinical applications, and detection methods",
+      "container": "Autoimmunity Reviews",
+      "type": "journal-article",
+      "created": "2026-07-29T15:21:43Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.autrev.2026.104149"
+    },
+    {
+      "doi": "10.3389/fmed.2026.1866012",
+      "title": "Genetics and epigenetics in tumor necrosis factor-alpha (TNF-α) and transmembrane 6 superfamily member 2 (TM6SF2) in alcohol induced liver cirrhosis",
+      "container": "Frontiers in Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T04:42:49Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3389/fmed.2026.1866012"
+    },
+    {
+      "doi": "10.1002/ima.70424",
+      "title": "<scp>ViT</scp>\n                    ‐Swin‐\n                    <scp>UNet</scp>\n                    : A Transformer‐Based Framework for Liver Tumor Analysis in\n                    <scp>CT</scp>\n                    Images",
+      "container": "International Journal of Imaging Systems and Technology",
+      "type": "journal-article",
+      "created": "2026-07-29T13:50:20Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1002/ima.70424"
+    },
+    {
+      "doi": "10.3390/jox16040140",
+      "title": "The JAK1 Inhibitor Upadacitinib Curbs Acute Liver Failure via Suppressing IFN-γ/JAK1/STAT1 and TNF-α/NF-κB/MAPK Pathways and Modulating Bax/Bcl-2 Ratio",
+      "container": "Journal of Xenobiotics",
+      "type": "journal-article",
+      "created": "2026-07-29T11:45:14Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3390/jox16040140"
+    },
+    {
+      "doi": "10.2139/ssrn.6991019",
+      "title": "&lt;p&gt;&lt;b&gt;&lt;span&gt;Stage-Specific Epigenetic Reprogramming In Metabolic Dysfunction-Associated Steatotic Liver Disease: Insights And Perspectives From Saudi Arabia&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T14:00:43Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.2139/ssrn.6991019"
+    },
+    {
+      "doi": "10.1016/j.ijbiomac.2026.153704",
+      "title": "Retraction notice to “Structure of POU2AF1 recombinant protein and it affects the progression and treatment of liver cancer based on WGCNA and molecular docking analysis” [Int. J. Biol. Macromol. 278 (2024) 134629]",
+      "container": "International Journal of Biological Macromolecules",
+      "type": "journal-article",
+      "created": "2026-07-29T20:42:54Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.ijbiomac.2026.153704"
+    },
+    {
+      "doi": "10.1097/sla.0000000000007166",
+      "title": "Right (H145678) and Left (H123458) 6-Segmentectomies for Malignant Liver Tumors",
+      "container": "Annals of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T04:00:32Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1097/sla.0000000000007166"
+    },
+    {
+      "doi": "10.3390/cancers18152432",
+      "title": "Safe and Effective Histotripsy Ablation of Human Liver Tumors in a Genetically Modified Porcine Model",
+      "container": "Cancers",
+      "type": "journal-article",
+      "created": "2026-07-29T08:16:52Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3390/cancers18152432"
+    },
+    {
+      "doi": "10.3390/cimb48080770",
+      "title": "A Comprehensive Understanding of DCTPP1 as an Emerging Therapeutic Target in Liver Cancer",
+      "container": "Current Issues in Molecular Biology",
+      "type": "journal-article",
+      "created": "2026-07-29T11:45:14Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3390/cimb48080770"
+    },
+    {
+      "doi": "10.2172/3376409",
+      "title": "&lt;strong&gt;Emerald Connections Weatherization Plus Health Pilot Program&lt;/strong&gt;",
+      "container": "",
+      "type": "report",
+      "created": "2026-07-29T13:12:34Z",
+      "query_hit": "EMERALD hepatocellular",
+      "URL": "https://doi.org/10.2172/3376409"
+    },
+    {
+      "doi": "10.1007/s43388-026-00311-1",
+      "title": "Shared maternity: interspecific alloparental care by the Swallow-tailed Hummingbird in a nest of the Glittering-bellied Emerald (Aves, Trochilidae)",
+      "container": "Ornithology Research",
+      "type": "journal-article",
+      "created": "2026-07-29T22:10:37Z",
+      "query_hit": "EMERALD hepatocellular",
+      "URL": "https://doi.org/10.1007/s43388-026-00311-1"
+    }
+  ],
+  "items": [
+    {
+      "doi": "10.2147/jhc.s607916",
+      "title": "PTM-Related Signatures Predict Lymph Node Metastasis and Shape Microenvironment in Hepatocellular Carcinoma: A Single-Cell and Bulk Integrated Analysis",
+      "container": "Journal of Hepatocellular Carcinoma",
+      "type": "journal-article",
+      "created": "2026-07-29T05:35:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2147/jhc.s607916"
+    },
+    {
+      "doi": "10.2139/ssrn.7169782",
+      "title": "Therapeutic Inhibition of HIF2α Reprograms the Tumor Microenvironment and Restores Antitumor CD8+ T Cell Immunity in Hepatocellular Carcinoma",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T14:13:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.7169782"
+    },
+    {
+      "doi": "10.18203/2349-2902.isj20262498",
+      "title": "Hepatocellular carcinoma in the context of chronic hepatitis C infection: pathogenesis, diagnosis and therapeutic advances",
+      "container": "International Surgery Journal",
+      "type": "journal-article",
+      "created": "2026-07-29T03:56:21Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.18203/2349-2902.isj20262498"
+    },
+    {
+      "doi": "10.26442/18151434.2026.2.203697",
+      "title": "Hepatocellular carcinoma: prospects for CAR-T therapy in the Russian Federation. Results of the Expert Council meeting",
+      "container": "Journal of Modern Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T00:18:05Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.26442/18151434.2026.2.203697"
+    },
+    {
+      "doi": "10.70755/vnjo.2026.82.13",
+      "title": "HEPATOCELLULAR CARCINOMA MIMICKING FOCAL NODULAR HYPERPLASIA: A CASE REPORT AND LITERATURE REVIEW",
+      "container": "Tạp chí Ung thư học Việt Nam",
+      "type": "journal-article",
+      "created": "2026-07-29T10:34:37Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.70755/vnjo.2026.82.13"
+    },
+    {
+      "doi": "10.5812/hepatmon-171327",
+      "title": "A Novel Preoperative Score Predicts Posthepatectomy Liver Failure in Hepatocellular Carcinoma: Comparison with Traditional Risk Scores",
+      "container": "Hepatitis Monthly",
+      "type": "journal-article",
+      "created": "2026-07-29T13:20:20Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.5812/hepatmon-171327"
+    },
+    {
+      "doi": "10.2139/ssrn.6603950",
+      "title": "Discovery of β-carboline derivatives as potent STAT3 dual phosphorylation inhibitor for hepatocellular carcinoma treatment",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:22:03Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6603950"
+    },
+    {
+      "doi": "10.4240/wjgs.120658",
+      "title": "Complementary diagnostic value of conventional ultrasound and contrast-enhanced magnetic resonance imaging for post-hepatectomy hepatocellular carcinoma surveillance",
+      "container": "World Journal of Gastrointestinal Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T10:15:01Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.4240/wjgs.120658"
+    },
+    {
+      "doi": "10.70755/vnjo.2026.82.12",
+      "title": "COMBINATION OF TACE AND TKIs IN THE TREATMENT OF HEPATOCELLULAR CARCINOMA: FROM THEORY TO CLINICAL PRACTICE",
+      "container": "Tạp chí Ung thư học Việt Nam",
+      "type": "journal-article",
+      "created": "2026-07-29T10:34:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.70755/vnjo.2026.82.12"
+    },
+    {
+      "doi": "10.2139/ssrn.6831520",
+      "title": "A Liquid Biopsy approach: Using Circulating Cancer Stem Cells Phenotype to Predict Vascular Invasion in Hepatocellular Carcinoma Patients",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:38:02Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6831520"
+    },
+    {
+      "doi": "10.3389/fonc.2026.1887443",
+      "title": "Prognostic value of prognostic nutritional index in patients with hepatocellular carcinoma undergoing hepatectomy: a systematic review and meta-analysis",
+      "container": "Frontiers in Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T05:58:41Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3389/fonc.2026.1887443"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.009",
+      "title": "Exosome-delivered miR-769-3p promotes malignant progression of hepatocellular carcinoma via ALKBH5-dependent m6A modification",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T16:11:01Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.009"
+    },
+    {
+      "doi": "10.1111/ans.70762",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy",
+      "container": "ANZ Journal of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T05:39:35Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1111/ans.70762"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2589",
+      "title": "Isorhamnetin-3-O-Neohesperidoside Exerts Anti-Hepatocellular Carcinoma Activity by Targeting Multiple Oncogenic Pathways",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2589"
+    },
+    {
+      "doi": "10.18528/ijgii260007",
+      "title": "Prevalence of viral infection and its impact on early-stage hepatocellular carcinoma: Insights from Mongolia, a developing country",
+      "container": "International Journal of Gastrointestinal Intervention",
+      "type": "journal-article",
+      "created": "2026-07-30T01:30:02Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.18528/ijgii260007"
+    },
+    {
+      "doi": "10.2139/ssrn.6617398",
+      "title": "A Comparative Study of Triple-Marker IHC (Arg-1, Hep Par-1 and BSEP) and Corresponding RNAscope (ARG1/CPS1) Application in the Differential Diagnosis of Poorly Differentiated Hepatocellular Carcinoma",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:22:54Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6617398"
+    },
+    {
+      "doi": "10.2174/0115680096480354260717101124",
+      "title": "Hirsutanonol Inhibits the Progression of Hepatocellular Carcinoma by Promoting the Expression of CNDP1",
+      "container": "Current Cancer Drug Targets",
+      "type": "journal-article",
+      "created": "2026-07-29T06:27:47Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2174/0115680096480354260717101124"
+    },
+    {
+      "doi": "10.20517/2394-5079.2025.120",
+      "title": "Pseudocirrhosis: pathophysiology, clinical mimics, and its role in hepatocellular carcinoma diagnosis and management",
+      "container": "Hepatoma Research",
+      "type": "journal-article",
+      "created": "2026-07-29T10:59:17Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.20517/2394-5079.2025.120"
+    },
+    {
+      "doi": "10.3748/wjg.122971",
+      "title": "Nomogram integrating prognostic immune-inflammatory-nutritional score with clinicopathological parameters for predicting post-transplantation outcomes in hepatocellular carcinoma",
+      "container": "World Journal of Gastroenterology",
+      "type": "journal-article",
+      "created": "2026-07-29T10:15:02Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3748/wjg.122971"
+    },
+    {
+      "doi": "10.1155/ijh/6122232",
+      "title": "Association of the STAT3 rs1053004 Polymorphism With Hepatocellular Carcinoma in Iraqi Patients With Hepatitis B",
+      "container": "International Journal of Hepatology",
+      "type": "journal-article",
+      "created": "2026-07-29T08:32:21Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1155/ijh/6122232"
+    },
+    {
+      "doi": "10.1200/po-25-00745",
+      "title": "Integrated Radioproteomic Modeling for Early Recurrence Prediction and Metabolic Characterization in Hepatocellular Carcinoma",
+      "container": "JCO Precision Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T19:59:10Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1200/po-25-00745"
+    },
+    {
+      "doi": "10.1002/adtp.202500581",
+      "title": "Dual‐Targeted, pH/Reduction‐Responsive Mesoporous Silica Nanocarriers for Selective Sorafenib Delivery to Hepatocellular Carcinoma",
+      "container": "Advanced Therapeutics",
+      "type": "journal-article",
+      "created": "2026-07-29T08:07:12Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1002/adtp.202500581"
+    },
+    {
+      "doi": "10.1016/j.tranon.2026.102962",
+      "title": "3′UTR shortening of ZCRB1 promotes malignant progression of hepatocellular carcinoma through GOLM1",
+      "container": "Translational Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T00:05:13Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.tranon.2026.102962"
+    },
+    {
+      "doi": "10.1158/0008-5472.can-25-4356",
+      "title": "Mechanosensors Collaborate to Regulate DNA Damage Repair in Hepatocellular Carcinoma",
+      "container": "Cancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T20:21:01Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1158/0008-5472.can-25-4356"
+    },
+    {
+      "doi": "10.65405/36sdgf96",
+      "title": "Prevalence of Hepatocellular Carcinoma and Evaluation of Hematological Alterations among Patients in Northwest Libya",
+      "container": "Al-Farooq Journal of Sciences",
+      "type": "journal-article",
+      "created": "2026-07-29T19:01:08Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.65405/36sdgf96"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.011",
+      "title": "Transforming the treatment landscape for unresectable hepatocellular carcinoma: A perspective on transarterial chemoembolization-anchored triple-combination therapy",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T23:40:54Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.011"
+    },
+    {
+      "doi": "10.1007/s00270-026-04553-w",
+      "title": "High-Specific-Activity Resin Yttrium-90 Radiation Segmentectomy of Hepatocellular Carcinoma: A Study of Efficacy, Safety, and Dosimetry Considerations",
+      "container": "CardioVascular and Interventional Radiology",
+      "type": "journal-article",
+      "created": "2026-07-29T20:35:58Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1007/s00270-026-04553-w"
+    },
+    {
+      "doi": "10.1016/j.bbrc.2026.154340",
+      "title": "Corrigendum to “Natural exosome-like nanovesicles from Smilax China rhizome induce mitophagy-dependent ferroptosis in hepatocellular carcinoma via GPX4/ACSL4 axis” [Biochem. Biophys. Res. Commun. 800 (2026) 153270]",
+      "container": "Biochemical and Biophysical Research Communications",
+      "type": "journal-article",
+      "created": "2026-07-29T20:40:58Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1016/j.bbrc.2026.154340"
+    },
+    {
+      "doi": "10.1007/s10142-026-01997-8",
+      "title": "Dihydrolipoamide dehydrogenase promotes hepatocellular carcinoma progression and modulates cuproptosis-dependent cell death",
+      "container": "Functional &amp; Integrative Genomics",
+      "type": "journal-article",
+      "created": "2026-07-29T05:40:13Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1007/s10142-026-01997-8"
+    },
+    {
+      "doi": "10.3390/polym18151863",
+      "title": "Development and Optimization of Sodium Deoxycholate-Stabilised Shellac-Based Polymeric Nanoparticles for Enhanced Pharmacokinetics and Anticancer Activity of Etodolac in Hepatocellular Carcinoma",
+      "container": "Polymers",
+      "type": "journal-article",
+      "created": "2026-07-29T17:01:46Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3390/polym18151863"
+    },
+    {
+      "doi": "10.1177/10926429261472632",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience",
+      "container": "Journal of Laparoendoscopic &amp; Advanced Surgical Techniques",
+      "type": "journal-article",
+      "created": "2026-07-29T03:06:32Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1177/10926429261472632"
+    },
+    {
+      "doi": "10.1007/s10278-026-02139-z",
+      "title": "3D Fractal Analysis of Gd-EOB-DTPA-MRI for Vessels Encapsulating Tumor Clusters Prediction in Hepatocellular Carcinoma",
+      "container": "Journal of Imaging Informatics in Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T16:48:05Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1007/s10278-026-02139-z"
+    },
+    {
+      "doi": "10.1111/jvh.70218",
+      "title": "Differential Hepatitis B Surface Antigen Glycan Isomer Kinetics Between Tenofovir Alafenamide and Entecavir: Hepatocellular Carcinoma Risk Stratification in Hepatitis B e Antigen‐Positive Patients",
+      "container": "Journal of Viral Hepatitis",
+      "type": "journal-article",
+      "created": "2026-07-29T09:42:36Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1111/jvh.70218"
+    },
+    {
+      "doi": "10.34133/cancomm.0043",
+      "title": "Metabolic reprogramming of NSUN2-mediated m5C modification promotes the progression of hepatocellular carcinoma by restricting natural killer cell-mediated cytotoxicity",
+      "container": "Cancer Communications",
+      "type": "journal-article",
+      "created": "2026-07-29T11:27:47Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.34133/cancomm.0043"
+    },
+    {
+      "doi": "10.1038/s41419-026-09118-w",
+      "title": "Tumor-derived annexin A1 drives lenvatinib resistance by regulating SOX2/STAT3/S100A6 feedback loop and M2 macrophage polarization in hepatocellular carcinoma",
+      "container": "Cell Death &amp; Disease",
+      "type": "journal-article",
+      "created": "2026-07-29T09:07:10Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1038/s41419-026-09118-w"
+    },
+    {
+      "doi": "10.21873/anticanres.18300",
+      "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma",
+      "container": "Anticancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T15:05:16Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.21873/anticanres.18300"
+    },
+    {
+      "doi": "10.1038/s41598-026-62723-9",
+      "title": "Integrated LiP-MS and quantitative proteomics reveal coordinated alterations in protein conformation and expression across tumor and peritumoral regions in hepatocellular carcinoma",
+      "container": "Scientific Reports",
+      "type": "journal-article",
+      "created": "2026-07-30T01:46:21Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.1038/s41598-026-62723-9"
+    },
+    {
+      "doi": "10.3389/fonc.2026.1822365",
+      "title": "Case Report: transformation to SCLC from EGFR-mutated squamous cell lung carcinoma during osimertinib treatment",
+      "container": "Frontiers in Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T04:35:30Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.3389/fonc.2026.1822365"
+    },
+    {
+      "doi": "10.2139/ssrn.6874878",
+      "title": "HER2 status in extrahepatic cholangiocarcinoma and gallbladder carcinoma: concordance between immunohistochemistry and chromogenic in situ hybridization in 140 Cases",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:45:04Z",
+      "query_hit": "hepatocellular carcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6874878"
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T19:44:33Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.21203/rs.3.rs-10395965/v1"
+    },
+    {
+      "doi": "10.18203/2349-2902.isj20262475",
+      "title": "When benign mimics malignancy: giant hypervascular focal nodular hyperplasia requiring left hemi-hepatectomy",
+      "container": "International Surgery Journal",
+      "type": "journal-article",
+      "created": "2026-07-29T03:56:15Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.18203/2349-2902.isj20262475"
+    },
+    {
+      "doi": "10.62347/wbvu7173",
+      "title": "Impact of traditional Chinese medicine on liver regeneration following partial hepatectomy in cirrhotic rats",
+      "container": "International Journal of Clinical and Experimental Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T01:55:45Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.62347/wbvu7173"
+    },
+    {
+      "doi": "10.21873/anticanres.18330",
+      "title": "Minimally Invasive\n                    <i>Versus</i>\n                    Open Liver Resection for HCC in the Posterosuperior Segments: A Propensity Score-matched Study",
+      "container": "Anticancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T15:05:16Z",
+      "query_hit": "hepatectomy HCC",
+      "URL": "https://doi.org/10.21873/anticanres.18330"
+    },
+    {
+      "doi": "10.1111/liv.70825",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "container": "Liver International",
+      "type": "journal-article",
+      "created": "2026-07-29T09:17:52Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1111/liv.70825"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2615",
+      "title": "Betulinic Acid Extracted from Guava (Psidium guajava L.) Leaves Inhibits Human Cholangiocarcinoma Cell Metastasis by Activating E-cadherin and Inhibiting MMP-9 and VEGF",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2615"
+    },
+    {
+      "doi": "10.3389/fimmu.2026.1858117",
+      "title": "A TMED3-governed disulfidptosis-related diagnostic signature reveals tumor microenvironment remodeling in intrahepatic cholangiocarcinoma",
+      "container": "Frontiers in Immunology",
+      "type": "journal-article",
+      "created": "2026-07-29T06:03:42Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.3389/fimmu.2026.1858117"
+    },
+    {
+      "doi": "10.1007/s00432-026-06568-9",
+      "title": "Integrated multi-omics analysis reveals that tumour cell-intrinsic DCLK1 is associated with an angiogenic tumour microenvironment in cholangiocarcinoma via NF-κB/CXCL5",
+      "container": "Journal of Cancer Research and Clinical Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T13:13:45Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1007/s00432-026-06568-9"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2491",
+      "title": "Plasma S100A9 Levels in Healthy Individuals, Opisthorchis viverrini-Infected Individuals, and Patients with Cholangiocarcinoma",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2491"
+    },
+    {
+      "doi": "10.3748/wjg.122785",
+      "title": "Efficacy and safety of surufatinib and anti-PD-L1 therapy in combination with hepatic arterial infusion chemotherapy for unresectable intrahepatic cholangiocarcinoma",
+      "container": "World Journal of Gastroenterology",
+      "type": "journal-article",
+      "created": "2026-07-29T10:15:02Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.3748/wjg.122785"
+    },
+    {
+      "doi": "10.1097/sla.0000000000007176",
+      "title": "Differential Effects of VEGFA and EGF Polymorphisms on Susceptibility and Postoperative Outcome in Cholangiocarcinoma",
+      "container": "Annals of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T04:00:47Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1097/sla.0000000000007176"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2697",
+      "title": "Study of the Role of Circulating Cell-Free DNA in the Diagnosis of Cholangiocarcinoma",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2697"
+    },
+    {
+      "doi": "10.1016/j.adro.2026.102126",
+      "title": "Grid Radiation Therapy Based on Multileaf Collimator for Neoadjuvant Treatment of Large-Volume Intrahepatic Cholangiocarcinoma: A Case Report",
+      "container": "Advances in Radiation Oncology",
+      "type": "journal-article",
+      "created": "2026-07-29T00:05:47Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.1016/j.adro.2026.102126"
+    },
+    {
+      "doi": "10.2139/ssrn.6586869",
+      "title": "Integrated Safety and Survival Risk Stratification Guiding Surgery in Child-Pugh B Intrahepatic Cholangiocarcinoma​",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:21:06Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.2139/ssrn.6586869"
+    },
+    {
+      "doi": "10.31557/apjcp.2026.27.7.2509",
+      "title": "Microbial Composition Study in Cholangiocarcinoma: Stage-Specific Diversity Analysis in Bile and Tumor Microbiome",
+      "container": "Asian Pacific Journal of Cancer Prevention",
+      "type": "journal-article",
+      "created": "2026-07-29T10:54:14Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.31557/apjcp.2026.27.7.2509"
+    },
+    {
+      "doi": "10.21873/anticanres.18284",
+      "title": "Clinical and Functional Significance of\n                    <i>C16orf74</i>\n                    in Extrahepatic Cholangiocarcinoma",
+      "container": "Anticancer Research",
+      "type": "journal-article",
+      "created": "2026-07-29T15:05:16Z",
+      "query_hit": "cholangiocarcinoma",
+      "URL": "https://doi.org/10.21873/anticanres.18284"
+    },
+    {
+      "doi": "10.1155/crit/8246863",
+      "title": "Passenger Lymphocyte Syndrome With Multiple Allo‐ and Autoantibodies Following Liver Transplantation: A Case Report",
+      "container": "Case Reports in Transplantation",
+      "type": "journal-article",
+      "created": "2026-07-29T12:29:41Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1155/crit/8246863"
+    },
+    {
+      "doi": "10.2139/ssrn.6722098",
+      "title": "Transport Priority and Equilibrium Composition Effects in Liver Transplantation",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:27:56Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.2139/ssrn.6722098"
+    },
+    {
+      "doi": "10.3389/fphar.2026.1807440",
+      "title": "Antithrombotic therapy for hepatic artery thrombosis following liver transplantation: a case report and literature review",
+      "container": "Frontiers in Pharmacology",
+      "type": "journal-article",
+      "created": "2026-07-29T04:34:03Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3389/fphar.2026.1807440"
+    },
+    {
+      "doi": "10.7860/jcdr/2026/90321.24165",
+      "title": "Transfusion Approaches in Liver Transplantation: A Case Series from a Tertiary Care Hospital",
+      "container": "JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH",
+      "type": "journal-article",
+      "created": "2026-07-29T06:07:56Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.7860/jcdr/2026/90321.24165"
+    },
+    {
+      "doi": "10.4285/ctr.26.0016",
+      "title": "Early-onset plasma cell-rich acute cellular rejection following liver transplantation in autoimmune hepatitis-primary biliary cirrhosis overlap syndrome: a case report",
+      "container": "Clinical Transplantation and Research",
+      "type": "journal-article",
+      "created": "2026-07-29T05:43:46Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.4285/ctr.26.0016"
+    },
+    {
+      "doi": "10.1007/s00423-026-04135-x",
+      "title": "Application of a nursing care bundle combined with a clinical nursing pathway in liver transplantation and its impact on patient self-management: a randomized controlled trial",
+      "container": "Langenbeck's Archives of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T00:36:14Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1007/s00423-026-04135-x"
+    },
+    {
+      "doi": "10.1155/ijh/3205201",
+      "title": "Sarcopenia as a Predictor of Mortality Among Cirrhotic Patients Awaiting Liver Transplantation",
+      "container": "International Journal of Hepatology",
+      "type": "journal-article",
+      "created": "2026-07-29T12:13:41Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1155/ijh/3205201"
+    },
+    {
+      "doi": "10.24953/turkjpediatr.1990.3784",
+      "title": "Severe cytomegalovirus infection and immunosuppressive therapy in pediatric liver transplantation",
+      "container": "The Turkish Journal of Pediatrics",
+      "type": "journal-article",
+      "created": "2026-07-29T13:05:52Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.24953/turkjpediatr.1990.3784"
+    },
+    {
+      "doi": "10.3389/fmed.2026.1863619",
+      "title": "Development and internal validation of a nomogram for early prediction of deep vein thrombosis after liver transplantation: an exploratory machine-learning comparison",
+      "container": "Frontiers in Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T04:36:04Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3389/fmed.2026.1863619"
+    },
+    {
+      "doi": "10.1007/978-3-032-31119-1_14",
+      "title": "Data-Driven Prediction Framework for Best Match Donor Selection and Survival Estimation in Liver Transplantation",
+      "container": "Lecture Notes in Networks and Systems Intelligent Strategies for ICT",
+      "type": "book-chapter",
+      "created": "2026-07-29T11:35:35Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1007/978-3-032-31119-1_14"
+    },
+    {
+      "doi": "10.1016/j.livres.2026.07.001",
+      "title": "The changing etiology of liver cancer: A comparative study of global and Chinese burden trends from hepatitis dominance to metabolic risks (1990-2021) and forecasts to 2035",
+      "container": "Liver Research",
+      "type": "journal-article",
+      "created": "2026-07-29T23:33:55Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.livres.2026.07.001"
+    },
+    {
+      "doi": "10.1111/liv.70816",
+      "title": "Autophagy in\n                    <scp>MASLD</scp>\n                    : A Metabolic and Precision Medicine Perspective",
+      "container": "Liver International",
+      "type": "journal-article",
+      "created": "2026-07-29T09:16:56Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1111/liv.70816"
+    },
+    {
+      "doi": "10.47278/book.tl/2026.131",
+      "title": "Liver Cancer Treatment through Integrated Laser Emission and Microwave Irradiation Enhanced by Gold Nanoparticles",
+      "container": "Cancer Biology and Precision Oncology: Innovations in Diagnosis, Drug Discovery and Therapy",
+      "type": "book-chapter",
+      "created": "2026-07-29T11:17:55Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.47278/book.tl/2026.131"
+    },
+    {
+      "doi": "10.2139/ssrn.6976606",
+      "title": "Aetiology-Specific Liver Cancer Burden in Sub-Saharan Africa, 1990–2023: A Global Burden of Disease 2023 Analysis",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T13:59:05Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.2139/ssrn.6976606"
+    },
+    {
+      "doi": "10.1111/liv.70804",
+      "title": "Comparison of Factors Associated With 30‐Day and 90‐Day Readmission Among a Global Cohort of Patients Hospitalised With Cirrhosis",
+      "container": "Liver International",
+      "type": "journal-article",
+      "created": "2026-07-29T09:23:12Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1111/liv.70804"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.006",
+      "title": "Water pollutants: An increasingly etiological factor for liver cancer",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T15:21:34Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.006"
+    },
+    {
+      "doi": "10.12669/pjms.42.8.15347",
+      "title": "Multidrug resistant bacterial infection in liver transplant recipients: A Deterrent and obstacle",
+      "container": "Pakistan Journal of Medical Sciences",
+      "type": "journal-article",
+      "created": "2026-07-29T05:59:28Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.12669/pjms.42.8.15347"
+    },
+    {
+      "doi": "10.1016/j.hbpd.2026.07.007",
+      "title": "Fibroblast growth factor 21 analogues in the FDA pipeline: Hope for metabolic dysfunction-associated steatotic liver disease therapy after resmetirom",
+      "container": "Hepatobiliary &amp; Pancreatic Diseases International",
+      "type": "journal-article",
+      "created": "2026-07-29T15:21:32Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.hbpd.2026.07.007"
+    },
+    {
+      "doi": "10.1016/j.autrev.2026.104149",
+      "title": "Decoding tumor–associated autoantibodies in liver cancer: Mechanisms, clinical applications, and detection methods",
+      "container": "Autoimmunity Reviews",
+      "type": "journal-article",
+      "created": "2026-07-29T15:21:43Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.autrev.2026.104149"
+    },
+    {
+      "doi": "10.3389/fmed.2026.1866012",
+      "title": "Genetics and epigenetics in tumor necrosis factor-alpha (TNF-α) and transmembrane 6 superfamily member 2 (TM6SF2) in alcohol induced liver cirrhosis",
+      "container": "Frontiers in Medicine",
+      "type": "journal-article",
+      "created": "2026-07-29T04:42:49Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3389/fmed.2026.1866012"
+    },
+    {
+      "doi": "10.1002/ima.70424",
+      "title": "<scp>ViT</scp>\n                    ‐Swin‐\n                    <scp>UNet</scp>\n                    : A Transformer‐Based Framework for Liver Tumor Analysis in\n                    <scp>CT</scp>\n                    Images",
+      "container": "International Journal of Imaging Systems and Technology",
+      "type": "journal-article",
+      "created": "2026-07-29T13:50:20Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1002/ima.70424"
+    },
+    {
+      "doi": "10.3390/jox16040140",
+      "title": "The JAK1 Inhibitor Upadacitinib Curbs Acute Liver Failure via Suppressing IFN-γ/JAK1/STAT1 and TNF-α/NF-κB/MAPK Pathways and Modulating Bax/Bcl-2 Ratio",
+      "container": "Journal of Xenobiotics",
+      "type": "journal-article",
+      "created": "2026-07-29T11:45:14Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3390/jox16040140"
+    },
+    {
+      "doi": "10.2139/ssrn.6991019",
+      "title": "&lt;p&gt;&lt;b&gt;&lt;span&gt;Stage-Specific Epigenetic Reprogramming In Metabolic Dysfunction-Associated Steatotic Liver Disease: Insights And Perspectives From Saudi Arabia&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;",
+      "container": "",
+      "type": "posted-content",
+      "created": "2026-07-29T14:00:43Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.2139/ssrn.6991019"
+    },
+    {
+      "doi": "10.1016/j.ijbiomac.2026.153704",
+      "title": "Retraction notice to “Structure of POU2AF1 recombinant protein and it affects the progression and treatment of liver cancer based on WGCNA and molecular docking analysis” [Int. J. Biol. Macromol. 278 (2024) 134629]",
+      "container": "International Journal of Biological Macromolecules",
+      "type": "journal-article",
+      "created": "2026-07-29T20:42:54Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1016/j.ijbiomac.2026.153704"
+    },
+    {
+      "doi": "10.1097/sla.0000000000007166",
+      "title": "Right (H145678) and Left (H123458) 6-Segmentectomies for Malignant Liver Tumors",
+      "container": "Annals of Surgery",
+      "type": "journal-article",
+      "created": "2026-07-29T04:00:32Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.1097/sla.0000000000007166"
+    },
+    {
+      "doi": "10.3390/cancers18152432",
+      "title": "Safe and Effective Histotripsy Ablation of Human Liver Tumors in a Genetically Modified Porcine Model",
+      "container": "Cancers",
+      "type": "journal-article",
+      "created": "2026-07-29T08:16:52Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3390/cancers18152432"
+    },
+    {
+      "doi": "10.3390/cimb48080770",
+      "title": "A Comprehensive Understanding of DCTPP1 as an Emerging Therapeutic Target in Liver Cancer",
+      "container": "Current Issues in Molecular Biology",
+      "type": "journal-article",
+      "created": "2026-07-29T11:45:14Z",
+      "query_hit": "liver transplantation HCC",
+      "URL": "https://doi.org/10.3390/cimb48080770"
+    },
+    {
+      "doi": "10.2172/3376409",
+      "title": "&lt;strong&gt;Emerald Connections Weatherization Plus Health Pilot Program&lt;/strong&gt;",
+      "container": "",
+      "type": "report",
+      "created": "2026-07-29T13:12:34Z",
+      "query_hit": "EMERALD hepatocellular",
+      "URL": "https://doi.org/10.2172/3376409"
+    },
+    {
+      "doi": "10.1007/s43388-026-00311-1",
+      "title": "Shared maternity: interspecific alloparental care by the Swallow-tailed Hummingbird in a nest of the Glittering-bellied Emerald (Aves, Trochilidae)",
+      "container": "Ornithology Research",
+      "type": "journal-article",
+      "created": "2026-07-29T22:10:37Z",
+      "query_hit": "EMERALD hepatocellular",
+      "URL": "https://doi.org/10.1007/s43388-026-00311-1"
+    }
+  ]
+}
