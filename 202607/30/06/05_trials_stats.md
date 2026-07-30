@@ -2,7 +2,7 @@
 
 ## ClinicalTrials.gov
 
-- 窗：`LastUpdatePostDate` RANGE\[2026-07-29, 2026-07-30]
+- 窗：`LastUpdatePostDate` RANGE[2026-07-29, 2026-07-30]
 - related **14** / focus **14**（与 05h 相同）
 - **NEW NCT = 0**；**DROPPED = 0**
 - 无 `resultsFirstPostDate` / 状态实质 UPDATED
