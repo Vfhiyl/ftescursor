@@ -1,0 +1,55 @@
+{
+  "esmo_daily": {
+    "url": "https://www.esmo.org/oncology-news",
+    "status": 200,
+    "hits": [],
+    "page_title": "Oncology News | ESMO"
+  },
+  "asco_post": {
+    "url": "https://ascopost.com/",
+    "status": 200,
+    "hits": [],
+    "page_title": "TAP Homepage - The ASCO Post",
+    "keywords_present": [
+      "durvalumab"
+    ]
+  },
+  "onclive": {
+    "url": "https://www.onclive.com/",
+    "status": "error: HTTPError: HTTP Error 403: Forbidden",
+    "hits": []
+  },
+  "nikkei_cancer": {
+    "url": "https://medical.nikkeibp.co.jp/inc/all/cancer/",
+    "status": "error: HTTPError: HTTP Error 404: 404",
+    "hits": []
+  },
+  "has_fr": {
+    "url": "https://www.has-sante.fr/",
+    "status": 200,
+    "hits": [],
+    "page_title": "Haute Autorité de Santé - HAS - Professionnels"
+  },
+  "awmf_de": {
+    "url": "https://www.awmf.org/leitlinien",
+    "status": 200,
+    "hits": [],
+    "page_title": "Leitlinien der AWMF für Ärzt*innen und Gesundheitspersonal | Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V."
+  },
+  "nhc_zh": {
+    "url": "http://www.nhc.gov.cn/",
+    "status": "error: HTTPError: HTTP Error 412: Precondition Failed",
+    "hits": []
+  },
+  "minzdrav_ru": {
+    "url": "https://minzdrav.gov.ru/",
+    "status": "error: RemoteDisconnected: Remote end closed connection without response",
+    "hits": []
+  },
+  "klca_ko": {
+    "url": "https://www.klca.or.kr/",
+    "status": 200,
+    "hits": [],
+    "page_title": "�ѱ�����ȸ������ȸ"
+  }
+}
