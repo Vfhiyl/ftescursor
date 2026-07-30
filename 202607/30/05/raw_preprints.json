@@ -1,0 +1,33 @@
+{
+  "window": [
+    "2026-07-29",
+    "2026-07-30"
+  ],
+  "medrxiv": [],
+  "biorxiv": [],
+  "europepmc_ppr": [
+    {
+      "server": "europepmc_ppr",
+      "id": "PPR1287662",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "date": "2026-07-29",
+      "source": "europepmc",
+      "abstract": "<title>Abstract</title>  <p>Objective  To explore the learning curve (LC) of robot-assisted hepatectomy (RAH) for the treatment of malignant liver tumors and investigate its relevant patterns, so as to provide guidance for the safe clinical implementation of this surgery. Methods  A retrospective analysis was conducted on the clinical data of 184 patients who received treatment in the Department of General Surgery, Sir Run Run Shaw Hospital Affiliated to Zhejiang University School of Medicine from March 2016 to April 2025, and underwent RAH performed by the same chief surgeon. The Iwate scoring system was used to classify the surgical difficulty. The cumulative sum method (CUSUM) was applied to analyze the learning curves of different surgical difficulty levels. The learning curve was verified by comparing the general data and short-term clinical outcomes of patients in different learning stages, and the impact of different learning stages on patients' clinical efficacy was explored. Results  A total of 184 consecutive patients with malignant liver tumors who underwent RAH were included in the study. Among them, 141 were male (76.6%) and 43 were female (23.4); the age was 62.5 (62."
+    },
+    {
+      "server": "europepmc_ppr",
+      "id": "PPR1287547",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "date": "2026-07-29",
+      "source": "europepmc",
+      "abstract": "<h4>Background: </h4> /Objectives: Oxidative stress and chronic inflammation are critical pathophysiological drivers of over 100 degenerative diseases and malignancies. Beta-Sitosterol (BS) and pteropodine (PT) are plant-derived bioactive compounds implicated in fatty acid metabolism and tissue homeostasis. This study aimed to evaluate the immunomodulatory capacity, selective cytotoxicity, acute anti-inflammatory effects, and antimutagenic potential of BS and PT using complementary in vivo and in vitro models. <h4>Methods:</h4> Male and female BALB/c mice were orally treated with BS (100–200 mg/kg) or PT (25–50 mg/kg). Humoral immunity against thymus-dependent antigens was assessed via a modified Jerne/Cunningham hemolytic plaque assay (SRBC immunization). Acute inflammation was evaluated using a TPA-induced mouse ear edema model. In vitro selective cytotoxicity was determined by exposing human hepatocellular carcinoma cells (HepG2) and normal human liver cells (Chang liver) to both compounds, evaluating cell adhesion and morphology. <h4>Results:</h4> Both BS and PT significantly enhanced the humoral immune response by increasing plaque-forming cells (IgM-producing B-lymphocytes) a"
+    }
+  ],
+  "counts": {
+    "medrxiv": 0,
+    "biorxiv": 0,
+    "europepmc_ppr": 2
+  }
+}
