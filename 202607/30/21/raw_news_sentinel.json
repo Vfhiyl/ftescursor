@@ -1,0 +1,60 @@
+{
+  "checked_at": "2026-07-30T21:04:44.945970+00:00",
+  "sources": {
+    "en_esmo": {
+      "url": "https://www.esmo.org/oncology-news",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "snippets": []
+    },
+    "en_asco_post": {
+      "url": "https://ascopost.com/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "snippets": []
+    },
+    "en_onclive": {
+      "url": "https://www.onclive.com/",
+      "http_status": 403,
+      "keyword_hits": 0,
+      "snippets": []
+    },
+    "ja_gan_navi": {
+      "url": "https://medical.nikkeibp.co.jp/cancer/",
+      "http_status": 404,
+      "keyword_hits": 0,
+      "snippets": []
+    },
+    "zh_nhc": {
+      "url": "http://www.nhc.gov.cn/",
+      "http_status": 412,
+      "keyword_hits": 0,
+      "snippets": []
+    },
+    "fr_has": {
+      "url": "https://www.has-sante.fr/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "snippets": []
+    },
+    "de_awmf": {
+      "url": "https://www.awmf.org/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "snippets": []
+    },
+    "ru_minzdrav": {
+      "url": "https://minzdrav.gov.ru/",
+      "http_status": 0,
+      "keyword_hits": 0,
+      "snippets": [],
+      "error": "Remote end closed connection without response"
+    },
+    "ko_klca": {
+      "url": "https://www.klca.or.kr/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "snippets": []
+    }
+  }
+}

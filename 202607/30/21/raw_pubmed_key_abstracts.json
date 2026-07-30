@@ -1,0 +1,84 @@
+[
+  {
+    "pmid": "42530952",
+    "title": "Refining Combination Locoregional Therapy for Intermediate-Stage Hepatocellular Carcinoma-Lessons From the TORCH Trial.",
+    "doi": "10.1001/jamaoncol.2026.1884",
+    "journal": "JAMA oncology",
+    "abstract": "",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530952/",
+    "clinical_leaning": true,
+    "false_positive_hint": false
+  },
+  {
+    "pmid": "42530948",
+    "title": "Transarterial Chemoembolization Plus Thermal Ablation in Unresectable Hepatocellular Carcinoma: The Phase 3 TORCH Randomized Clinical Trial.",
+    "doi": "10.1001/jamaoncol.2026.2366",
+    "journal": "JAMA oncology",
+    "abstract": "Transarterial chemoembolization (TACE) is the standard of care for liver-confined hepatocellular carcinoma (HCC) that is not amenable to curative treatment; however, TACE has demonstrated unsatisfactory survival benefits. To evaluate whether combining TACE with subsequent thermal ablation improves clinical outcomes compared with TACE alone in patients with liver-confined unresectable HCC. The open-label, phase 3 TORCH randomized clinical trial was conducted from May 2015 to August 2024 at 2 tertiary medical centers in China. Patients with Barcelona Clinic Liver Cancer stage B HCC were enrolled. The data cutoff was October 31, 2025. Patients were randomly assigned (1:1) to receive either TACE combined with subsequent selective radiofrequency ablation (TACE-ablation) or TACE alone. The primary end point was progression-free survival (PFS), assessed per Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. Secondary end points included overall survival (OS), treatment response and PFS per modified RECIST, untreatable PFS, and safety. Among 241 patients included in the intention-to-treat population, 121 received TACE-ablation (median [IQR] age, 59.0 [51.0-66.0] years; 108 [89.3%] male), and 120 received TACE alone (mean [IQR] age, 58.0 [50.0-64.0]; 106 [88.3] male). The number of patients with 6-and-12 tumor burden scores of lower than 6, 6 to 12, and more than 12 points were 34 (28.1%), 79 (65.3%), and 8 (6.6%) in the TACE-ablation group and 31 (25.8%), 76 (63.3%), and 13 (10.8%) in the TACE alone group, respectively. At the data cutoff, the median PFS per RECIST, version 1.1, was 17.7 months (95% CI, 11.4-23.1 months) in the TACE-ablation group vs 7.3 months (95% CI, 6.4-10.4 months) in the TACE alone group (hazard ratio [HR], 0.47; 95% CI, 0.34-0.65; P < .001). TACE-ablation also resulted in statistically significant prolonged untreatable PFS compared with TACE (35.1 months vs 12.3 months; HR, 0.40; 95% CI, 0.27-0.58; P < .001). Median OS was 88.6 month",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530948/",
+    "clinical_leaning": true,
+    "false_positive_hint": false
+  },
+  {
+    "pmid": "42529015",
+    "title": "Serum M2BPGi as a predictor of hepatocellular carcinoma development in chronic hepatitis B and C: a systematic review and meta-analysis.",
+    "doi": "10.3389/fmed.2026.1897953",
+    "journal": "Frontiers in medicine",
+    "abstract": "Hepatocellular carcinoma (HCC) kills about 830,000 people each year, and most cases arise in chronic viral hepatitis. Better risk markers would let clinicians focus surveillance where it matters. Mac-2 binding protein glycosylation isomer (M2BPGi) is a serum glycobiomarker of liver fibrosis. Several cohort studies tie elevated M2BPGi to HCC. No quantitative synthesis has pooled this evidence across viral etiologies. We searched PubMed/MEDLINE, Embase, the Cochrane Library, Web of Science, and Scopus through April 2026 for longitudinal studies that reported hazard ratios (HRs) for HCC linked to elevated M2BPGi in chronic hepatitis B (CHB) or C (HCV). We registered the protocol with PROSPERO. The primary pool restricted to longitudinal studies with categorical cutoffs that reported HRs. We used random-effects meta-analysis with restricted maximum likelihood and the Hartung-Knapp adjustment. Twenty-three publications (24 study entries) met inclusion criteria. The primary pool of 15 longitudinal categorical HR-reporting studies covered 12,161 participants and at least 1,189 HCC events. The pooled HR was 4.61 (95% CI 3.24-6.54; p < 0.0001) with low heterogeneity (I2 = 25.6%). The 95% prediction interval ran from 2.08 to 10.18. The effect held across etiology (CHB k = 5 HR 4.12; HCV k = 10 HR 5.07; p_subgroup = 0.62) and across measurement timing (baseline HR 3.21; on/post-treatment HR 5.62; post-SVR HR 5.45; p_subgroup = 0.23). Two sensitivity pools re-introducing OR-based studies gave HR 4.71 (k = 16) and HR 4.89 (k = 17). Egger's test was positive (p = 0.0003); trim-and-fill imputed six studies and pulled the adjusted HR to 3.53. Elevated serum M2BPGi is strongly and consistently associated with HCC development in patients with chronic hepatitis B and C. The effect holds across etiology, treatment status, and measurement timing-including after sustained virological response. Funnel asymmetry suggests the true effect is closer to a 3.5-fold than a 4.6-fold risk increase",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42529015/",
+    "clinical_leaning": true,
+    "false_positive_hint": false
+  },
+  {
+    "pmid": "42527888",
+    "title": "A Legacy Strategy in a Modern Era: Reassessing Low Central Venous Pressure During Hepatectomy.",
+    "doi": "10.1177/00031348261474197",
+    "journal": "The American surgeon",
+    "abstract": "Low central venous pressure (LCVP) has long been used to reduce bleeding during hepatectomy, but whether its benefit persists in the context of modern liver surgery, particularly minimally invasive approaches, remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials comparing LCVP with conventional central venous pressure management. PubMed, Embase, Web of Science, the Cochrane Library, OVID, Scopus, and ClinicalTrials.gov were searched from inception to January 13, 2026. Primary outcomes were intraoperative blood loss, transfusion volume, and transfusion requirement. Secondary outcomes included postoperative liver function and renal function. Risk of bias was assessed using RoB 2.0, and certainty of evidence was evaluated using GRADE. 15 randomized controlled trials involving 1523 patients were included, with 742 patients in the LCVP group and 781 in the control group. Overall, LCVP significantly reduced intraoperative blood loss (SMD -0.90, 95% CI -1.44 to -0.35), transfusion volume (SMD -0.75, 95% CI -1.00 to -0.50), and the proportion of patients requiring transfusion (OR 0.51, 95% CI 0.36 to 0.74). However, subgroup analysis demonstrated that the reduction in blood loss was primarily observed in open hepatectomy (SMD -1.08, 95% CI -1.82 to -0.33), whereas no significant effect was identified in laparoscopic hepatectomy (SMD -0.50, 95% CI -1.14 to 0.15). These findings suggest that while LCVP remains an effective blood-sparing strategy in open hepatectomy, its benefit in minimally invasive liver resection is uncertain, indicating that its clinical value is context-dependent and may be less pronounced in contemporary surgical practice.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527888/",
+    "clinical_leaning": true,
+    "false_positive_hint": false
+  },
+  {
+    "pmid": "42527869",
+    "title": "Bronchobiliary Fistula After Hepatic Ablation: A Case-Based Systematic Review and Practical Management Algorithm.",
+    "doi": "10.1177/00031348261474185",
+    "journal": "The American surgeon",
+    "abstract": "BackgroundBronchobiliary fistula (BBF) is a rare but significant complication of hepatic ablation, particularly in tumors adjacent to the diaphragm. With increasing use of thermal ablation, growing literature has emerged characterizing its presentation and management.MethodsWe present a representative case of recurrent BBF after radiofrequency ablation for hepatocellular carcinoma, successfully managed with a multimodal interventional radiology approach. Following PRISMA guidelines, we conducted a systematic review of the literature on BBF after hepatic ablative therapy published between March 2005 and February 2026, identifying 20 eligible articles encompassing 39 cases.ResultsThe pooled analysis revealed a distinct clinical syndrome: subphrenic tumor location (89.7%), delayed presentation at a median of 4-8 weeks post-ablation, and bilioptysis as the hallmark symptom (92.3%). Diagnostic strategies included CT, bronchoscopy, and cholangiography, often used in combination. Multimodal minimally invasive approaches, including percutaneous, endoscopic, and bronchoscopic techniques, account for 87.2% of current management. While interventional radiology-guided embolization achieved overall success in 66.7% of cases in this pooled series, it often required multiple sessions, reflecting the challenging nature of this complication. Based on these findings, we propose a practical treatment algorithm.Conclusionronchobiliary fistula after hepatic ablation follows a recognizable pattern that should prompt early diagnosis. A persistent, multimodal minimally invasive approach can achieve definitive closure in many cases and should generally be considered before proceeding to surgical intervention. The available evidence, however, remains limited to case reports and small series, and recommendations for specific embolization strategies should be interpreted with this in mind.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527869/",
+    "clinical_leaning": true,
+    "false_positive_hint": false
+  },
+  {
+    "pmid": "42527293",
+    "title": "Hepatocellular carcinoma A major challenge in the Arab world: A systematic review.",
+    "doi": "10.1016/j.ajg.2026.06.010",
+    "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+    "abstract": "",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527293/",
+    "clinical_leaning": true,
+    "false_positive_hint": false
+  }
+]

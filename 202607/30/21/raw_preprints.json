@@ -1,0 +1,123 @@
+{
+  "window": {
+    "from": "2026-07-28",
+    "to": "2026-07-30",
+    "note": "med/bioRxiv details uses ~48h broaden for sentinel continuity; EPMC FIRST_PDATE 24h"
+  },
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "radiology and imaging",
+      "abstract_snippet": "Objective: To identify common photon-counting CT (PCCT) virtual monochromatic imaging (VMI) settings for accurate hepatic fat fraction (FF) quantification across different body sizes, including large body habitus. Methods: Six non-iodinated fat lesions (FF 5%-40%) were embedded in anthropomorphic li"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.27.740890",
+      "title": "A single-nucleus atlas of the adult laying hen liver reveals metabolic specialization and improved cellular resolution through enhanced genome annotation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genomics",
+      "abstract_snippet": "The liver of laying hens plays a central role in metabolism and reproduction, supporting the synthesis of egg yolk precursors under strong hormonal regulation. Despite its physiological importance, a high-resolution cell"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "cancer biology",
+      "abstract_snippet": "Fatty liver disease predisposes to primary liver cancer, yet the lineage routes and niche mechanisms that select rare tumor-fated hepatocytes remain unclear. Here we developed CERAMIC, a high-capacity CRISPR-Cas9 lineage"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "abstract_snippet": "Human liver organoids (HLOs) and liver-on-a-chip (LoC) systems are emerging as physiologically relevant human models for studying liver function, disease, and drug metabolism, often in combination with human induced pluripotent stem cell (hiPSC)-derived tissues. However, hiPSC-derived models often d"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741358",
+      "title": "Hepatic huntingtin loss drives an acute phase response and liver injury in multiple mouse models",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "molecular biology",
+      "abstract_snippet": "Multiple therapeutic strategies are being developed to slow Huntington's disease (HD) progression through targeted reduction of huntingtin (HTT) protein or mRNA. Despite HTT's discovery over 30 years ago, its cellular functions remain incompletely understood, and the long-term consequences of HTT-lo"
+    }
+  ],
+  "biorxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.26.740828",
+      "title": "Doxycycline Modulates Uveal-Melanoma-Associated Marker Expression in BAP1-Repressed Human Ocular Organoids",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cancer biology",
+      "abstract_snippet": "Uveal Melanoma (UM) is the most common eye cancer, with a metastatic mortality rate of 80%. Only 1-3% of patients have detectable UM at metastasis, and UM exhibits punctuated early growth. Doxycycline has recently been s",
+      "reason": "uveal melanoma / non-HCC"
+    },
+    {
+      "doi": "10.64898/2026.07.26.740853",
+      "title": "Prohaptoglobin Promotes Pancreatic Cancer Progression by sustaining YAP Activity",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cancer biology",
+      "abstract_snippet": "Background & AimsProhaptoglobin (proHp), a precursor of haptoglobin (Hp), has recently emerged as a cancer-associated biomarker, but its functional role in pancreatic cancer remains unclear. We investigated whether proHp",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.26.740786",
+      "title": "The liver compensates for zonal loss of glucose 6-phosphatase to prevent glycogen storage disease",
+      "date": "2026-07-28",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "physiology",
+      "abstract_snippet": "The liver is organized into spatial zones with distinct metabolic roles, but how this architecture contributes to disease remains unclear. Glucose production is concentrated in periportal hepatocytes and depends on G6PC1",
+      "reason": "weak hepatic theme"
+    }
+  ],
+  "medrxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.27.26359064",
+      "title": "Cell-Free DNA Concentration as a Mutation-Agnostic Readout of Systemic Tumor Burden and Prognosis: A Prospective Analysis of 1,000 Patients",
+      "date": "2026-07-28",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "oncology",
+      "abstract_snippet": "Background: Objective assessment of tumor burden in patients with solid tumors remains inexact. Furthermore, while mutation-based liquid biopsies are specific, they are limited by tumor heterogeneity and the requirement ",
+      "reason": "weak hepatic theme"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "date": "2026-07-29",
+      "id": "PPR1287662",
+      "source": "PPR",
+      "abstract_snippet": "<title>Abstract</title>  <p>Objective  To explore the learning curve (LC) of robot-assisted hepatectomy (RAH) for the treatment of malignant liver tumors and investigate its relevant patterns, so as to provide guidance f"
+    },
+    {
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "date": "2026-07-29",
+      "id": "PPR1287547",
+      "source": "PPR",
+      "abstract_snippet": "<h4>Background: </h4> /Objectives: Oxidative stress and chronic inflammation are critical pathophysiological drivers of over 100 degenerative diseases and malignancies. Beta-Sitosterol (BS) and pteropodine (PT) are plant"
+    }
+  ],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 4,
+    "europepmc_ppr": 2
+  }
+}

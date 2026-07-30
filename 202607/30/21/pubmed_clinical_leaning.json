@@ -1,0 +1,366 @@
+{
+  "count": 27,
+  "records": [
+    {
+      "pmid": "42530952",
+      "title": "Refining Combination Locoregional Therapy for Intermediate-Stage Hepatocellular Carcinoma-Lessons From the TORCH Trial.",
+      "doi": "10.1001/jamaoncol.2026.1884",
+      "journal": "JAMA oncology",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530952/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42530948",
+      "title": "Transarterial Chemoembolization Plus Thermal Ablation in Unresectable Hepatocellular Carcinoma: The Phase 3 TORCH Randomized Clinical Trial.",
+      "doi": "10.1001/jamaoncol.2026.2366",
+      "journal": "JAMA oncology",
+      "abstract": "Transarterial chemoembolization (TACE) is the standard of care for liver-confined hepatocellular carcinoma (HCC) that is not amenable to curative treatment; however, TACE has demonstrated unsatisfactory survival benefits. To evaluate whether combining TACE with subsequent thermal ablation improves clinical outcomes compared with TACE alone in patients with liver-confined unresectable HCC. The open-label, phase 3 TORCH randomized clinical trial was conducted from May 2015 to August 2024 at 2 tertiary medical centers in China. Patients with Barcelona Clinic Liver Cancer stage B HCC were enrolled. The data cutoff was October 31, 2025. Patients were randomly assigned (1:1) to receive either TACE combined with subsequent selective radiofrequency ablation (TACE-ablation) or TACE alone. The primary end point was progression-free survival (PFS), assessed per Response Evaluation Criteria in Solid Tumors (RECIST), version 1.1. Secondary end points included overall survival (OS), treatment response and PFS per modified RECIST, untreatable PFS, and safety. Among 241 patients included in the intention-to-treat population, 121 received TACE-ablation (median [IQR] age, 59.0 [51.0-66.0] years; 108 [89.3%] male), and 120 received TACE alone (mean [IQR] age, 58.0 [50.0-64.0]; 106 [88.3] male). The number of patients with 6-and-12 tumor burden scores of lower than 6, 6 to 12, and more than 12 points were 34 (28.1%), 79 (65.3%), and 8 (6.6%) in the TACE-ablation group and 31 (25.8%), 76 (63.3%), and 13 (10.8%) in the TACE alone group, respectively. At the data cutoff, the median PFS per RECIST, version 1.1, was 17.7 months (95% CI, 11.4-23.1 months) in the TACE-ablation group vs 7.3 months (95% CI, 6.4-10.4 months) in the TACE alone group (hazard ratio [HR], 0.47; 95% CI, 0.34-0.65; P < .001). TACE-ablation also resulted in statistically significant prolonged untreatable PFS compared with TACE (35.1 months vs 12.3 months; HR, 0.40; 95% CI, 0.27-0.58; P < .001). Median OS was 88.6 month",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530948/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42530843",
+      "title": "Robotic Resection of Large Central Hepatic Tumor: Technique of Juxta-Hilar Tumor Dissection Off Anterior Glissonean Pedicle Sheath.",
+      "doi": "10.1245/s10434-026-20093-6",
+      "journal": "Annals of surgical oncology",
+      "abstract": "Robotic liver surgery enables precise, parenchyma-sparing resection of centrally located hepatic tumors involving critical hilar structures. Focal nodular hyperplasia (FNH), although benign, may require resection in symptomatic or enlarging lesions. A 24-year-old woman with biopsy-proven FNH presented with progressive right epigastric pain and tumor growth from 4.4 cm to 7.0 cm. Preoperative imaging demonstrated a centrally located lesion abutting the right anterior Glissonean pedicle without evidence of major vascular invasion, making preservation of uninvolved hepatic parenchyma a principal operative objective. She underwent robotic partial central hepatectomy (segments 4A, 4B, 5, and 8) with cholecystectomy, with intraoperative indocyanine green (ICG) cholangiography used to delineate biliary anatomy near the Glissonean pedicles. The robotic approach was selected to facilitate stable hilar exposure, meticulous juxta-hilar dissection, and controlled parenchymal transection adjacent to the biliary bifurcation while avoiding unnecessary extended hepatectomy. Selective vascular stapling was utilized only for isolated segmental inflow and outflow structures encountered during transection, while preserving the major hilar vasculature and surrounding functional liver parenchyma. The procedure was completed in 3 h with 100 cc estimated blood loss and no complications. She was discharged on postoperative day 3. Final pathology confirmed complete resection, and at 1-year follow-up, she remained symptom-free with no evidence of recurrence. This case highlights the feasibility of robotic central parenchyma-sparing hepatectomy for lesions in close proximity to critical hilar structures, demonstrating how enhanced robotic dexterity, stable visualization, and fluorescence guidance can facilitate safe dissection and excellent perioperative outcomes in anatomically challenging tumors.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42530843/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42529015",
+      "title": "Serum M2BPGi as a predictor of hepatocellular carcinoma development in chronic hepatitis B and C: a systematic review and meta-analysis.",
+      "doi": "10.3389/fmed.2026.1897953",
+      "journal": "Frontiers in medicine",
+      "abstract": "Hepatocellular carcinoma (HCC) kills about 830,000 people each year, and most cases arise in chronic viral hepatitis. Better risk markers would let clinicians focus surveillance where it matters. Mac-2 binding protein glycosylation isomer (M2BPGi) is a serum glycobiomarker of liver fibrosis. Several cohort studies tie elevated M2BPGi to HCC. No quantitative synthesis has pooled this evidence across viral etiologies. We searched PubMed/MEDLINE, Embase, the Cochrane Library, Web of Science, and Scopus through April 2026 for longitudinal studies that reported hazard ratios (HRs) for HCC linked to elevated M2BPGi in chronic hepatitis B (CHB) or C (HCV). We registered the protocol with PROSPERO. The primary pool restricted to longitudinal studies with categorical cutoffs that reported HRs. We used random-effects meta-analysis with restricted maximum likelihood and the Hartung-Knapp adjustment. Twenty-three publications (24 study entries) met inclusion criteria. The primary pool of 15 longitudinal categorical HR-reporting studies covered 12,161 participants and at least 1,189 HCC events. The pooled HR was 4.61 (95% CI 3.24-6.54; p < 0.0001) with low heterogeneity (I2 = 25.6%). The 95% prediction interval ran from 2.08 to 10.18. The effect held across etiology (CHB k = 5 HR 4.12; HCV k = 10 HR 5.07; p_subgroup = 0.62) and across measurement timing (baseline HR 3.21; on/post-treatment HR 5.62; post-SVR HR 5.45; p_subgroup = 0.23). Two sensitivity pools re-introducing OR-based studies gave HR 4.71 (k = 16) and HR 4.89 (k = 17). Egger's test was positive (p = 0.0003); trim-and-fill imputed six studies and pulled the adjusted HR to 3.53. Elevated serum M2BPGi is strongly and consistently associated with HCC development in patients with chronic hepatitis B and C. The effect holds across etiology, treatment status, and measurement timing-including after sustained virological response. Funnel asymmetry suggests the true effect is closer to a 3.5-fold than a 4.6-fold risk increase",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529015/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42528412",
+      "title": "TRIM31 promotes lenvatinib resistance and stemness in hepatocellular carcinoma through K48/K63-linked ubiquitination of GLDC.",
+      "doi": "10.3724/abbs.2026111",
+      "journal": "Acta biochimica et biophysica Sinica",
+      "abstract": "Hepatocellular carcinoma (HCC) is a type of cancer with a high incidence rate and a high mortality rate and is a major cause of cancer-related death. The resistance of liver cancer cells to lenvatinib has become a crucial limitation that restricts the clinical therapeutic efficacy of HCC treatment. In the present study, we successfully establish lenvatinib-resistant liver cancer cell lines and perform transcriptome sequencing analysis, through which we identify the key gene tripartite motif containing protein 31 (TRIM31). As an E3 ubiquitin ligase harboring a RING domain, TRIM31 is capable of regulating the stability and biological functions of its substrate proteins through ubiquitination. Nevertheless, the specific role and underlying molecular mechanisms of TRIM31 in liver cancer cell stemness and lenvatinib resistance remain largely unclear. In this study, clinical sample analysis confirms its high expression in HCC tissues, which correlates with poor patient prognosis. The results of functional experiments demonstrate that TRIM31 knockdown inhibits HCC stemness and lenvatinib resistance, whereas TRIM31 overexpression significantly enhances these properties. Mechanistically, TRIM31 interacts with glycine decarboxylase (GLDC) and mediates K48- and K63-linked polyubiquitination through its RING domain, leading to GLDC protein degradation. GLDC degradation enhances HCC stemness and chemoresistance by relieving its suppression of PI3K/AKT/mTOR signaling. This study is the first to highlight the critical role of TRIM31 in HCC stemness and drug resistance, offering a potential new strategy for targeted therapy in HCC.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528412/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42528367",
+      "title": "Hepatic T-cell dysfunction in chronic liver disease and hepatocellular carcinoma: a spatial systems immunology framework for precision immunotherapy.",
+      "doi": "10.1080/14728222.2026.2708824",
+      "journal": "Expert opinion on therapeutic targets",
+      "abstract": "Chronic liver diseases, including chronic viral hepatitis, metabolic dysfunction-associated steatohepatitis (MASH), cirrhosis, and hepatocellular carcinoma (HCC), are characterized by progressive immune dysregulation that drives chronic inflammation, fibrosis, and hepatocarcinogenesis. Although hepatic T-cell dysfunction is a hallmark of these diseases, it is still predominantly investigated through isolated molecular pathways rather than as an integrated property of the hepatic immune ecosystem. This reductionist perspective has limited mechanistic understanding and the development of durable immunotherapeutic strategies. This review proposes a spatial systems-immunology framework as its central conceptual contribution. The framework explains hepatic T-cell dysfunction as an emergent systems-level state arising from coordinated interactions among immune, metabolic, stromal, vascular, and spatial regulatory programs. The translational implications of this framework for biomarker-guided precision immunotherapy in chronic liver disease and HCC are further discussed. Future advances in liver immunotherapy should prioritize mechanism-based combination therapies guided by multidimensional immune, metabolic, stromal, and spatial biomarkers rather than continued optimization of individual molecular targets. In this review, it is argued that the proposed spatial systems-immunology framework provides a practical foundation for this transition and may improve patient stratification, therapeutic durability, and long-term clinical outcomes in chronic liver disease and HCC.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528367/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42528106",
+      "title": "Prognostic significance of prior alcohol use disorder in patients with presumed metabolic dysfunction-associated steatotic liver disease: A large multi-center cohort study.",
+      "doi": "10.1111/add.70567",
+      "journal": "Addiction (Abingdon, England)",
+      "abstract": "Alcohol use disorder (AUD) follows a chronic, relapsing course but is often overlooked when alcohol consumption is minimal at the time of evaluation. We aimed to assess the prognostic impact of a prior AUD diagnosis on liver-related outcomes in patients with presumed metabolic dysfunction-associated steatotic liver disease (MASLD). Retrospective cohort study utilizing 1:1 propensity score matching to balance demographics, comorbidities, and laboratory data. A multi-institutional network of 73 healthcare organizations in the United States, from January 2010 to January 2024. 82 472 adults with newly diagnosed MASLD, comprising 41 236 patients with a documented prior diagnosis of AUD and 41 236 matched controls without AUD. Patients with pre-existing liver disease (other than MASLD) or subsequent diagnoses of alcohol-associated liver disease were excluded. Incidence rates and hazard ratios (HRs) for cirrhosis, hepatic decompensation, hepatocellular carcinoma and the composite of liver transplantation or all-cause mortality. Over a median follow-up of 3 years, patients with prior AUD had statistically significantly higher risks of cirrhosis [HR = 1.38; 95% confidence interval (CI) = 1.20-1.59], hepatic decompensation (HR = 1.12; 95% CI = 1.01-1.24) and liver transplantation or mortality (HR = 1.39; 95% CI = 1.31-1.47) compared with non-AUD controls. This excess risk was attenuated among patients with high metabolic burden (≥3 cardiometabolic risk factors). Among patients with presumed metabolic dysfunction-associated steatotic liver disease (MASLD), a history of alcohol use disorder appears to be independently associated with adverse clinical outcomes, particularly in those with fewer metabolic risk factors. These findings highlight a missed clinical opportunity and support the integration of longitudinal alcohol assessments and behavioral interventions into the care of patients with presumed MASLD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528106/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42527888",
+      "title": "A Legacy Strategy in a Modern Era: Reassessing Low Central Venous Pressure During Hepatectomy.",
+      "doi": "10.1177/00031348261474197",
+      "journal": "The American surgeon",
+      "abstract": "Low central venous pressure (LCVP) has long been used to reduce bleeding during hepatectomy, but whether its benefit persists in the context of modern liver surgery, particularly minimally invasive approaches, remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials comparing LCVP with conventional central venous pressure management. PubMed, Embase, Web of Science, the Cochrane Library, OVID, Scopus, and ClinicalTrials.gov were searched from inception to January 13, 2026. Primary outcomes were intraoperative blood loss, transfusion volume, and transfusion requirement. Secondary outcomes included postoperative liver function and renal function. Risk of bias was assessed using RoB 2.0, and certainty of evidence was evaluated using GRADE. 15 randomized controlled trials involving 1523 patients were included, with 742 patients in the LCVP group and 781 in the control group. Overall, LCVP significantly reduced intraoperative blood loss (SMD -0.90, 95% CI -1.44 to -0.35), transfusion volume (SMD -0.75, 95% CI -1.00 to -0.50), and the proportion of patients requiring transfusion (OR 0.51, 95% CI 0.36 to 0.74). However, subgroup analysis demonstrated that the reduction in blood loss was primarily observed in open hepatectomy (SMD -1.08, 95% CI -1.82 to -0.33), whereas no significant effect was identified in laparoscopic hepatectomy (SMD -0.50, 95% CI -1.14 to 0.15). These findings suggest that while LCVP remains an effective blood-sparing strategy in open hepatectomy, its benefit in minimally invasive liver resection is uncertain, indicating that its clinical value is context-dependent and may be less pronounced in contemporary surgical practice.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527888/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42527869",
+      "title": "Bronchobiliary Fistula After Hepatic Ablation: A Case-Based Systematic Review and Practical Management Algorithm.",
+      "doi": "10.1177/00031348261474185",
+      "journal": "The American surgeon",
+      "abstract": "BackgroundBronchobiliary fistula (BBF) is a rare but significant complication of hepatic ablation, particularly in tumors adjacent to the diaphragm. With increasing use of thermal ablation, growing literature has emerged characterizing its presentation and management.MethodsWe present a representative case of recurrent BBF after radiofrequency ablation for hepatocellular carcinoma, successfully managed with a multimodal interventional radiology approach. Following PRISMA guidelines, we conducted a systematic review of the literature on BBF after hepatic ablative therapy published between March 2005 and February 2026, identifying 20 eligible articles encompassing 39 cases.ResultsThe pooled analysis revealed a distinct clinical syndrome: subphrenic tumor location (89.7%), delayed presentation at a median of 4-8 weeks post-ablation, and bilioptysis as the hallmark symptom (92.3%). Diagnostic strategies included CT, bronchoscopy, and cholangiography, often used in combination. Multimodal minimally invasive approaches, including percutaneous, endoscopic, and bronchoscopic techniques, account for 87.2% of current management. While interventional radiology-guided embolization achieved overall success in 66.7% of cases in this pooled series, it often required multiple sessions, reflecting the challenging nature of this complication. Based on these findings, we propose a practical treatment algorithm.Conclusionronchobiliary fistula after hepatic ablation follows a recognizable pattern that should prompt early diagnosis. A persistent, multimodal minimally invasive approach can achieve definitive closure in many cases and should generally be considered before proceeding to surgical intervention. The available evidence, however, remains limited to case reports and small series, and recommendations for specific embolization strategies should be interpreted with this in mind.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527869/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42527293",
+      "title": "Hepatocellular carcinoma A major challenge in the Arab world: A systematic review.",
+      "doi": "10.1016/j.ajg.2026.06.010",
+      "journal": "Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527293/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42527085",
+      "title": "Efficacy of Lenvatinib as Subsequent Therapy After Combination Immune Checkpoint Inhibitors for Unresectable Hepatocellular Carcinoma.",
+      "doi": "10.21873/anticanres.18300",
+      "journal": "Anticancer research",
+      "abstract": "Durvalumab plus tremelimumab (DT) therapy has demonstrated overall survival benefit in a clinical trial and is now widely used as first-line treatment for unresectable hepatocellular carcinoma (u-HCC). However, evidence supporting the efficacy of lenvatinib (LEN) as subsequent therapy after DT progression remains limited. This multicenter study enrolled patients who received LEN as first-line therapy (1st-line LEN) and those who received LEN as second-line therapy following DT treatment (2nd-line LEN following DT). The primary endpoints were disease control rate (DCR) and objective response rate (ORR), which were compared between the 1st-line LEN and 2nd-line LEN following DT. Treatment responses were assessed using mRECIST. In the intention-to-treat analysis, DCR was 69.1% in the 1st-line LEN group and 69.2% in the 2nd-line LEN following DT group (p=0.95); ORR was 38.2% and 30.8%, respectively (p=0.44). No significant differences were observed between the two groups. After adjusting for age, sex, and ALBI score, treatment line was not associated with DCR; the odds ratio for 2nd-line LEN following DT versus 1st-line LEN (reference) was 0.83 (95% confidence interval=0.17-4.13, p=0.816). LEN following DT therapy demonstrated equivalent antitumor efficacy to first-line LEN, supporting LEN as a viable second-line option after DT progression in u-HCC.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527085/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42527074",
+      "title": "Pembrolizumab Plus Lenvatinib in Metastatic Renal Cell Carcinoma: Real-world Prognostic Factors.",
+      "doi": "10.21873/anticanres.18305",
+      "journal": "Anticancer research",
+      "abstract": "Pembrolizumab plus lenvatinib is first-line treatment for metastatic renal cell carcinoma (mRCC) with favorable outcomes. However, clinicopathological factors associated with treatment outcomes are unclear. We evaluated the effectiveness and safety of pembrolizumab plus lenvatinib, and explored factors associated with progression-free survival (PFS) in a Japanese multicenter cohort. We retrospectively analyzed 160 patients with mRCC who received first-line pembrolizumab plus lenvatinib. We assessed objective response rate (ORR), disease control rate (DCR), PFS, overall survival (OS), treatment exposure, and adverse events. Factors associated with PFS were evaluated using Cox proportional hazards models. The ORR and DCR in the overall cohort were 66% and 91%, respectively. Median PFS was 35 months, whereas median OS was not reached. DCR was significantly higher in patients with prior primary tumor resection (98% vs. 86%, p<0.01), metachronous metastasis (98% vs. 88%, p=0.03), and no high-risk metastasis (96% vs. 84%, p=0.01). Any-grade adverse events and grade ≥3 adverse events occurred in 85% and 55% of patients, respectively. Pembrolizumab and lenvatinib were discontinued because of adverse events in 23% and 22% of patients, respectively. In multivariable analysis, clear-cell histology was independently associated with longer PFS [hazard ratio (HR)=0.40, 95% confidence interval (CI)=0.21-0.72], whereas multiple metastatic organs were independently associated with shorter PFS (HR=1.91, 95%CI=1.07-3.37). First-line pembrolizumab plus lenvatinib showed favorable activity and manageable toxicity in real-world practice. Histologic subtype and metastatic extent were independently associated with PFS.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527074/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42527069",
+      "title": "Minimally Invasive Versus Open Liver Resection for HCC in the Posterosuperior Segments: A Propensity Score-matched Study.",
+      "doi": "10.21873/anticanres.18330",
+      "journal": "Anticancer research",
+      "abstract": "Minimally invasive liver resection (MILR) of the posterosuperior segments (segments 7 and 8) for hepatocellular carcinoma (HCC) remains technically challenging. This study aimed to compare the perioperative and oncological outcomes between MILR and open liver resection (OLR) using propensity score matching. A total of 157 consecutive patients underwent liver resection for HCC located in segments 7 and/or 8 at our institution between January 2010 and February 2026 [80 MILR (58 laparoscopic and 22 robotic) and 77 OLR]. After propensity score matching, each group included 39 patients. Perioperative and long-term oncological outcomes were retrospectively analyzed. None of the patients in the MILR group required conversion to open surgery. The MILR group showed significantly lower intraoperative blood loss (55 vs. 330 ml; p<0.0001), lower transfusion rate (0% vs. 18%; p=0.0056), shorter operative time (288 vs. 338 min; p=0.0179), lower postoperative morbidity (0% vs. 33.3%; p<0.0001), and shorter postoperative hospital stay (8 vs. 15 days; p<0.0001) than the OLR cohort. The 1-, 3-, and 5-year overall survival rates were 100%, 96.2%, and 90.1% in the MILR group and 100%, 91.2%, and 86.0% in the OLR group, respectively (p=0.6579). The corresponding recurrence-free survival rates were 100%, 69.1%, and 41.9% in the MILR group and 81.2%, 47.6%, and 44.6% in the OLR group, respectively (p=0.1491). MILR for HCC involving the posterosuperior segments is safe and feasible, providing superior perioperative outcomes while maintaining oncological outcomes comparable to those of OLR. These findings support the use of minimally invasive approaches for carefully selected patients.",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42527069/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42526918",
+      "title": "Development of an externally controlled trial from a single-arm study to assess first-line immunochemotherapy in advanced large cell neuroendocrine lung carcinomas: a study protocol from the FIRST-NEC GFPC 01-2022 trial.",
+      "doi": "10.1136/bmjopen-2026-118897",
+      "journal": "BMJ open",
+      "abstract": "Large-cell neuroendocrine carcinomas (LCNECs) of the lung are rare tumours with poor prognosis. A platinum-based regimen is currently the recommended first-line treatment for advanced LCNECs. Retrospective studies suggest potential benefit from immune checkpoint inhibitors (ICIs) but prospective data is lacking. The ongoing phase II FIRST-NEC (First-line treatment for NeuroEndocrine Carcinoma) externally-controlled trial evaluates the efficacy and safety of durvalumab combined with platinum-etoposide as first-line treatment in locally advanced, ineligible for local therapy or patients with metastatic LCNEC. Histopathological diagnosis is centrally confirmed. All patients receive four induction cycles once every 3 weeks with durvalumab 1500 mg and platinum-etoposide. Durvalumab is maintained once every four weeks for up to 24 additional cycles. The primary endpoint is the 12-month progression-free rate (12M-PFR) as per central radiological review. Secondary endpoints include progression-free survival (PFS), overall survival (OS) and safety. Efficacy is assessed every 10 patients using a Bayesian approach, with a futility rule stopping the trial if the probability that 12M-PFR ≤15% exceeds 80%. Based on an A'Hern-Fleming design, 51 evaluable patients are required. Given the rarity of LCNEC, we developed an innovative approach based on target trial emulation to compare the survival outcomes of ICI plus chemotherapy (PFS and OS) to an external control arm (real-world PFS and OS), using real-world data from the Epidemiological Strategy and Medical Economics-Advanced and Metastatic Lung Cancer database. This clinical trial received approval from the competent authorities on 14 March 2024. The results from the final clinical report will be published in medical journals. V.2.0 dated 11 December 2024. NCT06393816.",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial Protocol"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526918/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42526598",
+      "title": "Impact of Adherence to Target Volume Contouring Guidelines on Patterns of Failure in Sacral Stereotactic Body Radiotherapy.",
+      "doi": "10.1016/j.prro.2026.07.001",
+      "journal": "Practical radiation oncology",
+      "abstract": "We previously demonstrated that adherence to sacral stereotactic body radiotherapy (SBRT) clinical target volume (CTV) contouring guidelines is independently associated with reduced risk of local failure (LF). We hypothesized that this benefit results from coverage of involved and adjacent boney sectors at risk of subclinical disease and performed a pattern-of-failure (POF) analysis to evaluate the impact of including or excluding these guideline-recommended sectors in the CTV. Of 209 sacral segments treated with SBRT between 2010-2021, 48 developed magnetic resonance imaging-based LF and were analyzed. Failures were mapped by boney sectors and classified as contoured per guidelines (adherent) or recommended but not included in the treated CTV (nonadherent). Dose-volume histogram metrics in nonadherent sectors with subsequent LF were compared with the treated CTV for that segment. Most metastases developing LF involved S1 (42%, 20/48) and S2 (31%, 15/48), were radioresistant (54%, 26/48) and had baseline extraosseous extension (71%, 34/48). Sixty-nine percent (33/48) of segments with LF were adherent, while 31% (15/48) nonadherent. Among all 209 segments, those treated with a nonadherent CTV had higher rates of failure in the involved (37.1% vs 17.8%; p = 0.021) and guideline-recommended adjacent sectors (22.9% vs 2.3%; p < 0.001) than adherent CTV segments. Among adherent segments, most failures occurred exclusively within boney sectors included in the CTV (91%, 30/33). In contrast, 73% (11/15) of failures among nonadherent segments occurred in boney sectors that were recommended but incompletely contoured or omitted from the CTV. The mean equivalent dose in 2-Gy fractions (EQD2, α/β = 10) was significantly lower at 38.7 Gy [interquartile range (IQR), 30.6-42.2] within those nonadherent sectors with tumor progression as compared to the dose in the corresponding treated CTV at 48.2 Gy (IQR, 46.6-49.4; p < 0.001). Anatomic and dosimetric sector-based POF analyses spe",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526598/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42524843",
+      "title": "Exploring the Role of Surgery After Systemic Therapy in Locally Advanced Biliary Tract Cancer: Outcomes From a Large Retrospective Multinational Real-World Cohort Treated With Cisplatin, Gemcitabine, and Durvalumab.",
+      "doi": "10.1002/ijc.70641",
+      "journal": "International journal of cancer",
+      "abstract": "Surgery after response to first-line chemoimmunotherapy may offer a potential curative option for patients with locally advanced biliary tract cancer (BTC) initially considered unresectable. However, robust real-world evidence in this setting remains limited. We retrospectively analyzed patients with locally advanced BTC treated with first-line cisplatin, gemcitabine, and durvalumab (CGD) across 55 centers in 12 countries. Endpoints included overall survival (OS), progression-free survival (PFS), disease-free survival (DFS) among resected patients, objective response rate (ORR), and the prognostic impact of surgery. A multivariable logistic regression model was developed to predict surgical conversion using baseline clinical and laboratory variables. Among 1358 screened patients, 219 had locally advanced disease and were included in the analysis. Median follow-up was 14.5 months. ORR was 34.6%, with median PFS and OS of 10.0 and 20.7 months, respectively. Twenty-four patients (10.9%) underwent surgical resection after systemic therapy. Median OS was 22.5 months in resected patients versus 19.9 months in those who did not undergo surgery. Median DFS after resection was 15.8 months. Pathological lymph node involvement was independently associated with shorter DFS. Larger baseline tumor size correlated with higher odds of radiological response but not with OS. An exploratory elastic-net model retained four baseline variables and showed moderate discriminative ability for surgical conversion, with an apparent AUC of 0.72 and an optimism-corrected AUC of 0.65. First-line CGD enabled secondary resection in approximately 11% of patients with locally advanced BTC. A simple baseline model may support patient selection for conversion surgery, although prospective validation is needed.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524843/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42524660",
+      "title": "Definition of Conversion Therapy and Neoadjuvant Therapy for Hepatocellular Carcinoma: A Consensus Guideline from the Japan Liver Cancer Association.",
+      "doi": "10.1159/000552928",
+      "journal": "Liver cancer",
+      "abstract": "With the advent of novel systemic therapies that provide high response rates, such as lenvatinib, atezolizumab-bevacizumab, durvalumab-tremelimumab, and nivolumab-ipilimumab, treatment strategies for patients with advanced hepatocellular carcinoma (HCC) have markedly evolved, and discussions on conversion therapy - which, broadly speaking, combines these systemic therapies with locoregional modalities - have become commonplace. However, the term \"conversion therapy\" has not yet been clearly defined, making it difficult to compare treatment outcomes among studies. To address this issue, the Japan Liver Cancer Association established a consensus-based \"Working Group on the Definition of Conversion\" as an official project of the association. The working group comprised experts in hepatobiliary surgery, hepatology, and radiology, with a rapporteur responsible for drafting and revising the definitions. The group proposed standardized definitions for \"conversion surgery,\" \"neoadjuvant therapy,\" and \"ablation as conversion therapy,\" while recommending that transcatheter arterial chemoembolization should not be classified as conversion therapy due to its limited curative potential. The definitions also introduced two key concepts: functional conversion (based on the hepatic functional reserve) and oncological conversion (based on the tumor status). Adoption of these definitions is expected to facilitate appropriate evaluation of pretreatments and outcomes of conversion therapy. Ultimately, these efforts are expected to contribute to refining clinical decision-making, providing a common framework for guideline development and future clinical studies, and improving the outcomes of multidisciplinary treatments for advanced HCC; however, further validation is required.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524660/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42524618",
+      "title": "Lenvatinib-Associated Posterior Reversible Encephalopathy Syndrome in a Patient With Metastatic Clear Cell Renal Cell Carcinoma: A Case Report.",
+      "doi": "10.7759/cureus.111672",
+      "journal": "Cureus",
+      "abstract": "Posterior reversible encephalopathy syndrome (PRES) is a rare but serious neurologic complication associated with vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors, including lenvatinib. We report a case of PRES in a 63-year-old woman with metastatic clear cell renal cell carcinoma treated with pembrolizumab and lenvatinib for isolated pancreatic metastases. Two days after lenvatinib initiation, she developed headaches, confusion, visual hallucinations, and a generalized tonic-clonic seizure in the setting of severe hypertension. Brain magnetic resonance imaging demonstrated bilateral parieto-occipital vasogenic edema consistent with PRES. Lenvatinib was discontinued, and she was treated with antihypertensive and antiepileptic therapy, with complete clinical recovery within two weeks with radiographic resolution on follow-up imaging. Pembrolizumab was maintained as monotherapy without PRES recurrence. This case highlights the importance of prompt recognition, drug discontinuation, blood pressure control, and supportive management in patients who develop neurologic symptoms shortly after starting VEGFR tyrosine kinase inhibitors.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524618/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42524515",
+      "title": "Lenvatinib Added to Nivolumab and Ipilimumab Improves Tumor Control and Progression-Free Survival in Unresectable Hepatocellular Carcinoma.",
+      "doi": "10.1159/000552861",
+      "journal": "Liver cancer",
+      "abstract": "In CheckMate-9DW, the suboptimal early tumor control of nivolumab-ipilimumab resulted in higher early mortality compared with the sorafenib/lenvatinib arm during the first 12 months. We evaluated whether adding lenvatinib to nivolumab-ipilimumab (NIL) improves outcomes versus nivolumab-ipilimumab (NI). Patients with unresectable HCC treated with NI with or without lenvatinib were retrospectively analyzed. Responses were evaluated by RECIST v1.1, survival outcomes by Kaplan-Meier and inverse probability of treatment weighting (IPTW) adjustment, and multiple sensitivity analyses. Liver function changes were evaluated using the albumin-bilirubin (ALBI) score. Among 104 patients, 82 received NI and 22 received NIL. The NIL group demonstrated a higher disease control rate than the NI group (81.8% vs. 39.0%; p < 0.01), with similar duration of response (21.4 vs. 21.8 months). Median progression-free survival (PFS) was longer with NIL (10.2 vs. 3.2 months), but not for overall survival (OS). In the first-line setting, NIL showed a trend toward longer PFS and fewer early deaths within 12 months. After IPTW adjustment and sensitivity analyses, the NIL regimen consistently demonstrated improved PFS (HR 0.44; p < 0.01) without a statistically significant OS benefit. Hypertension, proteinuria and stomatitis were more frequent in the NIL group, while ALBI scores remained stable. Development of immune-related adverse events was associated with improved outcomes. This real-world study provides proof-of-concept evidence that incorporating a VEGF inhibitor into dual ICIs therapy is associated with improved tumor control and prolonged PFS, with a potential reduction in early mortality. Prospective studies are warranted to confirm these findings.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524515/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42524514",
+      "title": "Preoperative Albumin-Bilirubin Score as a Predictor of Postoperative Complications After Liver Resection.",
+      "doi": "10.7759/cureus.111661",
+      "journal": "Cureus",
+      "abstract": "Hepatic resection is an important curative procedure for both benign and malignant liver diseases, and the risks associated with liver resection, especially posthepatectomy liver failure (PHLF), are still a major concern. This is the reason why it is clear that the correct evaluation of hepatic functional reserve is imperative before surgery. The conventional scoring systems, like Model for End-stage Liver Disease (MELD) and Child-Turcotte-Pugh (CTP), are less effective in predicting postoperative morbidity. An objective, inexpensive method, the albumin-bilirubin (ALBI) score, involving serum albumin and bilirubin, can be helpful in a resource-limited setting. The objective of this study was to determine the preoperative ALBI score for predicting postoperative complications of patients undergoing hepatic resection. This is a prospective observational study carried out in the Department of Hepatobiliary, Pancreatic and Liver Transplant Surgery (HBLT) of Bangabandhu Sheikh Mujib Medical University (now Bangladesh Medical University (BMU)), Dhaka, from August 2023 till July 2024. The number of adult patients who underwent liver resection and met the inclusion criteria was 70, who were sampled purposively. All of the demographic, laboratory, clinical, and operative data were documented preoperatively. Presurgery scores for ALBI, CTP, and MELD were calculated. The postoperative complications were assessed within 30 days. Data were analyzed with Statistical Package for the Social Sciences (SPSS) version 23, and receiver operating characteristic curve (ROC) analysis was used to assess the predictive accuracy of ALBI. Out of 70 patients, 30 patients (42.9%) had postoperative complications. Patients with postoperative complications were significantly older than those without complications (50.67 ± 7.06 vs. 44.68 ± 10.26 years; P = 0.005). Biochemical parameters such as serum albumin were significantly decreased in the patients with complications. Liver failure after liver re",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524514/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42524025",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade.",
+      "doi": "10.1177/17588359261470015",
+      "journal": "Therapeutic advances in medical oncology",
+      "abstract": "Transarterial chemoembolization combined with tyrosine kinase inhibitors and immune checkpoint inhibitors (TTI) has emerged as a promising strategy for unresectable hepatocellular carcinoma (uHCC); however, its impact on liver function and the prognostic role of baseline albumin-bilirubin (ALBI) grade remain insufficiently defined. To compare the effects of combined therapy and transarterial chemoembolization (TACE) alone on liver function in uHCC patients, and to evaluate the prognostic value of baseline ALBI grade. This retrospective study enrolled uHCC patients treated with TTI or TACE alone between January 2018 and December 2023. The primary outcome was the time to progression of baseline ALBI grade, with secondary outcomes including overall survival (OS) and progression-free survival (PFS) of patients. Survival outcomes were analyzed using the Kaplan-Meier method. A total of 162 patients (TTI group: 68; TACE alone group: 94) were included. The TTI group showed a significantly longer median time to progression of baseline ALBI grade than the TACE alone group (19.0 months vs 11.6 months, p = 0.004). Subgroup analyses revealed similar benefits of the TTI group (11.3 months vs 5.0 months for baseline ALBI grade 1, p = 0.015; 20.0 months vs 14.7 months for baseline ALBI grade 2, p = 0.025). Patients in the TTI group demonstrated superior median OS (42.2 months vs 22.0 months for baseline ALBI grade 1, p = 0.077; 22.6 months vs 13.5 months for baseline ALBI grade 2, p = 0.001) and longer median PFS (11.7 months vs 6.8 months for baseline ALBI grade 1, p = 0.148; 8.4 months vs 4.9 months for baseline ALBI grade 2, p = 0.022) compared to the TACE alone group. TTI therapy preserved liver function for a longer duration and achieved better survival outcomes than TACE alone in uHCC patients, particularly benefiting those with baseline ALBI grade 2.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524025/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42523603",
+      "title": "Metabolic comorbidities affect the survival of hepatitis B virus-related hepatocellular carcinoma in Chinese patients: a retrospective cohort study with propensity score matching.",
+      "doi": "10.3389/fonc.2026.1863272",
+      "journal": "Frontiers in oncology",
+      "abstract": "Recent literature has confirmed the roles of metabolic comorbidities as risk factors for the incidence of hepatocellular carcinoma (HCC). In China, most HCC cases are attributed to chronic hepatitis B virus (HBV). However, the relationships between metabolic comorbidities and the prognosis of Chinese patients with hepatitis B virus (HBV)-related HCC remain uncertain. A total of 164 patients with HBV-related HCC from eight hospitals affiliated with Sun Yat-sen University were enrolled in this cohort study from 2011 to 2021. The patients were divided into the MC group (metabolic comorbidities: at least one metabolic comorbidity from among type 2 diabetes mellitus (T2DM), hypertension, and low high-density lipoprotein (HDL) levels) and the NMC group (without these factors). In this manuscript, \"MC\" refers to metabolic comorbidity, rather than metabolic syndrome. Propensity score matching (PSM) and multivariate Cox regression were used to analyse overall survival (OS). After PSM, 60 patients each in the MC and NMC groups were included in the study. Overall survival was significantly worse in the MC group than in the NMC group before and after PSM. T2DM was an independent risk factor for OS. T2DM, hypertension, and low HDL levels were independent risk factors for the presence of intrahepatic multifocal lesions at diagnosis. The presence of all three metabolic comorbidities was associated with significantly worse OS (p=0.043). Metabolic comorbidities were associated with poor prognosis and the progression of HBV-related HCC. The presence of three metabolic comorbidities (T2DM, hypertension, and low HDL levels) was associated with poor OS, suggesting that metabolic burden may negatively affect survival once a certain number of factors accumulate.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523603/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42522589",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "doi": "10.1111/liv.70825",
+      "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522589/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42522214",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy.",
+      "doi": "10.1111/ans.70762",
+      "journal": "ANZ journal of surgery",
+      "abstract": "To investigate the psychological status of patients with hepatocellular carcinoma (HCC) undergoing hepatectomy, analyze risk factors for anxiety and depression, and provide a theoretical basis for individualized mental intervention strategies. A total of 412 HCC patients who underwent hepatectomy at Fuyang People's Hospital from January 2022 to January 2026 were enrolled. The Hospital Anxiety and Depression Scale (HADS) and FRAIL scale were used to assess psychological status and frailty, respectively. Univariate ANOVA and linear regression were performed to analyze relationships between anxiety, depression, and perioperative factors. Of 456 distributed questionnaires, 412 were valid (response rate: 90.35%). Mean HADS-A (anxiety) score was 8.34 ± 2.79: 130 asymptomatic, 192 doubtful, and 90 definite cases. Mean HADS-D (depression) score was 8.68 ± 2.75: 187 asymptomatic, 96 doubtful, and 129 definite cases. Univariate analysis showed associations between anxiety/depression and family income, open surgery, FRAIL score, and complications. Multivariate analysis identified open surgery, FRAIL score, and complications as independent risk factors (p < 0.05). Patients with HCC undergoing hepatectomy exhibited significant anxiety and depression symptoms. FRAIL score, open surgery, and complication severity were risk factors, warranting attention to postoperative negative emotions and timely intervention.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522214/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42521676",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience.",
+      "doi": "10.1177/10926429261472632",
+      "journal": "Journal of laparoendoscopic & advanced surgical techniques. Part A",
+      "abstract": "Laparoscopic liver resection (LLR) is increasingly being utilized worldwide for the management of malignant liver tumors, including hepatocellular carcinoma (HCC). However, the role of LLR for huge (≥10 cm) HCCs remains controversial with limited data to date regarding its safety and feasibility. We aimed to compare perioperative and long-term outcomes of LLR and open liver resection (OLR) for huge HCCs. We conducted a retrospective review of 170 consecutive patients who underwent liver resection for huge HCC from 2010 to 2024. Propensity score matching (PSM) (both 1:1 and 1:2) was performed to account for differences in baseline characteristics between LLR and OLR groups when comparing perioperative and long-term outcomes. A total of 38 patients underwent LLR, of which major hepatectomies were performed in 29 (76.3%) patients, and 132 underwent OLR, of which major hepatectomies were performed in 93 (70.4%) patients. There were 4 (10.5%) open conversions in the LLR cohort. After PSM, both LLR and OLR groups were well-matched for baseline characteristics other than a higher proportion of Institut Mutualiste Montsouris grade 3 procedures in the LLR group. Comparison between perioperative outcomes demonstrated no significant differences in close resection margins (<1 mm), blood transfusion rate, postoperative morbidity, major morbidity, 30-day readmission, postoperative length of stay and 30-day/in-hospital mortality. LLR was associated with lower intraoperative blood loss at the expense of a longer operation time. The 3-year actuarial overall survival rate was 55% in the entire cohort, and there was no significant difference between LLR and OLR. LLR may be safely performed for huge HCCs with comparable perioperative and long-term oncological outcomes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521676/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42521316",
+      "title": "Evaluating the effectiveness and safety of adjuvant transcatheter arterial chemoembolisation (TACE) after curative resection for Barcelona Clinic Liver Cancer (BCLC) stage 0-B hepatocellular carcinoma: protocol for a target trial emulation study.",
+      "doi": "10.1136/bmjopen-2026-117956",
+      "journal": "BMJ open",
+      "abstract": "According to Chinese clinical practice guidelines, patients with hepatocellular carcinoma (HCC) at high risk of recurrence after curative hepatectomy should have adjuvant transcatheter arterial chemoembolisation (TACE). However, the National Comprehensive Cancer Network and the European Association for the Study of the Liver guidelines take a more conservative stance on the routine use of adjuvant TACE. A recent randomised controlled trial (RCT) found no benefit of adjuvant TACE for patients with early-stage HCC. Given the potential ethical concerns, it is impractical to conduct another RCT. Therefore, we plan to use a target trial emulation (TTE) framework to estimate the effectiveness and safety of adjuvant TACE in patients with resectable HCC, classified as Barcelona Clinic Liver Cancer stage 0-B, with subgroup analyses to identify potential effect-modifying subpopulations. A TTE framework using the cloning-censoring-weighting approach with a 4-week grace period will be implemented. Eligible patients will be cloned into the adjuvant TACE and active surveillance groups and artificially censored on deviation from their assigned treatment strategy. Potential confounders will be identified using a directed acyclic graph and inverse probability of censoring weights will be applied to adjust for bias arising from artificial censoring. Subgroup analyses will be prespecified based on the potential sources of treatment-effect heterogeneity. The institutional review board of West China Hospital, Sichuan University, approved this study (Approval No. 2025(1790)). Given the study's retrospective design and the use of de-identified data, informed consent was waived. The results of this research will be disseminated through publication in a peer-reviewed journal and presentation at scientific conferences. ChiCTR2600121012.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521316/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    },
+    {
+      "pmid": "42520930",
+      "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
+      "doi": "10.1016/j.jhepr.2026.101968",
+      "journal": "JHEP reports : innovation in hepatology",
+      "abstract": "Biliary tract cancers (BTCs) are rare, heterogeneous tumors associated with a poor prognosis, even after curative-intent surgery. Adjuvant capecitabine is currently the standard of care; however, real-world data on its efficacy and tolerance are lacking. This French, retrospective, multicentre study, nested within the ACABi-PRONOBIL observational cohort, assessed adjuvant capecitabine efficacy in patients, with resected intrahepatic, perihilar, distal cholangiocarcinoma, or gallbladder carcinoma. who had not received prior systemic therapy. Patients treated with adjuvant capecitabine after 2017 were compared with patients diagnosed before 2017 and managed with surveillance only. The primary endpoint was overall survival (OS), secondary endpoints were recurrence-free survival (RFS) and toxicity. Inverse probability of treatment weighting (IPTW) in Cox regressions was used to adjust for measured confounding, imbalanced factors between groups. A total of 320 patients were included (197 in the capecitabine group and 123 in the surveillance group). In IPTW analysis, adjuvant capecitabine was not significantly associated with improved RFS (IPTW HR, 0.81, CI 95%, 0.54-1.21; p = 0.304), or OS (IPTW HR, 0.94, CI 95%, 0.58-1.52; p = 0.798). The point estimate for RFS was consistent with the ITT analysis of the BILCAP trial. In the capecitabine group, 49% of patients required at least one dose reduction, and 35.7% discontinued treatment due to mainly grade 3/4 gastrointestinal (13.4%) and cutaneous (25.8%) toxicities. In this real-world cohort, adjuvant capecitabine was not significantly associated with improved RFS or OS in patients undergoing curative-intent resection for BTC, although a numerical trend in favor of capecitabine for RFS. These findings support the need for refined patient selection strategies and for prospective evaluation of novel adjuvant approaches. NCT04935853 IMPACT AND IMPLICATIONS: This multicentre real-world study - BILCAP real study provides importan",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520930/",
+      "clinical_leaning": true,
+      "false_positive_hint": false
+    }
+  ]
+}
