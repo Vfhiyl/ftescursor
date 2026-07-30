@@ -1,0 +1,56 @@
+{
+  "folder": "202607/30/03",
+  "previous_folder": "202607/30/02",
+  "trigger_utc": "2026-07-30T03:01:37.937Z",
+  "collected_at_utc": "2026-07-30T03:04:38.543409+00:00",
+  "window_start_utc": "2026-07-29T03:04:38.543409+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 76,
+    "pubmed_pdat_count": 14,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 14,
+    "crossref_unique_title_filtered": 78,
+    "crossref_new_dois": [
+      "10.1007/s10143-026-04415-6",
+      "10.1007/s12026-026-09811-0",
+      "10.1186/s40359-026-05263-1",
+      "10.2139/ssrn.6620170",
+      "10.21873/anticanres.18305",
+      "10.22146/ijc.113879"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 12,
+    "clinicaltrials_related": 14,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA/Minzdrav reachable; OncLive 403; がんナビ 404; NHC 412; no new LBA or guideline version; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/30/02 (76); NEW PMID=0.",
+    "Crossref title-filtered 84→78: +6 NEW DOI (spinal CCA SRS mets, LT immune-cell review, pediatric LT parenting reentry, SSRN LT prioritization DL, RCC pembro+lenvatinib FP, XIAP docking natural compounds); material=false; cursor-paginated; 12 dropped DOIs.",
+    "CT related 14/focus 14 identical; NEW NCT=0; 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv details=0; EuropePMC SRC:PPR 2 (1 NEW robot-assisted hepatectomy learning curve; 1 SEEN HepG2 plant-extract); both down-rank.",
+    "Guidelines panel unchanged vs 18h.",
+    "No material clinical must-read; short delta pack (not full rewrite)."
+  ]
+}
