@@ -1,0 +1,41 @@
+{
+  "folder": "202607/30/01",
+  "previous_folder": "202607/30/00",
+  "trigger_utc": "2026-07-30T01:00:20.998Z",
+  "collected_at_utc": "2026-07-30T01:01:52.989134+00:00",
+  "window_start_utc": "2026-07-29T01:01:52.989134+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 76,
+    "pubmed_pdat_count": 14,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 15,
+    "crossref_unique_title_filtered": 73,
+    "crossref_new_dois": ["10.1186/s40359-026-05263-1"],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 14,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts_count": 1,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / HAS / KLCA reachable; OncLive 403; がんナビ DNS; NHC 412; AWMF path 404; no new LBA or guideline version; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/30/00 (76); NEW PMID=0.",
+    "Crossref title-filtered 72→73: +1 NEW DOI pediatric LT parenting qualitative (BMC Psychology); material=false; cursor-paginated.",
+    "CT related 15→14: NEW NCT=0; dropped NCT07281924 (melanoma liver mets peripheral); 0 results-module material updates.",
+    "Preprints: medRxiv/bioRxiv details + EuropePMC SRC:PPR = 0.",
+    "Guidelines panel unchanged vs 18h.",
+    "No material clinical must-read; short delta pack (not full rewrite)."
+  ]
+}

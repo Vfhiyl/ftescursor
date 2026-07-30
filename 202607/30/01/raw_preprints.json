@@ -1,0 +1,15 @@
+{
+  "collected_at_utc": "2026-07-30T01:01:52.989134+00:00",
+  "window": {
+    "from": "2026-07-29",
+    "until": "2026-07-30"
+  },
+  "medrxiv": [],
+  "biorxiv": [],
+  "europepmc_ppr": [],
+  "counts": {
+    "medrxiv": 0,
+    "biorxiv": 0,
+    "europepmc_ppr": 0
+  }
+}
