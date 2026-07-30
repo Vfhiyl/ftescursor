@@ -1,0 +1,78 @@
+{
+  "folder": "202607/30/19",
+  "previous_folder": "202607/30/18",
+  "trigger_utc": "2026-07-30T19:02:39.717Z",
+  "collected_at_utc": "2026-07-30T19:13:03.965017+00:00",
+  "window_start_utc": "2026-07-29T19:02:39.717000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 119,
+    "pubmed_pdat_count": 40,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 26,
+    "crossref_unique_title_filtered": 126,
+    "crossref_new_dois": [
+      "10.1111/petr.70415",
+      "10.1158/1078-0432.ccr-26-1084",
+      "10.18614/dehm.1818612",
+      "10.21203/rs.3.rs-10256326/v1"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 10,
+    "crossref_dropped_dois": [
+      "10.1016/j.hbpd.2026.07.007",
+      "10.1016/j.transproceed.2026.07.004",
+      "10.1038/s41392-026-02796-0",
+      "10.1080/00365521.2026.2709613",
+      "10.1111/hepr.70253",
+      "10.31083/fbl51017",
+      "10.3329/jssmc.v17i1.92341",
+      "10.3389/fphar.2026.1907173",
+      "10.64898/2026.07.28.741157",
+      "10.64898/2026.07.28.741358"
+    ],
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 15,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT06427941",
+      "NCT07285044"
+    ],
+    "clinicaltrials_dropped_ncts_count": 2,
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 4,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 4,
+    "openalex_new_dois": [
+      "10.1016/j.adro.2026.102126",
+      "10.1097/sla.0000000000007176"
+    ],
+    "openalex_preprint_count": 4,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA OK; OncLive/がんナビ/NHC/Minzdrav unreachable; ASCO durvalumab→NSCLC FP; Crossref NEW includes CT0180 Phase I (observe only); no guideline literal update; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged; TORCH remains EDAT-indexed (SEEN)."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/30/18 (119; NEW=0/DROPPED=0).",
+    "Crossref title-filtered 132→126: NEW DOI=4 (CT0180 Phase I / LT-GVHD / aloe mechanism / BMP9 preprint) — none dual-source must-read; DROPPED=10 (18h MASLD/fibrosis/organoid noise window-slide).",
+    "CT related 17→15: DROPPED ['NCT06427941','NCT07285044']; NEW []; focus 16→15 (BGB-B2033 Phase 1 admin slide); no results-level UPDATED.",
+    "OpenAlex (publication_date only): works_count=4 NEW=['10.1097/sla.0000000000007176','10.1016/j.adro.2026.102126'] genetics/Grid-RT downrank; preprint_count theme-filtered=4 NEW=[].",
+    "Preprints: bioRxiv lineage+organoid SEEN; NEW medRxiv hepatic fat fraction (non-decision); hen-liver atlas/huntingtin observe/downrank; brain-liver glucose FP; EuropePMC SRC:PPR 2 SEEN.",
+    "Guidelines panel unchanged vs 202607/29/18.",
+    "No material delta vs previous hour."
+  ]
+}

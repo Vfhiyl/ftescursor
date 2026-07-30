@@ -1,0 +1,84 @@
+{
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "radiology and imaging",
+      "abstract_snippet": "Objective: To identify common photon-counting CT (PCCT) virtual monochromatic imaging (VMI) settings for accurate hepatic fat fraction (FF) quantification across different body sizes, including large body habitus. Methods: Six non-iodinated fat lesions (FF 5%-40%) were embedded in anthropomorphic liver phantoms representing medium-sized (25x32.5 cm^2) and large (31x39 cm^2) abdomens. Phantoms were"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "abstract_snippet": "Human liver organoids (HLOs) and liver-on-a-chip (LoC) systems are emerging as physiologically relevant human models for studying liver function, disease, and drug metabolism, often in combination with human induced pluripotent stem cell (hiPSC)-derived tissues. However, hiPSC-derived models often display batch-to-batch variation and incomplete maturation, and the contribution of microfluidic flow"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741358",
+      "title": "Hepatic huntingtin loss drives an acute phase response and liver injury in multiple mouse models",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "molecular biology",
+      "abstract_snippet": "Multiple therapeutic strategies are being developed to slow Huntington's disease (HD) progression through targeted reduction of huntingtin (HTT) protein or mRNA. Despite HTT's discovery over 30 years ago, its cellular functions remain incompletely understood, and the long-term consequences of HTT-lowering therapies remain unclear. We previously demonstrated that hepatic HTT loss in mice disrupts h"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740890",
+      "title": "A single-nucleus atlas of the adult laying hen liver reveals metabolic specialization and improved cellular resolution through enhanced genome annotation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genomics",
+      "abstract_snippet": "The liver of laying hens plays a central role in metabolism and reproduction, supporting the synthesis of egg yolk precursors under strong hormonal regulation. Despite its physiological importance, a high-resolution cellular reference of the adult chicken liver is still lacking. Here, we generated a single-nucleus RNA sequencing atlas of the adult laying hen liver from eight individuals, providing"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "cancer biology",
+      "abstract_snippet": "Fatty liver disease predisposes to primary liver cancer, yet the lineage routes and niche mechanisms that select rare tumor-fated hepatocytes remain unclear. Here we developed CERAMIC, a high-capacity CRISPR-Cas9 lineage recorder that co-recovers editing scars and transcriptomes from single cells, and applied it to an AKT/NRAS-driven model of MASLD-associated liver tumor initiation. Longitudinal l"
+    }
+  ],
+  "biorxiv_fp": [
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "neuroscience",
+      "abstract_snippet": "Neural lateralization is well recognized in the control of contralateral somatic movement, yet its relevance to visceral organ regulation remains poorly understood. This study aimed to determine whether the central nervous system exerts lateralized control over hepatic glucose metabolism and to localize the site of peripheral sympathetic crossover to the liver. Pseudorabies virus (PRV) tracing rev",
+      "reason": "brain-liver glucose neuroscience FP"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1287662",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1287547",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR"
+    }
+  ],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 4,
+    "europepmc_ppr": 2
+  }
+}
