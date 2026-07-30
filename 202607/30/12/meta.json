@@ -1,0 +1,74 @@
+{
+  "folder": "202607/30/12",
+  "previous_folder": "202607/30/11",
+  "trigger_utc": "2026-07-30T12:01:59.082Z",
+  "collected_at_utc": "2026-07-30T12:06:19.614631+00:00",
+  "window_start_utc": "2026-07-29T12:01:59.082000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 112,
+    "pubmed_pdat_count": 32,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 23,
+    "crossref_unique_title_filtered": 103,
+    "crossref_new_dois": [
+      "10.1016/j.ijbiomac.2026.153704",
+      "10.1016/j.rpth.2026.106692",
+      "10.1186/s12967-026-08686-x",
+      "10.17235/reed.2026.12147/2026",
+      "10.21873/anticanres.18305",
+      "10.3390/cimb48080770",
+      "10.4251/wjgo.122464",
+      "10.4251/wjgo.124040",
+      "10.4254/wjh.123791"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 5,
+    "crossref_dropped_dois": [
+      "10.1016/j.livres.2026.07.002",
+      "10.1136/archdischild-2026-rcpch.119",
+      "10.3389/fimmu.2026.1845113",
+      "10.3389/fphar.2026.1907173",
+      "10.64898/2026.07.28.741358"
+    ],
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT07409805"
+    ],
+    "clinicaltrials_dropped_ncts_count": 1,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA OK; OncLive 403; がんナビ DNS fail; NHC 412; Minzdrav thin; no new HCC LBA/guideline signal; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/30/11 (112; NEW=0/DROPPED=0).",
+    "Crossref title-filtered 99→103: +9 NEW DOI (mechanistic/radiomics/NLR-PLR CCA/aflatoxin review; LT CAC; retraction notice; RCC pembro+LEN FP flicker anticanres.18305; LT PBM flicker) — none dual-source practice-changing; DROPPED 5.",
+    "CT related 16→15 (DROPPED NCT07409805 CRC mets FP from 11h); focus kept 14 with NCT07715903 + NCT07732686 continuity; melanoma NCT07281924 related only.",
+    "OpenAlex (publication_date only): works_count=2 NEW=[]; preprint_count theme-filtered stable vs 11h (NEW=[]).",
+    "Preprints: medRxiv/bioRxiv theme hits=0 (11h bioRxiv organoid dropped out of 24h window); EuropePMC SRC:PPR 2 SEEN.",
+    "Guidelines panel unchanged vs 202607/29/18.",
+    "No material delta vs previous hour."
+  ]
+}

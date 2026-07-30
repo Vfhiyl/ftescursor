@@ -1,0 +1,25 @@
+{
+  "collected_at_utc": "2026-07-30T12:05:00.016263+00:00",
+  "window": [
+    "2026-07-29",
+    "2026-07-30"
+  ],
+  "biorxiv_scanned": 30,
+  "medrxiv_scanned": 30,
+  "biorxiv": [],
+  "medrxiv": [],
+  "europepmc": [
+    {
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "firstPublicationDate": "2026-07-29",
+      "id": "PPR1287662"
+    },
+    {
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "firstPublicationDate": "2026-07-29",
+      "id": "PPR1287547"
+    }
+  ]
+}
