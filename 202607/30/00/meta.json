@@ -1,0 +1,58 @@
+{
+  "folder": "202607/30/00",
+  "previous_folder": "202607/29/23",
+  "trigger_utc": "2026-07-30T00:00:53.457Z",
+  "collected_at_utc": "2026-07-30T00:02:30.884829+00:00",
+  "window_start_utc": "2026-07-29T00:02:30.884829+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 76,
+    "pubmed_pdat_count": 14,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 100,
+    "pubmed_clinical_leaning": 11,
+    "crossref_unique_title_filtered": 72,
+    "crossref_new_dois": [
+      "10.1016/j.autrev.2026.104149",
+      "10.1016/j.hbpd.2026.07.006",
+      "10.1016/j.hbpd.2026.07.011",
+      "10.1016/j.ijbiomac.2026.153704",
+      "10.1016/j.livres.2026.07.001",
+      "10.12669/pjms.42.8.15347",
+      "10.21873/anticanres.18305",
+      "10.3390/cimb48080770"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 64,
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts_count": 13,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 0,
+    "news_sentinel_note": "ASCO Post / ESMO / がんナビ / AWMF / HAS / KLCA reachable; OncLive 403; NHC 412; no new LBA or guideline version this UTC hour; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged; calendar-day window rollover 7/29–7/30."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "UTC day rollover: PubMed EDAT window 7/28–7/29 → 7/29–7/30; count 176→76 with NEW PMID=0 and 100 IDs dropped (window-edge, not retraction).",
+    "Crossref title-filtered 128→72: +8 NEW DOI (TACE triple perspective / etiology burden / autoantibodies / water-pollutant etiology / DCTPP1 / RCC pembro+LEN FP / retraction notice / LT MDR infection); material=false; cursor-paginated.",
+    "CT related 28→15 / focus 21→14: NEW NCT=0; 13 dropped on LastUpdate day-window; 0 results-module material updates (NCT03695250 results still 2023-08-22).",
+    "Preprints: medRxiv/bioRxiv details + EuropePMC SRC:PPR = 0 in 24h window.",
+    "Guidelines panel unchanged vs 18h (CN 2026 / JSH / JLCA conversion consensus / KLCA-NCC / AWMF S3 v5.2 / AFEF·TNCD / Минздрав КР 2025).",
+    "No material clinical must-read vs 23h; short delta pack (not full rewrite)."
+  ]
+}

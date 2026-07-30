@@ -1,0 +1,105 @@
+{
+  "count": 11,
+  "records": [
+    {
+      "pmid": "42524843",
+      "title": "Exploring the Role of Surgery After Systemic Therapy in Locally Advanced Biliary Tract Cancer: Outcomes From a Large Retrospective Multinational Real-World Cohort Treated With Cisplatin, Gemcitabine, and Durvalumab.",
+      "journal": "International journal of cancer",
+      "pubdate": "2026 Jul 29",
+      "epubdate": "2026 Jul 29",
+      "doi": "10.1002/ijc.70641",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524843/"
+    },
+    {
+      "pmid": "42524660",
+      "title": "Definition of Conversion Therapy and Neoadjuvant Therapy for Hepatocellular Carcinoma: A Consensus Guideline from the Japan Liver Cancer Association.",
+      "journal": "Liver cancer",
+      "pubdate": "2026 Jun 9",
+      "epubdate": "2026 Jun 9",
+      "doi": "10.1159/000552928",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524660/"
+    },
+    {
+      "pmid": "42524515",
+      "title": "Lenvatinib Added to Nivolumab and Ipilimumab Improves Tumor Control and Progression-Free Survival in Unresectable Hepatocellular Carcinoma.",
+      "journal": "Liver cancer",
+      "pubdate": "2026 Jun 9",
+      "epubdate": "2026 Jun 9",
+      "doi": "10.1159/000552861",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524515/"
+    },
+    {
+      "pmid": "42524514",
+      "title": "Preoperative Albumin-Bilirubin Score as a Predictor of Postoperative Complications After Liver Resection.",
+      "journal": "Cureus",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Jun 28",
+      "doi": "10.7759/cureus.111661",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524514/"
+    },
+    {
+      "pmid": "42524025",
+      "title": "Impact of TACE combined with targeted and immune therapy on liver function and prognosis in unresectable hepatocellular carcinoma patients: the significance of baseline albumin-bilirubin grade.",
+      "journal": "Therapeutic advances in medical oncology",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 27",
+      "doi": "10.1177/17588359261470015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524025/"
+    },
+    {
+      "pmid": "42523603",
+      "title": "Metabolic comorbidities affect the survival of hepatitis B virus-related hepatocellular carcinoma in Chinese patients: a retrospective cohort study with propensity score matching.",
+      "journal": "Frontiers in oncology",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 14",
+      "doi": "10.3389/fonc.2026.1863272",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523603/"
+    },
+    {
+      "pmid": "42522589",
+      "title": "Biological Selection: The Next Frontier in Liver Transplantation for Perihilar Cholangiocarcinoma?",
+      "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+      "pubdate": "2026 Sep",
+      "epubdate": "",
+      "doi": "10.1111/liv.70825",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522589/"
+    },
+    {
+      "pmid": "42522214",
+      "title": "Factors Influencing the Mental Health Status of Hepatocellular Carcinoma Patients Undergoing Hepatectomy.",
+      "journal": "ANZ journal of surgery",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "doi": "10.1111/ans.70762",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522214/"
+    },
+    {
+      "pmid": "42521676",
+      "title": "Laparoscopic Versus Open Liver Resection for Huge (≥10 cm) Hepatocellular Carcinoma: A Single-Center Experience.",
+      "journal": "Journal of laparoendoscopic & advanced surgical techniques. Part A",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "doi": "10.1177/10926429261472632",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521676/"
+    },
+    {
+      "pmid": "42521316",
+      "title": "Evaluating the effectiveness and safety of adjuvant transcatheter arterial chemoembolisation (TACE) after curative resection for Barcelona Clinic Liver Cancer (BCLC) stage 0-B hepatocellular carcinoma: protocol for a target trial emulation study.",
+      "journal": "BMJ open",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "doi": "10.1136/bmjopen-2026-117956",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521316/"
+    },
+    {
+      "pmid": "42520930",
+      "title": "Adjuvant capecitabine in resected biliary tract cancer: a real-world data from the BILCAP-Real study (ACABi multicentre cohort).",
+      "journal": "JHEP reports : innovation in hepatology",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "doi": "10.1016/j.jhepr.2026.101968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520930/"
+    }
+  ],
+  "filter": "clinical-leaning title regex minus clear FP titles"
+}
