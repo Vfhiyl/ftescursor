@@ -1,0 +1,54 @@
+{
+  "folder": "202607/30/07",
+  "previous_folder": "202607/30/06",
+  "trigger_utc": "2026-07-30T07:01:54.483Z",
+  "collected_at_utc": "2026-07-30T07:03:41.972959+00:00",
+  "window_start_utc": "2026-07-29T07:01:54.483Z",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 93,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 24,
+    "crossref_unique_title_filtered": 84,
+    "crossref_new_dois": [
+      "10.1016/j.bbrc.2026.154370",
+      "10.36283/ziun-pjmd/013"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 1,
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [
+      "NCT07281924"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA reachable; OncLive 403; がんナビ 404; Minzdrav/NHC unreachable; no new HCC LBA; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 06h (93/93; NEW=0, DROPPED=0).",
+    "Crossref title-filtered 83→84: +2 NEW DOI (Pakistan J Med Dent advanced-stage HCC presentation descriptive; SERBP1 SNP rs3762314 biomarker) — both non-material; dropped 1 DCTPP1 therapeutic-target review (10.3390/cimb48080770).",
+    "CT related 14→15: +1 NEW NCT07281924 (melanoma liver mets Hepzato+Opdualag) — window-edge reentry, peripheral FP, no results module; focus 14 unchanged.",
+    "Preprints: medRxiv/bioRxiv details=0; EuropePMC SRC:PPR 2 (0 NEW; both SEEN).",
+    "Guidelines panel unchanged vs 18h.",
+    "No dual-source must-read; commit as no material delta."
+  ]
+}
