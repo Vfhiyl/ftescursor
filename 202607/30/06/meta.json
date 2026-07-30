@@ -1,0 +1,52 @@
+{
+  "folder": "202607/30/06",
+  "previous_folder": "202607/30/05",
+  "trigger_utc": "2026-07-30T06:02:41.072Z",
+  "collected_at_utc": "2026-07-30T06:06:13.366574+00:00",
+  "window_start_utc": "2026-07-29T06:02:41.072Z",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 93,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 24,
+    "crossref_unique_title_filtered": 83,
+    "crossref_new_dois": [
+      "10.1177/11779322261425454",
+      "10.3389/fimmu.2026.1876151"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 1,
+    "clinicaltrials_related": 14,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "news_sentinel_note": "ASCO/ESMO/がんナビ/HAS/AWMF/Minzdrav/KLCA reachable without new HCC LBA hits; OncLive 403; NHC 412; no guideline version change; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 05h (93/93; NEW=0, DROPPED=0).",
+    "Crossref title-filtered 82→83: +2 NEW DOI (PSD gene-family bioinformatics; icaritin+TACE multicenter RW) — both non-material; dropped 1 RCC pembro+lenvatinib FP (10.21873/anticanres.18305).",
+    "CT related 14/focus 14 identical; NEW NCT=0; no results-module material updates.",
+    "Preprints: medRxiv/bioRxiv details=0; EuropePMC SRC:PPR 2 (0 NEW; both SEEN).",
+    "Guidelines panel unchanged vs 18h.",
+    "No dual-source must-read; commit as no material delta."
+  ]
+}
