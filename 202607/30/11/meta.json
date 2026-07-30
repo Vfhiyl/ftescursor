@@ -1,0 +1,93 @@
+{
+  "folder": "202607/30/11",
+  "previous_folder": "202607/30/10",
+  "trigger_utc": "2026-07-30T11:00:20.913Z",
+  "collected_at_utc": "2026-07-30T11:04:46.458020+00:00",
+  "window_start_utc": "2026-07-29T11:00:20.913000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 112,
+    "pubmed_pdat_count": 32,
+    "pubmed_edat_new_ids": [
+      "42529886",
+      "42529389",
+      "42529258",
+      "42529176",
+      "42529171",
+      "42529015",
+      "42528986",
+      "42528937",
+      "42528900",
+      "42528770",
+      "42528680",
+      "42528623",
+      "42528428",
+      "42528412",
+      "42528367",
+      "42528363",
+      "42528288",
+      "42528149",
+      "42528106"
+    ],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 23,
+    "crossref_unique_title_filtered": 99,
+    "crossref_new_dois": [
+      "10.1016/j.livres.2026.07.002",
+      "10.1136/archdischild-2026-rcpch.119",
+      "10.1186/s12943-026-02729-z",
+      "10.1186/s40359-026-05263-1",
+      "10.12669/pjms.42.8.15347",
+      "10.2139/ssrn.6620170",
+      "10.3389/fimmu.2026.1845113",
+      "10.3390/diagnostics16152397"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 4,
+    "crossref_dropped_dois": [
+      "10.1016/j.rpth.2026.106692",
+      "10.1080/00365521.2026.2709613",
+      "10.1111/hepr.70253",
+      "10.21873/anticanres.18305"
+    ],
+    "clinicaltrials_related": 16,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [
+      "NCT07409805"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 1,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF OK; OncLive 403; がんナビ 404; NHC 412; Minzdrav connection closed; no new HCC LBA; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT 93→112 (+19 NEW / DROPPED=0); includes SR/MA M2BPGi PMID 42529015 (surveillance biomarker; not treatment standard).",
+    "FP/noise among NEW: SCLC ADRIATIC durvalumab 42529258; feline platynosomosis 42528363; HBV Ab pediatric T1DM 42528937; ALD microbiome review 42528288; PSC AI histology 42528149; MASLD AUD prognosis 42528106.",
+    "Crossref title-filtered 95→99: +8 NEW DOI (Molecular Cancer radioresistance mech; LT psychology/MDR/AI prioritization; PBC pruritus/renal; pulmonary metastasectomy after LT; biliary atresia abstract) — none dual-source practice-changing; DROPPED 4 (LT PBM, steatosis indices, ADAMTS13 murine, RCC pembro+LEN).",
+    "CT related 15→16 (+NCT07409805 CRC liver mets vaccine Phase I — FP related); focus kept 14 with NCT07715903 continuity (ICC co-condition; peripheral); melanoma NCT07281924 related only.",
+    "OpenAlex (publication_date only): works_count=2 NEW=[]; preprint_count=8 NEW=[].",
+    "Preprints: bioRxiv theme hit=1 (hiPSC hepatic organoids; downrank); medRxiv=0; EuropePMC SRC:PPR 2 SEEN.",
+    "Guidelines panel unchanged vs 202607/29/18.",
+    "Must-read: 1 (M2BPGi SR/MA) — biomarker risk stratification only; EMERALD pairing unchanged."
+  ]
+}
