@@ -1,0 +1,68 @@
+{
+  "folder": "202607/30/08",
+  "previous_folder": "202607/30/07",
+  "trigger_utc": "2026-07-30T08:00:50.817Z",
+  "collected_at_utc": "2026-07-30T08:05:00.398387+00:00",
+  "window_start_utc": "2026-07-29T08:00:50.817Z",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 93,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 22,
+    "crossref_unique_title_filtered": 89,
+    "crossref_new_dois": [
+      "10.1080/14728222.2026.2708824",
+      "10.21037/tcr-2026-0745",
+      "10.21037/tcr-2026-0825",
+      "10.21037/tcr-2026-1-0342",
+      "10.21037/tcr-20262-7"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 14,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT07281924"
+    ],
+    "clinicaltrials_dropped_ncts_count": 1,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 4,
+    "openalex_preprint_new_dois": [
+      "10.21203/rs.3.rs-10483008/v1",
+      "10.21203/rs.3.rs-10334645/v1",
+      "10.21203/rs.3.rs-9874676/v1",
+      "10.21203/rs.3.rs-10501583/v1"
+    ],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA/JSH OK; OncLive 403; がんナビ 404; NHC 412; Minzdrav unreachable; no new HCC LBA; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 07h (93/93; NEW=0, DROPPED=0).",
+    "Crossref title-filtered 84→89: +5 NEW DOI (T-cell spatial immunology framework; 2 TCR gene-signature/HOXD9 bioinformatics; ICI+TT vs TKI hepatotoxicity single-journal; TCR erratum) — all non-material; DROPPED=0.",
+    "CT related 15→14: DROPPED NCT07281924 (melanoma liver mets; 07h non-material reentry reverse flicker); focus 14 unchanged; NEW NCT=0.",
+    "OpenAlex (publication_date only): works_count=2, openalex_new_dois=[] (both already in PubMed and/or Crossref); preprint_count=4 (7d window; biomarkers/nano/CEA/RMTI — down-rank).",
+    "Preprints: medRxiv/bioRxiv details=0; EuropePMC SRC:PPR 2 (0 NEW; both SEEN).",
+    "Guidelines panel unchanged vs 18h.",
+    "No dual-source must-read; commit as no material delta."
+  ]
+}
