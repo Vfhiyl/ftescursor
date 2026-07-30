@@ -1,0 +1,40 @@
+{
+  "collected_at_utc": "2026-07-30T13:05:18.128007+00:00",
+  "window_start": "2026-07-29T13:02:25.791000+00:00",
+  "window_end": "2026-07-30T13:02:25.791000+00:00",
+  "medrxiv": [],
+  "biorxiv": [
+    {
+      "server": "biorxiv",
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "category": "cell biology",
+      "version": "1",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.28.741157v1"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1287662",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR",
+      "url": "https://europepmc.org/article/PPR/PPR1287662"
+    },
+    {
+      "id": "PPR1287547",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR",
+      "url": "https://europepmc.org/article/PPR/PPR1287547"
+    }
+  ],
+  "counts": {
+    "medrxiv": 0,
+    "biorxiv": 1,
+    "europepmc_ppr": 2
+  }
+}

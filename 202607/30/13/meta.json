@@ -1,0 +1,76 @@
+{
+  "folder": "202607/30/13",
+  "previous_folder": "202607/30/12",
+  "trigger_utc": "2026-07-30T13:02:25.791Z",
+  "collected_at_utc": "2026-07-30T13:06:17.907611+00:00",
+  "window_start_utc": "2026-07-29T13:02:25.791000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 112,
+    "pubmed_pdat_count": 32,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 22,
+    "crossref_unique_title_filtered": 110,
+    "crossref_new_dois": [
+      "10.1007/s00261-026-05682-z",
+      "10.1016/j.jhep.2026.07.004",
+      "10.1016/j.transproceed.2026.07.004",
+      "10.1016/j.transproceed.2026.07.005",
+      "10.1080/00365521.2026.2709613",
+      "10.1111/hepr.70253",
+      "10.3389/fphar.2026.1907173",
+      "10.3390/jcm15155950",
+      "10.53855/bjt.v29i1.810_eng"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 2,
+    "crossref_dropped_dois": [
+      "10.1016/j.ijbiomac.2026.153704",
+      "10.3390/cimb48080770"
+    ],
+    "clinicaltrials_related": 18,
+    "clinicaltrials_focus": 16,
+    "clinicaltrials_new_ncts": [
+      "NCT04194775",
+      "NCT06786429",
+      "NCT07285044",
+      "NCT07738055"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT07281924"
+    ],
+    "clinicaltrials_dropped_ncts_count": 1,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 1,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA OK; OncLive 403; がんナビ DNS; NHC 412; Minzdrav disconnect; ASCO durvalumab hit=NSCLC FP; ESMO still shows TACE combo/EMERALD uncertainty (unchanged narrative); no new HCC LBA/guideline signal; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/30/12 (112; NEW=0/DROPPED=0).",
+    "Crossref title-filtered 103→110: +9 NEW DOI (LT machine-perfusion SR/MA observe-only; infiltrative HCC pictorial; LT case/review; IFLT corrigendum; steatosis indices; murine ACLF; herbal APAP) — none dual-source HCC practice-changing; DROPPED 2.",
+    "CT related 15→18: NEW NCT07738055 (envafolimab+suvemcitug+HAIC conversion, not yet recruiting), NCT04194775 (nofazinlimab admin update), NCT06786429 mental-health soft, NCT07285044 basket FP; DROPPED NCT07281924 melanoma flicker; focus 14→16 with continuity + two HCC NEW.",
+    "OpenAlex (publication_date only): works_count=2 NEW=[]; preprint_count theme-filtered=8 NEW=[].",
+    "Preprints: bioRxiv hiPSC hepatic organoids back in 24h window (downrank); EuropePMC SRC:PPR 2 SEEN; medRxiv=0.",
+    "Guidelines panel unchanged vs 202607/29/18.",
+    "No material delta vs previous hour."
+  ]
+}
