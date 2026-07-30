@@ -1,0 +1,96 @@
+{
+  "window": {
+    "from_publication_date": "2026-07-29",
+    "to_publication_date": "2026-07-30",
+    "preprint_from": "2026-07-23"
+  },
+  "works": [
+    {
+      "id": "https://openalex.org/W7171504839",
+      "doi": "10.1016/j.tranon.2026.102962",
+      "title": "3′UTR shortening of ZCRB1 promotes malignant progression of hepatocellular carcinoma through GOLM1",
+      "publication_date": "2026-07-29",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171509874",
+      "doi": "10.26442/18151434.2026.2.203697",
+      "title": "Hepatocellular carcinoma: prospects for CAR-T therapy in the Russian Federation. Results of the Expert Council meeting",
+      "publication_date": "2026-07-29",
+      "type": "article",
+      "cited_by_count": 0
+    }
+  ],
+  "works_count": 2,
+  "preprints": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprints_theme": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprint_count": 4,
+  "api_calls": 3
+}

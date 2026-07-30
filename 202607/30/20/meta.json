@@ -1,0 +1,61 @@
+{
+  "folder": "202607/30/20",
+  "previous_folder": "202607/30/19",
+  "trigger_utc": "2026-07-30T20:00:07.055Z",
+  "collected_at_utc": "2026-07-30T20:04:56.728184+00:00",
+  "window_start_utc": "2026-07-29T20:00:07.055000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 119,
+    "pubmed_pdat_count": 40,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 30,
+    "crossref_unique_title_filtered": 125,
+    "crossref_new_dois": [
+      "10.65405/rg255s55"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 2,
+    "crossref_dropped_dois": [
+      "10.21873/anticanres.18305",
+      "10.9734/jammr/2026/v38i86179"
+    ],
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 15,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 4,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 4,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA OK; OncLive 403 / がんナビ 404 / NHC 412 / Minzdrav unreachable; no HCC keyword news hits; Crossref NEW Libya biomarker single-center observe-only; CT related identical after CARE-pilot soft-exclude + HAI carfilzomib continuity; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged; TORCH remains EDAT-indexed (SEEN)."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 202607/30/19 (119; NEW=0/DROPPED=0).",
+    "Crossref title-filtered 126→125: NEW DOI=1 (10.65405/rg255s55 Libya hepatorenal biomarkers — single-center, not dual-source); DROPPED=2 incl. known RCC pembro+LEN FP flicker 10.21873/anticanres.18305.",
+    "CT related 15→15: NEW []; DROPPED []; NCT07285044 CARE pilot re-appeared in raw API but soft-excluded; NCT07715903 HAI carfilzomib kept for focus continuity.",
+    "OpenAlex (publication_date only): works_count=2 NEW=[]; preprint_count theme-filtered=4 NEW=[].",
+    "Preprints: bioRxiv lineage+organoid+hen/huntingtin SEEN; medRxiv hepatic fat fraction SEEN; EuropePMC SRC:PPR 2 SEEN; NEW=[].",
+    "Guidelines panel unchanged vs 202607/29/18.",
+    "No material delta vs previous hour."
+  ]
+}

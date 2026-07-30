@@ -1,0 +1,206 @@
+{
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "radiology and imaging",
+      "abstract_snippet": "Objective: To identify common photon-counting CT (PCCT) virtual monochromatic imaging (VMI) settings for accurate hepatic fat fraction (FF) quantification across different body sizes, including large body habitus. Methods: Six non-iodinated fat lesions (FF 5%-40%) were embedded in anthropomorphic li"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "abstract_snippet": "Human liver organoids (HLOs) and liver-on-a-chip (LoC) systems are emerging as physiologically relevant human models for studying liver function, disease, and drug metabolism, often in combination with human induced pluripotent stem cell (hiPSC)-derived tissues. However, hiPSC-derived models often d"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741358",
+      "title": "Hepatic huntingtin loss drives an acute phase response and liver injury in multiple mouse models",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "molecular biology",
+      "abstract_snippet": "Multiple therapeutic strategies are being developed to slow Huntington's disease (HD) progression through targeted reduction of huntingtin (HTT) protein or mRNA. Despite HTT's discovery over 30 years ago, its cellular functions remain incompletely understood, and the long-term consequences of HTT-lo"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740890",
+      "title": "A single-nucleus atlas of the adult laying hen liver reveals metabolic specialization and improved cellular resolution through enhanced genome annotation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genomics",
+      "abstract_snippet": "The liver of laying hens plays a central role in metabolism and reproduction, supporting the synthesis of egg yolk precursors under strong hormonal regulation. Despite its physiological importance, a high-resolution cellular reference of the adult chicken liver is still lacking. Here, we generated a"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "cancer biology",
+      "abstract_snippet": "Fatty liver disease predisposes to primary liver cancer, yet the lineage routes and niche mechanisms that select rare tumor-fated hepatocytes remain unclear. Here we developed CERAMIC, a high-capacity CRISPR-Cas9 lineage recorder that co-recovers editing scars and transcriptomes from single cells, a"
+    }
+  ],
+  "biorxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.24.740576",
+      "title": "Screening of Potential Vaccine Candidate and Sera Based Diagnostic Markers from N-linked Surface Glycoproteins of Entamoeba histolytica",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "immunology",
+      "abstract_snippet": "Pathogenesis inflicted by Entamoeba histolytica causes amoebic diarrhea and liver abscesses and is one of the leading causes of mortality from parasitic disease worldwide. Preventive therapeutics in the form of a vaccine could be highly effective at providing umbrella protection for a vulnerable com",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.740600",
+      "title": "Cross-species Study of Canine and Human Peripheral Nerve Sheath Tumors: Clinical and Molecular Perspectives",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cancer biology",
+      "abstract_snippet": "Malignant peripheral nerve sheath tumors (MPNSTs) are aggressive sarcomas. An obstacle to treating MPNSTs is a lack of effective systemic therapies. Although over 70% of human MPNSTs have lost or inactivated the epigenome regulator polycomb repressive complex 2 (PRC2), its activity and contribution ",
+      "reason": "theme FP"
+    },
+    {
+      "doi": "10.64898/2026.05.02.721834",
+      "title": "Phylogenetic, genomic, and morphological characterization of Rickettsia senegalensis sp. nov., a novel Rickettsia species detected worldwide",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "microbiology",
+      "abstract_snippet": "Members of the genus Rickettsia are widespread obligate intracellular bacteria with high medical and veterinary relevance. While Rickettsia senegalensis was previously isolated from cat fleas, Ctenocephalides felis, in Senegal, a comprehensive polyphasic characterization is required for its formal t",
+      "reason": "theme FP"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741355",
+      "title": "Unscheduled DNA synthesis reveals a DNA repair hotspot and biomarker of somatic instability at the expanded-CAG repeat tract in the huntingtin gene",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "neuroscience",
+      "abstract_snippet": "Somatic instability (SI) of expanded DNA repeats is a hallmark of repeat expansion disorder (REDs) and drives onset and progression in Huntington's disease (HD) yet the absence of target engagement (TE) biomarkers for SI-modulating therapies represents a critical gap to clinical development. Here, w",
+      "reason": "theme FP"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741306",
+      "title": "Microbial association networks reveal hidden keystone taxa and cross-kingdom interactions after dryland wildfires",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "microbiology",
+      "abstract_snippet": "How wildfires reorganize soil microbial interactions is a key knowledge gap, particularly for drylands that cover nearly 40% of Earth's surface and face increasing wildfire frequency with global change. We compared bacterial, fungal, and cross-kingdom association networks across four timepoints from",
+      "reason": "theme FP"
+    },
+    {
+      "doi": "10.1101/2025.10.07.681041",
+      "title": "Therapeutic acetaminophen exposure does not measurably alter human cortical organoid development",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "neuroscience",
+      "abstract_snippet": "Acetaminophen (APAP) is the most widely used analgesic during pregnancy, yet its effects on prenatal human brain development remain incompletely understood. Epidemiological studies have reported inconsistent associations between prenatal APAP exposure and later neurodevelopmental outcomes, underscor",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "neuroscience",
+      "abstract_snippet": "Neural lateralization is well recognized in the control of contralateral somatic movement, yet its relevance to visceral organ regulation remains poorly understood. This study aimed to determine whether the central nervous system exerts lateralized control over hepatic glucose metabolism and to loca",
+      "reason": "brain-liver glucose neuroscience FP"
+    },
+    {
+      "doi": "10.64898/2026.01.31.702994",
+      "title": "BRD4 represses developmental and neuronal genes through interaction with PRC1.6",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "molecular biology",
+      "abstract_snippet": "BRD4 is best known as a transcriptional co-activator, yet heterozygous loss-of-function variants cause craniofacial and neurodevelopmental abnormalities through unclear mechanisms. Using human embryonic stem cells, and neural organoids as an in vitro model of human embryonic brain development, we sh",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741448",
+      "title": "Single-cell lineage tracing of human neuromesoderm organoids reveals TBX6-mediated posterior mesoderm fate diversification",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "developmental biology",
+      "abstract_snippet": "Neuromesodermal progenitors (NMPs) drive vertebrate posterior axis elongation, but the lineage hierarchy of human NMP derivatives remains poorly defined. Here, we integrated a CRISPR/Cas9-based single-cell lineage tracing system with paired multiomics profiling -including scRNA-seq and scATAC-seq - ",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.738916",
+      "title": "Proteomic Profiling Identifies CLDN3 as a Tumor-Selective Therapeutic Target in Small Cell Lung Cancer",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cancer biology",
+      "abstract_snippet": "Small cell lung cancer (SCLC) remains a highly lethal disease with limited targetable surface antigens beyond delta-like ligand 3 (DLL3). We sought to systematically identify and validate tumor-selective cell-surface targets in relapsed SCLC. To this end, we developed an integrated proteogenomic pip",
+      "reason": "theme FP"
+    }
+  ],
+  "medrxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.26.26358752",
+      "title": "Human blood vessel organoids reveal a critical role for IGFBP7 in Diabetic Microangiopathy",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "cardiovascular medicine",
+      "abstract_snippet": "Microangiopathy is a key contributor to diabetic vascular complications. There is currently no effective treatment, and patients are at high risk of major adverse cardiovascular events. We have recently demonstrated that human blood vessel organoids (BVOs) capture key aspects of the microvasculature",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359104",
+      "title": "Switching Between VCTE and 2D-SWE Reclassifies Fibrosis Risk in Metabolic Dysfunction-Associated Steatotic Liver Disease",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "gastroenterology",
+      "abstract_snippet": "Background and Aims: Vibration-controlled transient elastography (VCTE) and two-dimensional shear-wave elastography (2D-SWE) are used to assess liver stiffness in metabolic dysfunction-associated steatotic liver disease (MASLD); patients may be assessed by different methods over time. Because 2D-SWE",
+      "reason": "weak hepatic theme"
+    },
+    {
+      "doi": "10.1101/2025.10.01.25337053",
+      "title": "Temporal Response and Survival Dynamics After Durvalumab in Stage III NSCLC: A Response-Augmented Continuous-Time Markov Framework",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "oncology",
+      "abstract_snippet": "Background: Immunotherapy in unresectable stage III NSCLC shows delayed treatment effects and time varying hazards that challenge proportional-hazards assumptions. We developed a continuous-time Markov chain (CTMC) model with piecewise hazards to capture the temporal dynamics of durvalumab after che",
+      "reason": "theme FP"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1287662",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1287547",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR"
+    }
+  ],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 4,
+    "europepmc_ppr": 2
+  }
+}
