@@ -1,0 +1,77 @@
+{
+  "folder": "202607/30/10",
+  "previous_folder": "202607/30/09",
+  "trigger_utc": "2026-07-30T10:02:34.977Z",
+  "collected_at_utc": "2026-07-30T10:04:49.730465+00:00",
+  "window_start_utc": "2026-07-29T10:02:34.977000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 93,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 23,
+    "crossref_unique_title_filtered": 95,
+    "crossref_new_dois": [
+      "10.1016/j.rpth.2026.106692",
+      "10.1080/00365521.2026.2709613",
+      "10.1111/hepr.70253",
+      "10.1186/s43066-026-00532-5",
+      "10.31083/bjhm56026",
+      "10.3389/fphar.2026.1907173",
+      "10.3390/info17080737",
+      "10.62347/cfkg8762",
+      "10.64898/2026.07.28.741358"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 5,
+    "crossref_dropped_dois": [
+      "10.1007/s00265-026-03784-8",
+      "10.1007/s00464-026-13089-6",
+      "10.1007/s43388-026-00311-1",
+      "10.1016/j.ijbiomac.2026.153704",
+      "10.2172/3376409"
+    ],
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [
+      "10.21203/rs.3.rs-10169506/v1",
+      "10.21203/rs.3.rs-10347193/v1",
+      "10.21203/rs.3.rs-10383026/v1",
+      "10.64898/2026.07.22.740069"
+    ],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA OK; OncLive 403; がんナビ DNS fail; NHC 412; Minzdrav connection closed; no new HCC LBA; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 09h (93/93; NEW=0, DROPPED=0).",
+    "Crossref title-filtered 91→95: +9 NEW DOI (1 clinical-ish TACE+PD-1 interval study without dual source; case/AI/experimental; rest FP/animal/steatosis/LT transfusion); DROPPED 5 (3 Emerald FP birds/weatherization, benign-liver MIS, retraction notice).",
+    "CT related 15 / focus 14 identical to 09h (incl. melanoma NCT07281924 related; focus excludes melanoma).",
+    "OpenAlex (publication_date only): works_count=2, openalex_new_dois=[]; preprint_count=8 (+4 NEW anatomical/metabolic preprints, downranked).",
+    "Preprints: medRxiv/bioRxiv details theme hits=0; EuropePMC SRC:PPR 2 (0 NEW; both SEEN).",
+    "Guidelines panel unchanged vs 202607/29/18.",
+    "No dual-source must-read; commit as no material delta."
+  ]
+}

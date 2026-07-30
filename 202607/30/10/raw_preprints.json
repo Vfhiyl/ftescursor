@@ -1,0 +1,31 @@
+{
+  "window": [
+    "2026-07-29",
+    "2026-07-30"
+  ],
+  "medrxiv_biorxiv_hits": [],
+  "medrxiv_count": 0,
+  "biorxiv_count": 0,
+  "europepmc_ppr": [
+    {
+      "id": "PPR1287662",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR",
+      "url": "https://doi.org/10.21203/rs.3.rs-10395965/v1",
+      "query_used": "SRC:PPR AND (TITLE:\"hepatocellular carcinoma\" OR TITLE:HCC OR TITLE:cholangiocarcinoma OR TITLE:hepatectomy OR TITLE:\"li"
+    },
+    {
+      "id": "PPR1287547",
+      "doi": "10.20944/preprints202607.2078.v1",
+      "title": "Selective Cytotoxicity in HepG2 Tumor Cells and Immunomodulatory Effects of Pteropodine and Beta-Sitosterol in BALB/c Mice",
+      "firstPublicationDate": "2026-07-29",
+      "source": "PPR",
+      "url": "https://doi.org/10.20944/preprints202607.2078.v1",
+      "query_used": "SRC:PPR AND (TITLE:\"hepatocellular carcinoma\" OR TITLE:HCC OR TITLE:cholangiocarcinoma OR TITLE:hepatectomy OR TITLE:\"li"
+    }
+  ],
+  "europepmc_ppr_count": 2,
+  "errors": []
+}
