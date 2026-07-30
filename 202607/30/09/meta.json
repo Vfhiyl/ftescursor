@@ -1,0 +1,68 @@
+{
+  "folder": "202607/30/09",
+  "previous_folder": "202607/30/08",
+  "trigger_utc": "2026-07-30T09:00:48.807Z",
+  "collected_at_utc": "2026-07-30T09:02:44.491778+00:00",
+  "window_start_utc": "2026-07-29T09:00:48.807Z",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 93,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 25,
+    "crossref_unique_title_filtered": 91,
+    "crossref_new_dois": [
+      "10.1007/s00265-026-03784-8",
+      "10.1007/s00464-026-13089-6",
+      "10.1007/s43388-026-00311-1",
+      "10.2172/3376409",
+      "10.21873/anticanres.18305"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_dropped_dois_count": 3,
+    "crossref_dropped_dois": [
+      "10.1186/s40359-026-05263-1",
+      "10.12669/pjms.42.8.15347",
+      "10.2139/ssrn.6620170"
+    ],
+    "clinicaltrials_related": 15,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [
+      "NCT07281924"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 0,
+    "preprints_biorxiv": 0,
+    "preprints_europepmc_ppr": 2,
+    "openalex_count": 2,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 4,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ASCO/ESMO/HAS/AWMF/KLCA/JSH OK; OncLive 403; がんナビ DNS fail; NHC 412; Minzdrav connection closed; no new HCC LBA; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature unchanged."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set identical to 08h (93/93; NEW=0, DROPPED=0).",
+    "Crossref title-filtered 89→91: +5 NEW DOI all non-material (Emerald wood-dove/hummingbird/weatherization FP; benign-liver MIS textbook outcomes; RCC pembro+LEN FP); DROPPED 3 (pediatric LT psychology, LT MDR infection, SSRN LT DL).",
+    "CT related 14→15: NEW NCT07281924 melanoma liver mets reentry (non-material flicker); focus 14 identical to 08h.",
+    "OpenAlex (publication_date only): works_count=2, openalex_new_dois=[]; preprint_count=4, openalex_preprint_new_dois=[].",
+    "Preprints: medRxiv/bioRxiv details=0; EuropePMC SRC:PPR 2 (0 NEW; both SEEN).",
+    "Guidelines panel unchanged vs 18h.",
+    "No dual-source must-read; commit as no material delta."
+  ]
+}
