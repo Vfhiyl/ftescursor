@@ -1,0 +1,67 @@
+{
+  "folder": "202607/31/02",
+  "previous_folder": "202607/31/01",
+  "trigger_utc": "2026-07-31T02:02:58.179Z",
+  "collected_at_utc": "2026-07-31T02:07:35.559374+00:00",
+  "window_start_utc": "2026-07-30T02:02:58.179000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 48,
+    "pubmed_pdat_count": 16,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 14,
+    "crossref_unique_title_filtered": 56,
+    "crossref_new_dois": [],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [],
+    "crossref_noise_new_dois": [],
+    "crossref_dropped_dois_count": 3,
+    "crossref_dropped_dois_note": "calendar-window / title-filter churn vs prior hour set (59→56)",
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 2,
+    "preprints_europepmc_ppr": 2,
+    "preprints_new_dois": [
+      "10.21203/rs.3.rs-10028031/v1",
+      "10.21203/rs.3.rs-10256326/v1"
+    ],
+    "openalex_count": 3,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 6,
+    "openalex_preprint_new_dois": [],
+    "news_new_urls": [
+      "https://dailyreporter.esmo.org/esmo-gastrointestinal-cancers-congress-2026/news/the-place-for-tace-combinations-in-hepatocellular-carcinoma-is-still-uncertain"
+    ],
+    "news_sentinel_note": "ESMO homepage NEW URL on TACE combinations uncertainty (GI 2026 congress commentary; not dual-source must-read). ASCO 500 / OncLive 403 / NHC 412 / Minzdrav unreachable; がんナビ/HAS/AWMF/KLCA OK. EDAT identical 48; Crossref NEW=[]; CMH SR/MA still awaiting PubMed; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; TORCH/CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set IDENTICAL vs 202607/31/01 (48; NEW=0 / DROPPED=0).",
+    "Key SEEN retained in EDAT: TORCH PMIDs 42530948/42530952; CT0180 PMID 42531433.",
+    "Crossref title-filtered 59→56: NEW DOI=0; DROPPED≈3 (set churn). CMH SR/MA 10.3350/cmh.2026.0535 SEEN, still no PubMed PMID. DLD 10.1016/j.dld.2026.07.001 SEEN observe.",
+    "CT related/focus unchanged at 4 (incl. force-included NCT07715903 + BTC NCT06622057); NEW NCT=[].",
+    "OpenAlex (publication_date only): works_count=3; OpenAlex-only NEW=[]; preprint_count=6 NEW=[].",
+    "Preprints: medRxiv=1 SEEN fat fraction; bioRxiv=2 SEEN lineage+organoid; EuropePMC PPR NEW=2 Research Square (BMP9 mechanism; ATRA vs RT+targeted/IO pulmonary mets) — default not must-read.",
+    "News: ESMO Daily Reporter NEW URL on TACE combinations place still uncertain (congress commentary).",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change.",
+    "No material delta vs previous hour (EDAT identical; Crossref/CT/OA no NEW material)."
+  ]
+}

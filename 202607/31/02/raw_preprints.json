@@ -1,0 +1,140 @@
+{
+  "window": [
+    "2026-07-30",
+    "2026-07-31"
+  ],
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "via": "continuity"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "abstract_snip": "Fatty liver disease predisposes to primary liver cancer, yet the lineage routes and niche mechanisms that select rare tumor-fated hepatocytes remain unclear. Here we developed CERAMIC, a high-capacity CRISPR-Cas9 lineage recorder that co-recovers editing scars and transcriptomes from single cells, a"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "via": "continuity"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1288232",
+      "doi": "10.21203/rs.3.rs-10256326/v1",
+      "title": "BMP9 Promotes Hepatocellular Carcinoma Progression By Accelerating Cell Cycle through CKS1B Lactylation",
+      "firstPublicationDate": "2026-07-30",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1288310",
+      "doi": "10.21203/rs.3.rs-10028031/v1",
+      "title": "Comparative Outcomes of All-trans Retinoic Acid-Based Chemotherapy versus Radiotherapy Combined with Targeted and Immunotherapy in Hepatocellular Carcinoma Patients with Pulmonary Metastases",
+      "firstPublicationDate": "2026-07-30",
+      "source": "PPR"
+    }
+  ],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 2,
+    "europepmc_ppr": 2
+  },
+  "fp_trimmed": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "reason": "medrxiv_fp"
+    },
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741696",
+      "title": "Dynamic Nanoparticle Assembly-Based Biomedical Microrobots",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.02.02.703324",
+      "title": "Predictive and instructive cerebellar encoding of dopamine reward drives motivated behavior",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740168",
+      "title": "Encapsulated cell technology delivers ciliary neurotrophic factor to promote JAK/STAT-dependent photoreceptor survival i",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740119",
+      "title": "Quantitative Ultrasound Analysis of Gas Embolic Disease in Bycaught Sea Turtles",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.27.741054",
+      "title": "High precision animal stereotaxis with 3D polychromic photogrammetry",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741610",
+      "title": "Major microbiota transitions across liver disease progression are mediated by key taxa linking host environments and mic",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.30.740978",
+      "title": "Nicotinamide N-methyltransferase couples inflammation and epigenetic remodelling to hepatic fibrosis",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741625",
+      "title": "In vivo reconstruction of the cell lineage history of a developing mouse with DNA Typewriter, from zygote to late organo",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741525",
+      "title": "Resolving Immune Lineage and Cell-State Heterogeneity in Human PBMCs via Mass Spectrometry-Based Single-Cell Proteomics",
+      "reason": "biorxiv_fp"
+    },
+    {
+      "doi": "10.64898/2026.07.23.740178",
+      "title": "Intratumoral dose heterogeneity promotes adaptive anti-tumor immunity and predicts clinical response to radiopharmaceuti",
+      "reason": "biorxiv_fp"
+    }
+  ],
+  "continuity": [
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "server": "biorxiv",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "version": "3"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "server": "biorxiv",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "version": "1"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "server": "medrxiv",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "version": "1"
+    }
+  ]
+}
