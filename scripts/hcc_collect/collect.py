@@ -11,6 +11,7 @@ from typing import Optional
 from .clinical_leaning import filter_clinical
 from .clinicaltrials import collect_clinicaltrials
 from .crossref import collect_crossref
+from .ctis import collect_ctis
 from .hta import collect_hta
 from .journals import collect_journals
 from .news import collect_guidelines, collect_news
@@ -103,6 +104,7 @@ def run_collect(
     skip_regulatory: bool = False,
     skip_guidelines: bool = False,
     skip_hta: bool = False,
+    skip_ctis: bool = False,
     abstract_limit: int = 40,
 ) -> dict[str, object]:
     window_end = trigger_utc
@@ -129,6 +131,11 @@ def run_collect(
 
     trials = collect_clinicaltrials(window_start, window_end, mailto=mailto)
     write_json(out_dir / "raw_clinicaltrials.json", trials)
+
+    ctis: dict[str, object] | None = None
+    if not skip_ctis:
+        ctis = collect_ctis(window_start, window_end, mailto=mailto)
+        write_json(out_dir / "raw_ctis.json", ctis)
 
     openalex = collect_openalex(
         window_start,
@@ -180,6 +187,8 @@ def run_collect(
         "raw_openalex.json",
         "raw_preprints.json",
     ]
+    if ctis is not None:
+        files_written.append("raw_ctis.json")
     if news is not None:
         files_written.append("raw_news_sentinel.json")
     if journals is not None:
@@ -211,6 +220,10 @@ def run_collect(
             "crossref_title_filtered": crossref.get("unique_title_filtered_count"),
             "clinicaltrials_related": trials.get("related_count"),
             "clinicaltrials_focus": trials.get("focus_count"),
+            "ctis_related": (ctis or {}).get("related_count") if ctis else None,
+            "ctis_focus": (ctis or {}).get("focus_count") if ctis else None,
+            "ctis_recent_in_window": (ctis or {}).get("recent_count") if ctis else None,
+            "ctis_basket": (ctis or {}).get("basket_count") if ctis else None,
             "openalex_works": openalex.get("works_count"),
             "openalex_preprints": openalex.get("preprint_count"),
             "preprints_medrxiv": preprints.get("counts", {}).get("medrxiv")
@@ -285,6 +298,8 @@ def run_collect(
                 if isinstance(x, dict)
             ],
             "clinicaltrials_focus_ncts": trials.get("focus_ncts") or [],
+            "ctis_focus_numbers": (ctis or {}).get("focus_ct_numbers") or [],
+            "ctis_recent_numbers": (ctis or {}).get("recent_ct_numbers") or [],
             "openalex_dois": [
                 str(x.get("doi"))
                 for x in (openalex.get("works") or [])

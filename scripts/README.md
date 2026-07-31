@@ -36,6 +36,7 @@ Into `--out` (default `YYYYMM/DD/HH` from trigger):
 | `raw_pubmed_key_abstracts.json` | EFetch abstracts for clinical PMIDs |
 | `raw_crossref.json` | Crossref created-date + title filter |
 | `raw_clinicaltrials.json` | CT.gov LastUpdate window |
+| `raw_ctis.json` | EU CTIS public search (HCC/CCA; undocumented JSON API) |
 | `raw_openalex.json` | OpenAlex `publication_date` only |
 | `raw_preprints.json` | medRxiv / bioRxiv / EuropePMC PPR |
 | `raw_news_sentinel.json` | HTML news sentinels |

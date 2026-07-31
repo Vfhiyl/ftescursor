@@ -88,6 +88,11 @@ def build_parser() -> argparse.ArgumentParser:
         help="Skip NICE HTA product lists + EMA CHMP highlights sentinels",
     )
     p.add_argument(
+        "--skip-ctis",
+        action="store_true",
+        help="Skip EU CTIS public search collector",
+    )
+    p.add_argument(
         "--abstract-limit",
         type=int,
         default=40,
@@ -143,6 +148,7 @@ def main(argv: list[str] | None = None) -> int:
         skip_regulatory=args.skip_regulatory,
         skip_guidelines=args.skip_guidelines,
         skip_hta=args.skip_hta,
+        skip_ctis=args.skip_ctis,
         abstract_limit=args.abstract_limit,
     )
     print(json.dumps({"event": "hcc_collect_done", **summary}, ensure_ascii=False), flush=True)
