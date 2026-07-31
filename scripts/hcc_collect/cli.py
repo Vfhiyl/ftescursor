@@ -68,6 +68,21 @@ def build_parser() -> argparse.ArgumentParser:
         help="Skip HTML news sentinel scrape",
     )
     p.add_argument(
+        "--skip-journals",
+        action="store_true",
+        help="Skip journal RSS / PubMed journal TOC collectors",
+    )
+    p.add_argument(
+        "--skip-regulatory",
+        action="store_true",
+        help="Skip FDA/DailyMed/NICE regulatory collectors",
+    )
+    p.add_argument(
+        "--skip-guidelines",
+        action="store_true",
+        help="Skip EASL/AASLD/NCCN/JSH/CSCO guideline HTML sentinels",
+    )
+    p.add_argument(
         "--abstract-limit",
         type=int,
         default=40,
@@ -119,6 +134,9 @@ def main(argv: list[str] | None = None) -> int:
         openalex_api_key=api_key,
         previous_dir=previous,
         skip_news=args.skip_news,
+        skip_journals=args.skip_journals,
+        skip_regulatory=args.skip_regulatory,
+        skip_guidelines=args.skip_guidelines,
         abstract_limit=args.abstract_limit,
     )
     print(json.dumps({"event": "hcc_collect_done", **summary}, ensure_ascii=False), flush=True)

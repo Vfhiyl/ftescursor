@@ -5,13 +5,25 @@ from __future__ import annotations
 import re
 from datetime import datetime, timezone
 from html.parser import HTMLParser
-from typing import Optional
+from typing import Optional, Sequence
 from urllib.parse import urljoin
 
-from .config import NEWS_SOURCES, NEWS_THEME_RE
+from .config import (
+    GUIDELINE_HIT_RE,
+    GUIDELINE_SOURCES,
+    NEWS_SOURCES,
+    NEWS_THEME_RE,
+)
 from .http_util import fetch_text
 
 _THEME = re.compile(NEWS_THEME_RE, re.I)
+_GUIDELINE_THEME = re.compile(GUIDELINE_HIT_RE, re.I)
+_NAV_NOISE = re.compile(
+    r"^(about|login|log in|register|home|contact|search|menu|cart|"
+    r"jnccn|leadership|governance|foundation|membership|donate|"
+    r"マイページ|日本肝臓学会とは)$",
+    re.I,
+)
 
 
 class _LinkParser(HTMLParser):
@@ -50,7 +62,13 @@ class _LinkParser(HTMLParser):
         self._text_parts = []
 
 
-def _scan_source(source: dict[str, str], *, mailto: str) -> dict[str, object]:
+def scan_source(
+    source: dict[str, str],
+    *,
+    mailto: str,
+    theme: re.Pattern[str] = _THEME,
+    max_hits: int = 20,
+) -> dict[str, object]:
     url = source["url"]
     out: dict[str, object] = {
         "lang": source.get("lang"),
@@ -66,7 +84,6 @@ def _scan_source(source: dict[str, str], *, mailto: str) -> dict[str, object]:
         out["status"] = 200
     except Exception as exc:  # noqa: BLE001
         msg = str(exc)
-        # Normalize common urllib errors: "HTTP Error 403: Forbidden"
         m = re.match(r"HTTP Error (\d+):\s*(.*)", msg)
         if m:
             out["status"] = None
@@ -85,24 +102,44 @@ def _scan_source(source: dict[str, str], *, mailto: str) -> dict[str, object]:
     hits: list[dict[str, str]] = []
     seen: set[str] = set()
     for text, href in parser.links:
-        if not _THEME.search(text) and not _THEME.search(href):
+        if len(text) < 12 or _NAV_NOISE.match(text.strip()):
+            continue
+        if not theme.search(text) and not theme.search(href):
             continue
         abs_url = urljoin(url, href)
         key = abs_url.split("#", 1)[0]
         if key in seen:
             continue
+        # Drop pure nav/footer anchors that only matched society acronyms in URL.
+        if theme is _GUIDELINE_THEME and not _GUIDELINE_THEME.search(text):
+            continue
         seen.add(key)
         hits.append({"text": text[:240], "href": abs_url})
-        if len(hits) >= 20:
+        if len(hits) >= max_hits:
             break
     out["theme_hits"] = hits
     out["link_count_scanned"] = len(parser.links)
     return out
 
 
-def collect_news(*, mailto: str) -> dict[str, object]:
-    sources = [_scan_source(s, mailto=mailto) for s in NEWS_SOURCES]
+def collect_html_sentinels(
+    sources: Sequence[dict[str, str]],
+    *,
+    mailto: str,
+    theme: re.Pattern[str] = _THEME,
+) -> dict[str, object]:
+    scanned = [scan_source(s, mailto=mailto, theme=theme) for s in sources]
     return {
         "checked_at": datetime.now(timezone.utc).isoformat(),
-        "sources": sources,
+        "sources": scanned,
     }
+
+
+def collect_news(*, mailto: str) -> dict[str, object]:
+    return collect_html_sentinels(NEWS_SOURCES, mailto=mailto, theme=_THEME)
+
+
+def collect_guidelines(*, mailto: str) -> dict[str, object]:
+    return collect_html_sentinels(
+        GUIDELINE_SOURCES, mailto=mailto, theme=_GUIDELINE_THEME
+    )

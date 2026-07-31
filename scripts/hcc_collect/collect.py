@@ -11,10 +11,12 @@ from typing import Optional
 from .clinical_leaning import filter_clinical
 from .clinicaltrials import collect_clinicaltrials
 from .crossref import collect_crossref
-from .news import collect_news
+from .journals import collect_journals
+from .news import collect_guidelines, collect_news
 from .openalex import collect_openalex
 from .preprints import collect_preprints
 from .pubmed import collect_pubmed, fetch_abstracts
+from .regulatory import collect_regulatory
 
 
 def parse_trigger_utc(value: str) -> datetime:
@@ -96,6 +98,9 @@ def run_collect(
     openalex_api_key: Optional[str] = None,
     previous_dir: Optional[Path] = None,
     skip_news: bool = False,
+    skip_journals: bool = False,
+    skip_regulatory: bool = False,
+    skip_guidelines: bool = False,
     abstract_limit: int = 40,
 ) -> dict[str, object]:
     window_end = trigger_utc
@@ -144,6 +149,39 @@ def run_collect(
         news = collect_news(mailto=mailto)
         write_json(out_dir / "raw_news_sentinel.json", news)
 
+    journals: dict[str, object] | None = None
+    if not skip_journals:
+        journals = collect_journals(window_start, window_end, mailto=mailto)
+        write_json(out_dir / "raw_journals_toc.json", journals)
+
+    regulatory: dict[str, object] | None = None
+    if not skip_regulatory:
+        regulatory = collect_regulatory(window_start, window_end, mailto=mailto)
+        write_json(out_dir / "raw_regulatory.json", regulatory)
+
+    guidelines: dict[str, object] | None = None
+    if not skip_guidelines:
+        guidelines = collect_guidelines(mailto=mailto)
+        write_json(out_dir / "raw_guidelines_sentinel.json", guidelines)
+
+    files_written = [
+        "raw_pubmed.json",
+        "pubmed_clinical_leaning.json",
+        "raw_pubmed_key_abstracts.json",
+        "raw_crossref.json",
+        "raw_clinicaltrials.json",
+        "raw_openalex.json",
+        "raw_preprints.json",
+    ]
+    if news is not None:
+        files_written.append("raw_news_sentinel.json")
+    if journals is not None:
+        files_written.append("raw_journals_toc.json")
+    if regulatory is not None:
+        files_written.append("raw_regulatory.json")
+    if guidelines is not None:
+        files_written.append("raw_guidelines_sentinel.json")
+
     summary = {
         "folder": str(out_dir).replace("\\", "/"),
         "trigger_utc": trigger_utc.isoformat().replace("+00:00", "Z"),
@@ -182,6 +220,33 @@ def run_collect(
             )
             if news
             else None,
+            "journals_rss_theme_items": (journals or {}).get("rss_theme_item_count"),
+            "journals_pubmed_theme": (journals or {}).get("pubmed_theme_count"),
+            "journals_theme_dois": (journals or {}).get("theme_doi_count"),
+            "regulatory_dailymed_hits": ((regulatory or {}).get("counts") or {}).get(
+                "dailymed_hits"
+            )
+            if regulatory
+            else None,
+            "regulatory_openfda_hcc_rows": ((regulatory or {}).get("counts") or {}).get(
+                "openfda_hcc_rows"
+            )
+            if regulatory
+            else None,
+            "guidelines_sources_ok": sum(
+                1
+                for s in (guidelines or {}).get("sources", [])
+                if isinstance(s, dict) and s.get("status") == 200
+            )
+            if guidelines
+            else None,
+            "guidelines_theme_hits": sum(
+                len(s.get("theme_hits") or [])
+                for s in (guidelines or {}).get("sources", [])
+                if isinstance(s, dict)
+            )
+            if guidelines
+            else None,
         },
         "id_sets": {
             "pubmed_edat_ids": pubmed.get("edat_ids") or [],
@@ -196,17 +261,9 @@ def run_collect(
                 for x in (openalex.get("works") or [])
                 if isinstance(x, dict) and x.get("doi")
             ],
+            "journal_theme_dois": (journals or {}).get("theme_dois") or [],
         },
-        "files_written": [
-            "raw_pubmed.json",
-            "pubmed_clinical_leaning.json",
-            "raw_pubmed_key_abstracts.json",
-            "raw_crossref.json",
-            "raw_clinicaltrials.json",
-            "raw_openalex.json",
-            "raw_preprints.json",
-        ]
-        + (["raw_news_sentinel.json"] if news is not None else []),
+        "files_written": files_written,
     }
     write_json(out_dir / "collect_summary.json", summary)
     return summary
