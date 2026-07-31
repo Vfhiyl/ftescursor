@@ -1,0 +1,61 @@
+{
+  "folder": "202607/31/15",
+  "previous_folder": "202607/31/14",
+  "trigger_utc": "2026-07-31T15:01:17.734Z",
+  "collected_at_utc": "2026-07-31T15:02:03.315018+00:00",
+  "window_start_utc": "2026-07-30T15:01:17.734000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 72,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 37,
+    "crossref_unique_title_filtered": 91,
+    "crossref_new_dois": [
+      "10.1148/rycan.269017",
+      "10.21203/rs.3.rs-10455233/v1"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [
+      "10.1148/rycan.269017"
+    ],
+    "crossref_noise_new_dois": [],
+    "crossref_preprint_new_dois": [
+      "10.21203/rs.3.rs-10455233/v1"
+    ],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 17,
+    "clinicaltrials_focus": 17,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. EDAT ID set identical (72). Crossref NEW=2: observe PEF+/-intratumoral PoC 10.1148/rycan.269017; RS preprint TACE/HAIC+MWA+targeted-IO Cox model 10.21203/rs.3.rs-10455233/v1. CT NEW=[]; OA-only NEW=[]; preprint channel NEW=[]. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; CMH SR/MA PMID 42532487 / TORCH / CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 72 identical vs 14h: NEW=0 / DROPPED=0.",
+    "Crossref title-filtered 89→91: NEW DOI=2 — observe intratumoral ± pulsed electric field ablation PoC 10.1148/rycan.269017 (created 2026-07-31T13:49:07Z); preprint Research Square single-center Cox model TACE/HAIC+MWA+targeted-IO 10.21203/rs.3.rs-10455233/v1 (created 2026-07-31T13:56:23Z).",
+    "ClinicalTrials related/focus 17/17 identical: NEW NCT=0.",
+    "No material must-read upgrade.",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 14h (NEW=0); Crossref posted-content RS NEW counted under crossref_preprint_new_dois.",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change."
+  ]
+}
