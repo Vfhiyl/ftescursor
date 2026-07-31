@@ -1,0 +1,380 @@
+{
+  "window": [
+    "2026-07-30",
+    "2026-07-31"
+  ],
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "abstract_snip": "Objective: To identify common photon-counting CT (PCCT) virtual monochromatic imaging (VMI) settings for accurate hepatic fat fraction (FF) quantification across different body sizes, including large body habitus. Methods: Six non-iodinated fat lesions (FF 5%-40%) were embedded i"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "abstract_snip": "Neural lateralization is well recognized in the control of contralateral somatic movement, yet its relevance to visceral organ regulation remains poorly understood. This study aimed to determine whether the central nervous system exerts lateralized control over hepatic glucose me"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "abstract_snip": "Fatty liver disease predisposes to primary liver cancer, yet the lineage routes and niche mechanisms that select rare tumor-fated hepatocytes remain unclear. Here we developed CERAMIC, a high-capacity CRISPR-Cas9 lineage recorder that co-recovers editing scars and transcriptomes "
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "via": "continuity"
+    }
+  ],
+  "europepmc_ppr": [
+    {
+      "id": "PPR1288232",
+      "doi": "10.21203/rs.3.rs-10256326/v1",
+      "title": "BMP9 Promotes Hepatocellular Carcinoma Progression By Accelerating Cell Cycle through CKS1B Lactylation",
+      "firstPublicationDate": "2026-07-30",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1288310",
+      "doi": "10.21203/rs.3.rs-10028031/v1",
+      "title": "Comparative Outcomes of All-trans Retinoic Acid-Based Chemotherapy versus Radiotherapy Combined with Targeted and Immunotherapy in Hepatocellular Carcinoma Patients with Pulmonary Metastases",
+      "firstPublicationDate": "2026-07-30",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1288289",
+      "doi": "10.21203/rs.3.rs-10383576/v1",
+      "title": "Atypical hepatic FNH-like lesions mimicking recurrence in a neuroblastoma survivor: the complementary role of contrast-enhanced ultrasound in discordant multimodality imaging",
+      "firstPublicationDate": "2026-07-30",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1288316",
+      "doi": "10.21203/rs.3.rs-10224692/v1",
+      "title": "Rapid health technology assessment of tegoprazan in the treatment of acid-related diseases",
+      "firstPublicationDate": "2026-07-30",
+      "source": "PPR"
+    },
+    {
+      "id": "PPR1288370",
+      "doi": "10.21203/rs.3.rs-10180633/v1",
+      "title": "The Evaluation of Sexual Problems in Patients With Hepatitis B and C",
+      "firstPublicationDate": "2026-07-30",
+      "source": "PPR"
+    }
+  ],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 3,
+    "europepmc_ppr": 5
+  },
+  "fp_trimmed": [
+    {
+      "doi": "10.64898/2026.05.07.26352658",
+      "title": "Reproducible Biochemical Modes Within a Structured Neurochemical Continuum in Autism Spectrum Disorder Revealed by NeuroCLAD",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2023.01.26.23285060",
+      "title": "Keyphrase Identification Using Minimal Labeled Data with Hierarchical Contexts and Transfer Learning",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.15.26358162",
+      "title": "Multilevel Factors Associated with Nonresponse to Patient-Reported Outcome Measures in Routine Radiation Oncology Care",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.10.25.25338684",
+      "title": "Afterload-Adjusted Strain Refines Risk Stratification in Aortic Stenosis With Varying Degrees of Aortic Regurgitation",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.05.06.26352526",
+      "title": "ChatIBD: design, safeguards, and early international use of a guideline-grounded generative AI tool for inflammatory bowel disease (IBD) professionals",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.10.01.25337053",
+      "title": "Temporal Response and Survival Dynamics After Durvalumab in Stage III NSCLC: A Response-Augmented Continuous-Time Markov Framework",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359102",
+      "title": "High quality analysis of circulating biomarkers reveals no evidence of elevated inflammatory markers in a long COVID cohort recruited at a primary care center",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.06.23.25329885",
+      "title": "In Vivo Topographic Associations Between Tau Pathology, Atrophy, and Symptom Domains in Patients with Progressive Supranuclear Palsy",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358988",
+      "title": "Associations of family adversity and childhood trauma with multidomain psychopathology in adolescent depression",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359003",
+      "title": "Structural Brain Biomarkers for Identifying Progressive Amnestic Mild Cognitive Impairment",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359122",
+      "title": "Serum brain-derived p-tau 217 and SV2A Reduce Peripheral Interference in Alzheimer's Disease: A Multicohort Study",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358659",
+      "title": "Genetically nominated cardiovascular-kidney-metabolic features are not preferentially responsive to weight-loss and cardiometabolic interventions",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359147",
+      "title": "Polygenic burden of ubiquitin system genes in schizophrenia: focus on prenatal neurodevelopment",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358872",
+      "title": "ArchSpiral: An iPad-Based Digital Archimedean Spiral Assessment for Objective Motor Evaluation in Rare Diseases",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358874",
+      "title": "Global Programmatic Survey on Governance and Surveillance of Nontuberculous Mycobacteria",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359155",
+      "title": "First-24-hour machine learning for 30-day mortality prediction in ICU trauma patients: development in MIMIC-III and cross-database evaluation in MIMIC-IV",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359005",
+      "title": "Depressive symptoms and incident osteoporosis: Findings from a 20-year follow up of the English Longitudinal Study of Ageing",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359040",
+      "title": "Investigating pathways of vancomycin-resistant Enterococcus (VRE) contamination and transmission in intensive care units: a prospective genomic surveillance study",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359002",
+      "title": "SymPerturb converts symptom-network structure into testable intervention priorities",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359192",
+      "title": "Use of cranial ultrasonography to improve prompt and early diagnosis of meningitis at the Neonatal Centre of Excellence, University Teaching Hospitals, Lusaka, Zambia.",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359168",
+      "title": "Strengthening laboratory capacity for trachoma serological surveillance in Amhara, Ethiopia: Use of the lateral flow assay",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359071",
+      "title": "Evaluation of dual-active ingredient long-lasting insecticidal nets against wild resistant malaria vectors in Tanzania: a series of experimental hut trials",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26350454",
+      "title": "It Takes Two to Tango: Supporting Public Health Leaders to Effectively Engage Political Leadership During Crises",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359091",
+      "title": "The Politics of Implementing the COVID-19 Mass Vaccination Programme in Ghana: A Qualitative Exploration Study",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358989",
+      "title": "HOW SAFE IS EXERCISE? A CROSS-SECTIONAL ANALYSIS BETWEEN MID-LIFE PHYSICAL ACTIVITY AND FRACTURES IN UK BIOBANK",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358999",
+      "title": "Benchmarking sex and gender incorporation into health and medical research, policy and education in Victoria prior to 2026",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359072",
+      "title": "Data-Driven Biological Subtypes of Parkinson ' s Disease",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26359139",
+      "title": "Altered T1w/T2w-FLAIR Ratio in White Matter Hyperintensities as an Indicator of Structural Integrity Loss: Association with Alzheimer's Disease and Vascular Dementia",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359000",
+      "title": "Biomarker-Informed Interpretation of Dyadic Cognitive Function Index Scores in Cognitively Unimpaired Older Adults",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.02.04.703925",
+      "title": "An integrated genomic framework for Aeromonas genomic species delineation using average nucleotide identify, core-genome phylogeny and digital DNA-DNA hybridization",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.01.31.702994",
+      "title": "BRD4 represses developmental and neuronal genes through interaction with PRC1.6",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741406",
+      "title": "The mode and repeatability of thermal adaptation in gene expression in the seed beetle Callosobruchus maculatus",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741199",
+      "title": "Re-inventing sex: A W chromosome and a path out of parthenogenesis for Bunonema nematodes",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741460",
+      "title": "An evolvable and functionally partitioned network underlies developmental remodelling in teleosts",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741434",
+      "title": "Divergent evolution of the Wnt signaling system in flatworms",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741571",
+      "title": "Enhancer buffering protects dosage-sensitive housekeeping genes during vulnerable developmental transitions",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741467",
+      "title": "Bittersweet dynamics from flowers to fruits: chemometric molecular networking reveals metabolic changes towards reduced toxicity over ontogeny in above-ground Solanum dulcamara chemotypes",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741454",
+      "title": "Tomato brown rugose fruit virus and pepino mosaic virus differentially modulate disease severity of bacterial pith necrosis and bacterial canker in tomato",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741464",
+      "title": "Untargeted metabolic analysis reveals intraspecific and organ-specificchemodiversity in Solanum dulcamara",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741400",
+      "title": "Grant writing coaching groups: A randomized trial to discern the influences of coaching duration and engagement of scientific mentors on participants proposal submission and success rates",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741461",
+      "title": "Beyond Generic Signal Peptides: ApexSP Enables Cargo-Specific Secretion Design",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.740946",
+      "title": "Anticodon nucleotide modifications affect translational tuning by the ribosomal CAR surface",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.10.737206",
+      "title": "Scaling of anesthesia-dependent cerebrospinal fluid dynamics across rat and pig brains",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740837",
+      "title": "Higher Impulsivity in the Heterogeneous Structure of Theft Recidivists with and without Kleptomania",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2025.12.20.695498",
+      "title": "A revised genome annotation of the model cyanobacterium Synechocystis based on start and stop codon-enriched ribosome profiling and proteogenomics",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741295",
+      "title": "Structure-free, site-resolved contrastive learningextends small-molecule discovery beyond the reachof structure-based modeling",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.740271",
+      "title": "The tripartite neural plate border is a common trait of vertebrates and tunicates",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741448",
+      "title": "Single-cell lineage tracing of human neuromesoderm organoids reveals TBX6-mediated posterior mesoderm fate diversification",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741334",
+      "title": "HiBASIL: Hierarchical Bayesian Source Inference and Localization for Spatial Epidemiology",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741380",
+      "title": "Bridging physiological responses to population outcomes under variable thermal stress",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741456",
+      "title": "Global patterns of helminths associated with gelatinous zooplankton: a missing link in marine parasite transmission",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.24.740585",
+      "title": "Early and current environments exert distinct effects on immune function in the Orang Asli",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741317",
+      "title": "The Candida Genome Database: New Interface and New Tools",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741476",
+      "title": "Plug-and-Play 3D localization microscopy",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741414",
+      "title": "Characterization of PduU Reveals a Modular Tool for Tuning Microcompartment Permeability",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.21.739486",
+      "title": "AI4Life Open Calls and Public Challenges: why, how, and what we have learned.",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741412",
+      "title": "A pan-cancer single-cell atlas of pericytes",
+      "reason": "biorxiv_offtheme"
+    }
+  ],
+  "continuity": [
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "server": "biorxiv",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "version": "1"
+    }
+  ]
+}
