@@ -61,12 +61,16 @@ def _is_focus(title: str, conditions: str) -> bool:
 
 def _is_basket(title: str, conditions: str) -> bool:
     blob = f"{title} {conditions}"
+    # Multi-cohort solid-tumor studies (KEYNOTE-158 style) → observe only.
+    if len(re.findall(r"\([A-Z]\)\s", conditions)) >= 4:
+        return True
+    if re.search(r"advanced solid tumors|predictive biomarkers", title, re.I):
+        return True
     if _BASKET_RE.search(blob) and not re.search(
         r"hepatocellular carcinoma|\bHCC\b|cholangiocarcin",
         title,
         re.I,
     ):
-        # Condition list may include HCC among many; treat as basket/observe.
         parts = re.split(r"[,;]", conditions)
         hcc_parts = [p for p in parts if _FOCUS_RE.search(p)]
         return len(parts) >= 3 and len(hcc_parts) <= 2
