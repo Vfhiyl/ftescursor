@@ -21,9 +21,9 @@ def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="python -m scripts.hcc_collect",
         description=(
-            "Collect PubMed / Crossref / ClinicalTrials / OpenAlex / preprints / news "
-            "raw JSON for one HCC hourly pack. API keys are NEVER read from the repo; "
-            "pass --openalex-api-key or set OPENALEX_API_KEY."
+            "Collect PubMed / Crossref / ClinicalTrials / OpenAlex / preprints / news / "
+            "media-watch raw JSON for one HCC hourly pack. API keys are NEVER read from "
+            "the repo; pass --openalex-api-key or set OPENALEX_API_KEY."
         ),
     )
     p.add_argument(
@@ -93,6 +93,11 @@ def build_parser() -> argparse.ArgumentParser:
         help="Skip EU CTIS public search collector",
     )
     p.add_argument(
+        "--skip-media",
+        action="store_true",
+        help="Skip media/trade-press attention sentinel (Google News + CancerNetwork + ESMO)",
+    )
+    p.add_argument(
         "--abstract-limit",
         type=int,
         default=40,
@@ -149,6 +154,7 @@ def main(argv: list[str] | None = None) -> int:
         skip_guidelines=args.skip_guidelines,
         skip_hta=args.skip_hta,
         skip_ctis=args.skip_ctis,
+        skip_media=args.skip_media,
         abstract_limit=args.abstract_limit,
     )
     print(json.dumps({"event": "hcc_collect_done", **summary}, ensure_ascii=False), flush=True)

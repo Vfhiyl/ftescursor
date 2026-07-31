@@ -14,6 +14,7 @@ from .crossref import collect_crossref
 from .ctis import collect_ctis
 from .hta import collect_hta
 from .journals import collect_journals
+from .media import collect_media
 from .news import collect_guidelines, collect_news
 from .openalex import collect_openalex
 from .preprints import collect_preprints
@@ -105,6 +106,7 @@ def run_collect(
     skip_guidelines: bool = False,
     skip_hta: bool = False,
     skip_ctis: bool = False,
+    skip_media: bool = False,
     abstract_limit: int = 40,
 ) -> dict[str, object]:
     window_end = trigger_utc
@@ -178,6 +180,11 @@ def run_collect(
         hta = collect_hta(mailto=mailto)
         write_json(out_dir / "raw_hta_sentinel.json", hta)
 
+    media: dict[str, object] | None = None
+    if not skip_media:
+        media = collect_media(mailto=mailto)
+        write_json(out_dir / "raw_media_watch.json", media)
+
     files_written = [
         "raw_pubmed.json",
         "pubmed_clinical_leaning.json",
@@ -199,6 +206,8 @@ def run_collect(
         files_written.append("raw_guidelines_sentinel.json")
     if hta is not None:
         files_written.append("raw_hta_sentinel.json")
+    if media is not None:
+        files_written.append("raw_media_watch.json")
 
     summary = {
         "folder": str(out_dir).replace("\\", "/"),
@@ -288,6 +297,26 @@ def run_collect(
                 "ema_chmp_hcc_related"
             )
             if hta
+            else None,
+            "media_theme_items": ((media or {}).get("counts") or {}).get(
+                "total_theme_items"
+            )
+            if media
+            else None,
+            "media_google_theme": ((media or {}).get("counts") or {}).get(
+                "google_news_theme_items"
+            )
+            if media
+            else None,
+            "media_html_theme": ((media or {}).get("counts") or {}).get(
+                "html_theme_hits"
+            )
+            if media
+            else None,
+            "media_dropped_noise": ((media or {}).get("counts") or {}).get(
+                "dropped_noise"
+            )
+            if media
             else None,
         },
         "id_sets": {

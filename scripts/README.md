@@ -40,6 +40,7 @@ Into `--out` (default `YYYYMM/DD/HH` from trigger):
 | `raw_openalex.json` | OpenAlex `publication_date` only |
 | `raw_preprints.json` | medRxiv / bioRxiv / EuropePMC PPR |
 | `raw_news_sentinel.json` | HTML news sentinels |
+| `raw_media_watch.json` | Media attention (Google News RSS EN/ZH/JP + CancerNetwork + ESMO); not clinical evidence |
 | `raw_journals_toc.json` | Journal RSS (J Hepatol / JHEP Reports / Ann Oncol) + PubMed journal EDAT |
 | `raw_regulatory.json` | openFDA labels + DailyMed RSS + FDA/NICE HTML |
 | `raw_guidelines_sentinel.json` | EASL / AASLD / NCCN / JSH / CSCO / NICE hubs |

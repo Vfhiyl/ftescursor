@@ -252,3 +252,68 @@ PREPRINT_FP_RE = (
     r"sea turtle|stereotaxis|microbiota transitions|nicotinam|"
     r"brain-liver|dopamine reward"
 )
+
+# Media / community attention sentinels (NOT clinical evidence).
+# Google News RSS is the richest scrapeable agenda signal; CancerNetwork + ESMO
+# add professional trade coverage. Forums / WeChat / OncLive etc. are blocked or noisy.
+MEDIA_GOOGLE_NEWS_FEEDS = [
+    {
+        "lang": "en",
+        "name": "Google News EN HCC",
+        "url": (
+            "https://news.google.com/rss/search?"
+            "q=hepatocellular%20carcinoma%20OR%20%22liver%20cancer%22%20HCC%20when:7d"
+            "&hl=en-US&gl=US&ceid=US:en"
+        ),
+    },
+    {
+        "lang": "zh",
+        "name": "Google News ZH 肝癌",
+        "url": (
+            "https://news.google.com/rss/search?"
+            "q=%E8%82%9D%E7%99%8C%20OR%20%E8%82%9D%E7%BB%86%E8%83%9E%E7%99%8C%20when:7d"
+            "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+        ),
+    },
+    {
+        "lang": "ja",
+        "name": "Google News JP 肝がん",
+        "url": (
+            "https://news.google.com/rss/search?"
+            "q=%E8%82%9D%E3%81%8C%E3%82%93%20OR%20%E8%82%9D%E7%B4%B0%E8%83%9E%E7%99%8C%20when:7d"
+            "&hl=ja&gl=JP&ceid=JP:ja"
+        ),
+    },
+]
+
+MEDIA_HTML_SOURCES = [
+    {
+        "lang": "en",
+        "name": "CancerNetwork liver cancer",
+        "url": "https://www.cancernetwork.com/clinical/liver-cancer",
+    },
+    {
+        "lang": "en",
+        "name": "ESMO Daily Reporter",
+        "url": "https://dailyreporter.esmo.org/",
+    },
+]
+
+# Drop consumer clickbait / market-report spam from media attention lists.
+MEDIA_NOISE_RE = (
+    r"几乎就不会患|白白浪费|学会\d+招|静悄悄|爱找这|容易缠上|"
+    r"一发现就是|生存缓冲期|这两种病|"
+    r"市場予測|世界市場|市民公開講座|公開講座|"
+    r"market\s+(?:size|forecast|report|prediction)|"
+    r"world\s+market\s+forecast|"
+    r"avoid(?:ed)?\s+these\s+(?:two\s+)?diseases"
+)
+
+MEDIA_THEME_RE = (
+    r"hepatocellular|\bHCC\b|cholangiocarcin|hepatobiliary|hepatectomy|"
+    r"\bTACE\b|\bHAIC\b|\bSBRT\b|liver\s+cancer|hepatoma|"
+    r"radioembol|yttrium|lenvatinib|atezolizumab|durvalumab|tremelimumab|"
+    r"camrelizumab|rivoceranib|sorafenib|regorafenib|cabozantinib|"
+    r"STRIDE|HIMALAYA|IMbrave|CheckMate.?9DW|LEAP.?012|EMERALD|SIERRA|"
+    r"肝细胞癌|肝癌|胆管癌|肝切除|肝がん|肝細胞癌"
+)

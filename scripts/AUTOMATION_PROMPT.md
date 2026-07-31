@@ -59,6 +59,12 @@ python3 -m scripts.hcc_collect \
    - `raw_openalex.json`
    - `raw_preprints.json`
    - `raw_news_sentinel.json`
+   - `raw_journals_toc.json`
+   - `raw_regulatory.json`
+   - `raw_guidelines_sentinel.json`
+   - `raw_hta_sentinel.json`
+   - `raw_ctis.json`
+   - `raw_media_watch.json`（媒体注意力哨兵，非临床证据）
    - `collect_summary.json`（计数与 ID 集合，优先用它做 delta）
 5. 你的工作从脚本跑完之后开始：读上一小时包 → 对比 → 写 markdown / `meta.json` / 根 `README.md` → commit → push
 
@@ -87,8 +93,11 @@ python3 -m scripts.hcc_collect \
 - OpenAlex（**仅** `publication_date`；含 preprint 近 7 天主题观察）
 - 预印本：medRxiv / bioRxiv / Europe PMC PPR
 - 新闻/指南哨兵 HTML：ESMO Daily Reporter、ASCO Post、OncLive、日経がんナビ(oncolo.jp)、国家卫健委、HAS、AWMF、Minzdrav、KLCA
+- 媒体注意力：`raw_media_watch.json` = Google News RSS（EN/ZH/JP）+ CancerNetwork liver + ESMO Daily Reporter；**只作议程/关注度信号，不作临床证据**
+- 期刊 TOC / 监管 / 指南 hub / NICE HTA + EMA CHMP / EU CTIS：见对应 `raw_*.json`
 
-你只需解读 `raw_news_sentinel.json` 与其它 raw，做 NEW URL / 指南变更判断；**不要**每小时重写哨兵爬虫。
+你只需解读 `raw_news_sentinel.json` / `raw_media_watch.json` 与其它 raw，做 NEW URL / 指南变更判断；**不要**每小时重写哨兵爬虫。
+`raw_media_watch.json` 进入 `04_news_watch.md` 时最多列标题+来源；消费向科普、市场报告已被脚本降噪丢弃一部分，仍须人工再滤。
 OpenAlex 与 PubMed/Crossref **按 DOI 去重**；仅 OpenAlex-only 新 DOI 标 NEW。
 OpenAlex 禁止改用 `from_created_date` / `from_updated_date`（免费档 429）。
 
@@ -127,7 +136,7 @@ OpenAlex 禁止改用 `from_created_date` / `from_updated_date`（免费档 429�
   7) 预印本观察（未同行评议）≤5
 - `02_new_high_signal.md`：仅 NEW/UPDATED 高信号（可几乎为空）
 - `03_guidelines_watch.md`：无变更则一行；有变更才展开
-- `04_news_watch.md`：仅近窗专业媒体新增/更新
+- `04_news_watch.md`：仅近窗专业媒体新增/更新（含 `raw_media_watch.json` 注意力信号；标题级，不作疗效结论）
 - `05_trials_stats.md`：CT 增量 + 本窗可引用关键数字（只摘 NEW/UPDATED）
 - `meta.json`：至少包含：
 
