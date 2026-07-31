@@ -56,6 +56,115 @@ NEWS_SOURCES = [
     {"lang": "ko", "name": "KLCA", "url": "https://www.livercancer.or.kr/"},
 ]
 
+# Hepatobiliary-focused guideline / practice-update landing pages (HTML sentinel).
+GUIDELINE_SOURCES = [
+    {
+        "lang": "en",
+        "name": "EASL Clinical Practice Guidelines",
+        "url": "https://easl.eu/publication-category/clinical-practice-guidelines/",
+    },
+    {
+        "lang": "en",
+        "name": "AASLD Practice Guidelines",
+        "url": "https://www.aasld.org/practice-guidelines",
+    },
+    {
+        "lang": "en",
+        "name": "NCCN Recently Published Guidelines",
+        "url": "https://www.nccn.org/guidelines/recently-published-guidelines",
+    },
+    {
+        "lang": "en",
+        "name": "NCCN Hepatocellular Carcinoma (public detail)",
+        "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1438",
+    },
+    {
+        "lang": "ja",
+        "name": "JSH",
+        "url": "https://www.jsh.or.jp/",
+    },
+    {
+        "lang": "zh",
+        "name": "CSCO",
+        "url": "https://www.csco.org.cn/",
+    },
+    {
+        "lang": "en",
+        "name": "NICE liver cancers guidance",
+        "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/liver-cancers",
+    },
+]
+
+# Journal TOC: Elsevier ScienceDirect RSS (stable) + PubMed journal EDAT fallback.
+JOURNAL_RSS_FEEDS = [
+    {
+        "name": "Journal of Hepatology",
+        "issn": "0168-8278",
+        "rss": "https://rss.sciencedirect.com/publication/science/01688278",
+    },
+    {
+        "name": "JHEP Reports",
+        "issn": "2589-5559",
+        "rss": "https://rss.sciencedirect.com/publication/science/25895559",
+    },
+    {
+        "name": "Annals of Oncology",
+        "issn": "0923-7534",
+        "rss": "https://rss.sciencedirect.com/publication/science/09237534",
+    },
+]
+
+# LWW/Karger often 403 RSS; use PubMed [Journal] EDAT window as TOC proxy.
+JOURNAL_PUBMED_NAMES = [
+    "J Hepatol",
+    "JHEP Reports",
+    "Hepatology",
+    "Liver Cancer",
+    "Ann Oncol",
+]
+
+# Regulatory / label watchlist (generic + common brands).
+REGULATORY_DRUG_TERMS = [
+    "atezolizumab",
+    "tecentriq",
+    "durvalumab",
+    "imfinzi",
+    "tremelimumab",
+    "imjudo",
+    "lenvatinib",
+    "lenvima",
+    "sorafenib",
+    "nexavar",
+    "regorafenib",
+    "stivarga",
+    "cabozantinib",
+    "cabometyx",
+    "bevacizumab",
+    "avastin",
+    "nivolumab",
+    "opdivo",
+    "pembrolizumab",
+    "keytruda",
+    "camrelizumab",
+    "sintilimab",
+    "donafenib",
+    "tiragolumab",
+]
+
+REGULATORY_HTML_SOURCES = [
+    {
+        "name": "FDA Oncology approval notifications",
+        "url": (
+            "https://www.fda.gov/drugs/resources-information-approved-drugs/"
+            "oncology-cancerhematologic-malignancies-approval-notifications"
+        ),
+    },
+    {
+        "name": "NICE liver cancers guidance",
+        "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/liver-cancers",
+    },
+]
+
 NEWS_THEME_RE = (
     r"hepatocellular|\bHCC\b|cholangiocarcin|hepatectomy|\bTACE\b|\bHAIC\b|"
     r"\bSBRT\b|EMERALD|lenvatinib|atezolizumab|durvalumab|liver cancer|"
@@ -81,6 +190,20 @@ FALSE_FRIENDS_RE = (
 HCC_ANCHOR_RE = (
     r"hepatocellular|\bHCC\b|cholangiocarcin|hepatobiliary|hepatectomy|"
     r"\bTACE\b|liver cancer|hepatic|bile duct|biliary|hepatoma|\bHAIC\b|\bSBRT\b"
+)
+
+# Stricter theme for journal TOC / guideline hubs (avoid bare hepatic/biliary noise).
+JOURNAL_THEME_RE = (
+    r"hepatocellular|\bHCC\b|cholangiocarcin|hepatobiliary|hepatectomy|"
+    r"\bTACE\b|\bHAIC\b|\bSBRT\b|liver cancer|hepatoma|"
+    r"liver transplantation|locoregional|radioembol|yttrium|"
+    r"lenvatinib|atezolizumab|durvalumab|BCLC"
+)
+
+GUIDELINE_HIT_RE = (
+    JOURNAL_THEME_RE
+    + r"|liver cancer|hepatocellular|cholangiocarcin|"
+    r"CSCO.*肝|肝癌诊疗|肝細胞癌|肝がん"
 )
 
 PREPRINT_THEME_RE = HCC_ANCHOR_RE

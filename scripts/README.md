@@ -38,7 +38,10 @@ Into `--out` (default `YYYYMM/DD/HH` from trigger):
 | `raw_clinicaltrials.json` | CT.gov LastUpdate window |
 | `raw_openalex.json` | OpenAlex `publication_date` only |
 | `raw_preprints.json` | medRxiv / bioRxiv / EuropePMC PPR |
-| `raw_news_sentinel.json` | HTML sentinels |
+| `raw_news_sentinel.json` | HTML news sentinels |
+| `raw_journals_toc.json` | Journal RSS (J Hepatol / JHEP Reports / Ann Oncol) + PubMed journal EDAT |
+| `raw_regulatory.json` | openFDA labels + DailyMed RSS + FDA/NICE HTML |
+| `raw_guidelines_sentinel.json` | EASL / AASLD / NCCN / JSH / CSCO / NICE hubs |
 | `collect_summary.json` | Machine counts + ID sets for delta |
 
 Markdown briefs (`01_delta_brief.md`, …), `meta.json`, and root `README.md` remain **agent-written** after comparing with the previous hour.
