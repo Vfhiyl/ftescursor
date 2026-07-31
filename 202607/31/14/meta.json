@@ -1,0 +1,64 @@
+{
+  "folder": "202607/31/14",
+  "previous_folder": "202607/31/13",
+  "trigger_utc": "2026-07-31T14:01:25.251Z",
+  "collected_at_utc": "2026-07-31T14:02:20.718087+00:00",
+  "window_start_utc": "2026-07-30T14:01:25.251000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 72,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 37,
+    "crossref_unique_title_filtered": 89,
+    "crossref_new_dois": [
+      "10.1007/s10238-026-02267-4",
+      "10.1097/crd.0000000000001416",
+      "10.1155/bmri/9875356",
+      "10.1177/17588359261472766"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [
+      "10.1177/17588359261472766"
+    ],
+    "crossref_noise_new_dois": [
+      "10.1007/s10238-026-02267-4",
+      "10.1097/crd.0000000000001416",
+      "10.1155/bmri/9875356"
+    ],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 17,
+    "clinicaltrials_focus": 17,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. EDAT ID set identical (72). Crossref NEW=4: observe HAIC+LEN+tislelizumab PSM 10.1177/17588359261472766; noise TAF3/SREBP2 mechanism, RETRACTION miR-138, heart-liver transplant immunoprotection. CT NEW=[]; OA-only NEW=[]; preprint NEW=[]. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; CMH SR/MA PMID 42532487 / TORCH / CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 72 identical vs 13h: NEW=0 / DROPPED=0.",
+    "Crossref title-filtered 85→89: NEW DOI=4 — observe HAIC+lenvatinib+tislelizumab multicenter PSM 10.1177/17588359261472766 (created 2026-07-31T12:14:12Z); noise TAF3/SREBP2 cholesterol axis 10.1007/s10238-026-02267-4 (created 2026-07-31T13:06:13Z); noise RETRACTION miR-138/EZH2 10.1155/bmri/9875356 (created 2026-07-31T13:05:36Z); noise cardiac allograft heart-liver transplant 10.1097/crd.0000000000001416 (created 2026-07-31T13:04:12Z).",
+    "ClinicalTrials related/focus 17/17 identical: NEW NCT=0.",
+    "No material must-read upgrade.",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 13h (NEW=0).",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change."
+  ]
+}
