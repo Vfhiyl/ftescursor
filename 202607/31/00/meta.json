@@ -1,0 +1,96 @@
+{
+  "folder": "202607/31/00",
+  "previous_folder": "202607/30/23",
+  "trigger_utc": "2026-07-31T00:00:22.195Z",
+  "collected_at_utc": "2026-07-31T00:06:24.342522+00:00",
+  "window_start_utc": "2026-07-30T00:00:22.195000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": [
+    "en",
+    "zh",
+    "ja",
+    "ru",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "sources": {
+    "pubmed_edat_count": 48,
+    "pubmed_pdat_count": 16,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 76,
+    "pubmed_clinical_leaning": 13,
+    "crossref_unique_title_filtered": 66,
+    "crossref_new_dois": [
+      "10.1002/hsr2.72936",
+      "10.1038/s41598-026-60900-4",
+      "10.21037/tcr-2026-0782",
+      "10.32604/or.2026.085229",
+      "10.3329/jssmc.v17i1.92339",
+      "10.3350/cmh.2026.0535",
+      "10.3390/cancers18152446",
+      "10.3919/jjsa.87.66"
+    ],
+    "crossref_new_dois_material": true,
+    "crossref_material_dois": [
+      "10.3350/cmh.2026.0535"
+    ],
+    "crossref_observe_dois": [
+      "10.3329/jssmc.v17i1.92339"
+    ],
+    "crossref_noise_new_dois": [
+      "10.1002/hsr2.72936",
+      "10.1038/s41598-026-60900-4",
+      "10.21037/tcr-2026-0782",
+      "10.32604/or.2026.085229",
+      "10.3390/cancers18152446",
+      "10.3919/jjsa.87.66"
+    ],
+    "crossref_dropped_dois_count": 81,
+    "crossref_dropped_dois_note": "mostly calendar-window roll (created-date aged out of 24h)",
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [
+      "NCT06622057"
+    ],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [
+      "NCT03695250",
+      "NCT04712643",
+      "NCT05563870",
+      "NCT05621499",
+      "NCT06050252",
+      "NCT06160752",
+      "NCT06915753",
+      "NCT07268131",
+      "NCT07732504",
+      "NCT07732686",
+      "NCT07734766",
+      "NCT07734857"
+    ],
+    "clinicaltrials_dropped_ncts_count": 12,
+    "clinicaltrials_dropped_note": "LastUpdatePostDate window roll out of 24h; not true trial cancellation",
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 0,
+    "preprints_new_dois": [],
+    "openalex_count": 3,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 6,
+    "openalex_preprint_new_dois": [],
+    "news_sentinel_note": "ESMO/ASCO/がんナビ/AWMF/KLCA OK; OncLive 403 / NHC 412 / HAS keyword_hits=0 / Minzdrav unreachable; Crossref NEW CMH SR/MA EBRT vs local ablation HCC (created ~23:17Z after prior hour); PubMed EDAT window-roll 124→48 NEW=0; EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; TORCH/CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "notes": [
+    "PubMed EDAT ID set CHANGED vs 202607/30/23 due to calendar-day window roll (124→48; NEW=0 / DROPPED=76). Not identical-set quiet hour.",
+    "Key SEEN retained in EDAT: TORCH PMIDs 42530948/42530952; CT0180 PMID 42531433.",
+    "Crossref title-filtered 139→66 (window roll): NEW DOI=8; MATERIAL=CMH SR/MA EBRT vs local ablation for HCC (10.3350/cmh.2026.0535, created 2026-07-30T23:17:02Z); observe includes PNI resection churn 10.3329/jssmc.v17i1.92339; noise=CRC liver-limited / breast CILI / cirrhosis diet / pancancer niche / MASLD comment / umbilical hernia.",
+    "CT related 15→4: NEW NCT06622057 (Phase 3 BTC D07001+cape, recruiting LastUpdate 2026-07-30 — admin/observe); DROPPED×12 mostly LastUpdate window roll; NCT07715903 force-included.",
+    "OpenAlex (publication_date only): works_count=3; OpenAlex-only NEW=[]; preprint_count=6 NEW=[].",
+    "Preprints: medRxiv=1 SEEN fat fraction; bioRxiv=3 (lineage+organoid+hen atlas); EuropePMC PPR=0 (robotic hepatectomy left FIRST_PDATE window); NEW theme DOI=[].",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change; CCA comparison article SEEN in Crossref from 23h.",
+    "Material delta vs previous hour: Crossref NEW CMH systematic review/meta-analysis (EBRT vs local ablation, HCC)."
+  ]
+}

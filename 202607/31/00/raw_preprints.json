@@ -1,0 +1,253 @@
+{
+  "window": {
+    "from": "2026-07-29",
+    "to": "2026-07-31",
+    "note": "med/bioRxiv details uses ~48h broaden for sentinel continuity; EPMC FIRST_PDATE 24h"
+  },
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "radiology and imaging",
+      "continuity": true
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.27.740890",
+      "title": "A single-nucleus atlas of the adult laying hen liver reveals metabolic specialization and improved cellular resolution through enhanced genome annotation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genomics"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "cancer biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "continuity": true
+    }
+  ],
+  "biorxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.19.739412",
+      "title": "Identifying endogenous substrates of the 26S proteasome through site-specific photocrosslinking",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "biochemistry"
+    },
+    {
+      "doi": "10.64898/2026.07.23.740366",
+      "title": "Ontology-guided harmonization enables unified discovery of public metabolomics studies within and across repositories",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "bioinformatics"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740804",
+      "title": "KIN-29 SIK regulates stress-induced sleep through mitochondrial redox signaling",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "neuroscience"
+    },
+    {
+      "doi": "10.64898/2026.07.03.736335",
+      "title": "Metabarcoding replicate detection frequency tracks ddPCR copy number for cod and herring eDNA in ancient marine sediments",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "2",
+      "category": "genetics"
+    },
+    {
+      "doi": "10.64898/2026.07.27.741135",
+      "title": "Identification of a suitable substrate for the growth and development of Hibiscus sabdariffa L.",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "plant biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741273",
+      "title": "CRISPR/Cas12a-mediated allele engineering of SmAPRR2 and SmGLK2 reveals complementary control of fruit peel and flesh chlorophyll pigmentation in eggplant",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "plant biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741208",
+      "title": "Decoding central metabolic rewiring induced by exogenous GABA shunt intermediates in Pea",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "plant biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741181",
+      "title": "Apple scar skin viroid disease induced physicochemical and metabolic alterations in Apples",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "plant biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741191",
+      "title": "Identification and binding-site mapping of RNA-binding proteins interacting with microRNA precursors in Arabidopsis",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "plant biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741174",
+      "title": "Directing hierarchical cell fate decisions through sequential pulses of minimal signaling alphabets",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "systems biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741184",
+      "title": "Coordinated immune, chloroplast and chemical defences underpin multilayered resistance to barley yellow dwarf virus and its aphid vector associated with the Hordeum bulbosum-derived Ryd4 introgression in barley",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "systems biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741177",
+      "title": "Light-dependent metabolism and proteome allocation in Synechocystis sp. PCC 6803: an enzyme-constrained metabolic model across light intensities",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "systems biology"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741125",
+      "title": "Coevolution-driven reconstruction of multi-taxa siderophore interaction networks reveals topological diversity of microbial exploitation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "systems biology"
+    },
+    {
+      "doi": "10.64898/2026.07.27.740889",
+      "title": "Brain-specific PP1/LRRK2 interaction-targeting peptides as a novel strategy for Parkinson's disease treatment",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "neuroscience"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741298",
+      "title": "Increased expression of developmental Nav1.3 promotes hippocampal CA3 hyperexcitability in early-stage 5xFAD mice",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "neuroscience"
+    }
+  ],
+  "medrxiv_fp": [
+    {
+      "doi": "10.64898/2026.07.04.26357301",
+      "title": "Prevalence of cancer in patients with cardiovascular diseases and risk factors: a systematic review and meta-analysis",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "2",
+      "category": "cardiovascular medicine"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359066",
+      "title": "A Prospective Evaluation of Clinical Outcomes in Acute Ischemic Stroke after Endovascular Treatment Using Transcranial Doppler (PRECISE-TCD): Study Protocol",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "neurology"
+    },
+    {
+      "doi": "10.64898/2025.12.02.25341510",
+      "title": "The gut microbiota and colonic pH map to the peripheral immune landscape in humans",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "3",
+      "category": "allergy and immunology"
+    },
+    {
+      "doi": "10.64898/2026.07.25.26358912",
+      "title": "Ambulance or corridor? The association between site-level use of ambulance ramping as Emergency Department escalation areas and 28-day mortality in admitted patients: a secondary analysis of the UNCORKED study",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "emergency medicine"
+    },
+    {
+      "doi": "10.64898/2026.07.26.26358985",
+      "title": "CARDIO-METABOLIC AND RENAL RISK AWARENESS AND SELF-MEDICATION PRACTICES AMONG COMMERCIAL BUS DRIVERS IN EBONYI STATE, NIGERIA",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "epidemiology"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359070",
+      "title": "Effect of Enhanced Nutrition and Infection Management Intervention Packages on Antenatal Quality of Care Indicators in Rural Amhara, Ethiopia.",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "primary care research"
+    },
+    {
+      "doi": "10.64898/2026.07.25.26358908",
+      "title": "Assessing MRI Biomarker Repeatability to Guide Individualized TMS Treatment in Psychiatry",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "psychiatry and clinical psychology"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359069",
+      "title": "Association between coastal residence since birth and blood pressure among adolescents: a cross-sectional comparative study",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "public and global health"
+    },
+    {
+      "doi": "10.64898/2026.07.25.26358649",
+      "title": "Psychological Distress and Post-Traumatic Stress Symptoms among Medical Students in Vietnam: Associations with Non-Contact and Contact Sexual Violence Exposure",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "public and global health"
+    },
+    {
+      "doi": "10.64898/2026.07.25.26358937",
+      "title": "Public Preferences for End-of-Life Timing in Alzheimer Disease and Related Dementias",
+      "date": "2026-07-29",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "neurology"
+    }
+  ],
+  "europepmc_ppr": [],
+  "biorxiv_fp_count": 379,
+  "medrxiv_fp_count": 126,
+  "preprints_new_dois_theme": []
+}

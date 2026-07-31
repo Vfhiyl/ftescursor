@@ -1,0 +1,1 @@
+权威面板无变更，见 `202607/30/23`（CCA 指南比较文 Crossref SEEN：`10.5582/bst.2026.01104`，≠ ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA 面板改版）。

@@ -1,0 +1,396 @@
+{
+  "window": {
+    "from": "2026-07-30",
+    "to": "2026-07-31"
+  },
+  "raw_count": 10,
+  "related": [
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "NA"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT06622057",
+      "nctId": "NCT06622057",
+      "title": "D07001 Softgel-Capsules and Capecitabine Combination Therapy in Patients With Advanced Biliary Tract Cancer",
+      "conditions": [
+        "Biliary Tract Cancer (BTC)"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "hasResults": true
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE1"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    }
+  ],
+  "focus": [
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "NA"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT06622057",
+      "nctId": "NCT06622057",
+      "title": "D07001 Softgel-Capsules and Capecitabine Combination Therapy in Patients With Advanced Biliary Tract Cancer",
+      "conditions": [
+        "Biliary Tract Cancer (BTC)"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "hasResults": true
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE1"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    }
+  ],
+  "related_ncts": [
+    "NCT07738055",
+    "NCT06622057",
+    "NCT04194775",
+    "NCT07715903"
+  ],
+  "focus_ncts": [
+    "NCT07738055",
+    "NCT06622057",
+    "NCT04194775",
+    "NCT07715903"
+  ],
+  "soft_excluded": [
+    {
+      "nct": "NCT02465060",
+      "nctId": "NCT02465060",
+      "title": "Targeted Therapy Directed by Genetic Testing in Treating Patients With Advanced Refractory Solid Tumors, Lymphomas, or Multiple Myeloma (The MATCH Screening Trial)",
+      "conditions": [
+        "Advanced Lymphoma",
+        "Advanced Malignant Solid Neoplasm",
+        "Bladder Carcinoma",
+        "Breast Carcinoma",
+        "Cervical Carcinoma",
+        "Colon Carcinoma",
+        "Colorectal Carcinoma",
+        "Endometrial Carcinoma",
+        "Esophageal Carcinoma",
+        "Exocrine Pancreas Carcinoma",
+        "Gastric Carcinoma",
+        "Glioma",
+        "Head and Neck Carcinoma",
+        "Hematopoietic and Lymphoid Cell Neoplasm",
+        "Kidney Carcinoma",
+        "Liver Carcinoma",
+        "Lung Carcinoma",
+        "Lymphoma",
+        "Malignant Uterine Corpus Neoplasm",
+        "Malignant Uterine Neoplasm",
+        "Melanoma",
+        "Multiple Myeloma",
+        "Ovarian Carcinoma",
+        "Prostate Carcinoma",
+        "Rectal Carcinoma",
+        "Recurrent Bladder Carcinoma",
+        "Recurrent Breast Carcinoma",
+        "Recurrent Cervical Carcinoma",
+        "Recurrent Colon Carcinoma",
+        "Recurrent Colorectal Carcinoma",
+        "Recurrent Esophageal Carcinoma",
+        "Recurrent Gastric Carcinoma",
+        "Recurrent Glioma",
+        "Recurrent Head and Neck Carcinoma",
+        "Recurrent Liver Carcinoma",
+        "Recurrent Lung Carcinoma",
+        "Recurrent Lymphoma",
+        "Recurrent Malignant Solid Neoplasm",
+        "Recurrent Malignant Uterine Corpus Neoplasm",
+        "Recurrent Melanoma",
+        "Recurrent Multiple Myeloma",
+        "Recurrent Ovarian Carcinoma",
+        "Recurrent Pancreatic Carcinoma",
+        "Recurrent Prostate Carcinoma",
+        "Recurrent Rectal Carcinoma",
+        "Recurrent Skin Carcinoma",
+        "Recurrent Thyroid Gland Carcinoma",
+        "Refractory Lymphoma",
+        "Refractory Malignant Solid Neoplasm",
+        "Refractory Multiple Myeloma",
+        "Skin Carcinoma",
+        "Thyroid Gland Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE2"
+      ],
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "hasResults": false,
+      "reason": "hard_fp"
+    },
+    {
+      "nct": "NCT06786429",
+      "nctId": "NCT06786429",
+      "title": "Managing Hepatitis B (Hep. B) and Human Papilloma Virus (HPV) Related Cancers and Mental Health.",
+      "conditions": [
+        "Hepatitis B",
+        "Human Papilloma Virus",
+        "Mental Health Issue",
+        "Cancer Liver",
+        "Cancer of Cervix",
+        "Depression, Anxiety"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE4"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false,
+      "reason": "hard_fp"
+    },
+    {
+      "nct": "NCT06638502",
+      "nctId": "NCT06638502",
+      "title": "Safety of HRX215 in Patients After Minor and Major Liver Resection",
+      "conditions": [
+        "Liver Resection",
+        "Colorectal Carcinoma Liver Metastases"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "reason": "hard_fp"
+    },
+    {
+      "nct": "NCT07731373",
+      "nctId": "NCT07731373",
+      "title": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "conditions": [
+        "Polycystic Ovary Syndrome (PCOS)",
+        "Metabolic Dysfunction-Associated Steatotic Liver Disease",
+        "Pediatric Obesity",
+        "Hyperandrogenism",
+        "Insulin Resistance Syndrome"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false,
+      "reason": "hard_fp"
+    },
+    {
+      "nct": "NCT07285044",
+      "nctId": "NCT07285044",
+      "title": "The Cancer Connected Access and Remote Expertise Beyond Walls Program to Provide In-Home Cancer Treatment and Improve Treatment Satisfaction in Cancer Patients Living in the Florida Panhandle and Surrounding Areas",
+      "conditions": [
+        "Amyloidosis",
+        "Basal Cell Carcinoma",
+        "Biliary Tract Carcinoma",
+        "Bladder Carcinoma",
+        "Breast Carcinoma",
+        "Cervical Carcinoma",
+        "Colorectal Carcinoma",
+        "Endometrial Carcinoma",
+        "Fallopian Tube Carcinoma",
+        "Gastroesophageal Junction Carcinoma",
+        "Glioblastoma",
+        "Head and Neck Carcinoma",
+        "Hematopoietic and Lymphatic System Neoplasm",
+        "Hepatocellular Carcinoma",
+        "Hodgkin Lymphoma",
+        "Lung Carcinoma",
+        "Malignant Solid Neoplasm",
+        "Mantle Cell Lymphoma",
+        "Melanoma",
+        "Merkel Cell Carcinoma",
+        "Multiple Myeloma",
+        "Myelodysplastic Syndrome",
+        "Ovarian Carcinoma",
+        "Pancreatic Carcinoma",
+        "Primary Peritoneal Carcinoma",
+        "Prostate Carcinoma",
+        "Renal Cell Carcinoma",
+        "Squamous Cell Carcinoma",
+        "Urothelial Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE2"
+      ],
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "reason": "soft_exclude"
+    },
+    {
+      "nct": "NCT05039632",
+      "nctId": "NCT05039632",
+      "title": "Phase I/II Randomized Study of NBTXR3 Activated by Abscopal or RadScopal Radiation in Combination With Immunotherapy (Anti-PD-1/L-1) for Patients With Advanced Solid Malignancies",
+      "conditions": [
+        "Advanced Malignant Solid Neoplasm",
+        "Metastatic Malignant Neoplasm in the Liver",
+        "Metastatic Malignant Neoplasm in the Lung",
+        "Metastatic Malignant Solid Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "overallStatus": "RECRUITING",
+      "hasResults": false,
+      "reason": "theme_miss"
+    }
+  ],
+  "raw_compact": [
+    {
+      "nct": "NCT02465060",
+      "title": "Targeted Therapy Directed by Genetic Testing in Treating Patients With Advanced Refractory Solid Tumors, Lymphomas, or Multiple Myeloma (The MATCH Screening Trial)",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT06622057",
+      "title": "D07001 Softgel-Capsules and Capecitabine Combination Therapy in Patients With Advanced Biliary Tract Cancer",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT06786429",
+      "title": "Managing Hepatitis B (Hep. B) and Human Papilloma Virus (HPV) Related Cancers and Mental Health.",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT06638502",
+      "title": "Safety of HRX215 in Patients After Minor and Major Liver Resection",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT07731373",
+      "title": "Biomarker Panel for PCOS-Associated Liver Steatosis in Adolescent Girls (COMPASS-pedPCOS)",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT07285044",
+      "title": "The Cancer Connected Access and Remote Expertise Beyond Walls Program to Provide In-Home Cancer Treatment and Improve Treatment Satisfaction in Cancer Patients Living in the Florida Panhandle and Surrounding Areas",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT05039632",
+      "title": "Phase I/II Randomized Study of NBTXR3 Activated by Abscopal or RadScopal Radiation in Combination With Immunotherapy (Anti-PD-1/L-1) for Patients With Advanced Solid Malignancies",
+      "lastUpdate": "2026-07-30"
+    },
+    {
+      "nct": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "lastUpdate": "2026-07-30"
+    }
+  ],
+  "new_ncts": [
+    "NCT06622057"
+  ],
+  "dropped_ncts": [
+    "NCT03695250",
+    "NCT04712643",
+    "NCT05563870",
+    "NCT05621499",
+    "NCT06050252",
+    "NCT06160752",
+    "NCT06915753",
+    "NCT07268131",
+    "NCT07732504",
+    "NCT07732686",
+    "NCT07734766",
+    "NCT07734857"
+  ]
+}
