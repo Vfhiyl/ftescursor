@@ -42,6 +42,14 @@ CT_FORCE_INCLUDE_NCTS = (
     "NCT07715903",
 )
 
+# EU CTIS public search (undocumented JSON API behind euclinicaltrials.eu).
+CTIS_SEARCH_URL = "https://euclinicaltrials.eu/ctis-public-api/search"
+CTIS_RETRIEVE_URL = "https://euclinicaltrials.eu/ctis-public-api/retrieve"
+CTIS_MEDICAL_CONDITIONS = (
+    "hepatocellular carcinoma",
+    "cholangiocarcinoma",
+)
+
 OPENALEX_FULLTEXT_OR = "TACE|cholangiocarcinoma|hepatectomy|hepatocellular carcinoma"
 
 NEWS_SOURCES = [
