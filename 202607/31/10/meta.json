@@ -1,0 +1,64 @@
+{
+  "folder": "202607/31/10",
+  "previous_folder": "202607/31/09",
+  "trigger_utc": "2026-07-31T10:02:39.309Z",
+  "collected_at_utc": "2026-07-31T10:03:25.807158+00:00",
+  "window_start_utc": "2026-07-30T10:02:39.309000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 59,
+    "pubmed_pdat_count": 25,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 28,
+    "crossref_unique_title_filtered": 75,
+    "crossref_new_dois": [
+      "10.1016/j.omton.2026.201298",
+      "10.21203/rs.3.rs-10247942/v1",
+      "10.3390/jof12080560",
+      "10.57045/jemis/1410426.pp28-29"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [
+      "10.1016/j.omton.2026.201298",
+      "10.3390/jof12080560",
+      "10.57045/jemis/1410426.pp28-29"
+    ],
+    "crossref_noise_new_dois": [
+      "10.21203/rs.3.rs-10247942/v1"
+    ],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. EDAT ID set identical to 09h. Crossref NEW=4 (Wnt/SMYD2 mechanism observe; AFB1 epi observe; lap hepatectomy short note observe; CCA ML RS preprint). EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; CMH SR/MA PMID 42532487 / TORCH / CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 59 identical vs 09h: NEW=0 / DROPPED=0 — no material delta.",
+    "Crossref title-filtered 71→75: NEW DOI=4 — observe Wnt/SMYD2 Mol Ther Oncol 10.1016/j.omton.2026.201298 (created 2026-07-31T09:49:14Z); observe AFB1 South America cross-sectional 10.3390/jof12080560 (created 2026-07-31T08:20:18Z); observe lap hepatectomy risk stratification short note 10.57045/jemis/1410426.pp28-29 (created 2026-07-31T08:42:35Z); preprint/noise CCA ML RS 10.21203/rs.3.rs-10247942/v1 (created 2026-07-31T09:41:48Z).",
+    "Key SEEN retained in EDAT: CMH SR/MA PMID 42532487; TORCH 42530948/42530952; CT0180 42531433; DLD 42532750.",
+    "CT related/focus unchanged at 4 (incl. force-included NCT07715903 + BTC NCT06622057); NEW NCT=[].",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 09h (NEW=0); Crossref posted-content RS CCA ML is NEW but unreviewed.",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change."
+  ]
+}
