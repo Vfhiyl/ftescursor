@@ -11,6 +11,7 @@ from typing import Optional
 from .clinical_leaning import filter_clinical
 from .clinicaltrials import collect_clinicaltrials
 from .crossref import collect_crossref
+from .hta import collect_hta
 from .journals import collect_journals
 from .news import collect_guidelines, collect_news
 from .openalex import collect_openalex
@@ -101,6 +102,7 @@ def run_collect(
     skip_journals: bool = False,
     skip_regulatory: bool = False,
     skip_guidelines: bool = False,
+    skip_hta: bool = False,
     abstract_limit: int = 40,
 ) -> dict[str, object]:
     window_end = trigger_utc
@@ -164,6 +166,11 @@ def run_collect(
         guidelines = collect_guidelines(mailto=mailto)
         write_json(out_dir / "raw_guidelines_sentinel.json", guidelines)
 
+    hta: dict[str, object] | None = None
+    if not skip_hta:
+        hta = collect_hta(mailto=mailto)
+        write_json(out_dir / "raw_hta_sentinel.json", hta)
+
     files_written = [
         "raw_pubmed.json",
         "pubmed_clinical_leaning.json",
@@ -181,6 +188,8 @@ def run_collect(
         files_written.append("raw_regulatory.json")
     if guidelines is not None:
         files_written.append("raw_guidelines_sentinel.json")
+    if hta is not None:
+        files_written.append("raw_hta_sentinel.json")
 
     summary = {
         "folder": str(out_dir).replace("\\", "/"),
@@ -247,6 +256,26 @@ def run_collect(
             )
             if guidelines
             else None,
+            "hta_nice_unique_guidance": ((hta or {}).get("counts") or {}).get(
+                "nice_unique_guidance"
+            )
+            if hta
+            else None,
+            "hta_nice_published_ta": ((hta or {}).get("counts") or {}).get(
+                "nice_published_ta"
+            )
+            if hta
+            else None,
+            "hta_nice_in_development": ((hta or {}).get("counts") or {}).get(
+                "nice_in_development"
+            )
+            if hta
+            else None,
+            "hta_ema_chmp_hcc_related": ((hta or {}).get("counts") or {}).get(
+                "ema_chmp_hcc_related"
+            )
+            if hta
+            else None,
         },
         "id_sets": {
             "pubmed_edat_ids": pubmed.get("edat_ids") or [],
@@ -262,6 +291,11 @@ def run_collect(
                 if isinstance(x, dict) and x.get("doi")
             ],
             "journal_theme_dois": (journals or {}).get("theme_dois") or [],
+            "hta_nice_guidance_ids": (hta or {}).get("nice", {}).get(
+                "unique_guidance_ids"
+            )
+            if hta
+            else [],
         },
         "files_written": files_written,
     }
