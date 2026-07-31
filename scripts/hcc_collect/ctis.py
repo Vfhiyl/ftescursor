@@ -189,11 +189,21 @@ def collect_ctis(
                 matched = prev.get("matched_conditions")
                 if isinstance(matched, list) and cond not in matched:
                     matched.append(cond)
-                # Prefer longer title / keep focus true if either is focus.
                 if lite.get("focus"):
                     prev["focus"] = True
+                # Prefer richer title/conditions; recompute basket on update.
                 if len(str(lite.get("title") or "")) > len(str(prev.get("title") or "")):
                     prev["title"] = lite.get("title")
+                if len(str(lite.get("conditions") or "")) > len(
+                    str(prev.get("conditions") or "")
+                ):
+                    prev["conditions"] = lite.get("conditions")
+                prev["is_basket"] = _is_basket(
+                    str(prev.get("title") or ""),
+                    str(prev.get("conditions") or ""),
+                )
+                if lite.get("is_basket"):
+                    prev["is_basket"] = True
 
     related = [r for r in by_id.values() if r.get("focus")]
     related.sort(
