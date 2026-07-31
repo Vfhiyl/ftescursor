@@ -1,0 +1,59 @@
+{
+  "folder": "202607/31/06",
+  "previous_folder": "202607/31/05",
+  "trigger_utc": "2026-07-31T06:00:17.819Z",
+  "collected_at_utc": "2026-07-31T06:01:13.649584+00:00",
+  "window_start_utc": "2026-07-30T06:00:17.819000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 59,
+    "pubmed_pdat_count": 25,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 28,
+    "crossref_unique_title_filtered": 61,
+    "crossref_new_dois": [
+      "10.1007/s10863-026-10126-w",
+      "10.51470/jod.2026.5.2.52"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [],
+    "crossref_noise_new_dois": [
+      "10.1007/s10863-026-10126-w",
+      "10.51470/jod.2026.5.2.52"
+    ],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. EDAT ID set identical to 05h. Crossref NEW=2 mechanism/TCM computational noise only. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; CMH SR/MA PMID 42532487 / TORCH / CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 59 identical vs 05h: NEW=0 / DROPPED=0 — no material delta.",
+    "Crossref title-filtered 59→61: NEW DOI=2 noise — Par-4/TERT mechanism 10.1007/s10863-026-10126-w (created 2026-07-31T05:30:59Z); Ganoderma network-pharm computational 10.51470/jod.2026.5.2.52 (created 2026-07-31T05:09:57Z).",
+    "Key SEEN retained in EDAT: CMH SR/MA PMID 42532487; TORCH 42530948/42530952; CT0180 42531433; DLD 42532750.",
+    "CT related/focus unchanged at 4 (incl. force-included NCT07715903 + BTC NCT06622057); NEW NCT=[].",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 05h (NEW=0).",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change."
+  ]
+}
