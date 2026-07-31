@@ -1,0 +1,64 @@
+{
+  "folder": "202607/31/08",
+  "previous_folder": "202607/31/07",
+  "trigger_utc": "2026-07-31T08:01:40.211Z",
+  "collected_at_utc": "2026-07-31T08:02:25.346369+00:00",
+  "window_start_utc": "2026-07-30T08:01:40.211000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 59,
+    "pubmed_pdat_count": 25,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 28,
+    "crossref_unique_title_filtered": 69,
+    "crossref_new_dois": [
+      "10.1007/s00595-026-03445-3",
+      "10.1016/j.glmedi.2026.100244",
+      "10.1016/j.actbio.2026.07.057",
+      "10.62347/lalc6308"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [
+      "10.1016/j.glmedi.2026.100244"
+    ],
+    "crossref_noise_new_dois": [
+      "10.1007/s00595-026-03445-3",
+      "10.1016/j.actbio.2026.07.057",
+      "10.62347/lalc6308"
+    ],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. EDAT ID set identical to 07h. Crossref NEW=4 (1 Bangladesh RWE observe + 3 noise: neonatal liver tumors / glioblastoma hydrogel / SPP1 mechanism). EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; CMH SR/MA PMID 42532487 / TORCH / CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 59 identical vs 07h: NEW=0 / DROPPED=0 — no material delta.",
+    "Crossref title-filtered 65→69: NEW DOI=4 — observe Bangladesh RWE 10.1016/j.glmedi.2026.100244 (created 2026-07-31T07:20:39Z); noise neonatal hepatectomy 10.1007/s00595-026-03445-3 (created 2026-07-31T07:31:08Z); glioblastoma hydrogel 10.1016/j.actbio.2026.07.057 (created 2026-07-31T07:16:15Z); SPP1 mechanism 10.62347/lalc6308 (created 2026-07-31T07:08:15Z).",
+    "Key SEEN retained in EDAT: CMH SR/MA PMID 42532487; TORCH 42530948/42530952; CT0180 42531433; DLD 42532750.",
+    "CT related/focus unchanged at 4 (incl. force-included NCT07715903 + BTC NCT06622057); NEW NCT=[].",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 07h (NEW=0).",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change."
+  ]
+}
