@@ -1,0 +1,71 @@
+{
+  "folder": "202607/31/05",
+  "previous_folder": "202607/31/04",
+  "trigger_utc": "2026-07-31T05:00:42.084Z",
+  "collected_at_utc": "2026-07-31T05:01:21.266935+00:00",
+  "window_start_utc": "2026-07-30T05:00:42.084000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 59,
+    "pubmed_pdat_count": 25,
+    "pubmed_edat_new_ids": [
+      "42532750",
+      "42532726",
+      "42532630",
+      "42532488",
+      "42532487",
+      "42532339",
+      "42532338",
+      "42532279",
+      "42532172",
+      "42531975",
+      "42531805"
+    ],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 28,
+    "crossref_unique_title_filtered": 59,
+    "crossref_new_dois": [
+      "10.1111/apt.70894"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [
+      "10.1111/apt.70894"
+    ],
+    "crossref_noise_new_dois": [],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. MATERIAL: CMH SR/MA 10.3350/cmh.2026.0535 gained PubMed PMID 42532487 (dual-source UPDATED); DLD fragility gained PMID 42532750 (observe). Crossref NEW APT reply 10.1111/apt.70894 observe-only. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; TORCH/CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 48→59: NEW=11 / DROPPED=0 — MATERIAL UPDATED CMH SR/MA PMID 42532487 (doi 10.3350/cmh.2026.0535) completing Crossref→PubMed dual source; local control↑ but OS NS.",
+    "Also UPDATED observe: DLD survival fragility PMID 42532750 (doi 10.1016/j.dld.2026.07.001).",
+    "Key SEEN retained in EDAT: TORCH PMIDs 42530948/42530952; CT0180 PMID 42531433.",
+    "Crossref title-filtered 58→59: NEW DOI=1 observe-only APT authors' reply 10.1111/apt.70894 (created 2026-07-31T04:36:21Z).",
+    "CT related/focus unchanged at 4 (incl. force-included NCT07715903 + BTC NCT06622057); NEW NCT=[].",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 04h (NEW=0).",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change.",
+    "Filtered FP among NEW PMIDs: NSCLC/SCLC 42532630/42532339/42532338; thyroid 42532726; pediatric HB 42532172; analytical/mechanism 42531975/42531805."
+  ]
+}
