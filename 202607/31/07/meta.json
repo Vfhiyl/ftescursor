@@ -1,0 +1,64 @@
+{
+  "folder": "202607/31/07",
+  "previous_folder": "202607/31/06",
+  "trigger_utc": "2026-07-31T07:02:55.294Z",
+  "collected_at_utc": "2026-07-31T07:03:33.340330+00:00",
+  "window_start_utc": "2026-07-30T07:02:55.294000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 59,
+    "pubmed_pdat_count": 25,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 28,
+    "crossref_unique_title_filtered": 65,
+    "crossref_new_dois": [
+      "10.1186/s12943-026-02761-z",
+      "10.20517/2394-5079.2025.117",
+      "10.1007/s44164-026-00144-8",
+      "10.3389/fimmu.2026.1908857"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [
+      "10.20517/2394-5079.2025.117",
+      "10.1186/s12943-026-02761-z",
+      "10.3389/fimmu.2026.1908857"
+    ],
+    "crossref_noise_new_dois": [
+      "10.1007/s44164-026-00144-8"
+    ],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. EDAT ID set identical to 06h. Crossref NEW=4 (3 observe + 1 phytochemical noise). EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; CMH SR/MA PMID 42532487 / TORCH / CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 59 identical vs 06h: NEW=0 / DROPPED=0 — no material delta.",
+    "Crossref title-filtered 61→65: NEW DOI=4 — observe TACE frequency 10.20517/2394-5079.2025.117 (created 2026-07-31T06:13:12Z); circRNA review 10.1186/s12943-026-02761-z (created 2026-07-31T06:24:10Z); FTH1 marker 10.3389/fimmu.2026.1908857 (created 2026-07-31T05:39:30Z); noise phytochemical 10.1007/s44164-026-00144-8 (created 2026-07-31T06:08:04Z).",
+    "Key SEEN retained in EDAT: CMH SR/MA PMID 42532487; TORCH 42530948/42530952; CT0180 42531433; DLD 42532750.",
+    "CT related/focus unchanged at 4 (incl. force-included NCT07715903 + BTC NCT06622057); NEW NCT=[].",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 06h (NEW=0).",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change."
+  ]
+}

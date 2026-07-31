@@ -1,0 +1,154 @@
+{
+  "window": [
+    "2026-07-30",
+    "2026-07-31"
+  ],
+  "total_fetched": 10,
+  "related": [
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "briefSummary": "This study is a single-center, exploratory clinical trial. Eligible patients with liver cancer, after signing the informed consent form, will be screened and enrolled. They will receive a 3-cycle conversion treatment with Envafolimab combined with Suvemcitug and HAIC. During the treatment process, clinical tumor imaging assessment will be conducted using RECIST V1.1. Imaging evaluations will be performed before treatment and at the end of the 3rd cycle of treatment (±3 days). Subsequently, an MD",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06622057",
+      "nctId": "NCT06622057",
+      "title": "D07001 Softgel-Capsules and Capecitabine Combination Therapy in Patients With Advanced Biliary Tract Cancer",
+      "conditions": [
+        "Biliary Tract Cancer (BTC)"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "The object of this trial is to evaluate the efficacy of D07001-softgel capsules + capecitabine compared with placebo + capecitabine by overall survival (OS).\n\nEligible patients with advanced biliary tract cancer (BTC) will be randomized (1:1:1) to receive either 60 mg D07001-softgel, 100 mg D07001-softgel, or placebo, combine with capecitabine. Treatment will be continued until disease progression, death, withdraw consent, or completing 12 treatment cycles , whichever occurs first.",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "This is a multi-center, double-blind, randomized, phase III study to investigate the efficacy and safety of Nofazinlimab (CS1003) in combination with lenvatinib and placebo in combination with lenvatinib in the treatment of subjects with no prior systemic treatment and with unresectable advanced hepatocellular carcinoma (HCC). Subjects cannot be eligible for locoregional therapy. In this study, Nofazinlimab (CS1003) (or placebo) and lenvatinib are both considered as the study treatment while Nof",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administere",
+      "force_include": true
+    }
+  ],
+  "related_ncts": [
+    "NCT07738055",
+    "NCT06622057",
+    "NCT04194775",
+    "NCT07715903"
+  ],
+  "focus": [
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "briefSummary": "This study is a single-center, exploratory clinical trial. Eligible patients with liver cancer, after signing the informed consent form, will be screened and enrolled. They will receive a 3-cycle conversion treatment with Envafolimab combined with Suvemcitug and HAIC. During the treatment process, clinical tumor imaging assessment will be conducted using RECIST V1.1. Imaging evaluations will be performed before treatment and at the end of the 3rd cycle of treatment (±3 days). Subsequently, an MD",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06622057",
+      "nctId": "NCT06622057",
+      "title": "D07001 Softgel-Capsules and Capecitabine Combination Therapy in Patients With Advanced Biliary Tract Cancer",
+      "conditions": [
+        "Biliary Tract Cancer (BTC)"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "The object of this trial is to evaluate the efficacy of D07001-softgel capsules + capecitabine compared with placebo + capecitabine by overall survival (OS).\n\nEligible patients with advanced biliary tract cancer (BTC) will be randomized (1:1:1) to receive either 60 mg D07001-softgel, 100 mg D07001-softgel, or placebo, combine with capecitabine. Treatment will be continued until disease progression, death, withdraw consent, or completing 12 treatment cycles , whichever occurs first.",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "This is a multi-center, double-blind, randomized, phase III study to investigate the efficacy and safety of Nofazinlimab (CS1003) in combination with lenvatinib and placebo in combination with lenvatinib in the treatment of subjects with no prior systemic treatment and with unresectable advanced hepatocellular carcinoma (HCC). Subjects cannot be eligible for locoregional therapy. In this study, Nofazinlimab (CS1003) (or placebo) and lenvatinib are both considered as the study treatment while Nof",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administere",
+      "force_include": true
+    }
+  ],
+  "focus_ncts": [
+    "NCT07738055",
+    "NCT06622057",
+    "NCT04194775",
+    "NCT07715903"
+  ],
+  "related_count": 4,
+  "focus_count": 4,
+  "query_cond": "hepatocellular carcinoma OR liver cancer OR cholangiocarcinoma"
+}
