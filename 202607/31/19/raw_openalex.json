@@ -1,0 +1,621 @@
+{
+  "filter_mode": "publication_date_only",
+  "window": [
+    "2026-07-30",
+    "2026-07-31"
+  ],
+  "preprint_window": [
+    "2026-07-24",
+    "2026-07-31"
+  ],
+  "works_count": 50,
+  "works": [
+    {
+      "id": "https://openalex.org/W7171789664",
+      "doi": "10.1007/s00261-026-05715-7",
+      "title": "Three-class radiomic differentiation of hepatocellular carcinoma, intrahepatic cholangiocarcinoma, and combined hepatocellular-cholangiocarcinoma on multiphasic contrast-enhanced CT",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171852922",
+      "doi": "10.1001/jamaoncol.2026.2366",
+      "title": "Transarterial Chemoembolization Plus Thermal Ablation in Unresectable Hepatocellular Carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171768369",
+      "doi": "10.1007/s00261-026-05682-z",
+      "title": "Unmasking infiltrative hepatocellular carcinoma: a pictorial essay",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171833990",
+      "doi": "10.3389/fimmu.2026.1876151",
+      "title": "Efficacy analysis of icaritin combined with transarterial chemoembolization in hepatocellular carcinoma stratified by different child-pugh classes",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171863306",
+      "doi": "10.1186/s12935-026-04408-x",
+      "title": "The evolving role of TP53 mutation in hepatocellular carcinoma (HCC)",
+      "publication_date": "2026-07-31",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171791495",
+      "doi": "10.1159/000553391",
+      "title": "Deep Response as a Novel Efficacy Endpoint in Hepatocellular Carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171821785",
+      "doi": "10.3390/biomedicines14081717",
+      "title": "Hepatitis Viruses Infection Up-Regulating Fibrosis Signals in Hepatocellular Carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171768014",
+      "doi": "10.1186/s12943-026-02729-z",
+      "title": "Coupling oxidative de-stabilization with immune activation overcomes radioresistance in hepatocellular carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171803514",
+      "doi": "10.65405/rg255s55",
+      "title": "Assessment of Hepatorenal Biomarkers and Functional Compensation in Patients with Hepatocellular Carcinoma in Northwest Libya",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171866150",
+      "doi": "10.1186/s12967-026-08686-x",
+      "title": "Cancer-associated fibroblasts shape features of lymphocyte aggregation and collagen deposition in hepatocellular carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171796535",
+      "doi": "10.21203/rs.3.rs-10256326/v1",
+      "title": "BMP9 Promotes Hepatocellular Carcinoma Progression By Accelerating Cell Cycle through CKS1B Lactylation",
+      "publication_date": "2026-07-30",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171800628",
+      "doi": "10.1158/1078-0432.ccr-26-1084",
+      "title": "Phase I Trial of GPC3-Targeted TCR Fusion Construct, CT0180, in patients with Advanced Hepatocellular Carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171797043",
+      "doi": "10.3390/info17080737",
+      "title": "Interpretable Multimodal AI for Horizon-Specific Survival Prediction in Hepatocellular Carcinoma Using Transcriptomics and Caption-Based Histopathology",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171802365",
+      "doi": "10.4254/wjh.123791",
+      "title": "Molecular characteristics and carcinogenic mechanisms of aflatoxin B1-associated hepatocellular carcinoma: Recent advances",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171665834",
+      "doi": "10.1007/s40820-026-02320-7",
+      "title": "Biomimetic PD-1-Functionalized Immunostimulatory Nanomedicine Enables STING Activation and Durable Antitumor Immunity in Hepatocellular Carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171839133",
+      "doi": "10.3390/cancers18152457",
+      "title": "Discrepancy Between Eligibility and Practice: A 14-Year Nationwide Study on Curative Resection in Elderly Hepatocellular Carcinoma Patients",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171840005",
+      "doi": "10.1080/14728222.2026.2708824",
+      "title": "Hepatic T-cell dysfunction in chronic liver disease and hepatocellular carcinoma: a spatial systems immunology framework for precision immunotherapy",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171824967",
+      "doi": "10.1001/jamaoncol.2026.1884",
+      "title": "Refining Combination Locoregional Therapy for Intermediate-Stage Hepatocellular Carcinoma—Lessons From the TORCH Trial",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171709039",
+      "doi": "10.1038/s41598-026-62723-9",
+      "title": "Integrated LiP-MS and quantitative proteomics reveal coordinated alterations in protein conformation and expression across tumor and peritumoral regions in hepatocellular carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171613638",
+      "doi": "10.18528/ijgii260007",
+      "title": "Prevalence of viral infection and its impact on early-stage hepatocellular carcinoma: Insights from Mongolia, a developing country",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171863239",
+      "doi": "10.1186/s43066-026-00532-5",
+      "title": "Circulating CD90 +, CD133 +, and EpCAM + peripheral blood mononuclear cell populations in experimental liver fibrosis and hepatocellular carcinoma: association with disease severity",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171775465",
+      "doi": "10.1016/j.hlc.2026.07.067",
+      "title": "A Case Report of Intracardiac Extension of Hepatocellular Carcinoma Presenting as a Right Atrial Mass With Inferior Obstructive Venous Physiology",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171772685",
+      "doi": "10.3350/cmh.2026.0535",
+      "title": "External beam radiotherapy versus local ablation therapy for the treatment of hepatocellular carcinoma: a systematic review and meta-analysis",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171818695",
+      "doi": "10.21203/rs.3.rs-10028031/v1",
+      "title": "Comparative Outcomes of All-trans Retinoic Acid-Based Chemotherapy versus Radiotherapy Combined with Targeted and Immunotherapy in Hepatocellular Carcinoma Patients with Pulmonary Metastases",
+      "publication_date": "2026-07-30",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171836037",
+      "doi": "10.4251/wjgo.122464",
+      "title": "Deep learning-enhanced peritumoral radiomics predicts early recurrence after hepatocellular carcinoma ablation: A two-center study",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171862603",
+      "doi": "10.18614/dehm.1818612",
+      "title": "Aloe vera extract co-treatment in hepatocellular carcinoma increases cisplatin sensitivity by shifting energy metabolism from glycolysis to oxidative phosphorylation and inhibiting key resistance mechanisms",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171719650",
+      "doi": "10.1007/s10143-026-04415-6",
+      "title": "Stereotactic radiosurgery for spinal cholangiocarcinoma metastases: Clinical outcomes and the role of biologically effective dose thresholds",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171868679",
+      "doi": "10.1245/s10434-026-20093-6",
+      "title": "Robotic Resection of Large Central Hepatic Tumor: Technique of Juxta-Hilar Tumor Dissection Off Anterior Glissonean Pedicle Sheath",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 1
+    },
+    {
+      "id": "https://openalex.org/W7171787469",
+      "doi": "10.3389/fonc.2026.1907000",
+      "title": "Comparative multiphase CT radiomics for differentiating isolated hepatic metastasis from intrahepatic cholangiocarcinoma: a two-center study of native, subtraction, peritumoral, and fusion models",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171877949",
+      "doi": "10.4251/wjgo.124040",
+      "title": "Elevated pretreatment neutrophil-to-lymphocyte ratio and platelet-to-lymphocyte ratio predict poor survival in cholangiocarcinoma: A large-scale meta-analysis of 48 cohorts",
+      "publication_date": "2026-07-30",
+      "type": "review",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171686681",
+      "doi": "10.5281/zenodo.21683045",
+      "title": "HCC senescence directional-response and specificity-limit audit",
+      "publication_date": "2026-07-30",
+      "type": "software",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171812971",
+      "doi": "10.5281/zenodo.21707461",
+      "title": "HCC senescence directional-response and specificity-limit audit",
+      "publication_date": "2026-07-30",
+      "type": "software",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171840317",
+      "doi": "10.5281/zenodo.21707331",
+      "title": "Supplemental Fig 1. Receiver operating characteristic (ROC) curve analysis for comparison of different inflammation-based scores for intrahepatic cholangiocarcinoma (ICC) patients after resection. Supplemental Fig 2. Kaplan-Meier survival curves for patients grouped by their TNM stage according to a high (6000 or greater) versus low (less than 6000) LCR. (a) Overall and (c) recurrence-free survival for patients in TNM stage I. (b) Overall and (d) recurrence-free survival for patients in TNM stage II.",
+      "publication_date": "2026-07-30",
+      "type": "supplementary-materials",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171814264",
+      "doi": "10.5281/zenodo.21707330",
+      "title": "Supplemental Fig 1. Receiver operating characteristic (ROC) curve analysis for comparison of different inflammation-based scores for intrahepatic cholangiocarcinoma (ICC) patients after resection. Supplemental Fig 2. Kaplan-Meier survival curves for patients grouped by their TNM stage according to a high (6000 or greater) versus low (less than 6000) LCR. (a) Overall and (c) recurrence-free survival for patients in TNM stage I. (b) Overall and (d) recurrence-free survival for patients in TNM stage II.",
+      "publication_date": "2026-07-30",
+      "type": "supplementary-materials",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171864127",
+      "doi": "10.17116/patol20268804128",
+      "title": "Molecular genetic characteristics of epithelial neoplasia of extrahepatic bile ducts",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171866568",
+      "doi": "10.17116/patol20268804150",
+      "title": "Intraductal oncocytic papillary neoplasm of the pancreas",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171818367",
+      "doi": "10.5281/zenodo.21696550",
+      "title": "SEFF_HCC: Reproducible analysis code and source data for the persistent repair-front study",
+      "publication_date": "2026-07-30",
+      "type": "software",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171824663",
+      "doi": "10.5281/zenodo.21696549",
+      "title": "SEFF_HCC: Reproducible analysis code and source data for the persistent repair-front study",
+      "publication_date": "2026-07-30",
+      "type": "software",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171790217",
+      "doi": "10.3390/diagnostics16152397",
+      "title": "Pulmonary Metastasectomy After Liver Transplantation: Indications, Timing, and Surgical Decision-Making Across Primary Tumor Histologies",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171781420",
+      "doi": "10.1007/s42535-026-01869-3",
+      "title": "Antidiabetic-relevant and differential Nrf2-modulatory activities of Uvaria valderramensis leaf extracts",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171867392",
+      "doi": "10.3390/ijms27156844",
+      "title": "The Liver–Heart Axis in Rheumatoid Arthritis: Associations of Liver Fibrosis, Organokines, Endothelin-1, and Cardiovascular Risk",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171849046",
+      "doi": "10.1177/10406387261467915",
+      "title": "Diagnosis of feline platynosomosis: case series and literature review",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171819394",
+      "doi": "10.21203/rs.3.rs-10180633/v1",
+      "title": "The Evaluation of Sexual Problems in Patients With Hepatitis B and C",
+      "publication_date": "2026-07-30",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171842681",
+      "doi": "10.3389/fimmu.2026.1837479",
+      "title": "Single-cell transcriptomic analysis of cutaneous squamous cell carcinoma identifies an NR1H3-associated angiogenic macrophage state",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171843697",
+      "doi": "10.3390/toxics14080676",
+      "title": "Combined Exposure to 1,2-Dichloropropane and Dichloromethane Enhances Hepatocellular Tumor Development in Mice",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171856264",
+      "doi": "10.3329/jssmc.v17i1.92339",
+      "title": "Assessment of Pre-operative Prognostic Nutritional Index in Liver Resection Outcomes",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171850396",
+      "doi": "10.3390/curroncol33080459",
+      "title": "Hyperbaric Oxygen Therapy for Late Radiation-Induced Duodenal Toxicity After Stereotactic Body Radiotherapy in a Patient with Cholangiocellular Carcinoma: A Unique Case Report",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171725877",
+      "doi": "10.22465/juo.265200060003",
+      "title": "Retrospective Cohort Study Evaluating the Association Between Angiotensin-Converting Enzyme Inhibitor or Angiotensin Receptor Blocker Use and Tyrosine Kinase Inhibitor-Associated Toxicity in Advanced Renal Cell Carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171779267",
+      "doi": "10.1038/s41598-026-63578-w",
+      "title": "Randomized trial of dexmedetomidine and remimazolam with remifentanil for sedation during hepatic radiofrequency ablation",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171861203",
+      "doi": "10.3389/fphar.2026.1891926",
+      "title": "Integrated pharmacovigilance assessment of drug-associated cholangitis: signal detection, clinical characterization, and mechanistic insights",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    }
+  ],
+  "preprints_theme": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171796535",
+      "doi": "10.21203/rs.3.rs-10256326/v1",
+      "title": "BMP9 Promotes Hepatocellular Carcinoma Progression By Accelerating Cell Cycle through CKS1B Lactylation",
+      "publication_date": "2026-07-30",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171544280",
+      "doi": "10.21203/rs.3.rs-10108692/v1",
+      "title": "Patterns of Topical Hemostatic Material Use and Major Bleeding in Hepatectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171631701",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "publication_date": "2026-07-29",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171818695",
+      "doi": "10.21203/rs.3.rs-10028031/v1",
+      "title": "Comparative Outcomes of All-trans Retinoic Acid-Based Chemotherapy versus Radiotherapy Combined with Targeted and Immunotherapy in Hepatocellular Carcinoma Patients with Pulmonary Metastases",
+      "publication_date": "2026-07-30",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171117043",
+      "doi": "10.21203/rs.3.rs-10169506/v1",
+      "title": "Applied anatomical study of segmental Glissonean pedicles at the hepatic hilum under the concept of Laennec's Capsule",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171518564",
+      "doi": "10.21203/rs.3.rs-10347193/v1",
+      "title": "Three-Dimensional Anatomical Classification and Machine Learning Prediction of the P6a–Right Hepatic Vein Relationship: Surgical Implications for Laparoscopic Right Anterior Sectionectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171627266",
+      "doi": "10.64898/2026.07.28.741358",
+      "title": "Hepatic huntingtin loss drives an acute phase response and liver injury in multiple mouse models",
+      "publication_date": "2026-07-29",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprint_count": 11,
+  "optional_tace_immuno": [
+    {
+      "id": "https://openalex.org/W7171833990",
+      "doi": "10.3389/fimmu.2026.1876151",
+      "title": "Efficacy analysis of icaritin combined with transarterial chemoembolization in hepatocellular carcinoma stratified by different child-pugh classes",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    }
+  ],
+  "meta_works": {
+    "count": 65,
+    "db_response_time_ms": 69,
+    "page": 1,
+    "per_page": 50,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where date >= (2026-07-30)\n  and date <= (2026-07-31)\n  and full text has (\n    TACE\n    or cholangiocarcinoma\n    or hepatectomy\n    or hepatocellular carcinoma\n  )",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "from_publication_date",
+            "value": "2026-07-30"
+          },
+          {
+            "column_id": "to_publication_date",
+            "value": "2026-07-31"
+          },
+          {
+            "join": "or",
+            "filters": [
+              {
+                "column_id": "fulltext.search",
+                "value": "TACE",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "cholangiocarcinoma",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatectomy",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatocellular carcinoma",
+                "operator": "has"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "/works?filter=from_publication_date:2026-07-30,to_publication_date:2026-07-31,fulltext.search:TACE|cholangiocarcinoma|hepatectomy|hepatocellular carcinoma&per_page=50"
+    },
+    "cost_usd": 0.001
+  },
+  "meta_preprints": {
+    "count": 60,
+    "db_response_time_ms": 86,
+    "page": 1,
+    "per_page": 50,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where date >= (2026-07-24)\n  and date <= (2026-07-31)\n  and type is (preprint)\n  and full text has (\n    TACE\n    or cholangiocarcinoma\n    or hepatectomy\n    or hepatocellular carcinoma\n  )",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "from_publication_date",
+            "value": "2026-07-24"
+          },
+          {
+            "column_id": "to_publication_date",
+            "value": "2026-07-31"
+          },
+          {
+            "column_id": "type",
+            "value": "preprint"
+          },
+          {
+            "join": "or",
+            "filters": [
+              {
+                "column_id": "fulltext.search",
+                "value": "TACE",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "cholangiocarcinoma",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatectomy",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatocellular carcinoma",
+                "operator": "has"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "/works?filter=from_publication_date:2026-07-24,to_publication_date:2026-07-31,type:preprint,fulltext.search:TACE|cholangiocarcinoma|hepatectomy|hepatocellular carcinoma&per_page=50"
+    },
+    "cost_usd": 0.001
+  },
+  "calls_used": 3,
+  "api_key_present": true
+}
