@@ -159,11 +159,41 @@ REGULATORY_HTML_SOURCES = [
             "oncology-cancerhematologic-malignancies-approval-notifications"
         ),
     },
+]
+
+# NICE HTA product lists (static HTML titles; best HTA sentinel for HCC).
+HTA_NICE_LISTS = [
     {
-        "name": "NICE liver cancers guidance",
-        "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/liver-cancers",
+        "name": "NICE liver cancers — published TA",
+        "status": "published_ta",
+        "url": (
+            "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/"
+            "liver-cancers/products?GuidanceProgramme=TA&Status=Published"
+        ),
+    },
+    {
+        "name": "NICE liver cancers — in development",
+        "status": "in_development",
+        "url": (
+            "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/"
+            "liver-cancers/products?Status=InDevelopment"
+        ),
+    },
+    {
+        "name": "NICE liver cancers — updated in last 6 months",
+        "status": "updated_6m",
+        "url": (
+            "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/"
+            "liver-cancers/products?ProductType=Guidance&Recent=UpdatedInLast6Months"
+            "&Status=Published"
+        ),
     },
 ]
+
+EMA_NEWS_URL = "https://www.ema.europa.eu/en/news"
+EMA_CHMP_HIGHLIGHTS_RE = (
+    r"Meeting highlights from the Committee for Medicinal Products for Human Use \(CHMP\)"
+)
 
 NEWS_THEME_RE = (
     r"hepatocellular|\bHCC\b|cholangiocarcin|hepatectomy|\bTACE\b|\bHAIC\b|"
