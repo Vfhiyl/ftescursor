@@ -1,0 +1,60 @@
+{
+  "folder": "202607/31/12",
+  "previous_folder": "202607/31/11",
+  "trigger_utc": "2026-07-31T12:02:06.116Z",
+  "collected_at_utc": "2026-07-31T12:02:55.685068+00:00",
+  "window_start_utc": "2026-07-30T12:02:06.116000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": true,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 72,
+    "pubmed_pdat_count": 26,
+    "pubmed_edat_new_ids": [],
+    "pubmed_edat_dropped_ids_count": 0,
+    "pubmed_clinical_leaning": 37,
+    "crossref_unique_title_filtered": 83,
+    "crossref_new_dois": [
+      "10.1007/s40203-026-00706-4",
+      "10.1136/jitc-2025-014430"
+    ],
+    "crossref_new_dois_material": false,
+    "crossref_material_dois": [],
+    "crossref_observe_dois": [
+      "10.1136/jitc-2025-014430"
+    ],
+    "crossref_noise_new_dois": [
+      "10.1007/s40203-026-00706-4"
+    ],
+    "crossref_dropped_dois_count": 0,
+    "clinicaltrials_related": 4,
+    "clinicaltrials_focus": 4,
+    "clinicaltrials_new_ncts": [],
+    "clinicaltrials_new_ncts_material": false,
+    "clinicaltrials_dropped_ncts": [],
+    "clinicaltrials_dropped_ncts_count": 0,
+    "openalex_count": 4,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 8,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 5,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "news_sentinel_note": "No NEW news URLs; ESMO TACE-combinations GI 2026 commentary SEEN. OncLive 403 / NHC 412 / Minzdrav unreachable. EDAT ID set identical (72). Crossref NEW=2: JITC CPNE1/GPC3 CAR-T mechanism observe 10.1136/jitc-2025-014430; ADRA1A bioinformatic noise 10.1007/s40203-026-00706-4. OA-only NEW=[]; preprint NEW=[]; CT NEW=[]. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature; CMH SR/MA PMID 42532487 / TORCH / CT0180 still in EDAT."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "PubMed EDAT 72 identical vs 11h: NEW=0 / DROPPED=0.",
+    "Crossref title-filtered 81→83: NEW DOI=2 — observe JITC CPNE1/GPC3 CAR-T resistance 10.1136/jitc-2025-014430 (created 2026-07-31T11:25:13Z); noise ADRA1A in silico biomarker 10.1007/s40203-026-00706-4 (created 2026-07-31T11:34:14Z).",
+    "No material must-read upgrade (mechanism/bioinformatics only).",
+    "CT related/focus unchanged at 4 (incl. force-included NCT07715903 + BTC NCT06622057); NEW NCT=[].",
+    "OpenAlex (publication_date only): works_count=4; OpenAlex-only NEW=[]; preprint_count=8 NEW=0.",
+    "Preprints: medRxiv/bioRxiv/EPMC PPR ID sets identical vs 11h (NEW=0).",
+    "News: no NEW URLs; ESMO TACE combinations commentary SEEN from 02h.",
+    "Guidelines: no ESMO/NCCN/CSCO/JSH/AWMF/HAS/KLCA panel change."
+  ]
+}
