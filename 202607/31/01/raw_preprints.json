@@ -1,0 +1,54 @@
+{
+  "window": {
+    "from": "2026-07-29",
+    "to": "2026-07-31",
+    "note": "med/bioRxiv details uses ~48h broaden for sentinel continuity; EPMC FIRST_PDATE 24h"
+  },
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "category": "radiology and imaging",
+      "continuity": true
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "category": "cancer biology",
+      "continuity": true
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "cell biology",
+      "continuity": true
+    },
+    {
+      "doi": "10.64898/2026.07.27.740890",
+      "title": "A single-nucleus atlas of the adult laying hen liver reveals metabolic specialization and improved cellular resolution through enhanced genome annotation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "category": "genomics",
+      "continuity": true
+    }
+  ],
+  "biorxiv_fp": [],
+  "europepmc_ppr": [],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 3,
+    "europepmc_ppr": 0
+  }
+}

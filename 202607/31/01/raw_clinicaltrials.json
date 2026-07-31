@@ -1,0 +1,143 @@
+{
+  "window": {
+    "from": "2026-07-30",
+    "to": "2026-07-31"
+  },
+  "raw_count": 10,
+  "related": [
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "NA"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT06622057",
+      "nctId": "NCT06622057",
+      "title": "D07001 Softgel-Capsules and Capecitabine Combination Therapy in Patients With Advanced Biliary Tract Cancer",
+      "conditions": [
+        "Biliary Tract Cancer (BTC)"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "hasResults": true
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE1"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    }
+  ],
+  "focus": [
+    {
+      "nct": "NCT07738055",
+      "nctId": "NCT07738055",
+      "title": "Study on the Combined Treatment of Hepatocellular Carcinoma With Envafolimab, Suvemcitug and HAIC Conversion",
+      "conditions": [
+        "Potentially Resectable Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "NA"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT06622057",
+      "nctId": "NCT06622057",
+      "title": "D07001 Softgel-Capsules and Capecitabine Combination Therapy in Patients With Advanced Biliary Tract Cancer",
+      "conditions": [
+        "Biliary Tract Cancer (BTC)"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "RECRUITING",
+      "hasResults": false
+    },
+    {
+      "nct": "NCT04194775",
+      "nctId": "NCT04194775",
+      "title": "A Study of Nofazinlimab (CS1003) in Subjects With Advanced Hepatocellular Carcinoma",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE3"
+      ],
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "hasResults": true
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-30",
+      "phases": [
+        "PHASE1"
+      ],
+      "overallStatus": "NOT_YET_RECRUITING",
+      "hasResults": false
+    }
+  ],
+  "related_ncts": [
+    "NCT07738055",
+    "NCT06622057",
+    "NCT04194775",
+    "NCT07715903"
+  ],
+  "focus_ncts": [
+    "NCT07738055",
+    "NCT06622057",
+    "NCT04194775",
+    "NCT07715903"
+  ]
+}

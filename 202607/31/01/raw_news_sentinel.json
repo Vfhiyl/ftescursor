@@ -1,0 +1,86 @@
+{
+  "checked_at": "2026-07-31T01:09:56.911292+00:00",
+  "sources": [
+    {
+      "lang": "EN",
+      "name": "ESMO Daily Reporter",
+      "url": "https://dailyreporter.esmo.org/",
+      "http_status": 200,
+      "keyword_hits": 4,
+      "reachable": true,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "EN",
+      "name": "ASCO Post",
+      "url": "https://ascopost.com/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "reachable": true,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "EN",
+      "name": "OncLive",
+      "url": "https://www.onclive.com/",
+      "http_status": 403,
+      "keyword_hits": 0,
+      "reachable": false,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "JA",
+      "name": "日経がんナビ",
+      "url": "https://oncolo.jp/",
+      "http_status": 500,
+      "keyword_hits": 0,
+      "reachable": false,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "ZH",
+      "name": "国家卫健委",
+      "url": "https://www.nhc.gov.cn/",
+      "http_status": 412,
+      "keyword_hits": 0,
+      "reachable": false,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "FR",
+      "name": "HAS",
+      "url": "https://www.has-sante.fr/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "reachable": true,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "DE",
+      "name": "AWMF",
+      "url": "https://www.awmf.org/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "reachable": true,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "RU",
+      "name": "Minzdrav",
+      "url": "https://minzdrav.gov.ru/",
+      "http_status": 0,
+      "keyword_hits": 0,
+      "reachable": false,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    },
+    {
+      "lang": "KO",
+      "name": "KLCA-NCC",
+      "url": "https://www.klca.or.kr/",
+      "http_status": 200,
+      "keyword_hits": 0,
+      "reachable": true,
+      "note": "page-level keyword scan only; not article-level NEW without extractable URLs"
+    }
+  ]
+}

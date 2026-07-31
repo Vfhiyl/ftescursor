@@ -1,0 +1,137 @@
+{
+  "window": {
+    "from": "2026-07-30",
+    "to": "2026-07-31",
+    "preprint_from": "2026-07-24"
+  },
+  "works": [
+    {
+      "id": "https://openalex.org/W7171665834",
+      "doi": "10.1007/s40820-026-02320-7",
+      "title": "Biomimetic PD-1-Functionalized Immunostimulatory Nanomedicine Enables STING Activation and Durable Antitumor Immunity in Hepatocellular Carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171613638",
+      "doi": "10.18528/ijgii260007",
+      "title": "Prevalence of viral infection and its impact on early-stage hepatocellular carcinoma: Insights from Mongolia, a developing country",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171709039",
+      "doi": "10.1038/s41598-026-62723-9",
+      "title": "Integrated LiP-MS and quantitative proteomics reveal coordinated alterations in protein conformation and expression across tumor and peritumoral regions in hepatocellular carcinoma",
+      "publication_date": "2026-07-30",
+      "type": "article",
+      "cited_by_count": 0
+    }
+  ],
+  "works_count": 3,
+  "works_raw_before_strong_filter": 3,
+  "preprints": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171544280",
+      "doi": "10.21203/rs.3.rs-10108692/v1",
+      "title": "Patterns of Topical Hemostatic Material Use and Major Bleeding in Hepatectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171565191",
+      "doi": "10.21203/rs.3.rs-10448266/v1",
+      "title": "Impact of a Weekend-Off Lenvatinib Dosing Regimen on Dose Intensity and Safety in Lenvatinib–Pembrolizumab Therapy for Advanced Endometrial Cancer",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprints_theme": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171544280",
+      "doi": "10.21203/rs.3.rs-10108692/v1",
+      "title": "Patterns of Topical Hemostatic Material Use and Major Bleeding in Hepatectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171565191",
+      "doi": "10.21203/rs.3.rs-10448266/v1",
+      "title": "Impact of a Weekend-Off Lenvatinib Dosing Regimen on Dose Intensity and Safety in Lenvatinib–Pembrolizumab Therapy for Advanced Endometrial Cancer",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprint_count": 6,
+  "api_calls_note": "publication_date filters only; api_key via env not stored"
+}
