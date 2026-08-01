@@ -1,0 +1,49 @@
+{
+  "folder": "202608/01/06",
+  "previous_folder": "202608/01/05",
+  "trigger_utc": "2026-08-01T06:01:14.793Z",
+  "collected_at_utc": "2026-08-01T06:02:01.070392+00:00",
+  "window_start_utc": "2026-07-31T06:01:14.793000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 66,
+    "pubmed_pdat_count": 200,
+    "pubmed_edat_new_ids": [],
+    "pubmed_clinical_leaning": 39,
+    "crossref_unique_title_filtered": 62,
+    "crossref_new_dois": [
+      "10.1007/s00595-026-03450-6"
+    ],
+    "clinicaltrials_related": 14,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "openalex_count": 3,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 12,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 0,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "ctis_related": 129,
+    "ctis_focus": 119,
+    "ctis_recent_in_window": 1,
+    "ctis_recent_numbers": ["2023-510504-45-00"],
+    "media_theme_items": 53,
+    "news_sentinel_note": "EDAT identical vs 05h; Crossref +1 Surgery Today drain-fluid lymphocyte predictor after hepatectomy (observe). Media ZH title churn on Science HCC lung-mets atlas. Must-read empty. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "Previous pack on main is 202608/01/05.",
+    "PubMed EDAT ID set identical to 05h (NEW=0).",
+    "Crossref NEW DOI=1: 10.1007/s00595-026-03450-6 (Surgery Today; postoperative infectious complications after hepatectomy) — observe only.",
+    "CT/CTIS/OA/preprint/news NEW=0; media theme 53 with ZH Science atlas title rewording only.",
+    "Must-read empty; commit as no material delta.",
+    "unchanged_vs_previous=false due to Crossref +1; short pack."
+  ]
+}

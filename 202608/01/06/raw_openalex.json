@@ -1,0 +1,244 @@
+{
+  "filter_mode": "publication_date_only",
+  "window": [
+    "2026-07-31",
+    "2026-08-01"
+  ],
+  "preprint_window": [
+    "2026-07-25",
+    "2026-08-01"
+  ],
+  "works_count": 3,
+  "works": [
+    {
+      "id": "https://openalex.org/W7171863306",
+      "doi": "10.1186/s12935-026-04408-x",
+      "title": "The evolving role of TP53 mutation in hepatocellular carcinoma (HCC)",
+      "publication_date": "2026-07-31",
+      "type": "article",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7168443916",
+      "doi": null,
+      "title": "Desarrollo y evaluación de una formulación para un medicamento herbolario con actividad hepatoprotectora a base de Turnera diffusa",
+      "publication_date": "2026-08-01",
+      "type": "dissertation",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7169634043",
+      "doi": null,
+      "title": "Association Between Stress Mindset, Psychological Symptoms, and Psychosocial Risk in Liver Transplant Patients",
+      "publication_date": "2026-08-01",
+      "type": "article",
+      "cited_by_count": 0
+    }
+  ],
+  "preprints_theme": [
+    {
+      "id": "https://openalex.org/W7171525442",
+      "doi": "10.21203/rs.3.rs-10483008/v1",
+      "title": "Exploring lncRNAs as Biomarkers for Monitoring Hepatocellular Carcinoma Immunotherapy Response",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171796535",
+      "doi": "10.21203/rs.3.rs-10256326/v1",
+      "title": "BMP9 Promotes Hepatocellular Carcinoma Progression By Accelerating Cell Cycle through CKS1B Lactylation",
+      "publication_date": "2026-07-30",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171461925",
+      "doi": "10.21203/rs.3.rs-10334645/v1",
+      "title": "Cancer cell membrane-coated PLGA nanoparticles deliver lupiwighteone to target EGFR and suppress hepatocellular carcinoma",
+      "publication_date": "2026-07-27",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171544280",
+      "doi": "10.21203/rs.3.rs-10108692/v1",
+      "title": "Patterns of Topical Hemostatic Material Use and Major Bleeding in Hepatectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171091335",
+      "doi": "10.21203/rs.3.rs-9874676/v1",
+      "title": "Cost-effectiveness analysis of C-GALAD for early hepatocellular carcinoma screening in HBV-related cirrhotic patients in China",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171631701",
+      "doi": "10.21203/rs.3.rs-10395965/v1",
+      "title": "Study on the Learning Curve of Single-Center Robot-Assisted Hepatectomy for Malignant Liver Tumors",
+      "publication_date": "2026-07-29",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171818695",
+      "doi": "10.21203/rs.3.rs-10028031/v1",
+      "title": "Comparative Outcomes of All-trans Retinoic Acid-Based Chemotherapy versus Radiotherapy Combined with Targeted and Immunotherapy in Hepatocellular Carcinoma Patients with Pulmonary Metastases",
+      "publication_date": "2026-07-30",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171545549",
+      "doi": "10.21203/rs.3.rs-10501583/v1",
+      "title": "The Risk Mechanism Theory Index (RMTI) as a Triage and Evidence-Grading Layer for Hepatocellular-Carcinoma SurveillanceA transparent, computable model for the diagnosis-to-detection-to-management cascade, with an open calculator and a real-data demonstration",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171117043",
+      "doi": "10.21203/rs.3.rs-10169506/v1",
+      "title": "Applied anatomical study of segmental Glissonean pedicles at the hepatic hilum under the concept of Laennec's Capsule",
+      "publication_date": "2026-07-25",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171518564",
+      "doi": "10.21203/rs.3.rs-10347193/v1",
+      "title": "Three-Dimensional Anatomical Classification and Machine Learning Prediction of the P6a–Right Hepatic Vein Relationship: Surgical Implications for Laparoscopic Right Anterior Sectionectomy",
+      "publication_date": "2026-07-28",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171627266",
+      "doi": "10.64898/2026.07.28.741358",
+      "title": "Hepatic huntingtin loss drives an acute phase response and liver injury in multiple mouse models",
+      "publication_date": "2026-07-29",
+      "type": "preprint",
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7171629431",
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "publication_date": "2026-07-29",
+      "type": "preprint",
+      "cited_by_count": 0
+    }
+  ],
+  "preprint_count": 12,
+  "optional_tace_immuno": [],
+  "meta_works": {
+    "count": 3,
+    "db_response_time_ms": 113,
+    "page": 1,
+    "per_page": 50,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where date >= (2026-07-31)\n  and date <= (2026-08-01)\n  and full text has (\n    TACE\n    or cholangiocarcinoma\n    or hepatectomy\n    or hepatocellular carcinoma\n  )",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "from_publication_date",
+            "value": "2026-07-31"
+          },
+          {
+            "column_id": "to_publication_date",
+            "value": "2026-08-01"
+          },
+          {
+            "join": "or",
+            "filters": [
+              {
+                "column_id": "fulltext.search",
+                "value": "TACE",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "cholangiocarcinoma",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatectomy",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatocellular carcinoma",
+                "operator": "has"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "/works?filter=from_publication_date:2026-07-31,to_publication_date:2026-08-01,fulltext.search:TACE|cholangiocarcinoma|hepatectomy|hepatocellular carcinoma&per_page=50"
+    },
+    "cost_usd": 0.001
+  },
+  "meta_preprints": {
+    "count": 54,
+    "db_response_time_ms": 87,
+    "page": 1,
+    "per_page": 50,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where date >= (2026-07-25)\n  and date <= (2026-08-01)\n  and type is (preprint)\n  and full text has (\n    TACE\n    or cholangiocarcinoma\n    or hepatectomy\n    or hepatocellular carcinoma\n  )",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "from_publication_date",
+            "value": "2026-07-25"
+          },
+          {
+            "column_id": "to_publication_date",
+            "value": "2026-08-01"
+          },
+          {
+            "column_id": "type",
+            "value": "preprint"
+          },
+          {
+            "join": "or",
+            "filters": [
+              {
+                "column_id": "fulltext.search",
+                "value": "TACE",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "cholangiocarcinoma",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatectomy",
+                "operator": "has"
+              },
+              {
+                "column_id": "fulltext.search",
+                "value": "hepatocellular carcinoma",
+                "operator": "has"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "/works?filter=from_publication_date:2026-07-25,to_publication_date:2026-08-01,type:preprint,fulltext.search:TACE|cholangiocarcinoma|hepatectomy|hepatocellular carcinoma&per_page=50"
+    },
+    "cost_usd": 0.001
+  },
+  "calls_used": 3,
+  "api_key_present": true
+}
