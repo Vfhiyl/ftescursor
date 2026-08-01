@@ -1,0 +1,380 @@
+{
+  "window": [
+    "2026-07-31",
+    "2026-08-01"
+  ],
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "via": "continuity"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "via": "continuity"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "via": "continuity"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "via": "continuity"
+    }
+  ],
+  "europepmc_ppr": [],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 3,
+    "europepmc_ppr": 0
+  },
+  "fp_trimmed": [
+    {
+      "doi": "10.1101/2025.09.29.25336741",
+      "title": "Differences in body temperature drive sex-specific immune responses",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.24.26358864",
+      "title": "An fMRI Phenotype of Reward in Effort Expenditure in the VTA and Dorsal Raphe: A Longitudinal Study of Depression under Escitalopram Treatment",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2024.09.03.24311998",
+      "title": "A Pathology-Trained Lipid Aging Clock Reveals Accelerated Aging and Prognostic Sphingolipid Signatures in Pancreatic Disease",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2024.08.15.24311977",
+      "title": "Disentangling the drivers of heterogeneity in SARS-CoV-2 transmission from data on viral load and daily contact rates",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359050",
+      "title": "Interim BNT162b2 LP.8.1-adapted COVID-19 Vaccine Effectiveness among Non-Immunocompromised Older Adults in California and Louisiana, August-December 2025",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359016",
+      "title": "Mapping the retail food environment at high resolution across Europe",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26345851",
+      "title": "Design and pilot clinical evaluation of a low-cost, continuous respiratory monitor for newborns",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26358336",
+      "title": "Moving Past Tonsil Position: Craniocervical Junction Crowding Shapes Cerebrospinal Fluid Effective Motility in Chiari I Malformation",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358819",
+      "title": "Localising the epileptogenic zone from single-pulse electrical stimulation responses using cross-trial attention",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359051",
+      "title": "The anatomy of regression-to-the-mean in simulated epilepsy trials",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26358654",
+      "title": "Synchronizing EEG with Intracranial DBS Electrode Recordings for Neurophysiological Research",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26359037",
+      "title": "A Non-Invasive Urinary Bile-Acid Marker for Never-Smoker Lung Cancer",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.26358969",
+      "title": "Genomic atlas of cardiac and adiposity imaging phenotypes",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359236",
+      "title": "Functional assessment improves discrimination of clinical and biomarker-defined Alzheimers disease",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359233",
+      "title": "Nutri-Score labelling in the out-of-home food sector: evidence on effectiveness from a large, randomised control trial in UK restaurant settings",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359226",
+      "title": "Household energy poverty and sleep disorders among people living with HIV: Does the level of physical activity have any moderating effect?",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358798",
+      "title": "Smartphone-connected, battery-free aptamer-based digital test for quantification of procalcitonin and monitoring of infection at the point of care",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26358751",
+      "title": "Large language models enable consensus-level interpretation in metagenomic diagnostics",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26357846",
+      "title": "Preventing aspiration events in hospital using prophylactic antiemetics: A systematic review and meta-analysis",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359198",
+      "title": "Evaluation of Type 2 Diabetes Like Subtypes in Gestational Diabetes",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358493",
+      "title": "Complementing Behavioral Weight Loss with Breath-based Yoga: A Proof-of-Concept and Initial Feasibility Study",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359225",
+      "title": "Reducing the Burden of Hypoglycemia: FLO23011 Improves Patient-Reported Outcomes and Identifies Glycemic Predictors of Treatment Success",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359196",
+      "title": "Depression, immune-metabolic alterations and mortality in haemodialysis: a prospective cohort study",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359214",
+      "title": "Life course shaping of allostatic load across 17 countries: Evidence from England, the U.S., Europe, China and Indonesia",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359210",
+      "title": "Research agenda setting in the mental health of neurodivergent students: A qualitative exploration of students perspectives",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359245",
+      "title": "A room of one's own: separate accommodation after perinatal loss and the value of midwifery care",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.26359110",
+      "title": "The measure and mismeasure of depression in older adults",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.26358859",
+      "title": "Robustness of Long Axial Field-of-View PET to Defective Detector Blocks: Impact on Quantitative Accuracy",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358831",
+      "title": "A genetic regulatory map of human synovium and fat pad across the osteoarthritis spectrum",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.27.26358996",
+      "title": "TruBlkTM Shilajit Resin Supplementation Improves Muscle Strength, Endurance, and Exercise Recovery in Males Undertaking Resistance Training: A Randomised, Double-Blind, Placebo-Controlled, Multicenter Trial",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.06.19.733280",
+      "title": "Bacteria Hijack a Host Metabolite via Three Distinct Sensors to Orchestrate Infection",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.740998",
+      "title": "Hypothalamic oligodendrocytes regulate systemic energy balance through Notch-dependent state transitions",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2025.12.17.695042",
+      "title": "Metabolic brain networks switch between a sparsely connected baseline and highly integrated states to support cognition",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741073",
+      "title": "A Neurotensin Brake on Exploratory Drive under Persistent Threat",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741426",
+      "title": "Impaired astrocyte-to-neuron cholesterol trafficking drives synaptic dysfunction in Rett syndrome",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741706",
+      "title": "Distinct spatial associations of adversity with hippocampal macro- and microstructure in early adolescence",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.740767",
+      "title": "Synaptic engram underlies memory",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741366",
+      "title": "Ephaptic coupling improves the neural population code",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741559",
+      "title": "Loss of neurofibromin alters adult metabolism via effects during a developmental critical period",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741555",
+      "title": "Memory encoding reprograms neuronal transcriptional responses via durable chromatin remodeling",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741279",
+      "title": "White matter conduction in the human brain is mostly slow, with rare high velocity connections",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.05.30.729012",
+      "title": "Long-term decline in egg size of Japanese hatchery chum salmon links to declines in return rate and abundance",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741368",
+      "title": "Rare variants drive high variance in human ancestral fitness at mutation-selection-drift balance",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741768",
+      "title": "FCD-11: A First-in-Class COMPASS Inhibitor in Cancer Therapeutics",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741242",
+      "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741793",
+      "title": "Microfluidic T-Chip enables one-step clinical-scale T-cell purification from blood products for CAR T-cell manufacturing",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741618",
+      "title": "Systematic modeling of phenotypic drug response profiles inpatient-derived organoids",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741771",
+      "title": "Targeting the NuRD Component, CHD4, Impairs Foxp3+ Treg Cell Production and Function and Promotes Anti-Tumor Immunity",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741780",
+      "title": "INSM1 Regulates Neuroendocrine Plasticity and Tumor Progression in Prostate Cancer",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741898",
+      "title": "Transcriptomic and physiological analyses reveal a salinity-induced growth suppression and defense activation in spring barley",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741590",
+      "title": "Agrochemical-responsive gene expression control systems for modulating plant development and metabolism",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.06.16.732444",
+      "title": "Olfactory Loss Enhances Visual Learning in Drosophila through Structural and Functional Reorganisation",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741321",
+      "title": "Striatal acetylcholine enables latent-state creation during reversal learning",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741302",
+      "title": "Thalamocortical orchestration of human theory of mind",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741759",
+      "title": "Deep Mechanistic Models reveal pathway-extrinsic drivers of mammary MAPK signalling heterogeneity",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741885",
+      "title": "A progressive reduction in basal phosphorylation of glutamate receptors along postweaning development accompanies maturation of hippocampal theta-burst-induced LTP.",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.29.741410",
+      "title": "Dissociable thalamic oscillatory mechanisms support motor sequence learning",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741766",
+      "title": "Aptitude, not polyglotism, is associated with efficient activation in core language areas.",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741770",
+      "title": "Distinct Neural Signatures Underlie Finger Tapping and Walking to Auditory Rhythms",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741158",
+      "title": "LiteVax-adjuvanted influenza vaccine induces transient interferon-driven innate activation and accelerates early IgG3 responses in older adults",
+      "reason": "biorxiv_offtheme"
+    }
+  ],
+  "continuity": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "server": "medrxiv",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "version": "1"
+    },
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "server": "biorxiv",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "version": "3"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "server": "biorxiv",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "version": "3"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "server": "biorxiv",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "version": "1"
+    }
+  ]
+}
