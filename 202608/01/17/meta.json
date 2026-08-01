@@ -1,0 +1,53 @@
+{
+  "folder": "202608/01/17",
+  "previous_folder": "202608/01/16",
+  "trigger_utc": "2026-08-01T17:01:35.245Z",
+  "collected_at_utc": "2026-08-01T17:02:29.868400+00:00",
+  "window_start_utc": "2026-07-31T17:01:35.245000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 75,
+    "pubmed_pdat_count": 200,
+    "pubmed_edat_new_ids": [],
+    "pubmed_clinical_leaning": 43,
+    "crossref_unique_title_filtered": 67,
+    "crossref_new_dois": [
+      "10.1245/s10434-026-20328-6",
+      "10.1245/s10434-026-20283-2"
+    ],
+    "clinicaltrials_related": 14,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "openalex_count": 50,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 13,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 0,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "ctis_related": 129,
+    "ctis_focus": 119,
+    "ctis_recent_in_window": 1,
+    "ctis_recent_numbers": ["2023-510504-45-00"],
+    "media_theme_items": 54,
+    "news_sentinel_note": "EDAT/CT/CTIS/OA/preprints/news/media identical vs 16h. Crossref +2: ASO Visual Abstract (observe) + CRLM hepatectomy FP. EASL guidelines page SSL timeout (scan jitter, not panel change). Must-read empty. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "Previous pack on main is 202608/01/16.",
+    "PubMed EDAT ID set identical (75); NEW=0.",
+    "Crossref 65→67; NEW DOI=10.1245/s10434-026-20328-6 (ASO Visual Abstract, sequential LRT during 1L LEN/Atezo-Bev) — observe only; NEW DOI=10.1245/s10434-026-20283-2 (CRLM hepatectomy) — FP noise.",
+    "CT focus/related 14 identical; NEW NCT=0.",
+    "CTIS focus/recent identical (RESCUE-HUB still recent-in-window).",
+    "OpenAlex works/preprints identical (50/13); OA NEW DOI=0.",
+    "Preprint channel NEW=0; news NEW URL=0; media theme titles identical.",
+    "Guidelines: EASL CPG list SSL handshake timeout → theme_hits 10→7; AASLD/NCCN/JSH unchanged — not a panel change.",
+    "Must-read empty — no material delta."
+  ]
+}
