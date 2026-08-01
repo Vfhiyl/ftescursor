@@ -1,0 +1,375 @@
+{
+  "checked_at": "2026-08-01T16:03:58.233451+00:00",
+  "role": "attention_signal",
+  "note": "Trade / news agenda signals only — not clinical evidence. Prefer PubMed / trials / guidelines / HTA for practice-changing claims.",
+  "google_news": [
+    {
+      "lang": "en",
+      "name": "Google News EN HCC",
+      "url": "https://news.google.com/rss/search?q=hepatocellular%20carcinoma%20OR%20%22liver%20cancer%22%20HCC%20when:7d&hl=en-US&gl=US&ceid=US:en",
+      "status": 200,
+      "error": null,
+      "item_count": 9,
+      "theme_items": [
+        {
+          "title": "At ASCO, Liver Cancer Advocate Urges Annual CT Scans to Catch HCC",
+          "source": "Cure Today",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXBPd0hDUEtGTjJvN1ZnV1lfVmxpbUwzakNOdTN4cjROQ3B3Uk5HRTllT1g3QVBiYVpJb090WWVneXE3amJnbjNuaG9BcXNaUnB1ZTJGZklfal9EVVV2X2JzOUM5VDBnOHBkTEh1SlpSa2htT2h0ZDB3LUxRN1N0ZUdMX2Ezd2FPU3I1UTdHNF9vbnFMOWpJZnpXaw?oc=5",
+          "published": "Tue, 28 Jul 2026 19:08:30 GMT",
+          "summary_snip": "At ASCO, Liver Cancer Advocate Urges Annual CT Scans to Catch HCC Cure Today"
+        },
+        {
+          "title": "The epigenetic KMT5C-HDAC1 axis promotes hepatocellular carcinoma stemness and progression through SERPINA4 repression and chromatin compaction",
+          "source": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84MVFnYjlTZDVIa1lJX21NdmRwZEJodmJoUGlhWkR5cUtQUC1LcFpoN2xraFBHSGt0cGpJVGFBdFpMWk9RaEtoZ3RkOW1ZN01kVGtmTnN6VDRPMjAyZm84?oc=5",
+          "published": "Mon, 27 Jul 2026 15:17:11 GMT",
+          "summary_snip": "The epigenetic KMT5C-HDAC1 axis promotes hepatocellular carcinoma stemness and progression through SERPINA4 repression and chromatin compaction Nature"
+        },
+        {
+          "title": "Blood Test Boosts Early Detection of Liver Cancer",
+          "source": "Inside Precision Medicine",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2x6c1Z5VEJGWjltdnhUYUY1ckVZUXhQZ2tzcTNxQzZGeEVsRjRoYVJfTnpkTk9NV19VTy1nQ2Q3LUFLeHJ5WmFoSTVpSkpXZ1VSYy1kaVY2VmE0UXZIWTlJX2hNeElFQjh0TUktZ09DYTlsbWk0eDNETllmY3V1MWFYXzh1bjRGbUZHRXF2WVRiekg5Znkyd3FabFBkY2ZnUnRvNDN5V0lUUQ?oc=5",
+          "published": "Fri, 31 Jul 2026 16:32:40 GMT",
+          "summary_snip": "Blood Test Boosts Early Detection of Liver Cancer Inside Precision Medicine"
+        },
+        {
+          "title": "Metabolic dysfunction-associated steatotic liver disease diminishes the efficacy of miR-125b-5p-engineered MSC therapy for hepatocellular carcinoma via HK2 upregulation",
+          "source": "EurekAlert!",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yZWlUTmZULWh2aExPOFo0U1RLX1EzNlRVMVhVY3BSUkVDbUdEMzZtdkw3Z1ljekc2a2hIck80ZzBwYUFaRmo0V1FleFpFRE5fZk5aUzNrb2lMbzRi?oc=5",
+          "published": "Fri, 31 Jul 2026 18:44:06 GMT",
+          "summary_snip": "Metabolic dysfunction-associated steatotic liver disease diminishes the efficacy of miR-125b-5p-engineered MSC therapy for hepatocellular carcinoma via HK2 upregulation EurekAlert!"
+        },
+        {
+          "title": "AFP blood tests could improve early liver cancer detection: study",
+          "source": "koreabiomed.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XcDJaNUV4RXRCR2tqUzZpQTlFV1Q5MUFIeTlmYlNZUFA0WDVaTnJ6Y0FVMW40TGhDcWozaGRlV19UemdJcXVlWXNrVnIyc0huVl94OGJ3WG84N2x6c1VpT2NCcWZuN3ZqNEVub2FB0gFyQVVfeXFMTkx0N2NGZV91S2pjYWlvR1k1S3dMaW1pMVdqYUZYVlNQMmVrLUFxZHlUOTVMaGVjR1Q0bFdBa29KaFZUQkw1OVB1Nl9uZkgxeF9jV29WamtFVThDcTZ0ZWZqcVFDZ2M0TFRCV3FSYXJrdWxB?oc=5",
+          "published": "Mon, 27 Jul 2026 07:32:10 GMT",
+          "summary_snip": "AFP blood tests could improve early liver cancer detection: study koreabiomed.com"
+        },
+        {
+          "title": "Unmasking infiltrative hepatocellular carcinoma: a pictorial essay",
+          "source": "springermedicine.com",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2xnd1daQXVYNlZVUnh0S1BVc1BuRmVrVFhHYUV3TzlWd2kzZXhiODdQLUFVNl9yaWE5aVJyZmVfbkZOTkt0cTBjRlhWRFNoWmw1ckZBZ2Y5aTlVU3N3ZkpTNnAtQkRBWTFEZEN1eGxhS0lOX1ZjMHl6bXRsSEIzN0FManpyYlNoWmJYT2FUcHhaaGNsSUUzMVZGVlFyT1dQdFVuYzMzNlJLUHJadE9ZNUYxWkwzSmlMczhuLXpRTWg1cXFMZXZRWE85ZDRTMHJrWTktbkUtQWVMdXdienN6ZUxmNW1hUVNQLXBDcw?oc=5",
+          "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+          "summary_snip": "Unmasking infiltrative hepatocellular carcinoma: a pictorial essay springermedicine.com"
+        },
+        {
+          "title": "Bundang CHA study sheds light on nivolumab-ipilimumab outcomes in high-risk liver cancer",
+          "source": "koreabiomed.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSE1EUTZkMTExbGNjdHhLWnQ1Q2EzMEhSV2tRVTFUcm9nV3dtbi1oa25UVGJwV0JhM3FfX1pOWmdmZDd1cklucVdCT1otdG5NWGo5STluY1lKSnlVT080M2wyeWNSa21XSThPRXdB0gFyQVVfeXFMTUZvZXppRWp1QzFnZUNWQk1nbGx2aEpob2tRcml2dnJTN192WjNpWFBQb2NXTHN6NUxQMFprWUNnbVVVdy16Rl9OSERWWDNlVmh1RHU5ZGRFVk93WU5XQkxEU25VTjRRaXhrZWNtd01aYTlB?oc=5",
+          "published": "Mon, 27 Jul 2026 02:12:40 GMT",
+          "summary_snip": "Bundang CHA study sheds light on nivolumab-ipilimumab outcomes in high-risk liver cancer koreabiomed.com"
+        },
+        {
+          "title": "The first liver transplant in the southern region was performed on a pediatric patient with hepatocellular carcinoma.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazh6VEoyemdtdm16dFNuUFFKNXJBVWdrd0hNWjNrY2g5OXMxTEpKN2ZNYmNFbVhIelM5UHl4UFJ1TVpid2lsN3RpbEZaNU43ZE96aXRGVFROMEhQM0hlYVNrbkxUNFA5enVKZWtHRUF0N2hvQ3NSOWlUVF9tUXZVMDFva0VyWjZTRHpXcVFqbFFjZ05jazFYTWpaWEh3d1NBOFNCU2xJZ2xCQms?oc=5",
+          "published": "Sat, 01 Aug 2026 10:54:57 GMT",
+          "summary_snip": "The first liver transplant in the southern region was performed on a pediatric patient with hepatocellular carcinoma. Vietnam.vn"
+        }
+      ],
+      "dropped_noise": 0
+    },
+    {
+      "lang": "zh",
+      "name": "Google News ZH 肝癌",
+      "url": "https://news.google.com/rss/search?q=%E8%82%9D%E7%99%8C%20OR%20%E8%82%9D%E7%BB%86%E8%83%9E%E7%99%8C%20when:7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "status": 200,
+      "error": null,
+      "item_count": 56,
+      "theme_items": [
+        {
+          "title": "肝癌是如何肺转移的？我国科学家首次完整还原全过程",
+          "source": "科学网—新闻",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGZkZjM0pQNFUxOE5NdlI3TXVlT3hkWXloQUprdWQ5RlMyYmtseGszUDk3RnlZR0MxMjJaTzhDTlFtNVlfOVN0emhQUklvR1FRWHJXcW5yQlJCR0ZFdW5BcUZhNUQ?oc=5",
+          "published": "Fri, 31 Jul 2026 09:25:20 GMT",
+          "summary_snip": "肝癌是如何肺转移的？我国科学家首次完整还原全过程 科学网—新闻"
+        },
+        {
+          "title": "综述：基于金属有机框架的肝细胞癌治疗策略：当前进展与未来展望",
+          "source": "生物通",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14c2JNSk82YTFDVnl3RklnOGp4REJoZTQxckZfWnNkeFNQcXdObm5fVUVmUmJqbE5EeC1scGNHQWp5NmxEVzdlSnY0NW9vRmw0RGVvQlBDYktsTkh3ZEczcDJ1WnFHdlNCYnItSQ?oc=5",
+          "published": "Wed, 29 Jul 2026 05:16:16 GMT",
+          "summary_snip": "综述：基于金属有机框架的肝细胞癌治疗策略：当前进展与未来展望 生物通"
+        },
+        {
+          "title": "肝细胞癌的多维演变：从关键遗传驱动到临床诊疗新格局",
+          "source": "user.guancha.cn",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GR1FsN0FseHhsQXV6a2JYN1dsUjNIbnZ0RUZBallGdmRZclZBRDNQOHFpRWM3T1JnM0pMUHhTMkc2RVdXZXRUMWJDSzNQMDFfR2hWcndtRVotWVVhN0lTN0djbTRhVjBickE?oc=5",
+          "published": "Mon, 27 Jul 2026 13:03:44 GMT",
+          "summary_snip": "肝细胞癌的多维演变：从关键遗传驱动到临床诊疗新格局 user.guancha.cn"
+        },
+        {
+          "title": "中国专家团队率先破解肝癌肺转移“时空密码”",
+          "source": "chinanews.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RVmZqQTJfMzlhWFVLMTdGekJLTmlCb1NjTmM2Zk5QZzd1dVBBS1drdkprcF9jYTVxOGZ4S0ZmTVk0dXFBNWFMQ0pTWTVGUTRwZHZFYlhJRUl2Zm5MM01zVWZ5blQ3UDR1?oc=5",
+          "published": "Fri, 31 Jul 2026 12:17:01 GMT",
+          "summary_snip": "中国专家团队率先破解肝癌肺转移“时空密码” chinanews.com.cn"
+        },
+        {
+          "title": "中山医院团队解析肝癌肺转移定植全过程，解锁肿瘤免疫逃逸时空机制",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRFN3dmRsM2pyaXVycHdFWmptS1pQd01TYnpsTGFmc3JFWXdRMUc2N015Rm9BM19NMFBjMDdpcFFPU2wycHlOaFl4bURzRk9OWVhWd3VpdmJSZlRfb29OTjdIeXB1OHRfUzYybk1mVmJYSVMyME0xMHFJMkIwMTRCWl9lU1lmRVpaMVZRRnI4RTBmZU9DTTZQdUhPWVl3eV9OUU84UVVnbw?oc=5",
+          "published": "Fri, 31 Jul 2026 18:32:38 GMT",
+          "summary_snip": "中山医院团队解析肝癌肺转移定植全过程，解锁肿瘤免疫逃逸时空机制 新浪财经"
+        },
+        {
+          "title": "破解肝癌肺转移“黑箱”！复旦团队Science发文",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1VGZEWDhnQnBFaEFIZC0tdzVHXzVlMEVGOFBiel9fTk01WTRORGlVYldJak9zQkI2MldmSFRxNTZKYUlOajF2MjJJLXpCN2NEeTlBSTJma2E3MEJoTWkzeXVxWFdSQkd1RlpvcjlPVXNLUTRNRVdVWg?oc=5",
+          "published": "Fri, 31 Jul 2026 13:30:00 GMT",
+          "summary_snip": "破解肝癌肺转移“黑箱”！复旦团队Science发文 新浪财经"
+        },
+        {
+          "title": "全球超60%肝癌病例与可预防风险因素相关，肥胖相关病例持续上升",
+          "source": "QQ News",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NOWJNcUp1M1U1U1MyNVNKeV9nSHBnMm9qaGNPVGtaTm14YXpMaDlBLWhsMDlRSE1wWUZFMHMzelNfVG5JYzZrdkRSeURGblBmUWpnN3Nn?oc=5",
+          "published": "Tue, 28 Jul 2026 05:41:00 GMT",
+          "summary_snip": "全球超60%肝癌病例与可预防风险因素相关，肥胖相关病例持续上升 QQ News"
+        },
+        {
+          "title": "世界肝炎日：科学防控阻断肝病恶变 肝癌诊疗理念迭代升级",
+          "source": "Sohu",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDA0eHVxMGNpQ09vbDF4Wi1pUHBlekc5bFVrYzF5aVlaNFc0b05PVmlRdmd4VHFvQTEwQktpc3I2dkY3M0U0R2o1VzFzWnByTFVSVVpOQVdmZDFwdHpEX1NNVW1DR1RPbGFESXlFT19JMWRHZXoyc0VQbzZuS3VGY1pTdDVJbm1hYUdETA?oc=5",
+          "published": "Mon, 27 Jul 2026 06:15:40 GMT",
+          "summary_snip": "世界肝炎日：科学防控阻断肝病恶变 肝癌诊疗理念迭代升级 Sohu"
+        },
+        {
+          "title": "世界肝炎日·守护小心“肝”丨从乙肝到肝癌有多远？",
+          "source": "大河网",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfaEIzVW9zWGdlOHZRSmtzcFBJN2p2QVQ1c2IwU0pZdzUzX2I0TW9HQjJiMEZXNmxCZzVJdzJQcW9ITW1LSmFhdU9Od05tODVPZ1JoVW5Pcw?oc=5",
+          "published": "Thu, 30 Jul 2026 10:18:09 GMT",
+          "summary_snip": "世界肝炎日·守护小心“肝”丨从乙肝到肝癌有多远？ 大河网"
+        },
+        {
+          "title": "Science：樊嘉院士领衔，全球首次绘制肝癌转移时空图谱",
+          "source": "亿欧",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44Q0J2NTkxMFBLSlNreFpsREQtaGhkV1pvRlJ1ZkdXNG45dVgza0FuTk5uTi1DV0lxSWV0Rm1xbDk3Vkh5bTdycTd2ZXllVWdPSXBIWlhMd3pEQQ?oc=5",
+          "published": "Sat, 01 Aug 2026 04:48:03 GMT",
+          "summary_snip": "Science：樊嘉院士领衔，全球首次绘制肝癌转移时空图谱 亿欧"
+        },
+        {
+          "title": "世界肝炎日｜部分患者查出肝癌后才发现自己有肝炎，如何早发现？",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtT3U4d25UcXB0b2dfY2w3b01OcmNXUjJ2d1B0VlNpUUx3OVVJQ1I1ektBOTRub2R1b2RqNy1TdDU5TFhTTlJkdFFBN2hTZExBbHh3MjRuTVZpeEs5X00zYjRUZkt6R0lTZF9WY0ZZMXplRFBkMUhvUQ?oc=5",
+          "published": "Wed, 29 Jul 2026 08:23:16 GMT",
+          "summary_snip": "世界肝炎日｜部分患者查出肝癌后才发现自己有肝炎，如何早发现？ 新浪财经"
+        },
+        {
+          "title": "破译肝癌肺转移全程免疫逃逸“时空密码”，复旦大学附属中山医院牵头研究",
+          "source": "新浪财经",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CRDJTRUhPOE1Wb0NlVndwMk1wZ1Riem1hMmpSM05pZW5JajlUN3NBcV9weGREVDlyektqY1JibjZZazBWZl9lMzZZR001Znp4ZUY5M0Fnclo4VkllbHFPYlVIS3VpQTBRbkV6enFaV2xPUXg5NE9sVQ?oc=5",
+          "published": "Fri, 31 Jul 2026 23:47:00 GMT",
+          "summary_snip": "破译肝癌肺转移全程免疫逃逸“时空密码”，复旦大学附属中山医院牵头研究 新浪财经"
+        },
+        {
+          "title": "肝癌为何会肺转移？多年“黑箱”被打开，中山医院院士团队领衔复原转移规律",
+          "source": "Sohu",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTk94eEJFbjNrLXM1ZTNOT0tCbjMxOHBsbFd6YVMySkdidjFlU2lxcU0tU1p2RW5JZ3pYT1NQT1ZiLTFrN1lRNmg5OGp6Z016RVVia2ZEWFYzZ3Y4Tm5iNFQxOUxwTGZjWHIzMGdzZTdXTXowQ1BURG5USTdpbTN2UGFlNlBtRFNqSVhBaA?oc=5",
+          "published": "Fri, 31 Jul 2026 09:00:12 GMT",
+          "summary_snip": "肝癌为何会肺转移？多年“黑箱”被打开，中山医院院士团队领衔复原转移规律 Sohu"
+        },
+        {
+          "title": "中国专家团队率先破解肝癌肺转移“时空密码”",
+          "source": "亿欧",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53TkxxVlBZb0MxUWgzQnZuVmxTVmNwMWlmdF9qdlo4aENRTTF2NUlZang5UERfWnVrTEx1YWxOZzFWa0UzR0U0ZlBvVEQtVXU5aDhXN0VmODUyZw?oc=5",
+          "published": "Fri, 31 Jul 2026 12:54:38 GMT",
+          "summary_snip": "中国专家团队率先破解肝癌肺转移“时空密码” 亿欧"
+        },
+        {
+          "title": "鲁医健康说 | 肝炎变肝癌并非必然！专家：守住“三道防线”可阻断进程",
+          "source": "Sohu",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTI1YjExMWpjUlNpamRBRm8yZHpqTjRpMU1Id2xJZ3phN0NBcjVOVnlrV1JZM0ozN3RZd0k3VFpNQzMyWkJBTUdIVmY3Zm1FNTNZZmdGX2E4WjZGQTVCd2FKZU1WVFowd21KMXQtNXB1bmJkNzc5R3FRVnVoQXAxUWpxb29pUTlhQUhEVA?oc=5",
+          "published": "Thu, 30 Jul 2026 11:08:03 GMT",
+          "summary_snip": "鲁医健康说 | 肝炎变肝癌并非必然！专家：守住“三道防线”可阻断进程 Sohu"
+        },
+        {
+          "title": "早筛查早治疗，多数肝炎患者可阻断向肝硬化、肝癌发展",
+          "source": "QQ News",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42N1V6TERLM3FES2ZNMXJKNTZWdk44R054Q1RmdWtqYjd1NzdsLTVxaUwzU2xXcVhORUhWUzJaUndDZDVpRENQcU1BS0ZwMzlVcFJIZFhB?oc=5",
+          "published": "Thu, 30 Jul 2026 12:29:00 GMT",
+          "summary_snip": "早筛查早治疗，多数肝炎患者可阻断向肝硬化、肝癌发展 QQ News"
+        },
+        {
+          "title": "抗病毒≠保命符！“大三阳”20年，为何壮年男子突发肝癌|世界肝炎日",
+          "source": "Sohu",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzVFeGQzVGljYWVMOHg1ZzliMEd4eFQzR1dELW9nMTkzZndtbndkeGFsUGwzeml0SVNndjB4Mmk5Vm5CRDBYQmQ1MGxzNzhzQ2Z4RVVmbVVxckhmeTE3Ykl4WWdzb3J2OXpkN0d5MEl6SXNHWTloT3RCRm5waXBSRFdsX3pzTEVveDQ4?oc=5",
+          "published": "Mon, 27 Jul 2026 14:10:48 GMT",
+          "summary_snip": "抗病毒≠保命符！“大三阳”20年，为何壮年男子突发肝癌|世界肝炎日 Sohu"
+        },
+        {
+          "title": "早筛查早治疗，多数肝炎患者可阻断向肝硬化、肝癌发展",
+          "source": "凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIWGZjUVpuOUtsM0s2cW5qRUhCT28wbU4yU2QtOFkxWXg0SXRLYkM1NnYyR3A0TS04S2pqVTgzaHBwMzF5Szl4QQ?oc=5",
+          "published": "Thu, 30 Jul 2026 19:11:03 GMT",
+          "summary_snip": "早筛查早治疗，多数肝炎患者可阻断向肝硬化、肝癌发展 凤凰网"
+        },
+        {
+          "title": "肝癌治疗新突破！江西省肿瘤医院完成省内首例钇-90树脂微球治疗",
+          "source": "中华网科技频道",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KVll3S25QdWk4c3dTU0hKOXh6MWlkcTJwYXM5clNRWU9iRTlvYUZXTzBkdzl6WktwZDU3M050eXgzV2Rmb05RSE1JQS1lbHN6dnRCOVVHTUJJWXBadFdDUWNuS0N6U3JEOGdQNmNn?oc=5",
+          "published": "Mon, 27 Jul 2026 03:25:42 GMT",
+          "summary_snip": "肝癌治疗新突破！江西省肿瘤医院完成省内首例钇-90树脂微球治疗 中华网科技频道"
+        },
+        {
+          "title": "中山医院团队解析肝癌肺转移定植全过程，解锁肿瘤免疫逃逸时空机制",
+          "source": "Sohu",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0p6akZFd2k0cWtKSVMxOUUxWFNjYS1aNnk5dUw1dGJIbElqa21TekUzbkJtTExkcUczTmI3RWZpNTUtQTF5NW82V0NBaXhLbzJwU0gtTVQwVFZTVHJ5dkYtYTBwNEJzZC11ck9ZTmFNdldyUktXMER5N21US3ZSSC1qVHluSUxzRHhwZA?oc=5",
+          "published": "Fri, 31 Jul 2026 07:04:11 GMT",
+          "summary_snip": "中山医院团队解析肝癌肺转移定植全过程，解锁肿瘤免疫逃逸时空机制 Sohu"
+        }
+      ],
+      "dropped_noise": 2
+    },
+    {
+      "lang": "ja",
+      "name": "Google News JP 肝がん",
+      "url": "https://news.google.com/rss/search?q=%E8%82%9D%E3%81%8C%E3%82%93%20OR%20%E8%82%9D%E7%B4%B0%E8%83%9E%E7%99%8C%20when:7d&hl=ja&gl=JP&ceid=JP:ja",
+      "status": 200,
+      "error": null,
+      "item_count": 54,
+      "theme_items": [
+        {
+          "title": "南部地域で初めて実施された肝臓移植手術は、肝細胞癌を患う小児患者に対して行われた。",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejI1VFNPOERnM0c2cS1jSVFyWU1EZkNXNGJOR3d6T0VtOV9LLTZhVlJqd2VyNnFNX2FZUllzWnQ0RTl6N3NMRjMzWFdVNG5seTlHbWYxbWVEckRFVnJkbTk4Y0VLZ1VYc3cxY3o5Vm9rdkxHWmxUVXZUNTczVkFqNEFnOEpac1lPX3Bxb3R0TVl3WDNIOGZyXzB0Rko4ZTVoM25qVmxfb0t2Rzg?oc=5",
+          "published": "Sat, 01 Aug 2026 05:26:41 GMT",
+          "summary_snip": "南部地域で初めて実施された肝臓移植手術は、肝細胞癌を患う小児患者に対して行われた。 Vietnam.vn"
+        }
+      ],
+      "dropped_noise": 4
+    }
+  ],
+  "html_sources": [
+    {
+      "lang": "en",
+      "name": "CancerNetwork liver cancer",
+      "url": "https://www.cancernetwork.com/clinical/liver-cancer",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "FDA Clears Manufacturing Concern Behind Rivoceranib/Camrelizumab CRL in HCC",
+          "href": "https://www.cancernetwork.com/view/fda-clears-manufacturing-concern-behind-rivoceranib-camrelizumab-crl-in-hcc"
+        },
+        {
+          "text": "Adverse Effects Associated with SBRT in Patients With HCC",
+          "href": "https://www.cancernetwork.com/view/adverse-effects-associated-with-sbrt-in-patients-with-hcc"
+        },
+        {
+          "text": "Treating Transplant-Ineligible Patients With HCC and Liver-Confined Disease",
+          "href": "https://www.cancernetwork.com/view/treating-transplant-ineligible-patients-with-hcc-and-liver-confined-disease"
+        },
+        {
+          "text": "Treating HCC: Safety Profile Considerations",
+          "href": "https://www.cancernetwork.com/view/treating-hcc-safety-profile-considerations"
+        },
+        {
+          "text": "First- and Second-Line Treatment of Advanced-Stage HCC",
+          "href": "https://www.cancernetwork.com/view/first--and-second-line-treatment-of-advanced-stage-hcc"
+        },
+        {
+          "text": "Localized Therapy in Early- and Intermediate-Stage HCC",
+          "href": "https://www.cancernetwork.com/view/localized-therapy-in-early--and-intermediate-stage-hcc"
+        },
+        {
+          "text": "Treating Early- and Intermediate-Stage Hepatocellular Carcinoma",
+          "href": "https://www.cancernetwork.com/view/treating-early--and-intermediate-stage-hepatocellular-carcinoma"
+        },
+        {
+          "text": "Radioembolization Plus Chemotherapy Is Feasible in Liver-Dominant NETs",
+          "href": "https://www.cancernetwork.com/view/radioembolization-plus-chemotherapy-is-feasible-in-liver-dominant-nets"
+        },
+        {
+          "text": "Outlining a Radioembolization/Chemotherapy Regimen for NET Liver Metastases",
+          "href": "https://www.cancernetwork.com/view/outlining-a-radioembolization-chemotherapy-regimen-for-net-liver-metastases"
+        },
+        {
+          "text": "Radiation Shown to Improve Survival in Liver Cancer ‘For the First Time’",
+          "href": "https://www.cancernetwork.com/view/radiation-shown-to-improve-survival-in-liver-cancer-for-the-first-time-"
+        },
+        {
+          "text": "Ghassan K. Abou-Alfa, MD, Discusses Next Steps in Researching Unresectable HCC",
+          "href": "https://www.cancernetwork.com/view/ghassan-k-abou-alfa-md-discusses-next-steps-in-researching-unresectable-hcc"
+        },
+        {
+          "text": "Ghassan K. Abou-Alfa, MD, Spotlights Patients With Unresectable HCC Who May Best Benefit From Tremelimumab/Durvalumab",
+          "href": "https://www.cancernetwork.com/view/ghassan-k-abou-alfa-md-spotlights-patients-with-unresectable-hcc-who-may-best-benefit-from-tremelimumab-durvalumab"
+        },
+        {
+          "text": "Ghassan K. Abou-Alfa, MD, Discusses Importance of Treatment Accessibility in Unresectable HCC",
+          "href": "https://www.cancernetwork.com/view/ghassan-k-abou-alfa-md-discusses-importance-of-treatment-accessibility-in-unresectable-hcc"
+        },
+        {
+          "text": "Ghassan K. Abou-Alfa, MD, Highlights Approval of Tremelimumab and Durvalumab in Unresectable HCC",
+          "href": "https://www.cancernetwork.com/view/ghassan-k-abou-alfa-md-highlights-approval-of-tremelimumab-and-durvalumab-in-unresectable-hcc"
+        },
+        {
+          "text": "Ghassan K. Abou-Alfa, MD, Details Survival Data With Durvalumab Plus Tremelimumab in HCC From HIMALAYA Trial",
+          "href": "https://www.cancernetwork.com/view/ghassan-k-abou-alfa-md-details-survival-data-with-durvalumab-plus-tremelimumab-in-hcc-from-himalaya-trial"
+        },
+        {
+          "text": "Ghassan K. Abou-Alfa, MD, Discusses Patient Population and Dosing of PD-L1/CTLA-4 Inhibitor Combo for HCC in HIMALAYA Trial",
+          "href": "https://www.cancernetwork.com/view/ghassan-k-abou-alfa-md-discusses-patient-population-and-dosing-of-pd-l1-ctla-4-inhibitor-combo-for-hcc-in-himalaya-trial"
+        },
+        {
+          "text": "December 4, 2023Adapting to a Robotic Workstation for Image-Guided Liver Cancer Surgery",
+          "href": "https://www.cancernetwork.com/view/adapting-to-a-robotic-workstation-for-image-guided-liver-cancer-surgery"
+        },
+        {
+          "text": "VideoBroadening the Frontline—Studies Informing the Use of Immunotherapy in Hepatocellular CarcinomaGhassan Abou-Alfa, MD, MBA; Laura Williams Goff, MD, MSCI, MMHC, FASCO; Arndt Vogel, MD, PhD",
+          "href": "https://www.gotoper.com/courses/broadening-the-frontlinestudies-informing-the-use-of-immunotherapy-in-hepatocellular-carcinoma?utm_source=cancernetwork&utm_medium=clinical&utm_campaign=cmeDeck"
+        },
+        {
+          "text": "FDA Grants Fast Track Designation to PLT012 for Advanced Liver Cancer",
+          "href": "https://www.cancernetwork.com/view/fda-grants-fast-track-designation-to-plt012-for-advanced-liver-cancer"
+        },
+        {
+          "text": "FDA Accepts NDA for Rivoceranib and Camrelizumab in 1L Unresectable HCC",
+          "href": "https://www.cancernetwork.com/view/fda-accepts-nda-for-rivoceranib-and-camrelizumab-in-1l-unresectable-hcc"
+        },
+        {
+          "text": "Developers Resubmit NDA for Rivoceranib/Camrelizumab in Unresectable HCC",
+          "href": "https://www.cancernetwork.com/view/fda-accepts-resubmitted-rivoceranib-camrelizumab-nda-for-unresectable-hcc"
+        },
+        {
+          "text": "Atezolizumab Combo May Improve Outcomes Vs TACE in Intermediate-Stage HCC",
+          "href": "https://www.cancernetwork.com/view/atezolizumab-combo-may-improve-outcomes-vs-tace-in-intermediate-stage-hcc"
+        },
+        {
+          "text": "FDA Grants Fast Track Designation to GPC3x4-1BB Bispecific Antibody in HCC",
+          "href": "https://www.cancernetwork.com/view/fda-grants-fast-track-designation-to-gpc3x4-1bb-bispecific-antibody-in-hcc"
+        },
+        {
+          "text": "Post-IO Curative Treatment Conversion May Prolong Survival in Liver Cancer",
+          "href": "https://www.cancernetwork.com/view/post-io-curative-treatment-conversion-may-prolong-survival-in-liver-cancer"
+        }
+      ],
+      "link_count_scanned": 299,
+      "dropped_noise": 0
+    },
+    {
+      "lang": "en",
+      "name": "ESMO Daily Reporter",
+      "url": "https://dailyreporter.esmo.org/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "The place for TACE combinations in hepatocellular carcinoma is still uncertain",
+          "href": "https://dailyreporter.esmo.org/esmo-gastrointestinal-cancers-congress-2026/news/the-place-for-tace-combinations-in-hepatocellular-carcinoma-is-still-uncertain"
+        }
+      ],
+      "link_count_scanned": 81,
+      "dropped_noise": 0
+    }
+  ],
+  "counts": {
+    "google_news_theme_items": 29,
+    "html_theme_hits": 25,
+    "total_theme_items": 54,
+    "dropped_noise": 6,
+    "google_feeds_ok": 3,
+    "html_sources_ok": 2
+  }
+}

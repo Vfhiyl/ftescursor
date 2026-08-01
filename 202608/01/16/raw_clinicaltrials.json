@@ -1,0 +1,570 @@
+{
+  "window": [
+    "2026-07-31",
+    "2026-08-01"
+  ],
+  "total_fetched": 21,
+  "related": [
+    {
+      "nct": "NCT03383458",
+      "nctId": "NCT03383458",
+      "title": "A Study of Nivolumab in Participants With Hepatocellular Carcinoma Who Are at High Risk of Recurrence After Curative Hepatic Resection or Ablation",
+      "conditions": [
+        "Hepatocellular Carcinoma",
+        "Liver Cancer"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "This study will investigate if nivolumab will improve recurrence-free survival (RFS) compared to placebo in participants with HCC who have undergone complete resection or have achieved a complete response after local ablation, and who are at high risk of recurrence",
+      "force_include": false
+    },
+    {
+      "nct": "NCT05063565",
+      "nctId": "NCT05063565",
+      "title": "TheraSphere With Durvalumab and Tremelimumab for HCC",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "The objective of the ROWAN clinical study is to assess the efficacy of local tumor control in HCC patients who receive TheraSphere followed by durvalumab and tremelimumab.",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administere",
+      "force_include": true
+    },
+    {
+      "nct": "NCT07669727",
+      "nctId": "NCT07669727",
+      "title": "A Post Approval Study to Evaluate Safety and Effectiveness of Multicompartmental Dosimetry Planning.",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [],
+      "briefSummary": "The purpose of this study is to assess the safety and effectiveness of treating a tumor using a different planning method called MCD for the FDA-Approved device, TheraSphere.\n\nTheraSphere Microspheres are microscopic radioactive glass spheres that deliver radiation therapy in the liver tissue where they are placed. This study investigates a procedure called multicompartment dosimetry (MCD). When using a multicompartment dosimetry approach, the doctor will look at images of the liver to see where",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04912765",
+      "nctId": "NCT04912765",
+      "title": "Neoantigen Dendritic Cell Vaccine and Nivolumab in HCC and Liver Metastases From CRC",
+      "conditions": [
+        "Hepatocellular Carcinoma",
+        "Hepatocellular Cancer",
+        "Colorectal Cancer",
+        "Colorectal Carcinoma",
+        "Liver Metastases"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This is a single arm phase II study of adjuvant intra-dermal NA DC vaccine combined with intravenous nivolumab in patients with resectable HCC (group A) or CRLM (group B) planned for curative surgery (with/without local ablation).",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06811116",
+      "nctId": "NCT06811116",
+      "title": "Testing the Addition of an Anti-cancer Drug, Sapanisertib, to the Usual Chemotherapy Treatment (Cabozantinib) in Metastatic Liver Cell Cancer With a Change in Genes for the Protein β-Catenin, The SAPHIRE Trial",
+      "conditions": [
+        "Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "briefSummary": "This phase I/II trial studies the side effects and best dose of sapanisertib when given together with cabozantinib, and to see how well they work in treating patients with liver cancer that has spread from where it first started to other places in the body (metastatic) and contains a mutation (change) in the β-catenin gene. Sapanisertib and cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving sapanisertib and cabozantinib together may wor",
+      "force_include": false
+    },
+    {
+      "nct": "NCT05876754",
+      "nctId": "NCT05876754",
+      "title": "An Early Access Study of Ivosidenib in Patients With a Pretreated Locally Advanced or Metastatic Cholangiocarcinoma",
+      "conditions": [
+        "Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "A Phase 3b research study to consolidate the data that ivosidenib is safe and effective in adult patients with previously treated, locally advanced, or metastatic cholangiocarcinoma (CCA). All patients who meet inclusion criteria will be enrolled to receive ivosidenib tablets orally once daily for 28 day cycles, continuing as long as clinical benefit and consent for participation is maintained. There will be a minimum of 6 study visits from screening until the final follow-up, if one cycle of tr",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07419841",
+      "nctId": "NCT07419841",
+      "title": "A Phase 1 Study of the Safety and Tolerability of CTX-10726",
+      "conditions": [
+        "Gastroesophageal Cancer (GC)",
+        "Hepatocellular Carcinoma (HCC)",
+        "Endometrial Cancer",
+        "Renal Cell Carcinoma (RCC)"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "This is a Phase 1, open-label, first-in-human study of CTX-10726 monotherapy in patients with metastatic or locally advanced malignancies. The study will be conducted in 2 Cohorts: Cohort 1 Dose Escalation and Cohort 2 Dose Expansion.",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06607302",
+      "nctId": "NCT06607302",
+      "title": "Ivosidenib in Locally Advanced or Metastatic Cholangiocarcinoma With IDH1 R132 Mutation After at Least One Prior Systemic Treatment - an Observational Study",
+      "conditions": [
+        "Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [],
+      "briefSummary": "Cholangiocarcinoma is a rare and aggressive tumor of the bile duct associated with a poor prognosis and very limited treatment options. The IDH1 inhibitor ivosidenib provides a new, targeted treatment option for this disease. Ivosidenib was approved by European Medicines Agency (EMA) in May 2023 as monotherapy in adult patients with locally advanced or metastatic cholangiocarcinoma with an IDH1 R132 mutation who were previously treated by at least one prior line of systemic therapy.\n\nThe prospec",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04068194",
+      "nctId": "NCT04068194",
+      "title": "Testing the Combination of New Anti-cancer Drug Peposertib With Avelumab and Radiation Therapy for Advanced/Metastatic Solid Tumors and Hepatobiliary Malignancies",
+      "conditions": [
+        "Locally Advanced Malignant Solid Neoplasm",
+        "Locally Advanced Unresectable Cholangiocarcinoma",
+        "Locally Advanced Unresectable Gallbladder Carcinoma",
+        "Locally Advanced Unresectable Malignant Solid Neoplasm",
+        "Metastatic Cholangiocarcinoma",
+        "Metastatic Gallbladder Carcinoma",
+        "Metastatic Malignant Solid Neoplasm",
+        "Stage III Gallbladder Cancer AJCC v8",
+        "Stage IV Gallbladder Cancer AJCC v8",
+        "Unresectable Malignant Solid Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "briefSummary": "This phase I/II trial studies the best dose and side effects of peposertib and to see how well it works with avelumab and hypofractionated radiation therapy in treating patients with solid tumors and hepatobiliary malignancies that have spread to other places in the body (advanced/metastatic). Peposertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as avelumab, may help the body's immune system attack th",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06050252",
+      "nctId": "NCT06050252",
+      "title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "conditions": [
+        "Resectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This phase II trial tests how well giving durvalumab with standard chemotherapy, gemcitabine and cisplatin, before surgery works in treating patients with high risk liver cancer (cholangiocarcinoma) that can be removed by surgery (resectable). Durvalumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as gemcitabine and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stop",
+      "force_include": false
+    },
+    {
+      "nct": "NCT05564403",
+      "nctId": "NCT05564403",
+      "title": "Study of Chemotherapy, With or Without Binimetinib in Advanced Biliary Tract Cancers in 2nd Line Setting (A ComboMATCH Treatment Trial)",
+      "conditions": [
+        "Advanced Biliary Tract Carcinoma",
+        "Advanced Gallbladder Carcinoma",
+        "Advanced Intrahepatic Cholangiocarcinoma",
+        "Recurrent Biliary Tract Carcinoma",
+        "Recurrent Gallbladder Carcinoma",
+        "Recurrent Intrahepatic Cholangiocarcinoma",
+        "Stage III Distal Bile Duct Cancer AJCC v8",
+        "Stage III Gallbladder Cancer AJCC v8",
+        "Stage III Hilar Cholangiocarcinoma AJCC v8",
+        "Stage III Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IV Distal Bile Duct Cancer AJCC v8",
+        "Stage IV Gallbladder Cancer AJCC v8",
+        "Stage IV Hilar Cholangiocarcinoma AJCC v8",
+        "Stage IV Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Unresectable Biliary Tract Carcinoma",
+        "Unresectable Gallbladder Carcinoma",
+        "Unresectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This phase II ComboMATCH treatment trial compares the usual treatment of modified leucovorin, fluorouracil and oxaliplatin (mFOLFOX6) chemotherapy to using binimetinib plus mFOLFOX6 chemotherapy to shrink tumors in patients with biliary tract cancers that have spread to other places in the body (advanced) and had progression of cancer after previous treatments (2nd line setting). Fluorouracil is in a class of medications called antimetabolites. It works by slowing or stopping the growth of cance",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04175912",
+      "nctId": "NCT04175912",
+      "title": "Testing the Combination of Pevonedistat With Chemotherapy for Bile Duct Cancer of the Liver",
+      "conditions": [
+        "Metastatic Cholangiocarcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage III Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIA Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIB Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IVA Hepatocellular Carcinoma AJCC v8",
+        "Stage IVB Hepatocellular Carcinoma AJCC v8",
+        "Unresectable Cholangiocarcinoma",
+        "Unresectable Hepatocellular Carcinoma",
+        "Unresectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This phase II trial studies how well pevonedistat alone or in combination with chemotherapy (paclitaxel and carboplatin) works in treating patients with bile duct cancer of the liver. Pevonedistat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Chemotherapy drugs, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. T",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07268131",
+      "nctId": "NCT07268131",
+      "title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "briefSummary": "This is a single-arm, single-center, prospective trial designed to evaluate the efficacy and safety of transarterial chemoembolization (TACE) combined with ipalimab/tuvonralimab (QL1706) in the peri-operative setting for resectable hepatocellular carcinoma exceeding the Milan criteria, and to explore biomarkers predictive of therapeutic response.",
+      "force_include": false
+    }
+  ],
+  "related_ncts": [
+    "NCT03383458",
+    "NCT05063565",
+    "NCT07715903",
+    "NCT07669727",
+    "NCT04912765",
+    "NCT06811116",
+    "NCT05876754",
+    "NCT07419841",
+    "NCT06607302",
+    "NCT04068194",
+    "NCT06050252",
+    "NCT05564403",
+    "NCT04175912",
+    "NCT07268131"
+  ],
+  "focus": [
+    {
+      "nct": "NCT03383458",
+      "nctId": "NCT03383458",
+      "title": "A Study of Nivolumab in Participants With Hepatocellular Carcinoma Who Are at High Risk of Recurrence After Curative Hepatic Resection or Ablation",
+      "conditions": [
+        "Hepatocellular Carcinoma",
+        "Liver Cancer"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "This study will investigate if nivolumab will improve recurrence-free survival (RFS) compared to placebo in participants with HCC who have undergone complete resection or have achieved a complete response after local ablation, and who are at high risk of recurrence",
+      "force_include": false
+    },
+    {
+      "nct": "NCT05063565",
+      "nctId": "NCT05063565",
+      "title": "TheraSphere With Durvalumab and Tremelimumab for HCC",
+      "conditions": [
+        "Hepatocellular Carcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "The objective of the ROWAN clinical study is to assess the efficacy of local tumor control in HCC patients who receive TheraSphere followed by durvalumab and tremelimumab.",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administere",
+      "force_include": true
+    },
+    {
+      "nct": "NCT07669727",
+      "nctId": "NCT07669727",
+      "title": "A Post Approval Study to Evaluate Safety and Effectiveness of Multicompartmental Dosimetry Planning.",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [],
+      "briefSummary": "The purpose of this study is to assess the safety and effectiveness of treating a tumor using a different planning method called MCD for the FDA-Approved device, TheraSphere.\n\nTheraSphere Microspheres are microscopic radioactive glass spheres that deliver radiation therapy in the liver tissue where they are placed. This study investigates a procedure called multicompartment dosimetry (MCD). When using a multicompartment dosimetry approach, the doctor will look at images of the liver to see where",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04912765",
+      "nctId": "NCT04912765",
+      "title": "Neoantigen Dendritic Cell Vaccine and Nivolumab in HCC and Liver Metastases From CRC",
+      "conditions": [
+        "Hepatocellular Carcinoma",
+        "Hepatocellular Cancer",
+        "Colorectal Cancer",
+        "Colorectal Carcinoma",
+        "Liver Metastases"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This is a single arm phase II study of adjuvant intra-dermal NA DC vaccine combined with intravenous nivolumab in patients with resectable HCC (group A) or CRLM (group B) planned for curative surgery (with/without local ablation).",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06811116",
+      "nctId": "NCT06811116",
+      "title": "Testing the Addition of an Anti-cancer Drug, Sapanisertib, to the Usual Chemotherapy Treatment (Cabozantinib) in Metastatic Liver Cell Cancer With a Change in Genes for the Protein β-Catenin, The SAPHIRE Trial",
+      "conditions": [
+        "Advanced Hepatocellular Carcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "briefSummary": "This phase I/II trial studies the side effects and best dose of sapanisertib when given together with cabozantinib, and to see how well they work in treating patients with liver cancer that has spread from where it first started to other places in the body (metastatic) and contains a mutation (change) in the β-catenin gene. Sapanisertib and cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving sapanisertib and cabozantinib together may wor",
+      "force_include": false
+    },
+    {
+      "nct": "NCT05876754",
+      "nctId": "NCT05876754",
+      "title": "An Early Access Study of Ivosidenib in Patients With a Pretreated Locally Advanced or Metastatic Cholangiocarcinoma",
+      "conditions": [
+        "Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE3"
+      ],
+      "briefSummary": "A Phase 3b research study to consolidate the data that ivosidenib is safe and effective in adult patients with previously treated, locally advanced, or metastatic cholangiocarcinoma (CCA). All patients who meet inclusion criteria will be enrolled to receive ivosidenib tablets orally once daily for 28 day cycles, continuing as long as clinical benefit and consent for participation is maintained. There will be a minimum of 6 study visits from screening until the final follow-up, if one cycle of tr",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07419841",
+      "nctId": "NCT07419841",
+      "title": "A Phase 1 Study of the Safety and Tolerability of CTX-10726",
+      "conditions": [
+        "Gastroesophageal Cancer (GC)",
+        "Hepatocellular Carcinoma (HCC)",
+        "Endometrial Cancer",
+        "Renal Cell Carcinoma (RCC)"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "This is a Phase 1, open-label, first-in-human study of CTX-10726 monotherapy in patients with metastatic or locally advanced malignancies. The study will be conducted in 2 Cohorts: Cohort 1 Dose Escalation and Cohort 2 Dose Expansion.",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06607302",
+      "nctId": "NCT06607302",
+      "title": "Ivosidenib in Locally Advanced or Metastatic Cholangiocarcinoma With IDH1 R132 Mutation After at Least One Prior Systemic Treatment - an Observational Study",
+      "conditions": [
+        "Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [],
+      "briefSummary": "Cholangiocarcinoma is a rare and aggressive tumor of the bile duct associated with a poor prognosis and very limited treatment options. The IDH1 inhibitor ivosidenib provides a new, targeted treatment option for this disease. Ivosidenib was approved by European Medicines Agency (EMA) in May 2023 as monotherapy in adult patients with locally advanced or metastatic cholangiocarcinoma with an IDH1 R132 mutation who were previously treated by at least one prior line of systemic therapy.\n\nThe prospec",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04068194",
+      "nctId": "NCT04068194",
+      "title": "Testing the Combination of New Anti-cancer Drug Peposertib With Avelumab and Radiation Therapy for Advanced/Metastatic Solid Tumors and Hepatobiliary Malignancies",
+      "conditions": [
+        "Locally Advanced Malignant Solid Neoplasm",
+        "Locally Advanced Unresectable Cholangiocarcinoma",
+        "Locally Advanced Unresectable Gallbladder Carcinoma",
+        "Locally Advanced Unresectable Malignant Solid Neoplasm",
+        "Metastatic Cholangiocarcinoma",
+        "Metastatic Gallbladder Carcinoma",
+        "Metastatic Malignant Solid Neoplasm",
+        "Stage III Gallbladder Cancer AJCC v8",
+        "Stage IV Gallbladder Cancer AJCC v8",
+        "Unresectable Malignant Solid Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "briefSummary": "This phase I/II trial studies the best dose and side effects of peposertib and to see how well it works with avelumab and hypofractionated radiation therapy in treating patients with solid tumors and hepatobiliary malignancies that have spread to other places in the body (advanced/metastatic). Peposertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Immunotherapy with monoclonal antibodies, such as avelumab, may help the body's immune system attack th",
+      "force_include": false
+    },
+    {
+      "nct": "NCT06050252",
+      "nctId": "NCT06050252",
+      "title": "Testing the Combination of the Anticancer Drug Durvalumab With Chemotherapy (Gemcitabine and Cisplatin) at Improving Outcomes for High-Risk Resectable Liver Cancer Before Surgery",
+      "conditions": [
+        "Resectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This phase II trial tests how well giving durvalumab with standard chemotherapy, gemcitabine and cisplatin, before surgery works in treating patients with high risk liver cancer (cholangiocarcinoma) that can be removed by surgery (resectable). Durvalumab is a monoclonal antibody that may interfere with the ability of tumor cells to grow and spread. Chemotherapy drugs, such as gemcitabine and cisplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stop",
+      "force_include": false
+    },
+    {
+      "nct": "NCT05564403",
+      "nctId": "NCT05564403",
+      "title": "Study of Chemotherapy, With or Without Binimetinib in Advanced Biliary Tract Cancers in 2nd Line Setting (A ComboMATCH Treatment Trial)",
+      "conditions": [
+        "Advanced Biliary Tract Carcinoma",
+        "Advanced Gallbladder Carcinoma",
+        "Advanced Intrahepatic Cholangiocarcinoma",
+        "Recurrent Biliary Tract Carcinoma",
+        "Recurrent Gallbladder Carcinoma",
+        "Recurrent Intrahepatic Cholangiocarcinoma",
+        "Stage III Distal Bile Duct Cancer AJCC v8",
+        "Stage III Gallbladder Cancer AJCC v8",
+        "Stage III Hilar Cholangiocarcinoma AJCC v8",
+        "Stage III Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IV Distal Bile Duct Cancer AJCC v8",
+        "Stage IV Gallbladder Cancer AJCC v8",
+        "Stage IV Hilar Cholangiocarcinoma AJCC v8",
+        "Stage IV Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Unresectable Biliary Tract Carcinoma",
+        "Unresectable Gallbladder Carcinoma",
+        "Unresectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This phase II ComboMATCH treatment trial compares the usual treatment of modified leucovorin, fluorouracil and oxaliplatin (mFOLFOX6) chemotherapy to using binimetinib plus mFOLFOX6 chemotherapy to shrink tumors in patients with biliary tract cancers that have spread to other places in the body (advanced) and had progression of cancer after previous treatments (2nd line setting). Fluorouracil is in a class of medications called antimetabolites. It works by slowing or stopping the growth of cance",
+      "force_include": false
+    },
+    {
+      "nct": "NCT04175912",
+      "nctId": "NCT04175912",
+      "title": "Testing the Combination of Pevonedistat With Chemotherapy for Bile Duct Cancer of the Liver",
+      "conditions": [
+        "Metastatic Cholangiocarcinoma",
+        "Metastatic Hepatocellular Carcinoma",
+        "Stage III Hepatocellular Carcinoma AJCC v8",
+        "Stage III Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIA Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+        "Stage IIIB Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IV Hepatocellular Carcinoma AJCC v8",
+        "Stage IV Intrahepatic Cholangiocarcinoma AJCC v8",
+        "Stage IVA Hepatocellular Carcinoma AJCC v8",
+        "Stage IVB Hepatocellular Carcinoma AJCC v8",
+        "Unresectable Cholangiocarcinoma",
+        "Unresectable Hepatocellular Carcinoma",
+        "Unresectable Intrahepatic Cholangiocarcinoma"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "phases": [
+        "PHASE2"
+      ],
+      "briefSummary": "This phase II trial studies how well pevonedistat alone or in combination with chemotherapy (paclitaxel and carboplatin) works in treating patients with bile duct cancer of the liver. Pevonedistat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Chemotherapy drugs, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. T",
+      "force_include": false
+    },
+    {
+      "nct": "NCT07268131",
+      "nctId": "NCT07268131",
+      "title": "TITAN-HCC: Neoadjuvant and Adjuvant QL1706 With TACE in Resectable Hepatocellular Carcinoma Beyond Milan Criteria",
+      "conditions": [
+        "Hepatocellular Carcinoma (HCC)"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "RECRUITING",
+      "phases": [
+        "NA"
+      ],
+      "briefSummary": "This is a single-arm, single-center, prospective trial designed to evaluate the efficacy and safety of transarterial chemoembolization (TACE) combined with ipalimab/tuvonralimab (QL1706) in the peri-operative setting for resectable hepatocellular carcinoma exceeding the Milan criteria, and to explore biomarkers predictive of therapeutic response.",
+      "force_include": false
+    }
+  ],
+  "focus_ncts": [
+    "NCT03383458",
+    "NCT05063565",
+    "NCT07715903",
+    "NCT07669727",
+    "NCT04912765",
+    "NCT06811116",
+    "NCT05876754",
+    "NCT07419841",
+    "NCT06607302",
+    "NCT04068194",
+    "NCT06050252",
+    "NCT05564403",
+    "NCT04175912",
+    "NCT07268131"
+  ],
+  "related_count": 14,
+  "focus_count": 14,
+  "query_cond": "hepatocellular carcinoma OR liver cancer OR cholangiocarcinoma"
+}
