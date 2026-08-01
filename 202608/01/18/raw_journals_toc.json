@@ -1,0 +1,481 @@
+{
+  "collected_at_utc": "2026-08-01T18:03:51.351069+00:00",
+  "rss_feeds": [
+    {
+      "name": "Journal of Hepatology",
+      "issn": "0168-8278",
+      "rss": "https://rss.sciencedirect.com/publication/science/01688278",
+      "status": 200,
+      "error": null,
+      "item_count": 100,
+      "theme_items": [
+        {
+          "title": "The 2026 BCLC: Should potential liver transplantation be prioritized?",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826000607?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Chuanhao Zhang, Ruoyu Wang, Zhe Wang"
+        },
+        {
+          "title": "Integration of particle therapy into the updated BCLC strategy for hepatocellular carcinoma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827825027345?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Masashi Mizumoto, Yoshiko Oshiro, Hideyuki Sakurai"
+        },
+        {
+          "title": "Reply to: “Establish a streamlined molecular profiling workflow for the clinical management of advanced cholangiocarcinoma”",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826002850?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Virginia Genovesi, Francesca Salani, Margherita Rimini, Gianluca Masi, Lorenza Rimassa, Andrea Casadei-Gardini, Lorenzo Fornaro"
+        },
+        {
+          "title": "Establish a streamlined molecular profiling workflow for the clinical management of advanced cholangiocarcinoma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826000760?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Yi Chen, Jianshui Li, Chuan Lan"
+        },
+        {
+          "title": "Reply to: “Beyond binary classification of non-proportional hazards: Methodological considerations for interpreting pivotal HCC trials”",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826002217?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Ezequiel Mauro, Amit Singal, Josep M. Llovet"
+        },
+        {
+          "title": "Beyond binary classification of non-proportional hazards: Methodological considerations for interpreting pivotal HCC trials",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826001996?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Alessandro Rovetta, Alessandro Vitale, Pavlos Msaouel"
+        },
+        {
+          "title": "Tim-3 facilitates dendritic cell ferroptosis and impairs antitumor immunity in steatohepatitis-related HCC",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826002138?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Na Li, Xiaojia Song, Xueqi Peng, Mengzhen Li, Mengyao Zhu, Rong Xiao, Liwen Wang, Leyan Ling, Ying Zhao, Tixiao Wang, Zhiyuan Zhou, Zhuanchang Wu, Hua Tang, Lifen Gao, Xiaohong Liang, Chunyan"
+        },
+        {
+          "title": "Distinct molecular pathways regulated by activated AKT and YAP signaling during intrahepatic cholangiocarcinoma progression",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826001194?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Jinqiu Zhao, Lian Yang, Yujia Qin, Yi Zhang, Tingjie Wang, Jingwen Wang, Rui Liao, Benjamin Green, Guofei Cui, Weiting Liao, Yu Qiao, Meng Xu, Hua Yang, Christine Farrar, Bing Liang, Xiaosong"
+        },
+        {
+          "title": "Molecularly guided therapies for advanced primary liver cancers refractory to systemic treatment: Results from the 2025 French genomic medicine initiative",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826001455?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Claudia Campani, Pierre Laurent-Puig, François Villeret, Yasmina Benmerabet, Jeanne Netter, Yasmina Chouik, Eleonore Spitzer, Philippe Merle, Guilhem Bousquet, Marianne Ziol, Amna Asif-Laidin"
+        },
+        {
+          "title": "When lipids silence immunity: Dendritic cell death in MASLD-associated HCC",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826026310?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Lorenz Kocheise, Kai Markus Schneider"
+        },
+        {
+          "title": "Beyond proliferation: YAP shapes the tumor identity and immune landscape of intrahepatic cholangiocarcinoma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826002096?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Qiuyan Sun, Sheila Gonzalez-Ramos, Robert F. Schwabe"
+        },
+        {
+          "title": "Precision oncology in primary liver cancer: Bridging the gap between molecular profiling and patient benefit",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826002084?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Journal of Hepatology, Volume 85, Issue 2Author(s): Michael Bitzer, Nisar P. Malek"
+        },
+        {
+          "title": "Low-dose bevacizumab plus atezolizumab enhances transarterial chemoembolization in HCC via correcting vascular-immune niche dysfunction",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826027595?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 31 July 2026Source: Journal of HepatologyAuthor(s): Chenghao Zhao, Huzheng Yan, Zhixing Liang, Haoyuan Yu, Luwen Mu, Zhanwang Xiang, Kun Li, Yongwei Hu, Zhengqi Wu, Tao Pan, Mingming Liu, Yang Yang, Linsen Ye, Mingsheng Huang"
+        },
+        {
+          "title": "Revisiting rejection after immune checkpoint inhibitor exposure prior to liver transplantation for hepatocellular carcinoma: Reply to: “Rejection and perioperative management in liver transplantation following immune checkpoint inhibitor–based downstaging for hepatocellular carcinoma” by Wang P et al.",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826027492?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 30 July 2026Source: Journal of HepatologyAuthor(s): Sherrie Bhoori, Licia Rivoltini, Giuseppe Leoncini, Viviana Sioli, Vincenzo Mazzaferro"
+        },
+        {
+          "title": "Corrigendum to: “A randomized-controlled trial of ischemia-free liver transplantation for end-stage liver disease” [J Hepatol 79 (2023) 394-402]",
+          "link": "https://www.sciencedirect.com/science/article/pii/S016882782602711X?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 30 July 2026Source: Journal of HepatologyAuthor(s): Zhiyong Guo, Qiang Zhao, Zehua Jia, Changjun Huang, Dongping Wang, Weiqiang Ju, Jian Zhang, Lu Yang, Shanzhou Huang, Maogen Chen, Xiaofeng Zhu, Anbin Hu, Yi Ma, Linwei Wu, Yinghua Chen, Ming Ha"
+        },
+        {
+          "title": "The hepatocellular carcinoma wish list: Five aspirations for future care",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826027054?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 25 July 2026Source: Journal of HepatologyAuthor(s): Stephen L. Chan, Bruno Sangro, Lorenza Rimassa"
+        },
+        {
+          "title": "An ABC approach for preoperative staging in perihilar cholangiocarcinoma An international multicenter cohort study",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826027406?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 24 July 2026Source: Journal of HepatologyAuthor(s): Britte H.E.A. ten Haaft, Alessandro M. Bonomi, Bas Groot Koerkamp, Pim Olthof, Matteo Cescon, Maxime Dewulf, Christina Dopazo, Mikhail Efanov, Jeroen Hagendoorn, Frederik J.H. Hoogwater, Willia"
+        },
+        {
+          "title": "Pushing the boundaries of liver resection for liver cancer",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826027017?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 23 July 2026Source: Journal of HepatologyAuthor(s): Gonzalo Sapisochin, Grainne M. O’Kane, Anudari Zorigtbaatar, Albert Chi Yan Chan, Sherrie Bhoori"
+        },
+        {
+          "title": "Artificial intelligence and personalised medicine in liver cancer",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826002205?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 20 July 2026Source: Journal of HepatologyAuthor(s): Nickolai Joel Matuschewski, William Baker, Julius Chapiro, Julien Calderaro"
+        },
+        {
+          "title": "Setdb1 represses anti-tumor immunity and tertiary lymphoid structures in hepatocellular carcinoma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826027157?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 16 July 2026Source: Journal of HepatologyAuthor(s): Si-Jia Shen, Ke Zhou, Chen-Yu Wang, Huan Li, Zhou Ye, Xi-Wei Wang, Zi-qi Mu, Chuang Wang, Jia Shi, Ze-Yu Tang, Hong-Bing Shu, Jingping Yuan, Ming-Kai Chen, Lian-Yun Li, Min Wu"
+        },
+        {
+          "title": "Retraction notice to “Association between donor and recipient <em>TCF7L2</em> gene polymorphisms and the risk of new-onset diabetes mellitus after liver transplantation in a Han Chinese population” [J Hepatol 58 (2013) 271–277]",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826026267?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 8 July 2026Source: Journal of HepatologyAuthor(s): Qi Ling, Haiyang Xie, Di Lu, Xuyong Wei, Feng Gao, Lin Zhou, Xiao Xu, Shusen Zheng"
+        },
+        {
+          "title": "Durvalumab with gemcitabine-based chemotherapy regimens in advanced biliary tract cancer: primary results from the phase IIIb TOURMALINE study",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826026589?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 6 July 2026Source: Journal of HepatologyAuthor(s): Do-Youn Oh, Masafumi Ikeda, Teresa Macarulla, Aiwu Ruth He, Joon Oh Park, Masayuki Kitano, Guido Giordano, Kyu-pyo Kim, Thomas Wirth, David Tai, Mohamed Bouattour, Tiziana Pressiani, Farshid Day"
+        },
+        {
+          "title": "Adjuvant immunotherapy for hepatocellular carcinoma: Precision selection of the optimal target population as the core strategy",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826000759?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: July 2026Source: Journal of Hepatology, Volume 85, Issue 1Author(s): Jia-Yong Su, Lei-Po Lin, Zhi-Hao Huang, Li-Xin Pan, Jian-Hong Zhong"
+        },
+        {
+          "title": "Neoadjuvant GOLP for high-risk resectable intrahepatic cholangiocarcinoma: Shifting the treatment paradigm?",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826002862?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: July 2026Source: Journal of Hepatology, Volume 85, Issue 1Author(s): Valerie Chew"
+        },
+        {
+          "title": "BCLC classification and AI-based image quantification: What is meant to be will come together – but how and when?",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0168827826001212?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: July 2026Source: Journal of Hepatology, Volume 85, Issue 1Author(s): Lukas Müller, Jakob N. Kather, Jens U. Marquardt, Maria Reig, Qiang Wang, Daniel Pinto dos Santos, Roman Kloeckner"
+        },
+        {
+          "title": "Efficacy of liver transplantation after response to atezolizumab-bevacizumab downstaging of intermediate and advanced hepatocellular carcinoma (ImmunoXXL)",
+          "link": "https://www.sciencedirect.com/science/article/pii/S016882782600084X?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: July 2026Source: Journal of Hepatology, Volume 85, Issue 1Author(s): Sherrie Bhoori, Licia Rivoltini, David J. Pinato, Valentina Bellia, Marianna Maspero, Marco Bongini, Jacopo de Cristofaro, Marta Vaiani, Michela Dosi, Elisabetta Vergani, Barbara Vergani, Giuse"
+        }
+      ]
+    },
+    {
+      "name": "JHEP Reports",
+      "issn": "2589-5559",
+      "rss": "https://rss.sciencedirect.com/publication/science/25895559",
+      "status": 200,
+      "error": null,
+      "item_count": 68,
+      "theme_items": [
+        {
+          "title": "Clinical predictors of response to atezolizumab/bevacizumab in Child-Pugh B patients with hepatocellular carcinoma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001862?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: September 2026Source: JHEP Reports, Volume 8, Issue 9Author(s): Anne-Victoire Odent, Claudia Campani, Mohamed Bouattour, Yann Touchefeu, Victoria Delhoume, Olivier Rosmorduc, Alina Pascale, Jihyun An, Han Chu Lee, Hélène Regnault, Dominique Thabut, Giuliana Amad"
+        },
+        {
+          "title": "Corrigendum to: “The endonuclease MCPIP1 protects against liver cancer development in a sex-dependent manner by modulating β-catenin and CREB1” [JHEP Reports 8 (2026) 101755]",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001928?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Oliwia Kwapisz, Paulina Marona, Judyta Górka, Rafał Myrczek, Ester Gonzalez-Sanchez, Esther Bertran, Jerzy Kotlinowski, Maciej Głuc, Ania Alay, Natalia Pydyn, Monika Kujdowicz, Emilio Ramos, Isabel Fab"
+        },
+        {
+          "title": "AI-guided automated identification of patients at high risk for hepatocellular carcinoma in large US and global datasets",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001308?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Eric Lahtinen, Kai Jia, Bowen Gu, Pasapol Saowakon, Steven Kundrot, Matvey B. Palchuk, Jeff Warnick, Irving D. Kaplan, Michael Curry, Ammar Sarwar, Martin Rinard, Limor Appelbaum"
+        },
+        {
+          "title": "Recapitulation of bile acid metabolism in hepatobiliary organoids derived from hiPSC",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001552?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Junming Xu, Xiaopu Sang, Jie Ke, Jingyi Li, Jiasen Xu, Xiaoni Chen, Shan Lin, Ruijie Cai, Xianjie Shi, Fenfang Wu"
+        },
+        {
+          "title": "Second-line practices in the era of immunotherapy in HCC: The CHIEF cohort",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001758?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Marie Decraecker, Héloïse Bourien, Elhadji Malick Thiam, Julien Edeline, Alice Koudjou-Sonegueng, Philippe Merle, Jean-Frédéric Blanc, Giuliana Amaddeo, Thomas Uguen, Thomas Decaens, Nathalie Ganne-Car"
+        },
+        {
+          "title": "Prognostic significance of pretreatment <sup>18</sup>F-FDG PET/CT in hepatocellular carcinoma: A systematic review and meta-analysis",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001722?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Ji Hye Min, Mohammad Saeid Rezaee-Zavareh, Abdelrahman M. Attia, Soo Young Hwang, Pin-Jung Chen, Tamar Yalda, Hasmik Adetyan, Rami Hemadeh, Hyun-seok Kim, Bachir Taouli, Amit G. Singal, Ju Dong Yang"
+        },
+        {
+          "title": "Combining MRI criterion and pathology-based microvascular invasion improves prognostic stratification in early HCC",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001710?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Xinyuan Jia, Junhan Pan, Yanshu Wang, Riccardo Sartoris, Jules Grégory, Aurélie Beaufrère, Chanel R. Varney, Danielle E. Kruse, Fangfang Fu, Tianyi Xia, Mengsi Li, Yanyan Zhang, Luna Wang, Ming Kuang, "
+        },
+        {
+          "title": "Scientific, regulatory, and practical considerations for bringing hepatocellular carcinoma biomarkers into clinical practice",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001278?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Blanca Botía Martínez-Artero, Eleonora Alimenti, James K. Carter, David J. Pinato, Augusto Villanueva"
+        },
+        {
+          "title": "Accurate detection of cholangiocarcinoma in primary sclerosing cholangitis using DNA methylation biomarkers in bile and plasma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001473?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Hege Marie Vedeld, Sigurd Breder, Heidi Pharo, Hans Petter Brodal, Evy Marie Adolfsen, Sara Brandt-Winge, Erik von Seth, Marit Mæhle Grimsrud, Sheraz Yaqub, Tom H. Karlsen, Krzyztof Grzyb, Vemund Pauls"
+        },
+        {
+          "title": "Net benefit of surveillance varies by hepatocellular carcinoma risk in patients with cirrhosis",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001023?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Akash Patel, Elena Gavrila, Sruthi Yekkaluri, Yujin Hoshida, Ruben Hernaez, Amit G. Singal"
+        },
+        {
+          "title": "Second-line TKI after first-line immunotherapy-based treatment in advanced HCC: Reconstructed IPD meta-analysis",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001643?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Erman Akkus, Christian Hobeika, Julien Edeline, Clémence Hollande, Manon Allaire, Giuliana Amaddeo, Hélène Regnault, Marie Lequoy, Jean Charles Nault, Mohamed Bouattour"
+        },
+        {
+          "title": "Impact of hepatocellular carcinoma on the risk of liver decompensation: A comparative analysis of patients with and without HCC",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926001254?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Andrea Martini, Massimo Iavarone, Roberta D’Ambrosio, Anna Barone, Pietro Guerra, Elisabetta Degasperi, Giulia Tosetti, Eleonora Alimenti, Silvia Cagnin, Antonio Bonato, Enrico Libralesso, Simone Incic"
+        },
+        {
+          "title": "Targeting a tolerogenic HLA-G genotype to tackle immune evasion and adaptive resistance in HBV-driven HCC",
+          "link": "https://www.sciencedirect.com/science/article/pii/S258955592600162X?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: JHEP Reports, Volume 8, Issue 8Author(s): Janine Kah, Lisa Staffeldt, Svenja Stefanski, Natalie Herzog, Gregor Mattert, Tassilo Volz, Maximilian Voß, Kornelius Schulze, Asmus Heumann, Werner Dammermann, Sarah Kammerer, Jan-Heiner Küpper, Pablo"
+        },
+        {
+          "title": "FGFR2 fusion-driven cholangiocarcinoma is characterized by a distinct neutrophil-enriched tumor microenvironment in a syngeneic murine model",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926002351?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 21 July 2026Source: JHEP ReportsAuthor(s): Nugzar Lekiashvili, Trinh Kieu Dinh, Alexander Olkus, Yu-Le Wu, Chun-Shan Liu, Daria Komkova, Albrecht Stenzinger, Felix J. Hartmann, Thomas Longerich, Michael T. Dill"
+        },
+        {
+          "title": "cfDNA derived gene signatures as surrogate for microvascular invasion in HCC",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926002375?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 21 July 2026Source: JHEP ReportsAuthor(s): Ruijie Gong, Linchen Wang, Dondon Xue, Jiabin Cai, Yurou Jiang, Jianhang Huang, Jinjin Zhu, Zhongchen Li, Aiwu Ke, Guoming Shi, Jie Wang, Wentao Wang, Jiaping Zheng, Weijian Yang, Zhou Zhang, Jian Zhou,"
+        },
+        {
+          "title": "Everolimus and <em>de novo</em> malignancies after liver transplantation: a Nationwide Emulated Trial Using Real-World Data",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926002053?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 7 July 2026Source: JHEP ReportsAuthor(s): Ilias Kounis, Tri-Long Nguyen, Christophe Desterke, Nathalie Goutte, Didier Samuel, Daniel Azoulay, Eric Vibert, Faouzi Saliba, Audrey Coilly, Paul Landais, Cyrille Féray"
+        },
+        {
+          "title": "A risk-based post ablation follow-up strategy for hepatocellular carcinoma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926002259?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 6 July 2026Source: JHEP ReportsAuthor(s): Daopeng Yang, Ke Lin, Yue Yang, Nan Zhang, Bin Qiao, Cailun Wang, Zixiong Gao, Manxia Lin, Guangliang Huang, Ming Xu, Xiaohua Xie, Xiaoyan Xie, Sirong Lan, Bowen Zhuang"
+        },
+        {
+          "title": "Reply to: “Comparison of patients with HBV-related HCC with and without MASLD after liver transplantation”",
+          "link": "https://www.sciencedirect.com/science/article/pii/S2589555926002156?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: Available online 30 June 2026Source: JHEP ReportsAuthor(s): Chia-Jung Ho, Chun-Ting Ho, Chien-Wei Su"
+        }
+      ]
+    },
+    {
+      "name": "Annals of Oncology",
+      "issn": "0923-7534",
+      "rss": "https://rss.sciencedirect.com/publication/science/09237534",
+      "status": 200,
+      "error": null,
+      "item_count": 67,
+      "theme_items": [
+        {
+          "title": "Datopotamab deruxtecan (Dato-DXd) in combination with durvalumab as first-line treatment for unresectable locally advanced or metastatic triple-negative breast cancer: results from arms 7 and 8 of the phase Ib/II BEGONIA study",
+          "link": "https://www.sciencedirect.com/science/article/pii/S092375342600877X?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: August 2026Source: Annals of Oncology, Volume 37, Issue 8Author(s): P. Schmid, H.-C. Wang, F. Lynce, J. Asselah, K.H. Jung, C.X. Ma, Y.H. Park, S.-C. Chen, P.J. Wysocki, R.D. Baird, Z. Nowecki, R. Fernandes, J. O’Shaughnessy, S. Lord, M.-F. Hou, L.-M. Tseng, C. "
+        },
+        {
+          "title": "A confidence-based, artificial intelligence pathology model for diagnosis of intrahepatic cholangiocarcinoma",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0923753426000748?dgcid=rss_sd_all",
+          "published": "",
+          "doi": "",
+          "summary_snip": "Publication date: July 2026Source: Annals of Oncology, Volume 37, Issue 7Author(s): Y. Cheng, N. Azouzi, A. Laurent-Bellue, Z. Guo, T. Chung, Q. Zeng, A. Ghodsifard, T. Albrecht, S. Roessler, C. Boulagnon-Rombi, M. Vij, M. Rela, R. Akpinar, J. Augustin, C. Bazille, S. Xu, S. Kong"
+        }
+      ]
+    }
+  ],
+  "pubmed_journal_window": {
+    "query": "(\"J Hepatol\"[Journal] OR \"JHEP Reports\"[Journal] OR \"Hepatology\"[Journal] OR \"Liver Cancer\"[Journal] OR \"Ann Oncol\"[Journal]) AND (\"2026/07/31\"[EDAT] : \"2026/08/01\"[EDAT])",
+    "window": [
+      "2026/07/31",
+      "2026/08/01"
+    ],
+    "count": 7,
+    "ids": [
+      "42537705",
+      "42537704",
+      "42535179",
+      "42535161",
+      "42535099",
+      "42532739",
+      "42532279"
+    ],
+    "records": [
+      {
+        "pmid": "42537705",
+        "title": "Low-dose bevacizumab plus atezolizumab enhances transarterial chemoembolization in HCC via correcting vascular-immune niche dysfunction.",
+        "source": "J Hepatol",
+        "pubdate": "2026 Jul 31",
+        "doi": "10.1016/j.jhep.2026.07.028"
+      },
+      {
+        "pmid": "42537704",
+        "title": "A WHA resolution on Steatotic liver diseases -A Global Call to Action.",
+        "source": "J Hepatol",
+        "pubdate": "2026 Jul 31",
+        "doi": "10.1016/j.jhep.2026.07.024"
+      },
+      {
+        "pmid": "42535179",
+        "title": "Real-World Evidence from a Nationwide Prospective Study of the Efficacy/Safety of Systemic Therapy for Unresectable Hepatocellular Carcinoma: First 1,000 Patients of the PRISM Study.",
+        "source": "Liver Cancer",
+        "pubdate": "2026 May 21",
+        "doi": "10.1159/000552686"
+      },
+      {
+        "pmid": "42535161",
+        "title": "Deep Response as a Novel Efficacy Endpoint in Hepatocellular Carcinoma.",
+        "source": "Liver Cancer",
+        "pubdate": "2026 Jul 30",
+        "doi": "10.1159/000553391"
+      },
+      {
+        "pmid": "42535099",
+        "title": "Reply to the Comment on the Article \"Prognostic Usefulness of Clinical Complete Response after PD-1 Inhibitor Based Combination Therapy for Unresectable Hepatocellular Carcinoma\".",
+        "source": "Liver Cancer",
+        "pubdate": "2026 Jun 11",
+        "doi": "10.1159/000553004"
+      },
+      {
+        "pmid": "42532739",
+        "title": "Corrigendum to: \"A randomized-controlled trial of ischemia-free liver transplantation for end-stage liver disease\" [J Hepatol 79 (2023) 394-402].",
+        "source": "J Hepatol",
+        "pubdate": "2026 Jul 30",
+        "doi": "10.1016/j.jhep.2026.07.004"
+      },
+      {
+        "pmid": "42532279",
+        "title": "Revisiting rejection after immune checkpoint inhibitor exposure prior to liver transplantation for hepatocellular carcinoma: Reply to: \"Rejection and perioperative management in liver transplantation following immune checkpoint inhibitor-based downstaging for hepatocellular carcinoma\" by Wang P et al.",
+        "source": "J Hepatol",
+        "pubdate": "2026 Jul 30",
+        "doi": "10.1016/j.jhep.2026.07.021"
+      }
+    ],
+    "theme_records": [
+      {
+        "pmid": "42537705",
+        "title": "Low-dose bevacizumab plus atezolizumab enhances transarterial chemoembolization in HCC via correcting vascular-immune niche dysfunction.",
+        "source": "J Hepatol",
+        "pubdate": "2026 Jul 31",
+        "doi": "10.1016/j.jhep.2026.07.028"
+      },
+      {
+        "pmid": "42535179",
+        "title": "Real-World Evidence from a Nationwide Prospective Study of the Efficacy/Safety of Systemic Therapy for Unresectable Hepatocellular Carcinoma: First 1,000 Patients of the PRISM Study.",
+        "source": "Liver Cancer",
+        "pubdate": "2026 May 21",
+        "doi": "10.1159/000552686"
+      },
+      {
+        "pmid": "42535161",
+        "title": "Deep Response as a Novel Efficacy Endpoint in Hepatocellular Carcinoma.",
+        "source": "Liver Cancer",
+        "pubdate": "2026 Jul 30",
+        "doi": "10.1159/000553391"
+      },
+      {
+        "pmid": "42535099",
+        "title": "Reply to the Comment on the Article \"Prognostic Usefulness of Clinical Complete Response after PD-1 Inhibitor Based Combination Therapy for Unresectable Hepatocellular Carcinoma\".",
+        "source": "Liver Cancer",
+        "pubdate": "2026 Jun 11",
+        "doi": "10.1159/000553004"
+      },
+      {
+        "pmid": "42532739",
+        "title": "Corrigendum to: \"A randomized-controlled trial of ischemia-free liver transplantation for end-stage liver disease\" [J Hepatol 79 (2023) 394-402].",
+        "source": "J Hepatol",
+        "pubdate": "2026 Jul 30",
+        "doi": "10.1016/j.jhep.2026.07.004"
+      },
+      {
+        "pmid": "42532279",
+        "title": "Revisiting rejection after immune checkpoint inhibitor exposure prior to liver transplantation for hepatocellular carcinoma: Reply to: \"Rejection and perioperative management in liver transplantation following immune checkpoint inhibitor-based downstaging for hepatocellular carcinoma\" by Wang P et al.",
+        "source": "J Hepatol",
+        "pubdate": "2026 Jul 30",
+        "doi": "10.1016/j.jhep.2026.07.021"
+      }
+    ],
+    "theme_count": 6
+  },
+  "theme_doi_count": 6,
+  "theme_dois": [
+    "10.1016/j.jhep.2026.07.028",
+    "10.1159/000552686",
+    "10.1159/000553391",
+    "10.1159/000553004",
+    "10.1016/j.jhep.2026.07.004",
+    "10.1016/j.jhep.2026.07.021"
+  ],
+  "rss_theme_item_count": 46,
+  "pubmed_theme_count": 6
+}
