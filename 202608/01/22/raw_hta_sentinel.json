@@ -1,0 +1,318 @@
+{
+  "collected_at_utc": "2026-08-01T22:02:17.188662+00:00",
+  "nice": {
+    "lists": [
+      {
+        "name": "NICE liver cancers — published TA",
+        "status": "published_ta",
+        "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/liver-cancers/products?GuidanceProgramme=TA&Status=Published",
+        "page_status": 200,
+        "error": null,
+        "items": [
+          {
+            "id": "ta1090",
+            "title": "Durvalumab with tremelimumab for untreated advanced or unresectable hepatocellular carcinoma (TA1090)",
+            "url": "https://www.nice.org.uk/guidance/ta1090"
+          },
+          {
+            "id": "ta688",
+            "title": "Selective internal radiation therapies for treating hepatocellular carcinoma (TA688)",
+            "url": "https://www.nice.org.uk/guidance/ta688"
+          },
+          {
+            "id": "ta849",
+            "title": "Cabozantinib for previously treated advanced hepatocellular carcinoma (TA849)",
+            "url": "https://www.nice.org.uk/guidance/ta849"
+          },
+          {
+            "id": "ta666",
+            "title": "Atezolizumab with bevacizumab for treating advanced or unresectable hepatocellular carcinoma (TA666)",
+            "url": "https://www.nice.org.uk/guidance/ta666"
+          },
+          {
+            "id": "ta609",
+            "title": "Ramucirumab for treating unresectable hepatocellular carcinoma after sorafenib (terminated appraisal) (TA609)",
+            "url": "https://www.nice.org.uk/guidance/ta609"
+          },
+          {
+            "id": "ta555",
+            "title": "Regorafenib for previously treated advanced hepatocellular carcinoma (TA555)",
+            "url": "https://www.nice.org.uk/guidance/ta555"
+          },
+          {
+            "id": "ta551",
+            "title": "Lenvatinib for untreated advanced hepatocellular carcinoma (TA551)",
+            "url": "https://www.nice.org.uk/guidance/ta551"
+          },
+          {
+            "id": "ta474",
+            "title": "Sorafenib for treating advanced hepatocellular carcinoma (TA474)",
+            "url": "https://www.nice.org.uk/guidance/ta474"
+          }
+        ],
+        "item_count": 8
+      },
+      {
+        "name": "NICE liver cancers — in development",
+        "status": "in_development",
+        "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/liver-cancers/products?Status=InDevelopment",
+        "page_status": 200,
+        "error": null,
+        "items": [
+          {
+            "id": "indevelopment/gid-ta10745",
+            "title": "Nivolumab for adjuvant treatment of high-risk hepatocellular carcinoma after liver resection or ablation [ID3858]",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta10745"
+          },
+          {
+            "id": "indevelopment/gid-ta10895",
+            "title": "Pembrolizumab for adjuvant treatment of hepatocellular carcinoma [ID3994]",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta10895"
+          },
+          {
+            "id": "indevelopment/gid-ta11116",
+            "title": "Nivolumab with ipilimumab for untreated advanced hepatocellular carcinoma [ID6239]",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta11116"
+          },
+          {
+            "id": "indevelopment/gid-ta10251",
+            "title": "Doxorubicin nanoparticles for previously treated advanced hepatocellular carcinoma [ID1314]",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta10251"
+          },
+          {
+            "id": "indevelopment/gid-ta11008",
+            "title": "Lenvatinib with pembrolizumab and transarterial chemoembolization for untreated localised hepatocellular carcinoma [ID5117]",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta11008"
+          },
+          {
+            "id": "indevelopment/gid-qs10176",
+            "title": "Suspected cancer update",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-qs10176"
+          },
+          {
+            "id": "indevelopment/gid-ta11831",
+            "title": "Tiragolumab with atezolizumab and bevacizumab for untreated unresectable or advanced hepatocellular carcinoma [TSID12238]",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ta11831"
+          },
+          {
+            "id": "indevelopment/gid-htg10175",
+            "title": "Blood-based biomarker tests and algorithms for surveillance in people at risk of hepatocellular carcinoma",
+            "url": "https://www.nice.org.uk/guidance/indevelopment/gid-htg10175"
+          }
+        ],
+        "item_count": 8
+      },
+      {
+        "name": "NICE liver cancers — updated in last 6 months",
+        "status": "updated_6m",
+        "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/liver-cancers/products?ProductType=Guidance&Recent=UpdatedInLast6Months&Status=Published",
+        "page_status": 200,
+        "error": null,
+        "items": [
+          {
+            "id": "ng12",
+            "title": "Suspected cancer: recognition and referral (NG12)",
+            "url": "https://www.nice.org.uk/guidance/ng12"
+          }
+        ],
+        "item_count": 1
+      }
+    ],
+    "unique_guidance_ids": [
+      "ta1090",
+      "ta688",
+      "ta849",
+      "ta666",
+      "ta609",
+      "ta555",
+      "ta551",
+      "ta474",
+      "indevelopment/gid-ta10745",
+      "indevelopment/gid-ta10895",
+      "indevelopment/gid-ta11116",
+      "indevelopment/gid-ta10251",
+      "indevelopment/gid-ta11008",
+      "indevelopment/gid-qs10176",
+      "indevelopment/gid-ta11831",
+      "indevelopment/gid-htg10175",
+      "ng12"
+    ],
+    "unique_guidance_count": 17
+  },
+  "ema_chmp": {
+    "news_url": "https://www.ema.europa.eu/en/news",
+    "news_status": 200,
+    "error": null,
+    "latest_highlights": {
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026"
+    },
+    "items": [
+      {
+        "title": "Evlarco : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/evlarco"
+      },
+      {
+        "title": "Icotyde : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/icotyde"
+      },
+      {
+        "title": "Lynavoy : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lynavoy"
+      },
+      {
+        "title": "Lyrokaul : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lyrokaul"
+      },
+      {
+        "title": "Nezglyal : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nezglyal"
+      },
+      {
+        "title": "Susvimo : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/susvimo"
+      },
+      {
+        "title": "Ubeslo : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ubeslo"
+      },
+      {
+        "title": "Zokovea : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zokovea"
+      },
+      {
+        "title": "Cavoley : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cavoley"
+      },
+      {
+        "title": "Riociguat Accord : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/riociguat-accord"
+      },
+      {
+        "title": "Ruxolitinib Viatris : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ruxolitinib-viatris"
+      },
+      {
+        "title": "Tafamidis Accord : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tafamidis-accord"
+      },
+      {
+        "title": "KemSu : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kemsu"
+      },
+      {
+        "title": "Meplyffa : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/meplyffa"
+      },
+      {
+        "title": "Qezzaqar : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qezzaqar"
+      },
+      {
+        "title": "Enhertu : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/enhertu"
+      },
+      {
+        "title": "Piqray : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/piqray"
+      },
+      {
+        "title": "Repatha : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/repatha"
+      },
+      {
+        "title": "Rinvoq : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/rinvoq-1"
+      },
+      {
+        "title": "Riltrava Aerosphere : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/riltrava-aerosphere"
+      },
+      {
+        "title": "Trixeo Aerosphere : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/trixeo-aerosphere"
+      },
+      {
+        "title": "Trodelvy : pending EC decision",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/trodelvy"
+      },
+      {
+        "title": "Azacitidine Adienne : Withdrawal",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-adienne"
+      },
+      {
+        "title": "Dupixent : Withdrawal",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/dupixent"
+      },
+      {
+        "title": "Imfinzi : Withdrawal",
+        "url": "https://www.ema.europa.eu/en/medicines/human/variation/imfinzi"
+      },
+      {
+        "title": "Enhertu",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/enhertu"
+      },
+      {
+        "title": "Jivi",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jivi"
+      },
+      {
+        "title": "Piqray",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/piqray"
+      },
+      {
+        "title": "Repatha",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/repatha"
+      },
+      {
+        "title": "Rinvoq",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rinvoq"
+      },
+      {
+        "title": "Riltrava Aerosphere",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/riltrava-aerosphere"
+      },
+      {
+        "title": "Trixeo Aerosphere",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trixeo-aerosphere"
+      },
+      {
+        "title": "Trodelvy",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trodelvy"
+      },
+      {
+        "title": "Xervyteg",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xervyteg"
+      },
+      {
+        "title": "Dupixent",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dupixent"
+      },
+      {
+        "title": "Imfinzi",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imfinzi"
+      },
+      {
+        "title": "Yartemlea",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yartemlea"
+      }
+    ],
+    "hcc_related_items": [],
+    "item_count": 37,
+    "hcc_related_count": 0,
+    "body_hcc_mentions": []
+  },
+  "counts": {
+    "nice_unique_guidance": 17,
+    "nice_published_ta": 8,
+    "nice_in_development": 8,
+    "ema_chmp_items": 37,
+    "ema_chmp_hcc_related": 0,
+    "ema_body_hcc_mentions": 0
+  },
+  "notes": [
+    "HAS Transparency avis lists are JS-heavy / often 403; deferred.",
+    "NICE product lists are the primary structured HTA sentinel for HCC.",
+    "EMA CHMP highlights are meeting-level title sentinels, not a full HTA DB."
+  ]
+}
