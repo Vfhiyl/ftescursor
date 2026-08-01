@@ -1,0 +1,57 @@
+{
+  "folder": "202608/01/00",
+  "previous_folder": "202607/31/23",
+  "trigger_utc": "2026-08-01T00:02:45.679Z",
+  "collected_at_utc": "2026-08-01T00:03:42.266634+00:00",
+  "window_start_utc": "2026-07-31T00:02:45.679000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 53,
+    "pubmed_pdat_count": 200,
+    "pubmed_edat_new_ids": [],
+    "pubmed_clinical_leaning": 30,
+    "crossref_unique_title_filtered": 53,
+    "crossref_new_dois": [
+      "10.1016/j.isci.2026.117037",
+      "10.1080/17482631.2026.2712683"
+    ],
+    "clinicaltrials_related": 14,
+    "clinicaltrials_focus": 14,
+    "clinicaltrials_new_ncts": [],
+    "openalex_count": 3,
+    "openalex_new_dois": [],
+    "openalex_preprint_count": 12,
+    "openalex_preprint_new_dois": [
+      "10.64898/2026.07.28.741157"
+    ],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 0,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "ctis_related": 129,
+    "ctis_focus": 119,
+    "ctis_recent_in_window": 0,
+    "ctis_recent_numbers": [],
+    "media_theme_items": 54,
+    "news_sentinel_note": "UTC day-boundary shrink: EDAT 101→53 NEW=0; Crossref NEW=2 (HDAC1 quinazoline mechanism + LT adaptation qualitative) observe only. CT 17→14 NEW=0; OA works 50→3 OA-only NEW=0; preprint channel NEW=0; news NEW URL=0. Media 53→54 (TORCH RSS recirculation + Zhongshan lung-mets mechanism). No must-read. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "Previous pack on main is 202607/31/23.",
+    "UTC day boundary: EDAT/Crossref/CT/OA windows shrink; DROPPED IDs are age-out, not deletions of evidence.",
+    "PubMed EDAT 101→53 NEW=0 / DROPPED=48; clinical_leaning 52→30.",
+    "Crossref 107→53 NEW DOI=2: 10.1016/j.isci.2026.117037 (mechanism); 10.1080/17482631.2026.2712683 (LT qualitative).",
+    "CT focus 17→14 NEW=0; DROPPED NCT04194775 / NCT06622057 / NCT07738055.",
+    "CTIS focus identical; recent-in-window 1→0 (ARTEMIDE out of window).",
+    "OpenAlex works 50→3 (publication_date Jul31–Aug1); OA-only NEW DOI=0 after Crossref/PubMed dedup.",
+    "OA preprint theme +1 DOI 10.64898/2026.07.28.741157; medRxiv/bioRxiv channel NEW=0; EPMC PPR 5→0.",
+    "News sentinel NEW URL=0; media theme 53→54 non-evidence.",
+    "Guidelines theme hrefs identical vs 23h.",
+    "unchanged_vs_previous=false (sets changed by day boundary + 2 Crossref) but no material clinical delta — short pack, must-read empty."
+  ]
+}
