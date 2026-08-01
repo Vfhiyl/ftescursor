@@ -1,0 +1,100 @@
+{
+  "checked_at": "2026-08-01T13:02:50.475944+00:00",
+  "sources": [
+    {
+      "lang": "en",
+      "name": "ESMO Daily Reporter",
+      "url": "https://dailyreporter.esmo.org/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "The place for TACE combinations in hepatocellular carcinoma is still uncertain",
+          "href": "https://dailyreporter.esmo.org/esmo-gastrointestinal-cancers-congress-2026/news/the-place-for-tace-combinations-in-hepatocellular-carcinoma-is-still-uncertain"
+        }
+      ],
+      "link_count_scanned": 81
+    },
+    {
+      "lang": "en",
+      "name": "ASCO Post",
+      "url": "https://ascopost.com/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [],
+      "link_count_scanned": 94
+    },
+    {
+      "lang": "en",
+      "name": "OncLive",
+      "url": "https://www.onclive.com/",
+      "status": null,
+      "error": "403: HTTP Error 403: Forbidden",
+      "theme_hits": [],
+      "link_count_scanned": 0
+    },
+    {
+      "lang": "ja",
+      "name": "日経がんナビ",
+      "url": "https://oncolo.jp/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [],
+      "link_count_scanned": 64
+    },
+    {
+      "lang": "zh",
+      "name": "国家卫健委",
+      "url": "https://www.nhc.gov.cn/",
+      "status": null,
+      "error": "412: HTTP Error 412: Precondition Failed",
+      "theme_hits": [],
+      "link_count_scanned": 0
+    },
+    {
+      "lang": "fr",
+      "name": "HAS",
+      "url": "https://www.has-sante.fr/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [],
+      "link_count_scanned": 95
+    },
+    {
+      "lang": "de",
+      "name": "AWMF",
+      "url": "https://www.awmf.org/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [],
+      "link_count_scanned": 112
+    },
+    {
+      "lang": "ru",
+      "name": "Minzdrav",
+      "url": "https://minzdrav.gov.ru/",
+      "status": null,
+      "error": "Remote end closed connection without response",
+      "theme_hits": [],
+      "link_count_scanned": 0
+    },
+    {
+      "lang": "ko",
+      "name": "KLCA",
+      "url": "https://www.livercancer.or.kr/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "Journal of Liver Cancer",
+          "href": "https://www.e-jlc.org/"
+        },
+        {
+          "text": "대한간암학회지 Journal of Liver Cancer *ESCI 등재지 *한국연구재단 등재지",
+          "href": "https://e-jlc.org/"
+        }
+      ],
+      "link_count_scanned": 102
+    }
+  ]
+}
