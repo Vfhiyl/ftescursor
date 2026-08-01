@@ -1,0 +1,2030 @@
+{
+  "query": "(\"hepatocellular carcinoma\"[Title/Abstract] OR \"liver cancer\"[Title/Abstract] OR HCC[Title/Abstract] OR cholangiocarcinoma[Title/Abstract] OR hepatectomy[Title/Abstract] OR \"hepatobiliary\"[Title/Abstract] OR TACE[Title/Abstract] OR \"hepatic resection\"[Title/Abstract] OR HAIC[Title/Abstract] OR SBRT[Title/Abstract] OR radioembolization[Title/Abstract] OR \"Y-90\"[Title/Abstract] OR yttrium-90[Title/Abstract] OR atezolizumab[Title/Abstract] OR durvalumab[Title/Abstract] OR lenvatinib[Title/Abstract])",
+  "window_start_utc": "2026-07-31T20:01:52.887000+00:00",
+  "window_end_utc": "2026-08-01T20:01:52.887000+00:00",
+  "edat": {
+    "count": 75,
+    "ids": [
+      "42539245",
+      "42538985",
+      "42538870",
+      "42538868",
+      "42538726",
+      "42538712",
+      "42538679",
+      "42538645",
+      "42538611",
+      "42538553",
+      "42538527",
+      "42538239",
+      "42538161",
+      "42538152",
+      "42538151",
+      "42538053",
+      "42537876",
+      "42537851",
+      "42537828",
+      "42537738",
+      "42537705",
+      "42537623",
+      "42537280",
+      "42537230",
+      "42536963",
+      "42536789",
+      "42536582",
+      "42536554",
+      "42536426",
+      "42536353",
+      "42536224",
+      "42536154",
+      "42536143",
+      "42536092",
+      "42536087",
+      "42535922",
+      "42535869",
+      "42535485",
+      "42535479",
+      "42535386",
+      "42535383",
+      "42535317",
+      "42535287",
+      "42535179",
+      "42535161",
+      "42535141",
+      "42535099",
+      "42535075",
+      "42535029",
+      "42534920",
+      "42534841",
+      "42534684",
+      "42534543",
+      "42534435",
+      "42534288",
+      "42534260",
+      "42534200",
+      "42534193",
+      "42534132",
+      "42533842",
+      "42533813",
+      "42533811",
+      "42533808",
+      "42533609",
+      "42532750",
+      "42532726",
+      "42532630",
+      "42532488",
+      "42532487",
+      "42532339",
+      "42532338",
+      "42532279",
+      "42532172",
+      "42531975",
+      "42531805"
+    ]
+  },
+  "pdat": {
+    "count": 200,
+    "ids": [
+      "42538870",
+      "42538726",
+      "42538611",
+      "42538553",
+      "42538527",
+      "42538239",
+      "42538161",
+      "42538152",
+      "42538151",
+      "42538053",
+      "42537876",
+      "42537851",
+      "42537828",
+      "42537738",
+      "42537705",
+      "42537623",
+      "42537280",
+      "42537230",
+      "42536582",
+      "42536554",
+      "42536353",
+      "42536224",
+      "42536154",
+      "42536143",
+      "42536092",
+      "42536087",
+      "42535485",
+      "42535479",
+      "42535386",
+      "42535383",
+      "42533842",
+      "42529258",
+      "42528937",
+      "42527085",
+      "42527075",
+      "42527074",
+      "42527069",
+      "42525523",
+      "42518513",
+      "42516780",
+      "42506898",
+      "42505062",
+      "42504811",
+      "42504148",
+      "42500825",
+      "42499017",
+      "42495152",
+      "42494243",
+      "42493176",
+      "42493166",
+      "42490795",
+      "42488704",
+      "42486601",
+      "42486600",
+      "42486599",
+      "42486597",
+      "42483986",
+      "42481330",
+      "42478918",
+      "42478167",
+      "42477505",
+      "42476720",
+      "42476653",
+      "42475226",
+      "42472665",
+      "42468000",
+      "42467982",
+      "42467892",
+      "42464408",
+      "42459869",
+      "42456735",
+      "42444080",
+      "42442381",
+      "42438686",
+      "42436801",
+      "42435281",
+      "42433301",
+      "42423485",
+      "42420761",
+      "42415409",
+      "42413440",
+      "42411035",
+      "42410989",
+      "42410929",
+      "42407326",
+      "42407325",
+      "42404632",
+      "42403957",
+      "42400955",
+      "42398520",
+      "42396550",
+      "42395270",
+      "42394399",
+      "42394245",
+      "42394207",
+      "42393287",
+      "42388907",
+      "42388905",
+      "42388447",
+      "42388270",
+      "42387819",
+      "42387055",
+      "42385878",
+      "42385538",
+      "42385359",
+      "42385355",
+      "42385204",
+      "42381980",
+      "42377814",
+      "42375926",
+      "42373423",
+      "42364906",
+      "42364832",
+      "42364524",
+      "42363436",
+      "42361644",
+      "42359685",
+      "42358519",
+      "42350220",
+      "42342601",
+      "42342083",
+      "42331686",
+      "42330996",
+      "42330707",
+      "42330688",
+      "42327993",
+      "42326065",
+      "42325924",
+      "42325923",
+      "42324831",
+      "42324383",
+      "42322708",
+      "42321088",
+      "42315427",
+      "42314568",
+      "42314305",
+      "42314304",
+      "42309948",
+      "42309947",
+      "42309946",
+      "42309495",
+      "42309387",
+      "42305767",
+      "42302993",
+      "42296572",
+      "42289019",
+      "42287818",
+      "42285885",
+      "42285810",
+      "42284889",
+      "42283416",
+      "42276489",
+      "42275883",
+      "42271638",
+      "42270817",
+      "42270520",
+      "42270519",
+      "42270518",
+      "42270517",
+      "42270516",
+      "42269332",
+      "42269209",
+      "42264093",
+      "42262196",
+      "42259713",
+      "42256240",
+      "42253856",
+      "42252000",
+      "42250486",
+      "42247961",
+      "42247881",
+      "42241992",
+      "42241393",
+      "42240929",
+      "42239544",
+      "42235430",
+      "42235163",
+      "42229203",
+      "42226564",
+      "42223836",
+      "42223241",
+      "42218345",
+      "42218054",
+      "42217273",
+      "42215358",
+      "42212387",
+      "42209817",
+      "42209308",
+      "42209304",
+      "42203545",
+      "42203104",
+      "42202921",
+      "42202751",
+      "42201624",
+      "42201490",
+      "42201381",
+      "42191458",
+      "42190907",
+      "42190470",
+      "42189881"
+    ]
+  },
+  "edat_ids": [
+    "42539245",
+    "42538985",
+    "42538870",
+    "42538868",
+    "42538726",
+    "42538712",
+    "42538679",
+    "42538645",
+    "42538611",
+    "42538553",
+    "42538527",
+    "42538239",
+    "42538161",
+    "42538152",
+    "42538151",
+    "42538053",
+    "42537876",
+    "42537851",
+    "42537828",
+    "42537738",
+    "42537705",
+    "42537623",
+    "42537280",
+    "42537230",
+    "42536963",
+    "42536789",
+    "42536582",
+    "42536554",
+    "42536426",
+    "42536353",
+    "42536224",
+    "42536154",
+    "42536143",
+    "42536092",
+    "42536087",
+    "42535922",
+    "42535869",
+    "42535485",
+    "42535479",
+    "42535386",
+    "42535383",
+    "42535317",
+    "42535287",
+    "42535179",
+    "42535161",
+    "42535141",
+    "42535099",
+    "42535075",
+    "42535029",
+    "42534920",
+    "42534841",
+    "42534684",
+    "42534543",
+    "42534435",
+    "42534288",
+    "42534260",
+    "42534200",
+    "42534193",
+    "42534132",
+    "42533842",
+    "42533813",
+    "42533811",
+    "42533808",
+    "42533609",
+    "42532750",
+    "42532726",
+    "42532630",
+    "42532488",
+    "42532487",
+    "42532339",
+    "42532338",
+    "42532279",
+    "42532172",
+    "42531975",
+    "42531805"
+  ],
+  "pdat_ids": [
+    "42538870",
+    "42538726",
+    "42538611",
+    "42538553",
+    "42538527",
+    "42538239",
+    "42538161",
+    "42538152",
+    "42538151",
+    "42538053",
+    "42537876",
+    "42537851",
+    "42537828",
+    "42537738",
+    "42537705",
+    "42537623",
+    "42537280",
+    "42537230",
+    "42536582",
+    "42536554",
+    "42536353",
+    "42536224",
+    "42536154",
+    "42536143",
+    "42536092",
+    "42536087",
+    "42535485",
+    "42535479",
+    "42535386",
+    "42535383",
+    "42533842",
+    "42529258",
+    "42528937",
+    "42527085",
+    "42527075",
+    "42527074",
+    "42527069",
+    "42525523",
+    "42518513",
+    "42516780",
+    "42506898",
+    "42505062",
+    "42504811",
+    "42504148",
+    "42500825",
+    "42499017",
+    "42495152",
+    "42494243",
+    "42493176",
+    "42493166",
+    "42490795",
+    "42488704",
+    "42486601",
+    "42486600",
+    "42486599",
+    "42486597",
+    "42483986",
+    "42481330",
+    "42478918",
+    "42478167",
+    "42477505",
+    "42476720",
+    "42476653",
+    "42475226",
+    "42472665",
+    "42468000",
+    "42467982",
+    "42467892",
+    "42464408",
+    "42459869",
+    "42456735",
+    "42444080",
+    "42442381",
+    "42438686",
+    "42436801",
+    "42435281",
+    "42433301",
+    "42423485",
+    "42420761",
+    "42415409",
+    "42413440",
+    "42411035",
+    "42410989",
+    "42410929",
+    "42407326",
+    "42407325",
+    "42404632",
+    "42403957",
+    "42400955",
+    "42398520",
+    "42396550",
+    "42395270",
+    "42394399",
+    "42394245",
+    "42394207",
+    "42393287",
+    "42388907",
+    "42388905",
+    "42388447",
+    "42388270",
+    "42387819",
+    "42387055",
+    "42385878",
+    "42385538",
+    "42385359",
+    "42385355",
+    "42385204",
+    "42381980",
+    "42377814",
+    "42375926",
+    "42373423",
+    "42364906",
+    "42364832",
+    "42364524",
+    "42363436",
+    "42361644",
+    "42359685",
+    "42358519",
+    "42350220",
+    "42342601",
+    "42342083",
+    "42331686",
+    "42330996",
+    "42330707",
+    "42330688",
+    "42327993",
+    "42326065",
+    "42325924",
+    "42325923",
+    "42324831",
+    "42324383",
+    "42322708",
+    "42321088",
+    "42315427",
+    "42314568",
+    "42314305",
+    "42314304",
+    "42309948",
+    "42309947",
+    "42309946",
+    "42309495",
+    "42309387",
+    "42305767",
+    "42302993",
+    "42296572",
+    "42289019",
+    "42287818",
+    "42285885",
+    "42285810",
+    "42284889",
+    "42283416",
+    "42276489",
+    "42275883",
+    "42271638",
+    "42270817",
+    "42270520",
+    "42270519",
+    "42270518",
+    "42270517",
+    "42270516",
+    "42269332",
+    "42269209",
+    "42264093",
+    "42262196",
+    "42259713",
+    "42256240",
+    "42253856",
+    "42252000",
+    "42250486",
+    "42247961",
+    "42247881",
+    "42241992",
+    "42241393",
+    "42240929",
+    "42239544",
+    "42235430",
+    "42235163",
+    "42229203",
+    "42226564",
+    "42223836",
+    "42223241",
+    "42218345",
+    "42218054",
+    "42217273",
+    "42215358",
+    "42212387",
+    "42209817",
+    "42209308",
+    "42209304",
+    "42203545",
+    "42203104",
+    "42202921",
+    "42202751",
+    "42201624",
+    "42201490",
+    "42201381",
+    "42191458",
+    "42190907",
+    "42190470",
+    "42189881"
+  ],
+  "edat_summaries_lite": [
+    {
+      "pmid": "42539245",
+      "title": "Sulfur amino acid restriction prevents S-adenosylmethionine-driven liver steatosis, hepatocellular carcinoma, and metabolic remodeling in high-fat-fed GNMT-null mice.",
+      "source": "bioRxiv",
+      "pubdate": "2026 Jul 22",
+      "epubdate": "2026 Jul 22",
+      "authors": [
+        "Hampton GS",
+        "Ortega AF",
+        "Vang CM",
+        "Rome FI",
+        "Goelzer M",
+        "Lantier L",
+        "Hughey CC"
+      ],
+      "doi": "10.64898/2026.07.17.738958",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42538985",
+      "title": "Heparan Sulfate Controls Nanoscale Assembly of GPC3-Wnt Receptor Complexes.",
+      "source": "bioRxiv",
+      "pubdate": "2026 Jul 22",
+      "epubdate": "2026 Jul 22",
+      "authors": [
+        "Lin S",
+        "Ball DA",
+        "Fazel M",
+        "Karpova TS",
+        "Ho M"
+      ],
+      "doi": "10.64898/2026.07.21.739947",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ]
+    },
+    {
+      "pmid": "42538870",
+      "title": "Manufacturing and electrostatic surface optimization of CAR-T cells improve therapeutic efficacy in liver malignancies.",
+      "source": "Hepatol Commun",
+      "pubdate": "2026 Aug 1",
+      "epubdate": "2026 Jul 15",
+      "authors": [
+        "Bian L",
+        "Zhu J",
+        "Wang H",
+        "Wu Z",
+        "Zheng Z",
+        "Peng Y",
+        "Liu Y",
+        "Fang X"
+      ],
+      "doi": "10.1097/HC9.0000000000000982",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538868",
+      "title": "MCT4-Mediated Metabolic Reprogramming in Tumor-Associated Macrophages Promotes Hepatocellular Carcinoma Progression.",
+      "source": "Cell J",
+      "pubdate": "2026 Jul 19",
+      "epubdate": "2026 Jul 19",
+      "authors": [
+        "Li Z",
+        "Zhang N",
+        "Li R",
+        "Qi Y",
+        "Wang Y",
+        "Zhao M",
+        "Qie S"
+      ],
+      "doi": "10.22074/cellj.2026.2063702.1876",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538726",
+      "title": "Machine Perfusion Preservation as a Platform for Advanced Liver Surgery.",
+      "source": "Artif Organs",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Viana P",
+        "Irby M",
+        "Battula NR",
+        "Pitchaimuthu M",
+        "Edil B",
+        "Jain A",
+        "Goumard C",
+        "Scatton O"
+      ],
+      "doi": "10.1111/aor.70209",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42538712",
+      "title": "Successful Treatment of Biliary Rhabdomyosarcoma With Neoadjuvant Chemotherapy and Liver Transplantation.",
+      "source": "Exp Clin Transplant",
+      "pubdate": "2026 Jul",
+      "epubdate": "",
+      "authors": [
+        "Belen Apak FB",
+        "Kilci C",
+        "Işik P",
+        "Kayaselcuk F",
+        "Coskun M",
+        "Olcay L",
+        "Ozcay F",
+        "Balcı Sezer O"
+      ],
+      "doi": "10.6002/ect.MESOT2025.O69",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538679",
+      "title": "Long-Term Renal Outcomes and Survival After Liver Transplant: A 10-Year Cohort Study.",
+      "source": "Exp Clin Transplant",
+      "pubdate": "2026 Jul",
+      "epubdate": "",
+      "authors": [
+        "Ozer S",
+        "Celebi ZK",
+        "Haberal M"
+      ],
+      "doi": "10.6002/ect.MESOT2025.O65",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538645",
+      "title": "The Impact of Chronic Hepatitis D Virus Infection on Health-Related Quality of Life and Fatigue: A Real-World International Study.",
+      "source": "J Viral Hepat",
+      "pubdate": "2026 Sep",
+      "epubdate": "",
+      "authors": [
+        "Lampertico P",
+        "Gish RG",
+        "Reau N",
+        "Wedemeyer H",
+        "Buti M",
+        "Kaushik A",
+        "Yehoshua A",
+        "Burk C"
+      ],
+      "doi": "10.1111/jvh.70193",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538611",
+      "title": "3D Liver Fibrosis Models in Lab: A Novel Modality for Drug Screening.",
+      "source": "Pharmacol Res Perspect",
+      "pubdate": "2026 Aug",
+      "epubdate": "",
+      "authors": [
+        "Alikhani HK",
+        "Majidi F",
+        "Ghasemzad M",
+        "Shpichka A",
+        "Nestorova A",
+        "Hendi Z",
+        "Rismani E",
+        "Kuznetsova D"
+      ],
+      "doi": "10.1002/prp2.70306",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42538553",
+      "title": "Co-managing the double burden: strategies for simultaneously tackling infectious and non-communicable diseases.",
+      "source": "Infect Dis Poverty",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Li JJ",
+        "Fu ML",
+        "Kong LF",
+        "Zhao ZY",
+        "Ohore OE",
+        "Bergquist R",
+        "Tanner M",
+        "Yang GJ"
+      ],
+      "doi": "10.1186/s40249-026-01477-y",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42538527",
+      "title": "Aflatoxin exposure and health impacts: global burden and advances in detection technologies.",
+      "source": "Genes Environ",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Bereda G"
+      ],
+      "doi": "10.1186/s41021-026-00363-1",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42538239",
+      "title": "Patterns of progression and efficacy of immune checkpoint inhibitors in unresectable, recurrent, or metastatic cholangiocarcinoma: A real-world study.",
+      "source": "Dig Liver Dis",
+      "pubdate": "2026 Aug 1",
+      "epubdate": "2026 Aug 1",
+      "authors": [
+        "Li Y",
+        "Mu Y",
+        "Li F",
+        "Zhang J",
+        "Zhang J",
+        "Qiao L",
+        "Zhang Y"
+      ],
+      "doi": "10.1016/j.dld.2026.07.013",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538161",
+      "title": "Profile of Patients Undergoing Liver Transplantation for Hepatocellular Carcinoma at a Brazilian High-Complexity Referral Center: Tumor Biology as a Predictor of Post-Transplant Recurrence.",
+      "source": "Transplant Proc",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Marin-Castro P",
+        "Pinheiro RS",
+        "Waisberg DR",
+        "Arantes RM",
+        "Santos VR",
+        "Martino RB",
+        "Ducatti L",
+        "Haddad LB"
+      ],
+      "doi": "10.1016/j.transproceed.2026.07.012",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538152",
+      "title": "Enhanced acetate uptake and metabolism in endothelial cells promote tumour angiogenesis and immunosuppression by increasing histone acetylation.",
+      "source": "Gut",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Chen JY",
+        "Ji YC",
+        "Wu CH",
+        "Chen JG",
+        "Zeng HX",
+        "Xie C",
+        "Fang JH",
+        "Zhuang SM"
+      ],
+      "doi": "10.1136/gutjnl-2026-338754",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538151",
+      "title": "Clonal evolution driving timing and sites of postsurgical recurrences in hepatocellular carcinoma.",
+      "source": "Gut",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "D'Alessio A",
+        "Wong CC"
+      ],
+      "doi": "10.1136/gutjnl-2026-339683",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42538053",
+      "title": "CPNE1 promotes stemness and confers resistance to GPC3 CAR-T cell therapy in hepatocellular carcinoma via the STAT3-TGF-β signaling pathway.",
+      "source": "J Immunother Cancer",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Zhang H",
+        "Xiang T",
+        "Pan Q",
+        "Song M",
+        "Huang L",
+        "Zhang YJ",
+        "Hu Z",
+        "Yang X"
+      ],
+      "doi": "10.1136/jitc-2025-014430",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42537876",
+      "title": "Three-Dimensional Margin Assessment Predicts Local Tumor Progression After Stereotactic Microwave Ablation of Small HCC ≤3 cm.",
+      "source": "J Vasc Interv Radiol",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Brönnimann MP",
+        "Lauber P",
+        "Hung ML",
+        "Conradi LC",
+        "Storni F",
+        "Binkert CA",
+        "Heverhagen JT"
+      ],
+      "doi": "10.1016/j.jvir.2026.108988",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42537851",
+      "title": "EMPTY-RT: A Phase 2 Trial of Prostate Stereotactic Body Radiotherapy with an Empty Bladder Approach.",
+      "source": "Int J Radiat Oncol Biol Phys",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Murthy V",
+        "Gulati S",
+        "Ghosh S",
+        "Sable S",
+        "Phurailatpam R",
+        "Patil D",
+        "Mhatre R",
+        "Chougle N"
+      ],
+      "doi": "10.1016/j.ijrobp.2026.07.018",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42537828",
+      "title": "SMG1 in Hepatocellular Carcinoma: A Context-Dependent Tumor Suppressor and a Targetable Node for NMD-Directed Immunotherapy.",
+      "source": "Crit Rev Oncol Hematol",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Nam SW"
+      ],
+      "doi": "10.1016/j.critrevonc.2026.105508",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42537738",
+      "title": "Epigenetic Regulation in Liver Fibrosis: Focus on the Chromatin Accessibility Landscape.",
+      "source": "Eur J Pharmacol",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Dong X",
+        "Li MH",
+        "Qiao ZL",
+        "Xi ZH",
+        "Sun WJ",
+        "Dong QQ",
+        "Tao H",
+        "Lu C"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179202",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42537705",
+      "title": "Low-dose bevacizumab plus atezolizumab enhances transarterial chemoembolization in HCC via correcting vascular-immune niche dysfunction.",
+      "source": "J Hepatol",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Zhao C",
+        "Yan H",
+        "Liang Z",
+        "Yu H",
+        "Mu L",
+        "Xiang Z",
+        "Li K",
+        "Hu Y"
+      ],
+      "doi": "10.1016/j.jhep.2026.07.028",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42537623",
+      "title": "Immune checkpoint inhibitor rechallenge after pazopanib treatment in primary pulmonary angiosarcoma: A case report.",
+      "source": "Respir Investig",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Nakaya J",
+        "Kojima R",
+        "Nakanishi S",
+        "Miyanishi Y",
+        "Fujii Y",
+        "Tsukao H",
+        "Yamaguchi W",
+        "Kojima T"
+      ],
+      "doi": "10.1016/j.resinv.2026.101496",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42537280",
+      "title": "Alcohol and tobacco in cancer: A unified framework of interaction across carcinogenic pathways and cancer types.",
+      "source": "Cancer Epidemiol",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Bouajila N",
+        "Srour B",
+        "Barrault C",
+        "Stoebner A",
+        "Arvers P",
+        "Peiffer G",
+        "Foucaud J",
+        "Aubin HJ"
+      ],
+      "doi": "10.1016/j.canep.2026.103166",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42537230",
+      "title": "The impact of lesion size on outcomes following stereotactic body radiotherapy for spinal metastases.",
+      "source": "J Neurosurg Spine",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Lilly DT",
+        "Negri Brito H",
+        "Wei W",
+        "Magnelli A",
+        "Chao ST",
+        "Suh JH",
+        "Balagamwala EH",
+        "Angelov L"
+      ],
+      "doi": "10.3171/2026.2.SPINE251402",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536963",
+      "title": "Duodenal wall hematoma imitating a pancreatic tumor as a rare cause of obstructive jaundice - a case report.",
+      "source": "Wiad Lek",
+      "pubdate": "2026",
+      "epubdate": "",
+      "authors": [
+        "Nawracaj MJ",
+        "Miłkowska M",
+        "Denkiewicz A",
+        "Małek M",
+        "Bartczak JM",
+        "Pieczykolan Ł",
+        "Suszek W",
+        "Sosiński P"
+      ],
+      "doi": "10.36740/WLek/221516",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42536789",
+      "title": "Diagnostic Puzzle of Atypical Kawasaki Disease.",
+      "source": "S D Med",
+      "pubdate": "2026 Jul",
+      "epubdate": "",
+      "authors": [
+        "Roberts M",
+        "Job A",
+        "Blankespoor T",
+        "Naasz L",
+        "Hofer R",
+        "Kuntz M",
+        "Reed J",
+        "Lim PP"
+      ],
+      "doi": null,
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536582",
+      "title": "Alcoholic cirrhosis with Wernicke encephalopathy: Clinical case report.",
+      "source": "Medicine (Baltimore)",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "",
+      "authors": [
+        "Liu H",
+        "Cai H",
+        "He D"
+      ],
+      "doi": "10.1097/MD.0000000000049998",
+      "pubtype": [
+        "Journal Article",
+        "Case Reports"
+      ]
+    },
+    {
+      "pmid": "42536554",
+      "title": "Evidence summary of nursing care of arterial drug administration and catheter management for HAIC in hepatocellular carcinoma.",
+      "source": "Medicine (Baltimore)",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "",
+      "authors": [
+        "Shi Z",
+        "Han L",
+        "He T",
+        "Shen M"
+      ],
+      "doi": "10.1097/MD.0000000000049992",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536426",
+      "title": "Perioperative outcomes and long-term survival following resection of gallbladder cancer in older adults: retrospective study.",
+      "source": "BJS Open",
+      "pubdate": "2026 Jul 3",
+      "epubdate": "",
+      "authors": [
+        "Balakrishnan A",
+        "Barmpounakis P",
+        "Demiris N",
+        "Andersson B",
+        "Brañes A",
+        "de Aretxabala X",
+        "Gibbs P",
+        "Harper SJF"
+      ],
+      "doi": "10.1093/bjsopen/zrag052",
+      "pubtype": [
+        "Journal Article",
+        "Multicenter Study"
+      ]
+    },
+    {
+      "pmid": "42536353",
+      "title": "Oral Health and Risk of Liver Cancer: Evidence from Pooled and Meta-Analyses.",
+      "source": "Cancer Epidemiol Biomarkers Prev",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Wu Z",
+        "Jordão HWT",
+        "Jones GS",
+        "McKenna G",
+        "Almeida AA",
+        "Chong DQ",
+        "Coleman HG",
+        "Eliassen AH"
+      ],
+      "doi": "10.1158/1055-9965.EPI-26-0461",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536224",
+      "title": "Par-4/TERT induced autophagy dysregulation in regulating glycolysis in hyperglycemia combined with hepatocellular carcinoma.",
+      "source": "J Bioenerg Biomembr",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Tang J",
+        "Wang P",
+        "Chen X",
+        "Lei X",
+        "Qiu S",
+        "Wu Q"
+      ],
+      "doi": "10.1007/s10863-026-10126-w",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536154",
+      "title": "Neonatal liver tumors requiring early postnatal hepatectomy: A retrospective review of seven cases.",
+      "source": "Surg Today",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Usui H",
+        "Takahashi R",
+        "Tanaka S",
+        "Morishima R",
+        "Shirane K",
+        "Kondo T",
+        "Mochizuki K",
+        "Keino D"
+      ],
+      "doi": "10.1007/s00595-026-03445-3",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536143",
+      "title": "[Perioperative treatment of muscle-invasive bladder cancer : Current treatment concepts].",
+      "source": "Urologie",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Niegisch G",
+        "Grunewald C"
+      ],
+      "doi": "10.1007/s00120-026-02900-w",
+      "pubtype": [
+        "English Abstract",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536092",
+      "title": "A comparative study of 2908 cases of transumbilical single-incision laparoscopic cholecystectomy versus 1952 cases of traditional three-incision laparoscopic cholecystectomy in a single center.",
+      "source": "Surg Endosc",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Tang W",
+        "Liao B",
+        "He W",
+        "Yang X",
+        "Zou H"
+      ],
+      "doi": "10.1007/s00464-026-13195-5",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42536087",
+      "title": "Safety of robotic liver resection under antiplatelet therapy: a propensity score-matching study.",
+      "source": "Surg Endosc",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Esposito G",
+        "Manicardi M",
+        "Ross S",
+        "Vanterpool G Jr",
+        "Haripersad O",
+        "Covilo KM",
+        "Eid MK",
+        "Axentiev A"
+      ],
+      "doi": "10.1007/s00464-026-13226-1",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535922",
+      "title": "Intratumoral Therapy with or without Pulsed Electric Field Ablation for Hepatocellular Carcinoma: A Proof-of-Concept Study.",
+      "source": "Radiol Imaging Cancer",
+      "pubdate": "2026 Jul",
+      "epubdate": "",
+      "authors": [
+        "Siddiqi NS"
+      ],
+      "doi": "10.1148/rycan.269017",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535869",
+      "title": "RETRACTION: Upregulation of miR-138 Increases Sensitivity to Cisplatin in Hepatocellular Carcinoma by Regulating EZH2.",
+      "source": "Biomed Res Int",
+      "pubdate": "2026",
+      "epubdate": "",
+      "authors": [
+        "International BR"
+      ],
+      "doi": "10.1155/bmri/9875356",
+      "pubtype": [
+        "Journal Article",
+        "Retraction Notice"
+      ]
+    },
+    {
+      "pmid": "42535485",
+      "title": "Quantitative evaluation of respiratory motion-induced blurring in expiratory-phase CBCT for pancreatic SBRT.",
+      "source": "J Appl Clin Med Phys",
+      "pubdate": "2026 Aug",
+      "epubdate": "",
+      "authors": [
+        "Nukushina A",
+        "Yamada R",
+        "Yoshimura T",
+        "Katoh N",
+        "Nishioka K",
+        "Tamura H",
+        "Kitagawa M",
+        "Kobashi K"
+      ],
+      "doi": "10.1002/acm2.70729",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535479",
+      "title": "Mechanical properties of cancer cells reveal differential responses to anti-PD-1 immunotherapy.",
+      "source": "Anal Methods",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Wang Y",
+        "Yu J",
+        "Yin X",
+        "Deng Q",
+        "Chen Y",
+        "Ju T",
+        "Wang Z"
+      ],
+      "doi": "10.1039/d6ay01091a",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535386",
+      "title": "Ginsenosides alleviate the progression of hepatic fibrosis by targeting the liver circadian clock gene CLOCK.",
+      "source": "Mol Med Rep",
+      "pubdate": "2026 Oct",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Yu J",
+        "Qian C",
+        "Que R",
+        "Zhou Y"
+      ],
+      "doi": "10.3892/mmr.2026.13973",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535383",
+      "title": "Role of extracellular matrix in liver fibrosis regression and regeneration (Review).",
+      "source": "Int J Mol Med",
+      "pubdate": "2026 Oct",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Zhou Y",
+        "Qiang Z",
+        "Duan Y",
+        "Huang J",
+        "Wang H"
+      ],
+      "doi": "10.3892/ijmm.2026.5942",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42535317",
+      "title": "Crosstalk between epigenetic regulation and metabolic reprogramming in hepatocellular carcinoma.",
+      "source": "Chin Med J (Engl)",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Pu Y",
+        "Lv Y",
+        "Wang Z",
+        "Yuan K"
+      ],
+      "doi": "10.1097/CM9.0000000000004222",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535287",
+      "title": "LSI-Age: A machine learning derived liver-related immune clock for hepatocellular carcinoma risk.",
+      "source": "Chin Med J (Engl)",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Zeng Y",
+        "Hu T",
+        "Zhou Y",
+        "Song X",
+        "Chen J"
+      ],
+      "doi": "10.1097/CM9.0000000000004251",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535179",
+      "title": "Real-World Evidence from a Nationwide Prospective Study of the Efficacy/Safety of Systemic Therapy for Unresectable Hepatocellular Carcinoma: First 1,000 Patients of the PRISM Study.",
+      "source": "Liver Cancer",
+      "pubdate": "2026 May 21",
+      "epubdate": "2026 May 21",
+      "authors": [
+        "Ikeda M",
+        "Itoh S",
+        "Onozuka D",
+        "Ogasawara S",
+        "Kawaoka T",
+        "Niizeki T",
+        "Yamashita T",
+        "Tanaka Y"
+      ],
+      "doi": "10.1159/000552686",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535161",
+      "title": "Deep Response as a Novel Efficacy Endpoint in Hepatocellular Carcinoma.",
+      "source": "Liver Cancer",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Kudo M"
+      ],
+      "doi": "10.1159/000553391",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535141",
+      "title": "Stage analysis of gastric cancer: a bioinformatic approach.",
+      "source": "Gastroenterol Hepatol Bed Bench",
+      "pubdate": "2026",
+      "epubdate": "2026 May 2",
+      "authors": [
+        "Montazer F",
+        "Rezaei-Tavirani M",
+        "Arjmand B",
+        "Asri N",
+        "Razzaghi Z",
+        "Razi F",
+        "Bandarian F"
+      ],
+      "doi": "10.22037/ghfbb.v19i01.3260",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535099",
+      "title": "Reply to the Comment on the Article \"Prognostic Usefulness of Clinical Complete Response after PD-1 Inhibitor Based Combination Therapy for Unresectable Hepatocellular Carcinoma\".",
+      "source": "Liver Cancer",
+      "pubdate": "2026 Jun 11",
+      "epubdate": "2026 Jun 11",
+      "authors": [
+        "Huang ZH",
+        "Huang JL",
+        "Lin LP",
+        "Yang DL",
+        "Ma L",
+        "Zhong JH",
+        "GUIDANCE Investigators"
+      ],
+      "doi": "10.1159/000553004",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535075",
+      "title": "Preoperative prediction of microvascular invasion in hepatocellular carcinoma ≤5 cm based on contrast-enhanced ultrasound features and LI-RADS categorization: a multicenter study.",
+      "source": "Front Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Zhang Q",
+        "Pang C",
+        "Liu Z",
+        "Wang R",
+        "Fan W",
+        "Zhao Y",
+        "Zhang Y",
+        "Liang P"
+      ],
+      "doi": "10.3389/fonc.2026.1901674",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42535029",
+      "title": "CACUL1 promotes hepatocellular carcinoma progression through enhanced tumor cell proliferation and macrophage-mediated immune suppression.",
+      "source": "Front Immunol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Wang X",
+        "Tan Y",
+        "Wang J",
+        "Kong Y"
+      ],
+      "doi": "10.3389/fimmu.2026.1819873",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534920",
+      "title": "Adverse event reporting patterns of rituximab and obinutuzumab in B-cell non-Hodgkin lymphoma: a FAERS pharmacovigilance study.",
+      "source": "Front Immunol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Ma W",
+        "Fu H",
+        "Zhou Y",
+        "Wu Y"
+      ],
+      "doi": "10.3389/fimmu.2026.1855113",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534841",
+      "title": "Delayed intrabiliary migration of embolization material after hepatic arterial embolization: a case report.",
+      "source": "Front Surg",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Chen X",
+        "Ying Y",
+        "Qian H",
+        "Shen Z"
+      ],
+      "doi": "10.3389/fsurg.2026.1842770",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534684",
+      "title": "Oregano extract induces apoptosis and inhibits autophagy in HepG2 cells via the PI3K/AKT pathway.",
+      "source": "Front Pharmacol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Xu M",
+        "Zhu M",
+        "Zhao WY",
+        "Li Z",
+        "Xu K",
+        "Yang K",
+        "Wang Z",
+        "Long S"
+      ],
+      "doi": "10.3389/fphar.2026.1884083",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534543",
+      "title": "Survival after curative hepatectomy for hepatocellular carcinoma in patients with and without MAFLD: a western cohort study.",
+      "source": "Front Oncol",
+      "pubdate": "2026",
+      "epubdate": "2026 Jul 16",
+      "authors": [
+        "Molinari M",
+        "Sethi V",
+        "Kaltenmeier C",
+        "Abdullah A",
+        "Demirors B",
+        "Yu-Sheng Lin M",
+        "Mial-Anthony J",
+        "Arefan D"
+      ],
+      "doi": "10.3389/fonc.2026.1793271",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534435",
+      "title": "Computed tomography radiomics-based machine learning nomogram for preoperative prediction of glypican-3 expression in hepatocellular carcinoma.",
+      "source": "World J Radiol",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "",
+      "authors": [
+        "Zheng ZH",
+        "Wu CH",
+        "Hu JB",
+        "Xu JF",
+        "Zi XY",
+        "Chen JH",
+        "He Q",
+        "Dong WY"
+      ],
+      "doi": "10.4329/wjr.121161",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534288",
+      "title": "Establishment of extrahepatic bile duct cancer organoids using suspension culture and their application in clinical drug screening.",
+      "source": "Oncol Lett",
+      "pubdate": "2026 Sep",
+      "epubdate": "2026 Jul 17",
+      "authors": [
+        "Huang W",
+        "Su Y",
+        "Yu C",
+        "Zhang Y",
+        "Xu H",
+        "Zhou W"
+      ],
+      "doi": "10.3892/ol.2026.15770",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534260",
+      "title": "Stereotactic Body Radiotherapy for Refractory Ventricular Tachycardia: From Serendipity to Precision Biological Ablation.",
+      "source": "Rev Cardiovasc Med",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Jul 22",
+      "authors": [
+        "Gu Z",
+        "Xu Z",
+        "Shen Y",
+        "Shi L",
+        "Liu H",
+        "Chen M"
+      ],
+      "doi": "10.31083/RCM49589",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42534200",
+      "title": "Portal vein embolization for arterio-portal shunt closure in hepatocellular carcinoma to facilitate selective internal radiation therapy.",
+      "source": "World J Radiol",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "",
+      "authors": [
+        "Liu X",
+        "Zhao JY",
+        "Xu ZY",
+        "Shen SQ",
+        "Xu ZJ",
+        "Yang YF",
+        "Ge NJ",
+        "Wang XD"
+      ],
+      "doi": "10.4329/wjr.121348",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534193",
+      "title": "Aseptic Meningitis With Multiple Cranial Nerve Symptoms Induced by Atezolizumab for Lung Adenocarcinoma: A Case Report.",
+      "source": "Cureus",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Jun 28",
+      "authors": [
+        "Mikoshiba-Takahashi S",
+        "Matsubayashi T",
+        "Masuda M",
+        "Tsukamoto K",
+        "Yamana T",
+        "Kamimura M"
+      ],
+      "doi": "10.7759/cureus.111696",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42534132",
+      "title": "Oncocytic (Hürthle Cell) Carcinoma Invading the Innominate Vein: A Case Report.",
+      "source": "Cureus",
+      "pubdate": "2026 Jun",
+      "epubdate": "2026 Jun 29",
+      "authors": [
+        "Wassel E",
+        "Gill H",
+        "Stading A",
+        "Kong LB"
+      ],
+      "doi": "10.7759/cureus.111763",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42533842",
+      "title": "Impact of physician co-management on duration of hospitalisation among surgical patients: a retrospective pre-post analysis at a tertiary centre.",
+      "source": "Intern Med J",
+      "pubdate": "2026 Jul 31",
+      "epubdate": "2026 Jul 31",
+      "authors": [
+        "Lim HZ",
+        "Subramaniam A",
+        "Ooi G",
+        "Lim AKH",
+        "Aung AK",
+        "Zhao RY"
+      ],
+      "doi": "10.1111/imj.70597",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42533813",
+      "title": "Erratum to 'MAFLD or MASLD: Which better represents the prognosis of the steatotic liver population: Letter to the editor on \"Evolutionary changes in metabolic dysfunction-associated steatotic liver disease and risk of hepatocellular carcinoma: A nationwide cohort study\"' [Clin Mol Hepatol 2025;31:e128-e133].",
+      "source": "Clin Mol Hepatol",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Jul 1",
+      "authors": [
+        "Wang Y",
+        "Wang S",
+        "Fan X",
+        "Zhao J",
+        "Song Y"
+      ],
+      "doi": "10.3350/cmh.2024.1008e",
+      "pubtype": [
+        "Published Erratum"
+      ]
+    },
+    {
+      "pmid": "42533811",
+      "title": "Correspondence to letter to the editor on \"Integrative multi-omics profiling identifies infiltrative hepatocellular carcinoma as an immunotherapy-resistant subtype with distinct molecular features\".",
+      "source": "Clin Mol Hepatol",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Jul 1",
+      "authors": [
+        "Lee WS",
+        "Woo S",
+        "Hwang S",
+        "Kim C",
+        "Chon HJ"
+      ],
+      "doi": "10.3350/cmh.2026.0208",
+      "pubtype": [
+        "Journal Article",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42533808",
+      "title": "COLEC12high tumor-associated macrophages: A novel paracrine axis driving lenvatinib resistance in hepatocellular carcinoma: Editorial on \"COLEC12high tumor-associated macrophages orchestrate lenvatinib resistance and cancer stemness in hepatocellular carcinoma via paracrine NRG1-HER2/HER3 signaling\".",
+      "source": "Clin Mol Hepatol",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Jul 1",
+      "authors": [
+        "Han JW"
+      ],
+      "doi": "10.3350/cmh.2026.0219",
+      "pubtype": [
+        "Editorial",
+        "Comment"
+      ]
+    },
+    {
+      "pmid": "42533609",
+      "title": "Steatosis in Cirrhosis: A Prognostic Marker for Liver-Related Outcomes in Metabolic-Dysfunction Associated Steatotic Liver Disease.",
+      "source": "Liver Int",
+      "pubdate": "2026 Sep",
+      "epubdate": "",
+      "authors": [
+        "Pei Y",
+        "Ren Y",
+        "Tai D",
+        "Yuan HY",
+        "Su RY",
+        "Zulqarnain M",
+        "Puspanathan P",
+        "Mahadeva S"
+      ],
+      "doi": "10.1111/liv.70828",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42532750",
+      "title": "Survival fragility in advanced hepatocellular carcinoma immunotherapy trials requires clinical context.",
+      "source": "Dig Liver Dis",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Xie B",
+        "Gao L"
+      ],
+      "doi": "10.1016/j.dld.2026.07.001",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42532726",
+      "title": "Conversion surgery after BRAF-directed therapy for unresectable papillary thyroid carcinoma with severe tracheal invasion.",
+      "source": "Auris Nasus Larynx",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Ichikawa R",
+        "Yamada M",
+        "Ae K",
+        "Yanagi H",
+        "Nigauri H"
+      ],
+      "doi": "10.1016/j.anl.2026.07.004",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42532630",
+      "title": "Combined circulating tumor antigen model demonstrates additional prognostic value in first-line treatment of non-small cell lung cancer.",
+      "source": "J Immunother Cancer",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Tran CW",
+        "Zou W",
+        "Assaf ZJ",
+        "Mang A",
+        "Ranucci F",
+        "Cheng JH",
+        "Estay I",
+        "Ma V"
+      ],
+      "doi": "10.1136/jitc-2025-014710",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42532488",
+      "title": "Dynamic Transitions in Steatotic Liver Disease Subtypes and Risk of Liver-Related Events: A Nationwide Cohort Study.",
+      "source": "Clin Mol Hepatol",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Park Y",
+        "Jung J",
+        "Han S",
+        "Hong H",
+        "Kim GA"
+      ],
+      "doi": "10.3350/cmh.2026.0408",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42532487",
+      "title": "External beam radiotherapy versus local ablation therapy for the treatment of hepatocellular carcinoma: a systematic review and meta-analysis.",
+      "source": "Clin Mol Hepatol",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Bae SH",
+        "Choi SH",
+        "Yoon SM",
+        "Yu JI",
+        "Kang HC",
+        "Kim N",
+        "Kim TH",
+        "Park HC"
+      ],
+      "doi": "10.3350/cmh.2026.0535",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42532339",
+      "title": "Comprehensive Patient Reported Outcomes (PROs) from NRG Oncology/Alliance LU005: A Randomized Trial Of Chemoradiation +/- Atezolizumab In Limited-Stage Small Cell Lung Cancer.",
+      "source": "J Thorac Oncol",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Movsas B",
+        "Hu C",
+        "Higgins KA",
+        "Ross HJ",
+        "Jabbour SK",
+        "Kozono D",
+        "Owonikoko TK",
+        "Xiao C"
+      ],
+      "doi": "10.1016/j.jtho.2026.104117",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42532338",
+      "title": "Bridging evidence and practice: international multidisciplinary consensus on non-metastatic NSCLC.",
+      "source": "J Thorac Oncol",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Meyer ML",
+        "Peters S",
+        "Borghaei H",
+        "Cascone T",
+        "Dacic S",
+        "Faivre-Finn C",
+        "Leighl N",
+        "Paz-Ares L"
+      ],
+      "doi": "10.1016/j.jtho.2026.104111",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42532279",
+      "title": "Revisiting rejection after immune checkpoint inhibitor exposure prior to liver transplantation for hepatocellular carcinoma: Reply to: \"Rejection and perioperative management in liver transplantation following immune checkpoint inhibitor-based downstaging for hepatocellular carcinoma\" by Wang P et al.",
+      "source": "J Hepatol",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Bhoori S",
+        "Rivoltini L",
+        "Leoncini G",
+        "Sioli V",
+        "Mazzaferro V"
+      ],
+      "doi": "10.1016/j.jhep.2026.07.021",
+      "pubtype": [
+        "Letter"
+      ]
+    },
+    {
+      "pmid": "42532172",
+      "title": "Prospective Comparison of Near-Infrared I and II Fluorescence Imaging for Intraoperative Navigation in Pediatric Hepatoblastoma Resection.",
+      "source": "J Pediatr Surg",
+      "pubdate": "2026 Jul 30",
+      "epubdate": "2026 Jul 30",
+      "authors": [
+        "Tian Y",
+        "Chen X",
+        "Ye M",
+        "Xiao P",
+        "Wu Y",
+        "Chen Y",
+        "Li X",
+        "Li L"
+      ],
+      "doi": "10.1016/j.jpedsurg.2026.163340",
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    {
+      "pmid": "42531975",
+      "title": "Unravelling bioanalytical innovations, degradation processes, and impurity landscapes of VEGFR inhibitors.",
+      "source": "J Chromatogr B Analyt Technol Biomed Life Sci",
+      "pubdate": "2026 Jul 27",
+      "epubdate": "2026 Jul 27",
+      "authors": [
+        "Misal P",
+        "Thakare C",
+        "Shirkhedkar A",
+        "Singh R",
+        "Chaudhari P"
+      ],
+      "doi": "10.1016/j.jchromb.2026.125225",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "pmid": "42531805",
+      "title": "Ubiquitin-specific protease 48: Molecular mechanisms, pathophysiological roles and therapeutic potential.",
+      "source": "Biochem Biophys Res Commun",
+      "pubdate": "2026 Jul 28",
+      "epubdate": "2026 Jul 28",
+      "authors": [
+        "Lei H",
+        "Zhu C",
+        "Yang L",
+        "Xu H",
+        "Wu Y"
+      ],
+      "doi": "10.1016/j.bbrc.2026.154362",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ]
+    }
+  ],
+  "window": {
+    "edat_from": "2026/07/31",
+    "edat_to": "2026/08/01"
+  }
+}
