@@ -1,0 +1,113 @@
+{
+  "checked_at": "2026-08-01T10:03:11.993426+00:00",
+  "sources": [
+    {
+      "lang": "en",
+      "name": "EASL Clinical Practice Guidelines",
+      "url": "https://easl.eu/publication-category/clinical-practice-guidelines/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "EASL Clinical Practice Guidelines on Extrahepatic Cholangiocarcinoma",
+          "href": "https://easl.eu/publication/cpg-extrahepatic-cholangiocarcinoma/"
+        },
+        {
+          "text": "EASL Clinical Practice Guidelines on the management of Hepatocellular Carcinoma",
+          "href": "https://easl.eu/publication/cpg-hepatocellular-carcinoma/"
+        },
+        {
+          "text": "EASL Clinical Practice Guidelines on liver transplantation",
+          "href": "https://easl.eu/publication/cpg-liver-transplantation/"
+        }
+      ],
+      "link_count_scanned": 136
+    },
+    {
+      "lang": "en",
+      "name": "AASLD Practice Guidelines",
+      "url": "https://www.aasld.org/practice-guidelines",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "Hepatocellular Carcinoma, Management",
+          "href": "https://www.aasld.org/practice-guidelines/management-hepatocellular-carcinoma"
+        },
+        {
+          "text": "Liver Transplantation",
+          "href": "https://www.aasld.org/liver-transplantation"
+        },
+        {
+          "text": "Primary Sclerosing Cholangitis and Cholangiocarcinoma",
+          "href": "https://www.aasld.org/practice-guidelines/primary-sclerosing-cholangitis-and-cholangiocarcinoma"
+        }
+      ],
+      "link_count_scanned": 116
+    },
+    {
+      "lang": "en",
+      "name": "NCCN Recently Published Guidelines",
+      "url": "https://www.nccn.org/guidelines/recently-published-guidelines",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "Hepatocellular Carcinoma",
+          "href": "https://www.nccn.org/guidelines/nccn-guidelines/guidelines-detail?category=1&id=1514"
+        }
+      ],
+      "link_count_scanned": 305
+    },
+    {
+      "lang": "en",
+      "name": "NCCN Hepatocellular Carcinoma (public detail)",
+      "url": "https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1438",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "Hepatocellular Carcinoma",
+          "href": "https://www.nccn.org/guidelines/nccn-guidelines/guidelines-detail?category=1&id=1514"
+        }
+      ],
+      "link_count_scanned": 283
+    },
+    {
+      "lang": "ja",
+      "name": "JSH",
+      "url": "https://www.jsh.or.jp/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "市民公開講座・肝がん撲滅運動",
+          "href": "https://www.jsh.or.jp/medical/event/openclass.html"
+        },
+        {
+          "text": "デュルバルマブ（遺伝子組換え）製剤の最適使用推進ガイドライン（胃癌）の作成及び最適使用推進ガイドライン（非小細胞肺癌、小細胞肺癌、肝細胞癌、胆道癌、子宮体癌及び膀胱癌）の一部改正について",
+          "href": "https://www.jsh.or.jp/news/archive.php?id=1483&type=news-request"
+        }
+      ],
+      "link_count_scanned": 159
+    },
+    {
+      "lang": "zh",
+      "name": "CSCO",
+      "url": "https://www.csco.org.cn/",
+      "status": 200,
+      "error": null,
+      "theme_hits": [],
+      "link_count_scanned": 0
+    },
+    {
+      "lang": "en",
+      "name": "NICE liver cancers guidance",
+      "url": "https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/liver-cancers",
+      "status": 200,
+      "error": null,
+      "theme_hits": [],
+      "link_count_scanned": 17
+    }
+  ]
+}
