@@ -1,0 +1,250 @@
+{
+  "window": [
+    "2026-08-01",
+    "2026-08-02"
+  ],
+  "medrxiv": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "server": "medrxiv",
+      "version": "1",
+      "via": "continuity"
+    }
+  ],
+  "biorxiv": [
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "via": "continuity"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "server": "biorxiv",
+      "version": "3",
+      "via": "continuity"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "server": "biorxiv",
+      "version": "1",
+      "via": "continuity"
+    }
+  ],
+  "europepmc_ppr": [],
+  "counts": {
+    "medrxiv": 1,
+    "biorxiv": 3,
+    "europepmc_ppr": 0
+  },
+  "fp_trimmed": [
+    {
+      "doi": "10.64898/2026.05.07.26352693",
+      "title": "Self and Caregiver Reported Choice Making in Autistic Adults: Development and Validation of the AASPIRE Choices and Decisions Scale",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.11.18.25340542",
+      "title": "Dietary Inflammatory Potential, Dietary Diversity and Micronutrient Adequacy Are Associated with Rheumatoid Arthritis and Autoantibody Burden: A Case-Control Study from India",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.03.04.26347618",
+      "title": "Localizing at-risk and early psychosis populations along data-driven clinical, cognitive, and neuroanatomical spectra",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2025.12.05.25341712",
+      "title": "From Sparse Data to Smart Decisions: Region-Specific Policy Evaluation via Simulation",
+      "reason": "medrxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.31.741992",
+      "title": "Sound-shape correspondences in macaques reveal evolutionary roots of sound symbolism",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.31.741971",
+      "title": "Pangenome Graph Node-Phenotype Association shows GWAS-like quality results with only few individuals",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.04.11.648403",
+      "title": "Global analysis of the cold-shock response in the model antibiotic producing actinomycete, Streptomyces coelicolor A3(2)",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.31.740148",
+      "title": "Millisecond-scale, single-neuron credit assignment in a songbird",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.31.742126",
+      "title": "Disrupted Developmental Trajectory of Ultrasonic Vocalizations in a Rat Model of Fragile X Syndrome",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.31.742105",
+      "title": "Distinct transcriptomic and hierarchical organization associated with brain hyperconnectivity and hypoconnectivity in autism spectrum disorder",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.04.24.720349",
+      "title": "Variation of anti-oomycete activity in Pseudomonas spp.: phenotypic characterization and comparative genomics",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.22.739964",
+      "title": "Mouse suppressyn-like 1 suppresses membrane fusion through envelope glycoprotein recognition",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.11.17.688895",
+      "title": "Spatial population structure can reverse the dependence of mutant burden on the death-to-birth ratio of cells",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.01.17.700041",
+      "title": "Genomic repeatability and predictability of local (mal)adaptation in a reef-building coral",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.31.741820",
+      "title": "Cross-species neural co-culture uncovers metabolic signatures of cellular crosstalk",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741688",
+      "title": "Common schizophrenia heritability concentrates in an evolutionarily young, brain-regulatory subset of fine-mapped credible-set variants",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2025.12.17.694876",
+      "title": "Stepwise and lineage-specific divergence of a major immune co-chaperone complex in leptosporangiate ferns",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741165",
+      "title": "Mapping Enteric Neural Circuits by Anterograde Transsynaptic Tracing",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.03.12.711386",
+      "title": "Omega-seq: ultra-low-background RNA sequencing with faithful molecular counting and precise transcript-end capture",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.30.741799",
+      "title": "Stable and robust differentiation programs are predominantly irreversible",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.09.29.679222",
+      "title": "Functional heterogeneity of beta bursts in childhood reveals a dimensional neural signature of motor skill",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2024.12.15.628558",
+      "title": "A novel pan class-I glucose transporter inhibitor DRB18 exhibits synergistic effects in vitro and in vivo with paclitaxel against human non-small cell lung cancer",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.03.13.643012",
+      "title": "Engagement with the nucleus enhances the efficiency of basement membrane invasion",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.31.741995",
+      "title": "Prompting Beyond Pairs: Decoupled Semantic Supervision for Knowledge-Guided Multiplex Virtual Staining",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.07.11.664424",
+      "title": "MGMG: Cell Morphology-Guided Molecule Generation for Drug Discovery",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.06.01.725956",
+      "title": "EZH1/2 inhibition improves immunotherapy response through MHC Class II de-repression and neutrophil reprogramming",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741304",
+      "title": "FITdb, an Integrated Functional Immunogenomics and Transcriptomics Database",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741190",
+      "title": "Carbohydrate degradation machineries in lichen fungal symbionts reveal distinct symbiotic footprints across Ascomycota",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2024.08.23.608710",
+      "title": "Population coding under the scale invariance of high-dimensional noise",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2024.07.25.604407",
+      "title": "Parvalbumin interneuron ErbB4 controls ongoing network oscillations and olfactory behaviours in mice",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.1101/2025.10.17.682934",
+      "title": "Longevity-promoting human gut Bifidobacteria strains require distinct cytoprotective pathways and share dependence on host lipid regulation",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741377",
+      "title": "Maintenance of phenotypic divergence in two sympatric monkeyflowers with weak reproductive isolation",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.03.18.712764",
+      "title": "Inferring the multi-host fitness landscape of endive necrotic mosaic virus from cross-inoculation experiments",
+      "reason": "biorxiv_offtheme"
+    },
+    {
+      "doi": "10.64898/2026.08.01.742136",
+      "title": "Integrative genomics of the siphonophore Physalia utriculus reveals the regulatory logic of colonial division of labour and the molecular basis of venom activity",
+      "reason": "biorxiv_offtheme"
+    }
+  ],
+  "continuity": [
+    {
+      "doi": "10.64898/2026.07.28.26359152",
+      "server": "medrxiv",
+      "title": "Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Photon-Counting CT",
+      "date": "2026-07-30",
+      "version": "1"
+    },
+    {
+      "doi": "10.1101/2025.10.27.684732",
+      "server": "biorxiv",
+      "title": "Symmetric brain-liver circuits mediate lateralized regulation of hepatic glucose output in mice",
+      "date": "2026-07-30",
+      "version": "3"
+    },
+    {
+      "doi": "10.64898/2026.07.13.738237",
+      "server": "biorxiv",
+      "title": "Lineage recording reveals hijacked hepatic progenitor states as a common origin of HCC and ICC",
+      "date": "2026-07-30",
+      "version": "3"
+    },
+    {
+      "doi": "10.64898/2026.07.28.741157",
+      "server": "biorxiv",
+      "title": "Comparison of hiPSC-derived hepatic organoids and liver-on-a-chip systems reveal microenvironment-driven maturation",
+      "date": "2026-07-29",
+      "version": "1"
+    }
+  ]
+}
