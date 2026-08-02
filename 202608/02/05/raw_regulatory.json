@@ -1,0 +1,125 @@
+{
+  "collected_at_utc": "2026-08-02T05:03:46.558699+00:00",
+  "dailymed": {
+    "rss": "https://dailymed.nlm.nih.gov/dailymed/rss.cfm",
+    "status": 200,
+    "error": null,
+    "item_count": 1065,
+    "hits": [
+      {
+        "title": "KEYTRUDA QLEX (pembrolizumab and berahyaluronidase alfa-pmph) injection, solution [Merck Sharp & Dohme LLC]",
+        "link": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=097d166f-b73b-41d3-9b37-7653cd2a0c41&version=17",
+        "published": "Fri, 24 Jul 2026 00:00:00 EDT",
+        "matched": "drug_or_hcc"
+      },
+      {
+        "title": "KEYTRUDA (pembrolizumab) injection, powder, lyophilized, for solution KEYTRUDA (pembrolizumab) injection, solution [Merck Sharp & Dohme LLC ]",
+        "link": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9333c79b-d487-4538-a9f0-71b91a02b287&version=228",
+        "published": "Fri, 24 Jul 2026 00:00:00 EDT",
+        "matched": "drug_or_hcc"
+      }
+    ],
+    "hit_count": 2
+  },
+  "openfda": {
+    "window_effective_time": [
+      "20260703",
+      "20260802"
+    ],
+    "indications_hcc": {
+      "search": "indications_and_usage:(\"hepatocellular carcinoma\" OR \"liver cancer\") AND effective_time:[20260703 TO 20260802]",
+      "error": null,
+      "total": 3,
+      "results": [
+        {
+          "effective_time": "20260710",
+          "brand_name": [
+            "KEYTRUDA QLEX"
+          ],
+          "generic_name": [
+            "PEMBROLIZUMAB AND BERAHYALURONIDASE ALFA-PMPH"
+          ],
+          "set_id": "097d166f-b73b-41d3-9b37-7653cd2a0c41",
+          "indications_snip": "1 INDICATIONS AND USAGE KEYTRUDA QLEX is a combination of pembrolizumab, a programmed death receptor-1 (PD-1)-blocking antibody, and berahyaluronidase alfa, an endoglycosidase, indicated: Melanoma for the treatment of adult patients with unresectable or metastatic melanoma. ( 1.1 ) for the adjuvant treatment of adult and pediatric patients 12 years and older with Stage IIB, IIC, or III melanoma fo",
+          "hcc_mention": true
+        },
+        {
+          "effective_time": "20260710",
+          "brand_name": [
+            "KEYTRUDA"
+          ],
+          "generic_name": [
+            "PEMBROLIZUMAB"
+          ],
+          "set_id": "9333c79b-d487-4538-a9f0-71b91a02b287",
+          "indications_snip": "1 INDICATIONS AND USAGE KEYTRUDA is a programmed death receptor-1 (PD-1)-blocking antibody indicated: Melanoma for the treatment of patients with unresectable or metastatic melanoma. ( 1.1 ) for the adjuvant treatment of adult and pediatric (12 years and older) patients with Stage IIB, IIC, or III melanoma following complete resection. ( 1.1 ) Non-Small Cell Lung Cancer (NSCLC) in combination with",
+          "hcc_mention": true
+        },
+        {
+          "effective_time": "20260703",
+          "brand_name": [
+            "sorafenib"
+          ],
+          "generic_name": [
+            "SORAFENIB"
+          ],
+          "set_id": "68aa4b7f-3f13-4e73-b572-aa6c11a8429c",
+          "indications_snip": "Sorafenib tablets are a kinase inhibitor indicated for the treatment of Unresectable hepatocellular carcinoma(1.1) Locally recurrent or metastatic, progressive, differentiated thyroid carcinoma (DTC) refractory to radioactive iodine treatment (1.3) 1.1 Hepatocellular Carcinoma Sorafenib tablets are indicated for the treatment of patients with unresectable hepatocellular carcinoma (HCC). 1.3 Differ",
+          "hcc_mention": true
+        }
+      ],
+      "url": "https://api.fda.gov/drug/label.json?search=indications_and_usage%3A%28%22hepatocellular+carcinoma%22+OR+%22liver+cancer%22%29+AND+effective_time%3A%5B20260703+TO+20260802%5D&limit=25&sort=effective_time%3Adesc"
+    },
+    "watchlist_recent": {
+      "search": "openfda.generic_name:(\"atezolizumab\" OR \"tecentriq\" OR \"durvalumab\" OR \"imfinzi\" OR \"tremelimumab\" OR \"imjudo\" OR \"lenvatinib\" OR \"lenvima\" OR \"sorafenib\" OR \"nexavar\" OR \"regorafenib\" OR \"stivarga\") OR openfda.brand_name:(\"atezolizumab\" OR \"tecentriq\" OR \"durvalumab\" OR \"imfinzi\" OR \"tremelimumab\" OR \"imjudo\" OR \"lenvatinib\" OR \"lenvima\" OR \"sorafenib\" OR \"nexavar\" OR \"regorafenib\" OR \"stivarga\") AND effective_time:[20260703 TO 20260802]",
+      "error": null,
+      "total": 1,
+      "hcc_related_results": [
+        {
+          "effective_time": "20260703",
+          "brand_name": [
+            "sorafenib"
+          ],
+          "generic_name": [
+            "SORAFENIB"
+          ],
+          "set_id": "68aa4b7f-3f13-4e73-b572-aa6c11a8429c",
+          "indications_snip": "Sorafenib tablets are a kinase inhibitor indicated for the treatment of Unresectable hepatocellular carcinoma(1.1) Locally recurrent or metastatic, progressive, differentiated thyroid carcinoma (DTC) refractory to radioactive iodine treatment (1.3) 1.1 Hepatocellular Carcinoma Sorafenib tablets are indicated for the treatment of patients with unresectable hepatocellular carcinoma (HCC). 1.3 Differ",
+          "hcc_mention": true
+        }
+      ],
+      "hcc_related_count": 1
+    }
+  },
+  "html_sources": [
+    {
+      "lang": null,
+      "name": "FDA Oncology approval notifications",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
+      "status": 200,
+      "error": null,
+      "theme_hits": [
+        {
+          "text": "FDA approves zenocutuzumab-zbco for advanced, unresectable or metastatic cholangiocarcinoma",
+          "href": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zenocutuzumab-zbco-advanced-unresectable-or-metastatic-cholangiocarcinoma"
+        },
+        {
+          "text": "FDA approves nivolumab with ipilimumab for unresectable or metastatic hepatocellular carcinoma",
+          "href": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-nivolumab-ipilimumab-unresectable-or-metastatic-hepatocellular-carcinoma"
+        },
+        {
+          "text": "FDA approves pembrolizumab with chemotherapy for biliary tract cancer",
+          "href": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-pembrolizumab-chemotherapy-biliary-tract-cancer"
+        }
+      ],
+      "link_count_scanned": 264,
+      "theme_hits_prefilter_count": 37
+    }
+  ],
+  "counts": {
+    "dailymed_hits": 2,
+    "openfda_hcc_rows": 4,
+    "html_sources_ok": 1,
+    "html_theme_hits": 3
+  }
+}
