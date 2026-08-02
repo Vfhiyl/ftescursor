@@ -1,0 +1,59 @@
+{
+  "folder": "202608/02/00",
+  "previous_folder": "202608/01/23",
+  "trigger_utc": "2026-08-02T00:00:37.741Z",
+  "collected_at_utc": "2026-08-02T00:01:43.187816+00:00",
+  "window_start_utc": "2026-08-01T00:00:37.741000+00:00",
+  "window_hours": 24,
+  "unchanged_vs_previous": false,
+  "languages_covered": ["en", "zh", "ja", "ru", "fr", "de", "ko"],
+  "sources": {
+    "pubmed_edat_count": 22,
+    "pubmed_pdat_count": 200,
+    "pubmed_edat_new_ids": [],
+    "pubmed_clinical_leaning": 13,
+    "crossref_unique_title_filtered": 14,
+    "crossref_new_dois": [
+      "10.1007/978-3-031-99208-7_23",
+      "10.1007/978-981-92-1118-0_18",
+      "10.1007/978-981-92-1118-0_21",
+      "10.1007/978-981-92-1118-0_30"
+    ],
+    "clinicaltrials_related": 1,
+    "clinicaltrials_focus": 1,
+    "clinicaltrials_new_ncts": [],
+    "openalex_count": 5,
+    "openalex_new_dois": [
+      "10.6133/apjcn.202608_35(4).0005"
+    ],
+    "openalex_preprint_count": 11,
+    "openalex_preprint_new_dois": [],
+    "preprints_medrxiv": 1,
+    "preprints_biorxiv": 3,
+    "preprints_europepmc_ppr": 0,
+    "preprints_new_dois": [],
+    "news_new_urls": [],
+    "ctis_related": 129,
+    "ctis_focus": 119,
+    "ctis_recent_in_window": 0,
+    "ctis_recent_numbers": [],
+    "media_theme_items": 54,
+    "news_sentinel_note": "UTC day-boundary shrink: EDAT 75→22 NEW=0; Crossref NEW=4 Springer book-chapters (observe); CT 14→1 NEW=0; CTIS recent RESCUE-HUB out; OA works 50→5 OA-only NEW=1 APJCN malnutrition SR/MA (noise); preprint channel NEW=0; news NEW URL=0. Media +Linyi lay title recirculation. No must-read. EMERALD-1 OS− ↔ EMERALD-3 PFS+/OS immature."
+  },
+  "repo": "https://github.com/Vfhiyl/ftescursor",
+  "push_mode": "direct_main",
+  "collector": "scripts.hcc_collect",
+  "notes": [
+    "Previous pack on main is 202608/01/23.",
+    "UTC day boundary: EDAT/Crossref/CT/OA windows shrink; DROPPED IDs are age-out, not deletions of evidence.",
+    "PubMed EDAT 75→22 NEW=0 / DROPPED=53; clinical_leaning 43→13.",
+    "Crossref 68→14 NEW DOI=4: Springer book-chapters (HCC/CCA/LT/IHC handbook) — observe only.",
+    "CT focus 14→1 NEW=0; only force-include NCT07715903 remains in LastUpdate window.",
+    "CTIS focus identical; recent-in-window 1→0 (RESCUE-HUB out of window).",
+    "OpenAlex works 50→5; OA-only NEW DOI=10.6133/apjcn.202608_35(4).0005 (malnutrition tools SR/MA, not HCC efficacy).",
+    "OA preprint theme 13→11 NEW=0; medRxiv/bioRxiv/EPMC channel NEW=0.",
+    "News sentinel NEW URL=0; media theme 54 with Linyi giant-HCC lay title recirculation (not material).",
+    "Guidelines theme hrefs identical vs 23h.",
+    "unchanged_vs_previous=false (day-boundary set change + Crossref/OA NEW) but no material clinical delta — short pack, must-read empty."
+  ]
+}

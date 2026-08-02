@@ -1,0 +1,58 @@
+{
+  "window": [
+    "2026-08-01",
+    "2026-08-02"
+  ],
+  "total_fetched": 0,
+  "related": [
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administere",
+      "force_include": true
+    }
+  ],
+  "related_ncts": [
+    "NCT07715903"
+  ],
+  "focus": [
+    {
+      "nct": "NCT07715903",
+      "nctId": "NCT07715903",
+      "title": "Hepatic Artery Infusion of Carfilzomib in Participants With Liver Metastatic Disease Previously Treated With Hepatic Artery Infusion Pump Therapy",
+      "conditions": [
+        "Colorectal Neoplasms",
+        "Neoplasms",
+        "Intrahepatic Cholangiocarcinoma",
+        "Adrenocortical Carcinoma",
+        "Metastasis, Neoplasm"
+      ],
+      "lastUpdatePostDate": "2026-07-31",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "phases": [
+        "PHASE1"
+      ],
+      "briefSummary": "Background:\n\nCancers that begin in the colon, adrenal glands, or bile ducts may spread to the liver. These liver tumors are often treated using a hepatic artery infusion (HAI) pump. The HAI pump is installed in the artery that goes to the liver; drugs are administered directly to the liver through this pump. But these tumors often return after treatment. Carfilzomib (CFZ) is a drug approved to treat another kind of cancer. Researchers want to find out if this drug may be helpful when administere",
+      "force_include": true
+    }
+  ],
+  "focus_ncts": [
+    "NCT07715903"
+  ],
+  "related_count": 1,
+  "focus_count": 1,
+  "query_cond": "hepatocellular carcinoma OR liver cancer OR cholangiocarcinoma"
+}
