@@ -1,0 +1,368 @@
+{
+  "window_created_date": [
+    "2026-08-01",
+    "2026-08-02"
+  ],
+  "queries": [
+    "hepatocellular carcinoma",
+    "hepatectomy HCC",
+    "TACE immunotherapy",
+    "cholangiocarcinoma",
+    "liver transplantation HCC",
+    "EMERALD hepatocellular",
+    "HAIC hepatocellular",
+    "SBRT hepatocellular"
+  ],
+  "all_dois_count": 127,
+  "title_filtered_count": 14,
+  "unique_title_filtered": [
+    {
+      "DOI": "10.1007/978-3-031-99208-7_23",
+      "title": "Liver, Bile Ducts, and Gallbladder",
+      "created": "2026-08-01T23:45:50Z",
+      "type": "book-chapter",
+      "container": "Handbook of Practical Immunohistochemistry",
+      "publisher": "Springer Nature Switzerland",
+      "URL": "https://doi.org/10.1007/978-3-031-99208-7_23"
+    },
+    {
+      "DOI": "10.1007/978-981-92-1118-0_21",
+      "title": "Liver Transplantation",
+      "created": "2026-08-01T23:42:09Z",
+      "type": "book-chapter",
+      "container": "Recent Concepts in Gastrointestinal (GI) Surgery",
+      "publisher": "Springer Nature Singapore",
+      "URL": "https://doi.org/10.1007/978-981-92-1118-0_21"
+    },
+    {
+      "DOI": "10.1007/978-981-92-1118-0_30",
+      "title": "Cholangiocarcinoma",
+      "created": "2026-08-01T23:27:55Z",
+      "type": "book-chapter",
+      "container": "Recent Concepts in Gastrointestinal (GI) Surgery",
+      "publisher": "Springer Nature Singapore",
+      "URL": "https://doi.org/10.1007/978-981-92-1118-0_30"
+    },
+    {
+      "DOI": "10.1007/978-981-92-1118-0_18",
+      "title": "Hepatocellular Carcinoma",
+      "created": "2026-08-01T23:26:01Z",
+      "type": "book-chapter",
+      "container": "Recent Concepts in Gastrointestinal (GI) Surgery",
+      "publisher": "Springer Nature Singapore",
+      "URL": "https://doi.org/10.1007/978-981-92-1118-0_18"
+    },
+    {
+      "DOI": "10.1111/hepr.70250",
+      "title": "Correction to “Multicenter, Retrospective, Cohort Study Shows Platelet Counts Predict Hepatocellular Carcinoma Development in Patients With Nonalcoholic Fatty Liver Disease”",
+      "created": "2026-08-01T17:05:30Z",
+      "type": "journal-article",
+      "container": "Hepatology Research",
+      "publisher": "Wiley",
+      "URL": "https://doi.org/10.1111/hepr.70250"
+    },
+    {
+      "DOI": "10.1245/s10434-026-20328-6",
+      "title": "ASO Visual Abstract: Prognostic Benefit of Sequential Locoregional Interventions During First-Line Systemic Therapy for Hepatocellular Carcinoma: Insights from Interaction Analysis of Lenvatinib and Atezolizumab/Bevacizumab",
+      "created": "2026-08-01T16:56:27Z",
+      "type": "journal-article",
+      "container": "Annals of Surgical Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1245/s10434-026-20328-6"
+    },
+    {
+      "DOI": "10.1245/s10434-026-20283-2",
+      "title": "Hepatectomy After Progressive Disease Following Chemotherapy for Colorectal Liver Metastases: A Japanese Nationwide Cohort Study",
+      "created": "2026-08-01T16:55:26Z",
+      "type": "journal-article",
+      "container": "Annals of Surgical Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1245/s10434-026-20283-2"
+    },
+    {
+      "DOI": "10.1007/s10147-026-03141-9",
+      "title": "Clinical impact of salvage hepatectomy for local recurrence of hepatocellular carcinoma after radiofrequency ablation or selective transarterial chemoembolization",
+      "created": "2026-08-01T15:06:25Z",
+      "type": "journal-article",
+      "container": "International Journal of Clinical Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s10147-026-03141-9"
+    },
+    {
+      "DOI": "10.1007/s12672-026-05700-y",
+      "title": "Integrated multi-omic and functional profiling reveals a ZDHHC16-associated palmitoylation-proteostasis state in hepatocellular carcinoma",
+      "created": "2026-08-01T14:34:27Z",
+      "type": "journal-article",
+      "container": "Discover Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s12672-026-05700-y"
+    },
+    {
+      "DOI": "10.1007/s12672-026-05679-6",
+      "title": "Construction of a prognostic risk model for lactylation-associated genes in intrahepatic cholangiocarcinoma",
+      "created": "2026-08-01T12:35:27Z",
+      "type": "journal-article",
+      "container": "Discover Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s12672-026-05679-6"
+    },
+    {
+      "DOI": "10.1007/s00595-026-03450-6",
+      "title": "Early drain fluid lymphocyte fraction as a predictor of postoperative infectious complications after hepatectomy",
+      "created": "2026-08-01T05:34:01Z",
+      "type": "journal-article",
+      "container": "Surgery Today",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s00595-026-03450-6"
+    },
+    {
+      "DOI": "10.1016/j.dld.2026.07.013",
+      "title": "Patterns of progression and efficacy of immune checkpoint inhibitors in unresectable, recurrent, or metastatic cholangiocarcinoma: A real-world study",
+      "created": "2026-08-01T03:47:43Z",
+      "type": "journal-article",
+      "container": "Digestive and Liver Disease",
+      "publisher": "Elsevier BV",
+      "URL": "https://doi.org/10.1016/j.dld.2026.07.013"
+    },
+    {
+      "DOI": "10.1038/s41467-026-76209-9",
+      "title": "The transcription factor C/EBPβ promotes hyperglycemia-elicited glycolysis and liver cancer progression",
+      "created": "2026-08-01T03:45:56Z",
+      "type": "journal-article",
+      "container": "Nature Communications",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1038/s41467-026-76209-9"
+    },
+    {
+      "DOI": "10.1016/j.transproceed.2026.07.012",
+      "title": "Profile of Patients Undergoing Liver Transplantation for Hepatocellular Carcinoma at a Brazilian High-Complexity Referral Center: Tumor Biology as a Predictor of Post-Transplant Recurrence",
+      "created": "2026-08-01T03:45:28Z",
+      "type": "journal-article",
+      "container": "Transplantation Proceedings",
+      "publisher": "Elsevier BV",
+      "URL": "https://doi.org/10.1016/j.transproceed.2026.07.012"
+    }
+  ],
+  "unique_title_filtered_count": 14,
+  "page_log": [
+    {
+      "q": "hepatocellular carcinoma",
+      "page": 0,
+      "batch": 62,
+      "new": 62,
+      "total_unique": 62
+    },
+    {
+      "q": "hepatocellular carcinoma",
+      "page": 1,
+      "batch": 0,
+      "new": 0,
+      "total_unique": 62
+    },
+    {
+      "q": "hepatectomy HCC",
+      "page": 0,
+      "batch": 3,
+      "new": 2,
+      "total_unique": 64
+    },
+    {
+      "q": "hepatectomy HCC",
+      "page": 1,
+      "batch": 0,
+      "new": 0,
+      "total_unique": 64
+    },
+    {
+      "q": "TACE immunotherapy",
+      "page": 0,
+      "batch": 16,
+      "new": 15,
+      "total_unique": 79
+    },
+    {
+      "q": "TACE immunotherapy",
+      "page": 1,
+      "batch": 0,
+      "new": 0,
+      "total_unique": 79
+    },
+    {
+      "q": "cholangiocarcinoma",
+      "page": 0,
+      "batch": 3,
+      "new": 3,
+      "total_unique": 82
+    },
+    {
+      "q": "cholangiocarcinoma",
+      "page": 1,
+      "batch": 0,
+      "new": 0,
+      "total_unique": 82
+    },
+    {
+      "q": "liver transplantation HCC",
+      "page": 0,
+      "batch": 49,
+      "new": 45,
+      "total_unique": 127
+    },
+    {
+      "q": "liver transplantation HCC",
+      "page": 1,
+      "batch": 0,
+      "new": 0,
+      "total_unique": 127
+    },
+    {
+      "q": "EMERALD hepatocellular",
+      "page": 0,
+      "batch": 6,
+      "new": 0,
+      "total_unique": 127
+    },
+    {
+      "q": "HAIC hepatocellular",
+      "page": 0,
+      "batch": 6,
+      "new": 0,
+      "total_unique": 127
+    },
+    {
+      "q": "SBRT hepatocellular",
+      "page": 0,
+      "batch": 6,
+      "new": 0,
+      "total_unique": 127
+    }
+  ],
+  "items_lite": [
+    {
+      "DOI": "10.1007/978-3-031-99208-7_23",
+      "title": "Liver, Bile Ducts, and Gallbladder",
+      "created": "2026-08-01T23:45:50Z",
+      "type": "book-chapter",
+      "container": "Handbook of Practical Immunohistochemistry",
+      "publisher": "Springer Nature Switzerland",
+      "URL": "https://doi.org/10.1007/978-3-031-99208-7_23"
+    },
+    {
+      "DOI": "10.1007/978-981-92-1118-0_21",
+      "title": "Liver Transplantation",
+      "created": "2026-08-01T23:42:09Z",
+      "type": "book-chapter",
+      "container": "Recent Concepts in Gastrointestinal (GI) Surgery",
+      "publisher": "Springer Nature Singapore",
+      "URL": "https://doi.org/10.1007/978-981-92-1118-0_21"
+    },
+    {
+      "DOI": "10.1007/978-981-92-1118-0_30",
+      "title": "Cholangiocarcinoma",
+      "created": "2026-08-01T23:27:55Z",
+      "type": "book-chapter",
+      "container": "Recent Concepts in Gastrointestinal (GI) Surgery",
+      "publisher": "Springer Nature Singapore",
+      "URL": "https://doi.org/10.1007/978-981-92-1118-0_30"
+    },
+    {
+      "DOI": "10.1007/978-981-92-1118-0_18",
+      "title": "Hepatocellular Carcinoma",
+      "created": "2026-08-01T23:26:01Z",
+      "type": "book-chapter",
+      "container": "Recent Concepts in Gastrointestinal (GI) Surgery",
+      "publisher": "Springer Nature Singapore",
+      "URL": "https://doi.org/10.1007/978-981-92-1118-0_18"
+    },
+    {
+      "DOI": "10.1111/hepr.70250",
+      "title": "Correction to “Multicenter, Retrospective, Cohort Study Shows Platelet Counts Predict Hepatocellular Carcinoma Development in Patients With Nonalcoholic Fatty Liver Disease”",
+      "created": "2026-08-01T17:05:30Z",
+      "type": "journal-article",
+      "container": "Hepatology Research",
+      "publisher": "Wiley",
+      "URL": "https://doi.org/10.1111/hepr.70250"
+    },
+    {
+      "DOI": "10.1245/s10434-026-20328-6",
+      "title": "ASO Visual Abstract: Prognostic Benefit of Sequential Locoregional Interventions During First-Line Systemic Therapy for Hepatocellular Carcinoma: Insights from Interaction Analysis of Lenvatinib and Atezolizumab/Bevacizumab",
+      "created": "2026-08-01T16:56:27Z",
+      "type": "journal-article",
+      "container": "Annals of Surgical Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1245/s10434-026-20328-6"
+    },
+    {
+      "DOI": "10.1245/s10434-026-20283-2",
+      "title": "Hepatectomy After Progressive Disease Following Chemotherapy for Colorectal Liver Metastases: A Japanese Nationwide Cohort Study",
+      "created": "2026-08-01T16:55:26Z",
+      "type": "journal-article",
+      "container": "Annals of Surgical Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1245/s10434-026-20283-2"
+    },
+    {
+      "DOI": "10.1007/s10147-026-03141-9",
+      "title": "Clinical impact of salvage hepatectomy for local recurrence of hepatocellular carcinoma after radiofrequency ablation or selective transarterial chemoembolization",
+      "created": "2026-08-01T15:06:25Z",
+      "type": "journal-article",
+      "container": "International Journal of Clinical Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s10147-026-03141-9"
+    },
+    {
+      "DOI": "10.1007/s12672-026-05700-y",
+      "title": "Integrated multi-omic and functional profiling reveals a ZDHHC16-associated palmitoylation-proteostasis state in hepatocellular carcinoma",
+      "created": "2026-08-01T14:34:27Z",
+      "type": "journal-article",
+      "container": "Discover Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s12672-026-05700-y"
+    },
+    {
+      "DOI": "10.1007/s12672-026-05679-6",
+      "title": "Construction of a prognostic risk model for lactylation-associated genes in intrahepatic cholangiocarcinoma",
+      "created": "2026-08-01T12:35:27Z",
+      "type": "journal-article",
+      "container": "Discover Oncology",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s12672-026-05679-6"
+    },
+    {
+      "DOI": "10.1007/s00595-026-03450-6",
+      "title": "Early drain fluid lymphocyte fraction as a predictor of postoperative infectious complications after hepatectomy",
+      "created": "2026-08-01T05:34:01Z",
+      "type": "journal-article",
+      "container": "Surgery Today",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1007/s00595-026-03450-6"
+    },
+    {
+      "DOI": "10.1016/j.dld.2026.07.013",
+      "title": "Patterns of progression and efficacy of immune checkpoint inhibitors in unresectable, recurrent, or metastatic cholangiocarcinoma: A real-world study",
+      "created": "2026-08-01T03:47:43Z",
+      "type": "journal-article",
+      "container": "Digestive and Liver Disease",
+      "publisher": "Elsevier BV",
+      "URL": "https://doi.org/10.1016/j.dld.2026.07.013"
+    },
+    {
+      "DOI": "10.1038/s41467-026-76209-9",
+      "title": "The transcription factor C/EBPβ promotes hyperglycemia-elicited glycolysis and liver cancer progression",
+      "created": "2026-08-01T03:45:56Z",
+      "type": "journal-article",
+      "container": "Nature Communications",
+      "publisher": "Springer Science and Business Media LLC",
+      "URL": "https://doi.org/10.1038/s41467-026-76209-9"
+    },
+    {
+      "DOI": "10.1016/j.transproceed.2026.07.012",
+      "title": "Profile of Patients Undergoing Liver Transplantation for Hepatocellular Carcinoma at a Brazilian High-Complexity Referral Center: Tumor Biology as a Predictor of Post-Transplant Recurrence",
+      "created": "2026-08-01T03:45:28Z",
+      "type": "journal-article",
+      "container": "Transplantation Proceedings",
+      "publisher": "Elsevier BV",
+      "URL": "https://doi.org/10.1016/j.transproceed.2026.07.012"
+    }
+  ]
+}
